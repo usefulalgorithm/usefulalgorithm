@@ -1,0 +1,18 @@
+I'm a software engineer from Taipei, Taiwan that mostly do backend & data related stuff. Python is my go-to game but I'm also cool with (ordered by my familiarity) TypeSript, Scala, Rust and C++. Currently on my umpteenth attempt to learn Haskell.
+
+[My personal website](https://usefulalgorithm.github.io/), mostly just my thoughts on music I enjoy or do not enjoy.
+
+Albums I've been listening to recently:
+{% for album in latest_albums -%}
+- {{ album.name }}, by {{ album.artists | join(", ") }}
+{% endfor %}
+
+Albums I've been digging in the past month, according to Spotify:
+{% for album in top_albums -%}
+- {{ album.name }}, by {{ album.artists | join(", ") }}
+{% endfor %}
+
+TODO:
+- Figure out how to use Hardcover's API.
+
+GitHub says "usefulalgorithm/usefulalgorithm is a special repository", but every repository is special to me insofar as they've all induced different pain and suffering to my life.
