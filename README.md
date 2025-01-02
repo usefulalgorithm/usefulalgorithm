@@ -5,13 +5,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- 卵, by betcover!!
 - Dip Friso, by Dip Friso
 - 馬, by betcover!!
 - Harmonica, by Bondo
 - Seven Reorganisations, by Beatrice Dillon, Explore Ensemble
 - Mahōgakkō, by Hakushi Hasegawa
-- 卵, by betcover!!
-- Realistic IX, by Belong
 
 </details>
 
