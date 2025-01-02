@@ -1,11 +1,8 @@
 name: Deploy README.md
 on:
-  workflow_dispatch:
+  workflow_dispatch: # Allow manual triggering
   schedule:
     - cron: '0 * * * *' # Do this hourly because that's fun
-  push:
-    branches:
-      - "feat/generate" # This is just for testing
 
 permissions:
   contents: write
