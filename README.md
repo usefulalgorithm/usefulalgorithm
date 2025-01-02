@@ -20,14 +20,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - 馬, by betcover!!
 - Intrinsic Rhythm, by Perila
-- Strange Meridians, by upsammy
 - 卵, by betcover!!
+- Strange Meridians, by upsammy
 - Mosaic, by Fennesz
 - Leave Another Day, by Milan W.
 - A Soft and Gatherable Star, by Jabu
 - Inorganic Rites, by Krallice
 - sentiment, by claire rousay
 - False 02, by Selfsame
+- I LAY DOWN MY LIFE FOR YOU, by JPEGMAFIA
+- Mahōgakkō, by Hakushi Hasegawa
 - Naya, by Dawuna
 - Night Palace, by Mount Eerie
 - In Full Effect, by Tim Reaper, Kloke
