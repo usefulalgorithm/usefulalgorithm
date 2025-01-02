@@ -12,9 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - False 02, by Selfsame
 - Àlááfíà, by Honour
 - Statik, by Actress
-- 無名氏敬上, by Wayne's so Sad
-- LAM, by Various Artists
-- A Soft and Gatherable Star, by Jabu
 
 </details>
 
