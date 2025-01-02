@@ -5,13 +5,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- Harmonica, by Bondo
+- Seven Reorganisations, by Beatrice Dillon, Explore Ensemble
 - Mahōgakkō, by Hakushi Hasegawa
 - 卵, by betcover!!
-- Seven Reorganisations, by Beatrice Dillon, Explore Ensemble
 - Realistic IX, by Belong
 - False 02, by Selfsame
-- Àlááfíà, by Honour
-- Statik, by Actress
 
 </details>
 
