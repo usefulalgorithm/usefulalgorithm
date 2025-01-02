@@ -2,19 +2,25 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 [My personal website](https://usefulalgorithm.github.io/), mostly just my thoughts on music I enjoy or do not enjoy.
 
-Albums I've been listening to recently:
+<details>
+<summary>Albums I've been listening to recently:</summary>
+
+- Mahōgakkō, by Hakushi Hasegawa
+- 卵, by betcover!!
 - Seven Reorganisations, by Beatrice Dillon, Explore Ensemble
 - Realistic IX, by Belong
 - False 02, by Selfsame
-- 卵, by betcover!!
 - Àlááfíà, by Honour
 - Statik, by Actress
 - 無名氏敬上, by Wayne's so Sad
 - LAM, by Various Artists
 - A Soft and Gatherable Star, by Jabu
 
+</details>
 
-Albums I've been digging in the past month, according to Spotify:
+<details>
+<summary>Albums I've been digging in the past month, according to Spotify:</summary>
+
 - 馬, by betcover!!
 - Intrinsic Rhythm, by Perila
 - Strange Meridians, by upsammy
@@ -30,6 +36,7 @@ Albums I've been digging in the past month, according to Spotify:
 - In Full Effect, by Tim Reaper, Kloke
 - A World Lit Only by Fire, by Godflesh
 
+</details>
 
 TODO:
 - Figure out how to use Hardcover's API.
