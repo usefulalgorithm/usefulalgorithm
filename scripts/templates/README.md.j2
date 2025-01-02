@@ -2,15 +2,21 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 [My personal website](https://usefulalgorithm.github.io/), mostly just my thoughts on music I enjoy or do not enjoy.
 
-Albums I've been listening to recently:
+<details>
+<summary>Albums I've been listening to recently:</summary>
+
 {% for album in latest_albums -%}
 - {{ album.name }}, by {{ album.artists | join(", ") }}
 {% endfor %}
+</details>
 
-Albums I've been digging in the past month, according to Spotify:
+<details>
+<summary>Albums I've been digging in the past month, according to Spotify:</summary>
+
 {% for album in top_albums -%}
 - {{ album.name }}, by {{ album.artists | join(", ") }}
 {% endfor %}
+</details>
 
 TODO:
 - Figure out how to use Hardcover's API.
