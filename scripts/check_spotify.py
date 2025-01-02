@@ -64,6 +64,7 @@ def check_spotify() -> Tuple[List[Album], List[Album]]:
         "SPOTIPY_CLIENT_ID",
         "SPOTIPY_CLIENT_SECRET",
         "SPOTIPY_REDIRECT_URI",
+        "SPOTIPY_REFRESH_TOKEN",
     ]
     if any(k not in os.environ for k in variable_keys):
         load_dotenv()
@@ -81,7 +82,11 @@ def check_spotify() -> Tuple[List[Album], List[Album]]:
             "user-top-read",
         ],
     )
-    sp = spotipy.Spotify(auth_manager=auth_manager)
+    # Use refresh_token to get new access token so that it doesn't need to validate
+    # via browser.
+    token_info = auth_manager.refresh_access_token(os.environ["SPOTIPY_REFRESH_TOKEN"])
+    access_token = token_info["access_token"]
+    sp = spotipy.Spotify(auth=access_token)
 
     latest_albums = _get_latest_albums(sp)
     logger.debug(latest_albums)
