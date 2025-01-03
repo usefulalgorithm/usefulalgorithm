@@ -10,8 +10,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - 馬, by betcover!!
 - 卵, by betcover!!
 - Dip Friso, by Dip Friso
-- Seven Reorganisations, by Beatrice Dillon, Explore Ensemble
-- Mahōgakkō, by Hakushi Hasegawa
 
 </details>
 
