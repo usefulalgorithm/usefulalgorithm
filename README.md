@@ -11,11 +11,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _God's Country_, by Chat Pile
+- _Integrated Tech Solutions_, by Aesop Rock
+- _Shandy in the Graveyard_, by Panchiko
+- _Izumi Hazuki End of Days_, by Material Girl
 - _Mahōgakkō_, by Hakushi Hasegawa
+- _Cool World_, by Chat Pile
+- _Intrinsic Rhythm_, by Perila
+- _God's Country_, by Chat Pile
 - _馬_, by betcover!!
 - _卵_, by betcover!!
-- _Intrinsic Rhythm_, by Perila
 - _Harmonica_, by Bondo
 
 </details>
