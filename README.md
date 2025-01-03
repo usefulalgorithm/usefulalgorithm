@@ -9,7 +9,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - I LAY DOWN MY LIFE FOR YOU, by JPEGMAFIA
 - 馬, by betcover!!
 - 卵, by betcover!!
-- Dip Friso, by Dip Friso
 
 </details>
 
