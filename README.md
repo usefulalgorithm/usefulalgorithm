@@ -5,10 +5,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- Intrinsic Rhythm, by Perila
 - Harmonica, by Bondo
 - I LAY DOWN MY LIFE FOR YOU, by JPEGMAFIA
-- 馬, by betcover!!
-- 卵, by betcover!!
 
 </details>
 
