@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _God's Country_, by Chat Pile
+- _Mahōgakkō_, by Hakushi Hasegawa
 - _馬_, by betcover!!
 - _卵_, by betcover!!
 - _Intrinsic Rhythm_, by Perila
