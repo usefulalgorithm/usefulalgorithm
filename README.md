@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Intrinsic Rhythm_, by Perila
 - _Harmonica_, by Bondo
-- _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 
 </details>
 
