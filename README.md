@@ -45,7 +45,7 @@ Just finished reading _Debt: The First 5,000 Years_, by David Graeber ([link](ht
 Gotta finish 25 books before 2026-01-01. I've read 0 so far.
 
 <details>
-<summary>I'm currently reading these books (lower down the list == I said I'm reading it but it's more likely that I don't remember a whole lot about the book's content):</summary>
+<summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
 
 - _Hatred of Translation_, by Nathanaël ([link](https://hardcover.app/books/hatred-of-translation))
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
