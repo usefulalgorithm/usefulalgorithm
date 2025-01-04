@@ -32,12 +32,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _卵_, by betcover!!
 - _Strange Meridians_, by upsammy
 - _Mosaic_, by Fennesz
+- _Mahōgakkō_, by Hakushi Hasegawa
 - _Leave Another Day_, by Milan W.
 - _A Soft and Gatherable Star_, by Jabu
 - _Inorganic Rites_, by Krallice
 - _sentiment_, by claire rousay
 - _False 02_, by Selfsame
-- _Mahōgakkō_, by Hakushi Hasegawa
 - _Naya_, by Dawuna
 - _Night Palace_, by Mount Eerie
 - _In Full Effect_, by Tim Reaper, Kloke
