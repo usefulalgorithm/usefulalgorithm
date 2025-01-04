@@ -32,8 +32,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Intrinsic Rhythm_, by Perila
 - _卵_, by betcover!!
 - _Strange Meridians_, by upsammy
-- _Mosaic_, by Fennesz
 - _Mahōgakkō_, by Hakushi Hasegawa
+- _Mosaic_, by Fennesz
 - _Leave Another Day_, by Milan W.
 - _A Soft and Gatherable Star_, by Jabu
 - _Inorganic Rites_, by Krallice
