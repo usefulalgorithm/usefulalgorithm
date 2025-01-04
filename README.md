@@ -11,17 +11,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Dos City_, by Dos Monos
+- _Larderello_, by Dos Monos
 - _Damaged_, by Ghost Dubs
 - _The Artistic Image Is Always A Miracle_, by Alessandra Novaga
 - _Mahōgakkō_, by Hakushi Hasegawa
-- _Larderello_, by Dos Monos
 - _Shandy in the Graveyard_, by Panchiko
 - _Integrated Tech Solutions_, by Aesop Rock
 - _Izumi Hazuki End of Days_, by Material Girl
 - _Cool World_, by Chat Pile
 - _Intrinsic Rhythm_, by Perila
 - _God's Country_, by Chat Pile
-- _馬_, by betcover!!
 
 </details>
 
