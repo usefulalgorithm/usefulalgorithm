@@ -11,11 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Mahōgakkō_, by Hakushi Hasegawa
+- _Larderello_, by Dos Monos
+- _Shandy in the Graveyard_, by Panchiko
 - _Damaged_, by Ghost Dubs
 - _Integrated Tech Solutions_, by Aesop Rock
-- _Shandy in the Graveyard_, by Panchiko
 - _Izumi Hazuki End of Days_, by Material Girl
-- _Mahōgakkō_, by Hakushi Hasegawa
 - _Cool World_, by Chat Pile
 - _Intrinsic Rhythm_, by Perila
 - _God's Country_, by Chat Pile
