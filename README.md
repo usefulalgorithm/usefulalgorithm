@@ -21,7 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _God's Country_, by Chat Pile
 - _馬_, by betcover!!
 - _卵_, by betcover!!
-- _Harmonica_, by Bondo
 
 </details>
 
@@ -48,14 +47,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _Debt: The First 5,000 Years_, by David Graeber ([link](https://hardcover.app/books/debt)). It's a good book.
+Just finished reading _永不告别_, by Han Kang, 韓江, and friends ([link](https://hardcover.app/books/2021-5eeeb6c8-fcfc-46fd-8c3e-7acb3342b2ce)). It's a good book.
 
-Gotta finish 25 books before 2026-01-01. I've read 0 so far.
+Gotta finish 25 books before 2026-01-01. I've read 1 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
 
-- _永不告别_, by Han Kang, 韓江, and friends ([link](https://hardcover.app/books/2021-5eeeb6c8-fcfc-46fd-8c3e-7acb3342b2ce))
 - _Hatred of Translation_, by Nathanaël ([link](https://hardcover.app/books/hatred-of-translation))
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
