@@ -19,9 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Shandy in the Graveyard_, by Panchiko
 - _Integrated Tech Solutions_, by Aesop Rock
 - _Izumi Hazuki End of Days_, by Material Girl
-- _Cool World_, by Chat Pile
-- _Intrinsic Rhythm_, by Perila
-- _God's Country_, by Chat Pile
 
 </details>
 
