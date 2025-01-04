@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Damaged_, by Ghost Dubs
 - _Dos City_, by Dos Monos
 - _Larderello_, by Dos Monos
-- _Damaged_, by Ghost Dubs
 - _The Artistic Image Is Always A Miracle_, by Alessandra Novaga
 - _Mahōgakkō_, by Hakushi Hasegawa
 - _Shandy in the Graveyard_, by Panchiko
