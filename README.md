@@ -32,8 +32,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Mosaic_, by Fennesz
 - _Leave Another Day_, by Milan W.
 - _A Soft and Gatherable Star_, by Jabu
-- _Inorganic Rites_, by Krallice
 - _sentiment_, by claire rousay
+- _Inorganic Rites_, by Krallice
 - _False 02_, by Selfsame
 - _Naya_, by Dawuna
 - _Night Palace_, by Mount Eerie
