@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Reflections Vol. 2: Black Decelerant_, by Black Decelerant, Contour, Omari Jazz
+- _Great Doubt_, by Astrid Sonne
 - _The Artistic Image Is Always A Miracle_, by Alessandra Novaga
 - _Dos City_, by Dos Monos
 - _Damaged_, by Ghost Dubs
