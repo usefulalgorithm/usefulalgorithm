@@ -19,8 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Larderello_, by Dos Monos
 - _Mahōgakkō_, by Hakushi Hasegawa
 - _Shandy in the Graveyard_, by Panchiko
-- _Integrated Tech Solutions_, by Aesop Rock
-- _Izumi Hazuki End of Days_, by Material Girl
 
 </details>
 
