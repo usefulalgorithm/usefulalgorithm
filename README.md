@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Great Doubt_, by Astrid Sonne
+- _卵_, by betcover!!
+- _The Artistic Image Is Always A Miracle_, by Alessandra Novaga
 - _Reflections Vol. 2: Black Decelerant_, by Black Decelerant, Contour, Omari Jazz
 - _Damaged_, by Ghost Dubs
-- _Great Doubt_, by Astrid Sonne
-- _The Artistic Image Is Always A Miracle_, by Alessandra Novaga
 - _Dos City_, by Dos Monos
-- _Larderello_, by Dos Monos
 
 </details>
 
