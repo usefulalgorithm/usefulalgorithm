@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _sentiment_, by claire rousay
 - _Great Doubt_, by Astrid Sonne
+- _sentiment_, by claire rousay
 - _卵_, by betcover!!
 - _The Artistic Image Is Always A Miracle_, by Alessandra Novaga
 - _Reflections Vol. 2: Black Decelerant_, by Black Decelerant, Contour, Omari Jazz
