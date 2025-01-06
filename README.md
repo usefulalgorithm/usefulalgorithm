@@ -11,6 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Endlessness_, by Nala Sinephro
+- _One Day_, by Loidis
+- _midcity_, by clipping.
+- _You Only Die 1nce_, by Freddie Gibbs
+- _Palookaville_, by Serengeti
+- _Great Doubt_, by Astrid Sonne
 - _How to Rescue Things_, by Bill Orcutt
 - _Princ€ss_, by Princ€ss
 - _slob air_, by Mica Levi
@@ -20,7 +26,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Process_, by Various Artists
 - _Naya_, by Dawuna
 - _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
-- _Odd Balade_, by Tryphème
 
 </details>
 
@@ -54,6 +59,7 @@ Gotta finish 25 books before 2026-01-01. I've read 3 so far.
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
 
+- _Mona Lisa Overdrive_, by William Gibson ([link](https://hardcover.app/books/mona-lisa-overdrive))
 - _Hatred of Translation_, by Nathanaël ([link](https://hardcover.app/books/hatred-of-translation))
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
