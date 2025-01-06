@@ -21,7 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _You Only Die 1nce_, by Freddie Gibbs
 - _Great Doubt_, by Astrid Sonne
 - _How to Rescue Things_, by Bill Orcutt
-- _Princ€ss_, by Princ€ss
 
 </details>
 
