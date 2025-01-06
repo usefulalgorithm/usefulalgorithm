@@ -11,11 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Intrinsic Rhythm_, by Perila
+- _卵_, by betcover!!
+- _Palookaville_, by Serengeti
+- _Hopeless & Unending (Selected)_, by Astrophysics
 - _Endlessness_, by Nala Sinephro
 - _One Day_, by Loidis
 - _midcity_, by clipping.
 - _You Only Die 1nce_, by Freddie Gibbs
-- _Palookaville_, by Serengeti
 - _Great Doubt_, by Astrid Sonne
 - _How to Rescue Things_, by Bill Orcutt
 - _Princ€ss_, by Princ€ss
@@ -24,8 +27,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _tender, exit_, by 96 Back
 - _When you wake up_, by Molina
 - _Process_, by Various Artists
-- _Naya_, by Dawuna
-- _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
 
 </details>
 
@@ -33,17 +34,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _馬_, by betcover!!
-- _Intrinsic Rhythm_, by Perila
 - _卵_, by betcover!!
+- _Intrinsic Rhythm_, by Perila
 - _Strange Meridians_, by upsammy
 - _Mahōgakkō_, by Hakushi Hasegawa
 - _Mosaic_, by Fennesz
+- _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
 - _Leave Another Day_, by Milan W.
 - _A Soft and Gatherable Star_, by Jabu
 - _sentiment_, by claire rousay
+- _Damaged_, by Ghost Dubs
 - _Inorganic Rites_, by Krallice
-- _False 02_, by Selfsame
 - _Naya_, by Dawuna
+- _False 02_, by Selfsame
 - _Night Palace_, by Mount Eerie
 - _In Full Effect_, by Tim Reaper, Kloke
 - _A World Lit Only by Fire_, by Godflesh
