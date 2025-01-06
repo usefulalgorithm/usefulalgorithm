@@ -14,11 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Palookaville_, by Serengeti
 - _Endlessness_, by Nala Sinephro
 - _Intrinsic Rhythm_, by Perila
-- _卵_, by betcover!!
-- _Hopeless & Unending (Selected)_, by Astrophysics
-- _One Day_, by Loidis
-- _midcity_, by clipping.
-- _You Only Die 1nce_, by Freddie Gibbs
 
 </details>
 
