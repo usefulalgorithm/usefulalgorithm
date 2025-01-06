@@ -11,14 +11,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Princ€ss_, by Princ€ss
+- _slob air_, by Mica Levi
+- _Soon I'll Run Out of Air: A Colourful Storm 2024_, by Various Artists
+- _tender, exit_, by 96 Back
+- _When you wake up_, by Molina
 - _Process_, by Various Artists
 - _Naya_, by Dawuna
 - _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
 - _Odd Balade_, by Tryphème
-- _Damaged_, by Ghost Dubs
-- _卵_, by betcover!!
-- _Great Doubt_, by Astrid Sonne
-- _sentiment_, by claire rousay
 
 </details>
 
@@ -45,9 +46,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _永不告别_, by Han Kang, 韓江, and friends ([link](https://hardcover.app/books/2021-5eeeb6c8-fcfc-46fd-8c3e-7acb3342b2ce)). It's a good book.
+Just finished reading _Saturation Project_, by Christine Hume ([link](https://hardcover.app/books/saturation-project)). It's OK I guess.
 
-Gotta finish 25 books before 2026-01-01. I've read 1 so far.
+Gotta finish 25 books before 2026-01-01. I've read 2 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
