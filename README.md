@@ -11,13 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Process_, by Various Artists
+- _Naya_, by Dawuna
 - _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
 - _Odd Balade_, by Tryphème
 - _Damaged_, by Ghost Dubs
 - _卵_, by betcover!!
 - _Great Doubt_, by Astrid Sonne
 - _sentiment_, by claire rousay
-- _The Artistic Image Is Always A Miracle_, by Alessandra Novaga
 
 </details>
 
