@@ -34,9 +34,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Inorganic Rites_, by Krallice
 - _Naya_, by Dawuna
 - _False 02_, by Selfsame
+- _Endlessness_, by Nala Sinephro
+- _Palookaville_, by Serengeti
 - _Night Palace_, by Mount Eerie
-- _In Full Effect_, by Tim Reaper, Kloke
-- _A World Lit Only by Fire_, by Godflesh
 
 </details>
 
