@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _How to Rescue Things_, by Bill Orcutt
 - _Princ€ss_, by Princ€ss
 - _slob air_, by Mica Levi
 - _Soon I'll Run Out of Air: A Colourful Storm 2024_, by Various Artists
@@ -48,7 +49,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 Just finished reading _Saturation Project_, by Christine Hume ([link](https://hardcover.app/books/saturation-project)). It's OK I guess.
 
-Gotta finish 25 books before 2026-01-01. I've read 2 so far.
+Gotta finish 25 books before 2026-01-01. I've read 3 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
