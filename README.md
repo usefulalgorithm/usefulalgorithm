@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _卵_, by betcover!!
+- _Endlessness_, by Nala Sinephro
 - _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
 - _Palookaville_, by Serengeti
-- _Endlessness_, by Nala Sinephro
 
 </details>
 
