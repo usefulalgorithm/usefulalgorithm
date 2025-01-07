@@ -27,9 +27,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Intrinsic Rhythm_, by Perila
 - _Strange Meridians_, by upsammy
 - _Mahōgakkō_, by Hakushi Hasegawa
-- _Mosaic_, by Fennesz
 - _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
 - _Leave Another Day_, by Milan W.
+- _Mosaic_, by Fennesz
 - _A Soft and Gatherable Star_, by Jabu
 - _sentiment_, by claire rousay
 - _Damaged_, by Ghost Dubs
@@ -38,7 +38,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _False 02_, by Selfsame
 - _Endlessness_, by Nala Sinephro
 - _Palookaville_, by Serengeti
-- _Night Palace_, by Mount Eerie
 
 </details>
 
