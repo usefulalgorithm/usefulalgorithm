@@ -25,19 +25,20 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _馬_, by betcover!!
 - _卵_, by betcover!!
 - _Intrinsic Rhythm_, by Perila
-- _Strange Meridians_, by upsammy
 - _Mahōgakkō_, by Hakushi Hasegawa
 - _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
 - _Leave Another Day_, by Milan W.
-- _Mosaic_, by Fennesz
 - _A Soft and Gatherable Star_, by Jabu
+- _Endlessness_, by Nala Sinephro
 - _sentiment_, by claire rousay
 - _Damaged_, by Ghost Dubs
+- _Strange Meridians_, by upsammy
 - _Inorganic Rites_, by Krallice
 - _Naya_, by Dawuna
 - _False 02_, by Selfsame
-- _Endlessness_, by Nala Sinephro
 - _Palookaville_, by Serengeti
+- _In Full Effect_, by Tim Reaper, Kloke
+- _Great Doubt_, by Astrid Sonne
 
 </details>
 
