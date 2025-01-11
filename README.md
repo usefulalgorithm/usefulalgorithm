@@ -29,15 +29,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Intrinsic Rhythm_, by Perila
 - _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
 - _Mahōgakkō_, by Hakushi Hasegawa
-- _Leave Another Day_, by Milan W.
 - _Endlessness_, by Nala Sinephro
+- _Leave Another Day_, by Milan W.
 - _sentiment_, by claire rousay
 - _Damaged_, by Ghost Dubs
 - _Inorganic Rites_, by Krallice
 - _Naya_, by Dawuna
 - _False 02_, by Selfsame
 - _A Soft and Gatherable Star_, by Jabu
-- _Strange Meridians_, by upsammy
 - _Palookaville_, by Serengeti
 - _In Full Effect_, by Tim Reaper, Kloke
 - _Great Doubt_, by Astrid Sonne
