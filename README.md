@@ -11,13 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Endlessness_, by Nala Sinephro
 - _Trellis_, by Lifted
+- _The Rituals of Infinity_, by Greg Foat
+- _Endlessness_, by Nala Sinephro
 - _Skylla_, by Ruth Goller
 - _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
 - _卵_, by betcover!!
 - _馬_, by betcover!!
-- _Palookaville_, by Serengeti
 
 </details>
 
