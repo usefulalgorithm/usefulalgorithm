@@ -40,6 +40,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _In Full Effect_, by Tim Reaper, Kloke
 - _Great Doubt_, by Astrid Sonne
 - _Larderello_, by Dos Monos
+- _Mosaic_, by Fennesz
 
 </details>
 
