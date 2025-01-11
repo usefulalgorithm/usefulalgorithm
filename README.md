@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Endlessness_, by Nala Sinephro
 - _Trellis_, by Lifted
 - _Skylla_, by Ruth Goller
-- _Endlessness_, by Nala Sinephro
 - _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
 - _卵_, by betcover!!
 - _馬_, by betcover!!
