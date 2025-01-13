@@ -17,7 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Skylla_, by Ruth Goller
 - _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
 - _卵_, by betcover!!
-- _馬_, by betcover!!
 
 </details>
 
