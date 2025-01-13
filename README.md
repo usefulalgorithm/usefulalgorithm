@@ -34,12 +34,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Inorganic Rites_, by Krallice
 - _Naya_, by Dawuna
 - _False 02_, by Selfsame
-- _A Soft and Gatherable Star_, by Jabu
 - _Palookaville_, by Serengeti
-- _In Full Effect_, by Tim Reaper, Kloke
 - _Great Doubt_, by Astrid Sonne
 - _Larderello_, by Dos Monos
-- _Mosaic_, by Fennesz
+- _Trellis_, by Lifted
 
 </details>
 
