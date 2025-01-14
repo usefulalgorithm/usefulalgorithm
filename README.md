@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Intrinsic Rhythm_, by Perila
-- _The Rituals of Infinity_, by Greg Foat
 
 </details>
 
