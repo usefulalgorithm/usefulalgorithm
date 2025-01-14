@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Intrinsic Rhythm_, by Perila
 - _Palookaville_, by Serengeti
 - _Skylla_, by Ruth Goller
 - _The Rituals of Infinity_, by Greg Foat
@@ -43,7 +44,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _Saturation Project_, by Christine Hume ([link](https://hardcover.app/books/saturation-project)). It's OK I guess.
+Just finished reading _Hatred of Translation_, by Nathanaël ([link](https://hardcover.app/books/hatred-of-translation)). It's OK I guess.
 
 Gotta finish 25 books before 2026-01-01. I've read 3 so far.
 
@@ -51,7 +52,6 @@ Gotta finish 25 books before 2026-01-01. I've read 3 so far.
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
 
 - _Mona Lisa Overdrive_, by William Gibson ([link](https://hardcover.app/books/mona-lisa-overdrive))
-- _Hatred of Translation_, by Nathanaël ([link](https://hardcover.app/books/hatred-of-translation))
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
 - _Political Categories: Thinking Beyond Concepts_, by Michael Marder ([link](https://hardcover.app/books/political-categories))
