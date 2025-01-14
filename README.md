@@ -13,9 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Intrinsic Rhythm_, by Perila
 - _The Rituals of Infinity_, by Greg Foat
-- _Palookaville_, by Serengeti
-- _Skylla_, by Ruth Goller
-- _Trellis_, by Lifted
 
 </details>
 
