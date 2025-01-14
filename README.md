@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Palookaville_, by Serengeti
 - _Skylla_, by Ruth Goller
 - _The Rituals of Infinity_, by Greg Foat
 - _Trellis_, by Lifted
 - _Endlessness_, by Nala Sinephro
-- _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
 
 </details>
 
