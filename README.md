@@ -29,10 +29,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _sentiment_, by claire rousay
 - _Damaged_, by Ghost Dubs
 - _Inorganic Rites_, by Krallice
-- _Naya_, by Dawuna
 - _False 02_, by Selfsame
+- _Trellis_, by Lifted
 - _Palookaville_, by Serengeti
-- _Great Doubt_, by Astrid Sonne
+- _Naya_, by Dawuna
 
 </details>
 
