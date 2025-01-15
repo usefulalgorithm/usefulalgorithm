@@ -32,7 +32,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _False 02_, by Selfsame
 - _Palookaville_, by Serengeti
 - _Great Doubt_, by Astrid Sonne
-- _Larderello_, by Dos Monos
 
 </details>
 
