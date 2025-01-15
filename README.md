@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Trellis_, by Lifted
 - _Intrinsic Rhythm_, by Perila
 
 </details>
