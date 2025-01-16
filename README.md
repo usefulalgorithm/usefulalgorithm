@@ -36,8 +36,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Damaged_, by Ghost Dubs
 - _False 02_, by Selfsame
 - _Trellis_, by Lifted
+- _Skylla_, by Ruth Goller
 - _Palookaville_, by Serengeti
-- _Inorganic Rites_, by Krallice
+- _How to Rescue Things_, by Bill Orcutt
 - _Naya_, by Dawuna
 
 </details>
