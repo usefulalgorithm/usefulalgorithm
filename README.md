@@ -11,7 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Skylla_, by Ruth Goller
 - _forge_, by KMRU
+- _How to Rescue Things_, by Bill Orcutt
+- _New Songs & Variations_, by TLF Trio, Moritz Von Oswald
+- _Palookaville_, by Serengeti
 - _Endlessness_, by Nala Sinephro
 - _Trellis_, by Lifted
 - _Intrinsic Rhythm_, by Perila
