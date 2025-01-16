@@ -24,15 +24,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _卵_, by betcover!!
 - _Intrinsic Rhythm_, by Perila
 - _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
-- _Mahōgakkō_, by Hakushi Hasegawa
 - _Endlessness_, by Nala Sinephro
+- _Mahōgakkō_, by Hakushi Hasegawa
 - _Leave Another Day_, by Milan W.
 - _sentiment_, by claire rousay
 - _Damaged_, by Ghost Dubs
-- _Inorganic Rites_, by Krallice
 - _False 02_, by Selfsame
 - _Trellis_, by Lifted
 - _Palookaville_, by Serengeti
+- _Inorganic Rites_, by Krallice
 - _Naya_, by Dawuna
 
 </details>
