@@ -11,14 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Skinned_, by ML Buch
 - _卵_, by betcover!!
+- _light decline_, by great area
 - _馬_, by betcover!!
-- _How to Rescue Things_, by Bill Orcutt
-- _Trellis_, by Lifted
-- _11100011_, by Asian Glow
-- _forge_, by KMRU
-- _You Only Die 1nce_, by Freddie Gibbs
+- _Wombs And Alien Spirits_, by Ghost Lemurs
+- _Discipline_, by Shinichi Atobe
+- _Naya_, by Dawuna
 
 </details>
 
