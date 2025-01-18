@@ -11,13 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _You Only Die 1nce_, by Freddie Gibbs
+- _Trellis_, by Lifted
+- _卵_, by betcover!!
 - _11100011_, by Asian Glow
-- _Skylla_, by Ruth Goller
 - _forge_, by KMRU
+- _You Only Die 1nce_, by Freddie Gibbs
+- _Skylla_, by Ruth Goller
 - _How to Rescue Things_, by Bill Orcutt
 - _New Songs & Variations_, by TLF Trio, Moritz Von Oswald
-- _Palookaville_, by Serengeti
 
 </details>
 
@@ -34,6 +35,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _sentiment_, by claire rousay
 - _Damaged_, by Ghost Dubs
 - _False 02_, by Selfsame
+- _forge_, by KMRU
 - _Trellis_, by Lifted
 - _Skylla_, by Ruth Goller
 - _Palookaville_, by Serengeti
