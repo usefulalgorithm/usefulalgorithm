@@ -32,13 +32,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Endlessness_, by Nala Sinephro
 - _Mahōgakkō_, by Hakushi Hasegawa
 - _Leave Another Day_, by Milan W.
+- _Trellis_, by Lifted
 - _sentiment_, by claire rousay
 - _Damaged_, by Ghost Dubs
+- _Palookaville_, by Serengeti
 - _False 02_, by Selfsame
 - _forge_, by KMRU
-- _Trellis_, by Lifted
 - _Skylla_, by Ruth Goller
-- _Palookaville_, by Serengeti
 - _How to Rescue Things_, by Bill Orcutt
 - _Naya_, by Dawuna
 
