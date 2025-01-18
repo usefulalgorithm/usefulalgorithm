@@ -11,13 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Trellis_, by Lifted
 - _卵_, by betcover!!
+- _馬_, by betcover!!
+- _How to Rescue Things_, by Bill Orcutt
+- _Trellis_, by Lifted
 - _11100011_, by Asian Glow
 - _forge_, by KMRU
 - _You Only Die 1nce_, by Freddie Gibbs
 - _Skylla_, by Ruth Goller
-- _How to Rescue Things_, by Bill Orcutt
 
 </details>
 
