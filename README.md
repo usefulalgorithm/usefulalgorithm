@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Great Doubt_, by Astrid Sonne
+- _Palookaville_, by Serengeti
+- _Endlessness_, by Nala Sinephro
 - _卵_, by betcover!!
 - _light decline_, by great area
 - _馬_, by betcover!!
