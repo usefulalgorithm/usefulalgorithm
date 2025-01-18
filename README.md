@@ -11,15 +11,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _卵_, by betcover!!
+- _How to Rescue Things_, by Bill Orcutt
 - _Great Doubt_, by Astrid Sonne
 - _Palookaville_, by Serengeti
 - _Endlessness_, by Nala Sinephro
-- _卵_, by betcover!!
 - _light decline_, by great area
 - _馬_, by betcover!!
 - _Wombs And Alien Spirits_, by Ghost Lemurs
 - _Discipline_, by Shinichi Atobe
-- _Naya_, by Dawuna
 
 </details>
 
