@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _If I don't make it, I love u_, by Still House Plants
+- _A Lonely Sinner_, by samlrc
+- _Intrinsic Rhythm_, by Perila
 - _馬_, by betcover!!
 - _卵_, by betcover!!
 - _How to Rescue Things_, by Bill Orcutt
@@ -18,7 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Palookaville_, by Serengeti
 - _Endlessness_, by Nala Sinephro
 - _light decline_, by great area
-- _Wombs And Alien Spirits_, by Ghost Lemurs
 
 </details>
 
