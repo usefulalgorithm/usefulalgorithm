@@ -18,7 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _You Only Die 1nce_, by Freddie Gibbs
 - _Skylla_, by Ruth Goller
 - _How to Rescue Things_, by Bill Orcutt
-- _New Songs & Variations_, by TLF Trio, Moritz Von Oswald
 
 </details>
 
