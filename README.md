@@ -12,10 +12,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _卵_, by betcover!!
+- _馬_, by betcover!!
 - _If I don't make it, I love u_, by Still House Plants
 - _A Lonely Sinner_, by samlrc
 - _Intrinsic Rhythm_, by Perila
-- _馬_, by betcover!!
 - _How to Rescue Things_, by Bill Orcutt
 - _Great Doubt_, by Astrid Sonne
 - _Palookaville_, by Serengeti
