@@ -11,6 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Pray for Paris_, by Westside Gunn
+- _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
+- _Only Good Dreams for Me_, by Zaumne
+- _Endlessness_, by Nala Sinephro
 - _卵_, by betcover!!
 - _馬_, by betcover!!
 - _If I don't make it, I love u_, by Still House Plants
@@ -19,8 +23,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _How to Rescue Things_, by Bill Orcutt
 - _Great Doubt_, by Astrid Sonne
 - _Palookaville_, by Serengeti
-- _Endlessness_, by Nala Sinephro
-- _light decline_, by great area
 
 </details>
 
