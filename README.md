@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _卵_, by betcover!!
 - _If I don't make it, I love u_, by Still House Plants
 - _A Lonely Sinner_, by samlrc
 - _Intrinsic Rhythm_, by Perila
 - _馬_, by betcover!!
-- _卵_, by betcover!!
 - _How to Rescue Things_, by Bill Orcutt
 - _Great Doubt_, by Astrid Sonne
 - _Palookaville_, by Serengeti
@@ -52,7 +52,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 Just finished reading _Hatred of Translation_, by Nathanaël ([link](https://hardcover.app/books/hatred-of-translation)). It's OK I guess.
 
-Gotta finish 25 books before 2026-01-01. I've read 3 so far.
+Gotta finish 25 books before 2026-01-01. I've read 4 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
