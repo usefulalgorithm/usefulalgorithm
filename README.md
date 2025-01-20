@@ -57,7 +57,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 Just finished reading _Mona Lisa Overdrive_, by William Gibson ([link](https://hardcover.app/books/mona-lisa-overdrive)). It's just meh.
 
-Gotta finish 25 books before 2026-01-01. I've read 5 so far.
+Gotta finish 25 books before 2026-01-01. I've read 4 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
