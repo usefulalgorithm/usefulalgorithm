@@ -55,14 +55,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _Hatred of Translation_, by Nathanaël ([link](https://hardcover.app/books/hatred-of-translation)). It's OK I guess.
+Just finished reading _Mona Lisa Overdrive_, by William Gibson ([link](https://hardcover.app/books/mona-lisa-overdrive)). It's just meh.
 
-Gotta finish 25 books before 2026-01-01. I've read 4 so far.
+Gotta finish 25 books before 2026-01-01. I've read 5 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
 
-- _Mona Lisa Overdrive_, by William Gibson ([link](https://hardcover.app/books/mona-lisa-overdrive))
+- _The Absence of Myth: Writings on Surrealism_, by Georges Bataille, Michael   Richardson ([link](https://hardcover.app/books/the-absence-of-myth-writings-on-surrealism))
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
 - _Political Categories: Thinking Beyond Concepts_, by Michael Marder ([link](https://hardcover.app/books/political-categories))
