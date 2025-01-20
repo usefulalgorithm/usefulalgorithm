@@ -11,7 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Repetition_, by Unwound
+- _Cavalcade_, by black midi
+- _SIREN PROPAGANDA_, by SMTK
+- _Larderello_, by Dos Monos
 - _Pray for Paris_, by Westside Gunn
+- _冀西南林路行_, by 万能青年旅店
+- _All the Footprints You've Ever Left and the Fear Expecting Ahead_, by envy
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 - _Only Good Dreams for Me_, by Zaumne
 - _Endlessness_, by Nala Sinephro
@@ -20,9 +26,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _If I don't make it, I love u_, by Still House Plants
 - _A Lonely Sinner_, by samlrc
 - _Intrinsic Rhythm_, by Perila
-- _How to Rescue Things_, by Bill Orcutt
-- _Great Doubt_, by Astrid Sonne
-- _Palookaville_, by Serengeti
 
 </details>
 
