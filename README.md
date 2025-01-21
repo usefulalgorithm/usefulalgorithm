@@ -32,14 +32,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _馬_, by betcover!!
 - _卵_, by betcover!!
-- _Intrinsic Rhythm_, by Perila
+- _馬_, by betcover!!
 - _Endlessness_, by Nala Sinephro
+- _Intrinsic Rhythm_, by Perila
 - _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
-- _Mahōgakkō_, by Hakushi Hasegawa
 - _Leave Another Day_, by Milan W.
 - _Palookaville_, by Serengeti
+- _Mahōgakkō_, by Hakushi Hasegawa
 - _Trellis_, by Lifted
 - _sentiment_, by claire rousay
 - _Damaged_, by Ghost Dubs
@@ -50,6 +50,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _You Only Die 1nce_, by Freddie Gibbs
 - _Skylla_, by Ruth Goller
 - _Great Doubt_, by Astrid Sonne
+- _Larderello_, by Dos Monos
+- _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 
 </details>
 
