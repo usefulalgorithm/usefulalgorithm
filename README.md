@@ -35,9 +35,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _卵_, by betcover!!
 - _馬_, by betcover!!
 - _Endlessness_, by Nala Sinephro
-- _Intrinsic Rhythm_, by Perila
 - _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
-- _Leave Another Day_, by Milan W.
+- _Intrinsic Rhythm_, by Perila
 - _Palookaville_, by Serengeti
 - _Mahōgakkō_, by Hakushi Hasegawa
 - _Trellis_, by Lifted
@@ -45,13 +44,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Damaged_, by Ghost Dubs
 - _Naya_, by Dawuna
 - _How to Rescue Things_, by Bill Orcutt
-- _False 02_, by Selfsame
 - _forge_, by KMRU
 - _You Only Die 1nce_, by Freddie Gibbs
 - _Skylla_, by Ruth Goller
 - _Great Doubt_, by Astrid Sonne
 - _Larderello_, by Dos Monos
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
+- _11100011_, by Asian Glow
 
 </details>
 
