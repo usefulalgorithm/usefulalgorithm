@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Secrets Of The Beehive (Remastered 2003)_, by David Sylvian
+- _Void_, by Void
+- _The Trident_, by Unearthly Trance
 - _Disappeared Behind the Sun_, by Angles 9, Martin Küchen
 - _Periods Make Sense_, by Sutekh
 - _The Triad_, by Pantha Du Prince
@@ -29,7 +32,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Endlessness_, by Nala Sinephro
 - _卵_, by betcover!!
 - _馬_, by betcover!!
-- _If I don't make it, I love u_, by Still House Plants
 
 </details>
 
