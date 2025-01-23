@@ -11,6 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Disappeared Behind the Sun_, by Angles 9, Martin Küchen
+- _Periods Make Sense_, by Sutekh
+- _The Triad_, by Pantha Du Prince
+- _Konfusion_, by Skalpel
+- _Dreamless Sleep_, by Evan Caminiti
+- _The Rose Has Teeth In The Mouth Of A Beast_, by Matmos
 - _Repetition_, by Unwound
 - _Cavalcade_, by black midi
 - _SIREN PROPAGANDA_, by SMTK
@@ -24,8 +30,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _卵_, by betcover!!
 - _馬_, by betcover!!
 - _If I don't make it, I love u_, by Still House Plants
-- _A Lonely Sinner_, by samlrc
-- _Intrinsic Rhythm_, by Perila
 
 </details>
 
