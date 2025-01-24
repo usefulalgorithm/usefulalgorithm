@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _If I don't make it, I love u_, by Still House Plants
 - _歪曲_, by Shing02
 - _Fresques Sur Les Parois Secretes Du Crane_, by Cheval De Frise
 - _Secrets Of The Beehive (Remastered 2003)_, by David Sylvian
