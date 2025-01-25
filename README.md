@@ -31,8 +31,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cavalcade_, by black midi
 - _SIREN PROPAGANDA_, by SMTK
 - _Larderello_, by Dos Monos
-- _Pray for Paris_, by Westside Gunn
-- _冀西南林路行_, by 万能青年旅店
 
 </details>
 
