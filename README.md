@@ -11,10 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Secrets Of The Beehive (Remastered 2003)_, by David Sylvian
+- _卵_, by betcover!!
+- _Mahōgakkō_, by Hakushi Hasegawa
+- _She (Reissue)_, by Hisato Higuchi
+- _Born of the Sea_, by Lara Sarkissian
 - _If I don't make it, I love u_, by Still House Plants
 - _歪曲_, by Shing02
 - _Fresques Sur Les Parois Secretes Du Crane_, by Cheval De Frise
-- _Secrets Of The Beehive (Remastered 2003)_, by David Sylvian
 - _Void_, by Void
 - _The Trident_, by Unearthly Trance
 - _Disappeared Behind the Sun_, by Angles 9, Martin Küchen
@@ -30,11 +34,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Pray for Paris_, by Westside Gunn
 - _冀西南林路行_, by 万能青年旅店
 - _All the Footprints You've Ever Left and the Fear Expecting Ahead_, by envy
-- _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
-- _Only Good Dreams for Me_, by Zaumne
-- _Endlessness_, by Nala Sinephro
-- _卵_, by betcover!!
-- _馬_, by betcover!!
 
 </details>
 
