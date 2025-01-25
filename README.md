@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _First Love_, by Hikaru Utada
 - _Mahōgakkō_, by Hakushi Hasegawa
 - _Secrets Of The Beehive (Remastered 2003)_, by David Sylvian
 - _卵_, by betcover!!
