@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Larderello_, by Dos Monos
 - _First Love_, by Hikaru Utada
 - _Mahōgakkō_, by Hakushi Hasegawa
 - _Secrets Of The Beehive (Remastered 2003)_, by David Sylvian
@@ -31,7 +32,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Repetition_, by Unwound
 - _Cavalcade_, by black midi
 - _SIREN PROPAGANDA_, by SMTK
-- _Larderello_, by Dos Monos
 
 </details>
 
