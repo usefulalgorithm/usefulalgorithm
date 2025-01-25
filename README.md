@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Mahōgakkō_, by Hakushi Hasegawa
 - _Secrets Of The Beehive (Remastered 2003)_, by David Sylvian
 - _卵_, by betcover!!
-- _Mahōgakkō_, by Hakushi Hasegawa
 - _She (Reissue)_, by Hisato Higuchi
 - _Born of the Sea_, by Lara Sarkissian
 - _If I don't make it, I love u_, by Still House Plants
@@ -33,7 +33,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Larderello_, by Dos Monos
 - _Pray for Paris_, by Westside Gunn
 - _冀西南林路行_, by 万能青年旅店
-- _All the Footprints You've Ever Left and the Fear Expecting Ahead_, by envy
 
 </details>
 
