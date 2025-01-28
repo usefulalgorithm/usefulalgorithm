@@ -24,10 +24,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _馬_, by betcover!!
 - _Endlessness_, by Nala Sinephro
 - _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
-- _Trellis_, by Lifted
 - _Only Good Dreams for Me_, by Zaumne
-- _Intrinsic Rhythm_, by Perila
+- _Trellis_, by Lifted
 - _Mahōgakkō_, by Hakushi Hasegawa
+- _Intrinsic Rhythm_, by Perila
 - _Skinned_, by ML Buch
 - _Larderello_, by Dos Monos
 - _Damaged_, by Ghost Dubs
