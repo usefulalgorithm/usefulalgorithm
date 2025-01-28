@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Only Good Dreams for Me_, by Zaumne
 - _Skinned_, by ML Buch
-- _Set_, by Konrad Sprenger
 
 </details>
 
