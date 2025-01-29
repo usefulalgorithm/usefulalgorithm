@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _11100011_, by Asian Glow
 - _Only Good Dreams for Me_, by Zaumne
 - _Skinned_, by ML Buch
 
