@@ -22,22 +22,20 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _卵_, by betcover!!
 - _馬_, by betcover!!
 - _Endlessness_, by Nala Sinephro
-- _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
 - _Only Good Dreams for Me_, by Zaumne
 - _Trellis_, by Lifted
 - _Mahōgakkō_, by Hakushi Hasegawa
+- _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
 - _Intrinsic Rhythm_, by Perila
 - _Skinned_, by ML Buch
 - _Larderello_, by Dos Monos
 - _Damaged_, by Ghost Dubs
-- _Naya_, by Dawuna
 - _How to Rescue Things_, by Bill Orcutt
 - _Palookaville_, by Serengeti
 - _forge_, by KMRU
 - _You Only Die 1nce_, by Freddie Gibbs
 - _Skylla_, by Ruth Goller
 - _Great Doubt_, by Astrid Sonne
-- _11100011_, by Asian Glow
 
 </details>
 
