@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Dos City_, by Dos Monos
 - _城堡_, by Jolin Tsai
 - _Energy! Come On!_, by Energy
 - _浪費愛情_, by 小安
