@@ -31,17 +31,20 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Only Good Dreams for Me_, by Zaumne
 - _Trellis_, by Lifted
 - _Mahōgakkō_, by Hakushi Hasegawa
-- _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
 - _Intrinsic Rhythm_, by Perila
+- _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
 - _Skinned_, by ML Buch
 - _Larderello_, by Dos Monos
 - _Damaged_, by Ghost Dubs
 - _How to Rescue Things_, by Bill Orcutt
 - _Palookaville_, by Serengeti
 - _forge_, by KMRU
+- _11100011_, by Asian Glow
 - _You Only Die 1nce_, by Freddie Gibbs
 - _Skylla_, by Ruth Goller
+- _城堡_, by Jolin Tsai
 - _Great Doubt_, by Astrid Sonne
+- _浪費愛情_, by 小安
 
 </details>
 
