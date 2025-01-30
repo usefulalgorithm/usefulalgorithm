@@ -22,7 +22,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _城堡_, by Jolin Tsai
 - _Energy! Come On!_, by Energy
 - _七里香_, by Jay Chou
-- _11100011_, by Asian Glow
 
 </details>
 
