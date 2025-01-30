@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Only Good Dreams for Me_, by Zaumne
 - _Dos City_, by Dos Monos
 - _城堡_, by Jolin Tsai
 - _Energy! Come On!_, by Energy
@@ -18,7 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _七里香_, by Jay Chou
 - _時光機_, by Mayday
 - _11100011_, by Asian Glow
-- _Only Good Dreams for Me_, by Zaumne
 
 </details>
 
