@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _If I don't make it, I love u_, by Still House Plants
+- _Jordsvingninger (A Smalltown Supersound compilation of exclusive tracks)_, by Various Artists
 - _Phoneglow / Eyes Go Blank_, by Burial, Kode9
 - _Strange Meridians_, by upsammy
 - _時光機_, by Mayday
