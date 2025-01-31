@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Overdue_, by Haley Fohr, Circuit des Yeux
 - _Umbilical_, by Thou
 - _Magnolia_, by Deafheaven
 - _Blue Desert_, by Jack J
