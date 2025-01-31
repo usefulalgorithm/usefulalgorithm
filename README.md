@@ -23,7 +23,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Only Good Dreams for Me_, by Zaumne
 - _Dos City_, by Dos Monos
 - _城堡_, by Jolin Tsai
-- _Energy! Come On!_, by Energy
 
 </details>
 
