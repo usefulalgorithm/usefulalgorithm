@@ -35,11 +35,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Only Good Dreams for Me_, by Zaumne
 - _Trellis_, by Lifted
 - _馬_, by betcover!!
-- _Intrinsic Rhythm_, by Perila
 - _Skinned_, by ML Buch
 - _Larderello_, by Dos Monos
+- _Intrinsic Rhythm_, by Perila
 - _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
-- _Mahōgakkō_, by Hakushi Hasegawa
 - _Damaged_, by Ghost Dubs
 - _浪費愛情_, by 小安
 - _How to Rescue Things_, by Bill Orcutt
@@ -52,6 +51,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _城堡_, by Jolin Tsai
 - _Great Doubt_, by Astrid Sonne
 - _Energy! Come On!_, by Energy
+- _Mahōgakkō_, by Hakushi Hasegawa
 
 </details>
 
