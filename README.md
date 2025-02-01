@@ -14,10 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Skinned_, by ML Buch
 - _If I don't make it, I love u_, by Still House Plants
 - _Strange Meridians_, by upsammy
-- _Overdue_, by Haley Fohr, Circuit des Yeux
-- _Umbilical_, by Thou
-- _Magnolia_, by Deafheaven
-- _Blue Desert_, by Jack J
 
 </details>
 
