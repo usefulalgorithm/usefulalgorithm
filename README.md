@@ -38,7 +38,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _You Only Die 1nce_, by Freddie Gibbs
 - _Skylla_, by Ruth Goller
 - _城堡_, by Jolin Tsai
-- _Great Doubt_, by Astrid Sonne
 - _Strange Meridians_, by upsammy
 - _Larderello_, by Dos Monos
 
