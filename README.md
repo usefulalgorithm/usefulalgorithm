@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Endlessness_, by Nala Sinephro
 - _Things We Lost in the Fire_, by Low
 - _Skinned_, by ML Buch
 
