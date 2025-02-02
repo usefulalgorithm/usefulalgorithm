@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Endlessness_, by Nala Sinephro
 - _Things We Lost in the Fire_, by Low
-- _Skinned_, by ML Buch
 
 </details>
 
