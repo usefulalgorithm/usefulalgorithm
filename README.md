@@ -13,8 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Things We Lost in the Fire_, by Low
 - _Skinned_, by ML Buch
-- _If I don't make it, I love u_, by Still House Plants
-- _Strange Meridians_, by upsammy
 
 </details>
 
