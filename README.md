@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Endlessness_, by Nala Sinephro
+- _Strange Meridians_, by upsammy
 - _Things We Lost in the Fire_, by Low
+- _Endlessness_, by Nala Sinephro
 
 </details>
 
