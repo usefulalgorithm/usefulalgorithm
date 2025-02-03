@@ -22,24 +22,25 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Endlessness_, by Nala Sinephro
 - _卵_, by betcover!!
+- _Endlessness_, by Nala Sinephro
 - _Only Good Dreams for Me_, by Zaumne
 - _Skinned_, by ML Buch
 - _Trellis_, by Lifted
 - _馬_, by betcover!!
-- _Intrinsic Rhythm_, by Perila
 - _If I don't make it, I love u_, by Still House Plants
 - _浪費愛情_, by 小安
-- _How to Rescue Things_, by Bill Orcutt
-- _Palookaville_, by Serengeti
+- _Intrinsic Rhythm_, by Perila
 - _forge_, by KMRU
-- _Seven Reorganisations_, by Beatrice Dillon, Explore Ensemble
-- _11100011_, by Asian Glow
-- _You Only Die 1nce_, by Freddie Gibbs
 - _Skylla_, by Ruth Goller
 - _城堡_, by Jolin Tsai
 - _Strange Meridians_, by upsammy
+- _How to Rescue Things_, by Bill Orcutt
+- _Larderello_, by Dos Monos
+- _11100011_, by Asian Glow
+- _You Only Die 1nce_, by Freddie Gibbs
+- _Energy! Come On!_, by Energy
+- _Area Silenzio_, by eat-girls
 
 </details>
 
