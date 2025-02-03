@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Jordsvingninger (A Smalltown Supersound compilation of exclusive tracks)_, by Various Artists
+- _Touch of Time_, by Arve Henriksen, Harmen Fraanje
 - _Strange Meridians_, by upsammy
 - _Things We Lost in the Fire_, by Low
 - _Endlessness_, by Nala Sinephro
