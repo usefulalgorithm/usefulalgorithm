@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _CODE NOIR_, by Quinton Barnes
 - _曹操_, by JJ Lin
 - _Jordsvingninger (A Smalltown Supersound compilation of exclusive tracks)_, by Various Artists
 - _Strange Meridians_, by upsammy
