@@ -11,10 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Muuntautuja_, by Oranssi Pazuzu
+- _You Never End_, by Moin
+- _Dreaming the Strife for Love_, by Bedsore
 - _A Shaw Deal_, by Geologist, D.S.
 - _With Love from a Padded Room_, by Crippling Alcoholism
 - _Ordinary Corrupt Human Love_, by Deafheaven
-- _Dreaming the Strife for Love_, by Bedsore
 - _God's Country_, by Chat Pile
 - _Umbilical_, by Thou
 - _CODE NOIR_, by Quinton Barnes
