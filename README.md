@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Ordinary Corrupt Human Love_, by Deafheaven
 - _Dreaming the Strife for Love_, by Bedsore
 - _God's Country_, by Chat Pile
 - _Umbilical_, by Thou
