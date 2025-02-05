@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _A Grisaille Wedding_, by Rainy Miller, Space Afrika
+- _Ephemera_, by Fergus Jones, Perko
+- _The Thief Next to Jesus_, by Ka
 - _Muuntautuja_, by Oranssi Pazuzu
 - _You Never End_, by Moin
 - _Dreaming the Strife for Love_, by Bedsore
