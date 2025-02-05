@@ -55,6 +55,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _You Only Die 1nce_, by Freddie Gibbs
 - _Energy! Come On!_, by Energy
 - _Area Silenzio_, by eat-girls
+- _Muuntautuja_, by Oranssi Pazuzu
 
 </details>
 
