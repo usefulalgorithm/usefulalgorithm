@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Gentle Confrontation_, by Loraine James
 - _A Grisaille Wedding_, by Rainy Miller, Space Afrika
 - _Ephemera_, by Fergus Jones, Perko
 - _The Thief Next to Jesus_, by Ka
