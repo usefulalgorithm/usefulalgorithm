@@ -35,9 +35,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _卵_, by betcover!!
-- _Endlessness_, by Nala Sinephro
 - _Only Good Dreams for Me_, by Zaumne
 - _Skinned_, by ML Buch
+- _Endlessness_, by Nala Sinephro
 - _Trellis_, by Lifted
 - _If I don't make it, I love u_, by Still House Plants
 - _馬_, by betcover!!
