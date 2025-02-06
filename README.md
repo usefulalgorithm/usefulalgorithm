@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Ephemera_, by Fergus Jones, Perko
 - _Gentle Confrontation_, by Loraine James
 - _A Grisaille Wedding_, by Rainy Miller, Space Afrika
-- _Ephemera_, by Fergus Jones, Perko
 - _The Thief Next to Jesus_, by Ka
 - _Muuntautuja_, by Oranssi Pazuzu
 - _You Never End_, by Moin
@@ -28,8 +28,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Jordsvingninger (A Smalltown Supersound compilation of exclusive tracks)_, by Various Artists
 - _Strange Meridians_, by upsammy
 - _Touch of Time_, by Arve Henriksen, Harmen Fraanje
-- _Things We Lost in the Fire_, by Low
-- _Endlessness_, by Nala Sinephro
 
 </details>
 
