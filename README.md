@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Ephemera_, by Fergus Jones, Perko
+- _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _Gentle Confrontation_, by Loraine James
 - _A Grisaille Wedding_, by Rainy Miller, Space Afrika
 - _The Thief Next to Jesus_, by Ka
