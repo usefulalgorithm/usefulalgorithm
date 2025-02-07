@@ -28,7 +28,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _曹操_, by JJ Lin
 - _Jordsvingninger (A Smalltown Supersound compilation of exclusive tracks)_, by Various Artists
 - _Strange Meridians_, by upsammy
-- _Touch of Time_, by Arve Henriksen, Harmen Fraanje
 
 </details>
 
