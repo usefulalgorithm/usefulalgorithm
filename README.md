@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Peasant_, by Richard Dawson
+- _Henki_, by Richard Dawson, Circle
 - _Dreaming the Strife for Love_, by Bedsore
 - _Muuntautuja_, by Oranssi Pazuzu
 - _Perfekt Person_, by thanks god
@@ -27,9 +29,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _God's Country_, by Chat Pile
 - _Umbilical_, by Thou
 - _CODE NOIR_, by Quinton Barnes
-- _曹操_, by JJ Lin
-- _Jordsvingninger (A Smalltown Supersound compilation of exclusive tracks)_, by Various Artists
-- _Strange Meridians_, by upsammy
 
 </details>
 
