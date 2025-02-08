@@ -11,13 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Calvinist Hospitality_, by Al Wootton
+- _Muuntautuja_, by Oranssi Pazuzu
+- _Ephemera_, by Fergus Jones, Perko
 - _Peasant_, by Richard Dawson
 - _Henki_, by Richard Dawson, Circle
 - _Dreaming the Strife for Love_, by Bedsore
-- _Muuntautuja_, by Oranssi Pazuzu
 - _Perfekt Person_, by thanks god
 - _Malcolm's Law_, by Waldo's Gift
-- _Ephemera_, by Fergus Jones, Perko
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _Gentle Confrontation_, by Loraine James
 - _A Grisaille Wedding_, by Rainy Miller, Space Afrika
@@ -25,10 +26,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _You Never End_, by Moin
 - _A Shaw Deal_, by Geologist, D.S.
 - _With Love from a Padded Room_, by Crippling Alcoholism
-- _Ordinary Corrupt Human Love_, by Deafheaven
-- _God's Country_, by Chat Pile
-- _Umbilical_, by Thou
-- _CODE NOIR_, by Quinton Barnes
 
 </details>
 
