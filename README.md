@@ -55,9 +55,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _Martyr! A Novel_, by Kaveh Akbar ([link](https://hardcover.app/books/martyr-a-novel)). It's a good book.
+Just finished reading _金融狂熱簡史A Short History of Financial Euphoria_, by John Kenneth Galbraith－著╱許雅淑、李宗義－譯 ([link](https://hardcover.app/books/a-short-history-of-financial-euphoria-1990)). It's kinda bad.
 
-Gotta finish 25 books before 2026-01-01. I've read 5 so far.
+Gotta finish 25 books before 2026-01-01. I've read 6 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
