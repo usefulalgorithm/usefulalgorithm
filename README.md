@@ -24,8 +24,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _A Grisaille Wedding_, by Rainy Miller, Space Afrika
 - _The Thief Next to Jesus_, by Ka
 - _You Never End_, by Moin
-- _A Shaw Deal_, by Geologist, D.S.
-- _With Love from a Padded Room_, by Crippling Alcoholism
 
 </details>
 
