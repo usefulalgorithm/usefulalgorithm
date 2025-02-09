@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _God's Country_, by Chat Pile
+- _Aether Ore_, by X or Size
 - _Peasant_, by Richard Dawson
 - _CODE NOIR_, by Quinton Barnes
 - _Calvinist Hospitality_, by Al Wootton
