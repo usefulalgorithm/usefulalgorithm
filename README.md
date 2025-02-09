@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Only Good Dreams for Me_, by Zaumne
 - _God's Country_, by Chat Pile
 - _Aether Ore_, by X or Size
 - _Peasant_, by Richard Dawson
@@ -22,7 +23,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Dreaming the Strife for Love_, by Bedsore
 - _Perfekt Person_, by thanks god
 - _Malcolm's Law_, by Waldo's Gift
-- _HEAL_, by Pavel Milyakov, Lucas Dupuy
 
 </details>
 
