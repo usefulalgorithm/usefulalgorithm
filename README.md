@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _CODE NOIR_, by Quinton Barnes
 - _Calvinist Hospitality_, by Al Wootton
 - _Muuntautuja_, by Oranssi Pazuzu
 - _Ephemera_, by Fergus Jones, Perko
@@ -21,9 +22,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Malcolm's Law_, by Waldo's Gift
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _Gentle Confrontation_, by Loraine James
-- _A Grisaille Wedding_, by Rainy Miller, Space Afrika
-- _The Thief Next to Jesus_, by Ka
-- _You Never End_, by Moin
 
 </details>
 
