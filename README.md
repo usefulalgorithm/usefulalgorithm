@@ -11,17 +11,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Peasant_, by Richard Dawson
 - _CODE NOIR_, by Quinton Barnes
 - _Calvinist Hospitality_, by Al Wootton
 - _Muuntautuja_, by Oranssi Pazuzu
 - _Ephemera_, by Fergus Jones, Perko
-- _Peasant_, by Richard Dawson
 - _Henki_, by Richard Dawson, Circle
 - _Dreaming the Strife for Love_, by Bedsore
 - _Perfekt Person_, by thanks god
 - _Malcolm's Law_, by Waldo's Gift
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
-- _Gentle Confrontation_, by Loraine James
 
 </details>
 
