@@ -11,9 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _馬_, by betcover!!
+- _Aether Ore_, by X or Size
+- _城堡_, by Jolin Tsai
 - _Only Good Dreams for Me_, by Zaumne
 - _God's Country_, by Chat Pile
-- _Aether Ore_, by X or Size
 - _Peasant_, by Richard Dawson
 - _CODE NOIR_, by Quinton Barnes
 - _Calvinist Hospitality_, by Al Wootton
