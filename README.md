@@ -22,8 +22,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Calvinist Hospitality_, by Al Wootton
 - _Muuntautuja_, by Oranssi Pazuzu
 - _Ephemera_, by Fergus Jones, Perko
-- _Henki_, by Richard Dawson, Circle
-- _Dreaming the Strife for Love_, by Bedsore
 
 </details>
 
