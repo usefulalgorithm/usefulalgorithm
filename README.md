@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Intrinsic Rhythm_, by Perila
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _馬_, by betcover!!
 - _Aether Ore_, by X or Size
@@ -19,7 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _God's Country_, by Chat Pile
 - _Peasant_, by Richard Dawson
 - _CODE NOIR_, by Quinton Barnes
-- _Calvinist Hospitality_, by Al Wootton
 
 </details>
 
