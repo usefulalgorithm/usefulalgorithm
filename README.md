@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _馬_, by betcover!!
 - _Aether Ore_, by X or Size
 - _城堡_, by Jolin Tsai
@@ -23,8 +24,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Ephemera_, by Fergus Jones, Perko
 - _Henki_, by Richard Dawson, Circle
 - _Dreaming the Strife for Love_, by Bedsore
-- _Perfekt Person_, by thanks god
-- _Malcolm's Law_, by Waldo's Gift
 
 </details>
 
