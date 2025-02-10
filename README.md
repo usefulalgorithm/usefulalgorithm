@@ -20,8 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Peasant_, by Richard Dawson
 - _CODE NOIR_, by Quinton Barnes
 - _Calvinist Hospitality_, by Al Wootton
-- _Muuntautuja_, by Oranssi Pazuzu
-- _Ephemera_, by Fergus Jones, Perko
 
 </details>
 
