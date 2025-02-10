@@ -18,8 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _城堡_, by Jolin Tsai
 - _Only Good Dreams for Me_, by Zaumne
 - _God's Country_, by Chat Pile
-- _Peasant_, by Richard Dawson
-- _CODE NOIR_, by Quinton Barnes
 
 </details>
 
