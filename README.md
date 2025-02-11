@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Intrinsic Rhythm_, by Perila
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
-- _馬_, by betcover!!
 
 </details>
 
@@ -26,9 +25,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Endlessness_, by Nala Sinephro
 - _馬_, by betcover!!
 - _Muuntautuja_, by Oranssi Pazuzu
+- _Intrinsic Rhythm_, by Perila
 - _城堡_, by Jolin Tsai
 - _If I don't make it, I love u_, by Still House Plants
-- _Intrinsic Rhythm_, by Perila
 - _浪費愛情_, by 小安
 - _forge_, by KMRU
 - _Trellis_, by Lifted
