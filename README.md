@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Intrinsic Rhythm_, by Perila
-- _HEAL_, by Pavel Milyakov, Lucas Dupuy
 
 </details>
 
@@ -25,7 +24,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Endlessness_, by Nala Sinephro
 - _馬_, by betcover!!
 - _Muuntautuja_, by Oranssi Pazuzu
-- _Intrinsic Rhythm_, by Perila
 - _城堡_, by Jolin Tsai
 - _If I don't make it, I love u_, by Still House Plants
 - _浪費愛情_, by 小安
@@ -38,8 +36,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _11100011_, by Asian Glow
 - _You Only Die 1nce_, by Freddie Gibbs
 - _Energy! Come On!_, by Energy
+- _Intrinsic Rhythm_, by Perila
 - _CODE NOIR_, by Quinton Barnes
 - _Area Silenzio_, by eat-girls
+- _Peasant_, by Richard Dawson
+- _Blue Desert_, by Jack J
+- _Jordsvingninger (A Smalltown Supersound compilation of exclusive tracks)_, by Various Artists
 
 </details>
 
