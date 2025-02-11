@@ -29,6 +29,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _浪費愛情_, by 小安
 - _forge_, by KMRU
 - _Trellis_, by Lifted
+- _Intrinsic Rhythm_, by Perila
 - _Strange Meridians_, by upsammy
 - _How to Rescue Things_, by Bill Orcutt
 - _Larderello_, by Dos Monos
@@ -36,7 +37,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _11100011_, by Asian Glow
 - _You Only Die 1nce_, by Freddie Gibbs
 - _Energy! Come On!_, by Energy
-- _Intrinsic Rhythm_, by Perila
 - _CODE NOIR_, by Quinton Barnes
 - _Area Silenzio_, by eat-girls
 - _Peasant_, by Richard Dawson
