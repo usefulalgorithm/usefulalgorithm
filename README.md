@@ -14,10 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Intrinsic Rhythm_, by Perila
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _馬_, by betcover!!
-- _Aether Ore_, by X or Size
-- _城堡_, by Jolin Tsai
-- _Only Good Dreams for Me_, by Zaumne
-- _God's Country_, by Chat Pile
 
 </details>
 
