@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _choke enough_, by Oklou
+- _The Price / Mimicry_, by Bruce
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
+- _choke enough_, by Oklou
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _Aether Ore_, by X or Size
 - _Intrinsic Rhythm_, by Perila
@@ -26,15 +27,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Skinned_, by ML Buch
 - _卵_, by betcover!!
 - _Endlessness_, by Nala Sinephro
-- _馬_, by betcover!!
 - _Muuntautuja_, by Oranssi Pazuzu
+- _馬_, by betcover!!
 - _城堡_, by Jolin Tsai
 - _If I don't make it, I love u_, by Still House Plants
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _浪費愛情_, by 小安
 - _forge_, by KMRU
 - _Intrinsic Rhythm_, by Perila
-- _Trellis_, by Lifted
 - _Strange Meridians_, by upsammy
 - _How to Rescue Things_, by Bill Orcutt
 - _Larderello_, by Dos Monos
@@ -43,6 +43,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Energy! Come On!_, by Energy
 - _CODE NOIR_, by Quinton Barnes
 - _Area Silenzio_, by eat-girls
+- _Trellis_, by Lifted
 - _Peasant_, by Richard Dawson
 
 </details>
