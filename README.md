@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _choke enough_, by Oklou
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _Aether Ore_, by X or Size
