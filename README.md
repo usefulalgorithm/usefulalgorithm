@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
-- _Intrinsic Rhythm_, by Perila
 - _Aether Ore_, by X or Size
+- _Intrinsic Rhythm_, by Perila
 
 </details>
 
@@ -28,8 +29,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Muuntautuja_, by Oranssi Pazuzu
 - _城堡_, by Jolin Tsai
 - _If I don't make it, I love u_, by Still House Plants
-- _浪費愛情_, by 小安
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
+- _浪費愛情_, by 小安
 - _forge_, by KMRU
 - _Intrinsic Rhythm_, by Perila
 - _Trellis_, by Lifted
@@ -42,8 +43,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _CODE NOIR_, by Quinton Barnes
 - _Area Silenzio_, by eat-girls
 - _Peasant_, by Richard Dawson
-- _Blue Desert_, by Jack J
-- _Jordsvingninger (A Smalltown Supersound compilation of exclusive tracks)_, by Various Artists
 
 </details>
 
