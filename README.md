@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Ballads of Harry Houdini_, by Papa M
 - _The Deer Are Small And The Rabbits Are Big_, by Laura Cannell, Lori Goldston
 - _CODE NOIR_, by Quinton Barnes
 - _Transcorporeal Portal_, by Slowfoam
@@ -38,7 +39,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Intrinsic Rhythm_, by Perila
 - _CODE NOIR_, by Quinton Barnes
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
-- _How to Rescue Things_, by Bill Orcutt
 - _Larderello_, by Dos Monos
 - _11100011_, by Asian Glow
 - _You Only Die 1nce_, by Freddie Gibbs
