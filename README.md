@@ -27,14 +27,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Only Good Dreams for Me_, by Zaumne
 - _Skinned_, by ML Buch
 - _卵_, by betcover!!
-- _Endlessness_, by Nala Sinephro
 - _Muuntautuja_, by Oranssi Pazuzu
+- _Endlessness_, by Nala Sinephro
 - _馬_, by betcover!!
 - _城堡_, by Jolin Tsai
 - _If I don't make it, I love u_, by Still House Plants
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _浪費愛情_, by 小安
-- _forge_, by KMRU
 - _Intrinsic Rhythm_, by Perila
 - _Strange Meridians_, by upsammy
 - _How to Rescue Things_, by Bill Orcutt
@@ -42,6 +41,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _11100011_, by Asian Glow
 - _You Only Die 1nce_, by Freddie Gibbs
 - _Energy! Come On!_, by Energy
+- _forge_, by KMRU
 - _CODE NOIR_, by Quinton Barnes
 - _Area Silenzio_, by eat-girls
 - _Trellis_, by Lifted
