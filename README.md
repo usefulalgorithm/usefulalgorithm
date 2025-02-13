@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Aether Ore_, by X or Size
 - _Ephemera_, by Fergus Jones, Perko
 - _The Price / Mimicry_, by Bruce
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _choke enough_, by Oklou
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
-- _Aether Ore_, by X or Size
 - _Intrinsic Rhythm_, by Perila
 
 </details>
