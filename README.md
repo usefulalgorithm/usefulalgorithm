@@ -11,15 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Only Good Dreams for Me_, by Zaumne
+- _Ephemera_, by Fergus Jones, Perko
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
+- _Only Good Dreams for Me_, by Zaumne
 - _Strange Meridians_, by upsammy
 - _Aether Ore_, by X or Size
-- _Ephemera_, by Fergus Jones, Perko
 - _The Price / Mimicry_, by Bruce
 - _choke enough_, by Oklou
-- _HEAL_, by Pavel Milyakov, Lucas Dupuy
-- _Intrinsic Rhythm_, by Perila
 
 </details>
 
@@ -36,18 +34,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _If I don't make it, I love u_, by Still House Plants
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _浪費愛情_, by 小安
-- _Intrinsic Rhythm_, by Perila
 - _Strange Meridians_, by upsammy
+- _Intrinsic Rhythm_, by Perila
+- _Ephemera_, by Fergus Jones, Perko
+- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _How to Rescue Things_, by Bill Orcutt
 - _Larderello_, by Dos Monos
 - _11100011_, by Asian Glow
 - _You Only Die 1nce_, by Freddie Gibbs
 - _Energy! Come On!_, by Energy
-- _forge_, by KMRU
 - _CODE NOIR_, by Quinton Barnes
 - _Area Silenzio_, by eat-girls
 - _Trellis_, by Lifted
-- _Ephemera_, by Fergus Jones, Perko
 - _Peasant_, by Richard Dawson
 
 </details>
