@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Deer Are Small And The Rabbits Are Big_, by Laura Cannell, Lori Goldston
+- _CODE NOIR_, by Quinton Barnes
 - _Transcorporeal Portal_, by Slowfoam
 - _Ambientale (Extracts) - Compiled by Charles Bals_, by Various Artists
 - _Mirror Man_, by Robert Hood
 - _Ephemera_, by Fergus Jones, Perko
-- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
-- _Only Good Dreams for Me_, by Zaumne
 
 </details>
 
@@ -27,22 +27,22 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Skinned_, by ML Buch
 - _卵_, by betcover!!
 - _Muuntautuja_, by Oranssi Pazuzu
-- _Endlessness_, by Nala Sinephro
 - _馬_, by betcover!!
 - _城堡_, by Jolin Tsai
+- _Endlessness_, by Nala Sinephro
 - _If I don't make it, I love u_, by Still House Plants
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _Ephemera_, by Fergus Jones, Perko
 - _浪費愛情_, by 小安
 - _Strange Meridians_, by upsammy
 - _Intrinsic Rhythm_, by Perila
+- _CODE NOIR_, by Quinton Barnes
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _How to Rescue Things_, by Bill Orcutt
 - _Larderello_, by Dos Monos
 - _11100011_, by Asian Glow
 - _You Only Die 1nce_, by Freddie Gibbs
 - _Energy! Come On!_, by Energy
-- _CODE NOIR_, by Quinton Barnes
 - _Area Silenzio_, by eat-girls
 
 </details>
