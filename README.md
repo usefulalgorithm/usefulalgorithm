@@ -36,9 +36,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Ephemera_, by Fergus Jones, Perko
 - _浪費愛情_, by 小安
 - _Strange Meridians_, by upsammy
+- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Intrinsic Rhythm_, by Perila
 - _CODE NOIR_, by Quinton Barnes
-- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Larderello_, by Dos Monos
 - _11100011_, by Asian Glow
 - _You Only Die 1nce_, by Freddie Gibbs
