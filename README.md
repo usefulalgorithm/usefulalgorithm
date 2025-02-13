@@ -35,8 +35,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _浪費愛情_, by 小安
 - _Strange Meridians_, by upsammy
-- _Intrinsic Rhythm_, by Perila
 - _Ephemera_, by Fergus Jones, Perko
+- _Intrinsic Rhythm_, by Perila
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _How to Rescue Things_, by Bill Orcutt
 - _Larderello_, by Dos Monos
@@ -46,7 +46,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _CODE NOIR_, by Quinton Barnes
 - _Area Silenzio_, by eat-girls
 - _Trellis_, by Lifted
-- _Peasant_, by Richard Dawson
 
 </details>
 
