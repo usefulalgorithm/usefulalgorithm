@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Umbilical_, by Thou
 - _End of the Middle_, by Richard Dawson
 - _Ballads of Harry Houdini_, by Papa M
 - _The Deer Are Small And The Rabbits Are Big_, by Laura Cannell, Lori Goldston
