@@ -11,16 +11,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Muuntautuja_, by Oranssi Pazuzu
-- _Umbilical_, by Thou
+- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _End of the Middle_, by Richard Dawson
 - _Ballads of Harry Houdini_, by Papa M
+- _HEAL_, by Pavel Milyakov, Lucas Dupuy
+- _2020_, by Richard Dawson
+- _Muuntautuja_, by Oranssi Pazuzu
+- _Umbilical_, by Thou
 - _The Deer Are Small And The Rabbits Are Big_, by Laura Cannell, Lori Goldston
 - _CODE NOIR_, by Quinton Barnes
 - _Transcorporeal Portal_, by Slowfoam
 - _Ambientale (Extracts) - Compiled by Charles Bals_, by Various Artists
 - _Mirror Man_, by Robert Hood
-- _Ephemera_, by Fergus Jones, Perko
 
 </details>
 
@@ -29,9 +31,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Only Good Dreams for Me_, by Zaumne
 - _Skinned_, by ML Buch
-- _卵_, by betcover!!
 - _Muuntautuja_, by Oranssi Pazuzu
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
+- _卵_, by betcover!!
 - _城堡_, by Jolin Tsai
 - _Endlessness_, by Nala Sinephro
 - _If I don't make it, I love u_, by Still House Plants
@@ -39,12 +41,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _浪費愛情_, by 小安
 - _Strange Meridians_, by upsammy
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
+- _Peasant_, by Richard Dawson
 - _Intrinsic Rhythm_, by Perila
-- _馬_, by betcover!!
 - _CODE NOIR_, by Quinton Barnes
 - _Larderello_, by Dos Monos
-- _Peasant_, by Richard Dawson
 - _Energy! Come On!_, by Energy
+- _馬_, by betcover!!
 - _Area Silenzio_, by eat-girls
 - _Umbilical_, by Thou
 
