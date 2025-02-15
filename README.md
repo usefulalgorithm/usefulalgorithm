@@ -22,7 +22,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _CODE NOIR_, by Quinton Barnes
 - _Transcorporeal Portal_, by Slowfoam
 - _Ambientale (Extracts) - Compiled by Charles Bals_, by Various Artists
-- _Mirror Man_, by Robert Hood
 
 </details>
 
@@ -33,6 +32,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Skinned_, by ML Buch
 - _Muuntautuja_, by Oranssi Pazuzu
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
+- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _卵_, by betcover!!
 - _城堡_, by Jolin Tsai
 - _Endlessness_, by Nala Sinephro
@@ -40,7 +40,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Ephemera_, by Fergus Jones, Perko
 - _浪費愛情_, by 小安
 - _Strange Meridians_, by upsammy
-- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Peasant_, by Richard Dawson
 - _Intrinsic Rhythm_, by Perila
 - _CODE NOIR_, by Quinton Barnes
