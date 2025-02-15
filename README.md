@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Muuntautuja_, by Oranssi Pazuzu
 - _Umbilical_, by Thou
 - _End of the Middle_, by Richard Dawson
 - _Ballads of Harry Houdini_, by Papa M
