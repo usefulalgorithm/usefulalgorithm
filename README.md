@@ -40,7 +40,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Endlessness_, by Nala Sinephro
 - _If I don't make it, I love u_, by Still House Plants
 - _Larderello_, by Dos Monos
+- _End of the Middle_, by Richard Dawson
 - _Energy! Come On!_, by Energy
+- _Ballads of Harry Houdini_, by Papa M
 - _Area Silenzio_, by eat-girls
 - _Umbilical_, by Thou
 
