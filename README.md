@@ -11,14 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _End of the Middle_, by Richard Dawson
+- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Ballads of Harry Houdini_, by Papa M
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _2020_, by Richard Dawson
 - _Muuntautuja_, by Oranssi Pazuzu
 - _Umbilical_, by Thou
-- _The Deer Are Small And The Rabbits Are Big_, by Laura Cannell, Lori Goldston
 
 </details>
 
