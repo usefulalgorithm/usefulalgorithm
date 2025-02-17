@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _End of the Middle_, by Richard Dawson
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Ballads of Harry Houdini_, by Papa M
-- _HEAL_, by Pavel Milyakov, Lucas Dupuy
 
 </details>
 
@@ -28,20 +27,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _城堡_, by Jolin Tsai
 - _Ephemera_, by Fergus Jones, Perko
+- _End of the Middle_, by Richard Dawson
 - _浪費愛情_, by 小安
 - _Strange Meridians_, by upsammy
 - _Peasant_, by Richard Dawson
-- _卵_, by betcover!!
 - _Intrinsic Rhythm_, by Perila
 - _CODE NOIR_, by Quinton Barnes
-- _Endlessness_, by Nala Sinephro
 - _If I don't make it, I love u_, by Still House Plants
-- _Larderello_, by Dos Monos
-- _End of the Middle_, by Richard Dawson
 - _Energy! Come On!_, by Energy
 - _Ballads of Harry Houdini_, by Papa M
+- _Endlessness_, by Nala Sinephro
 - _Area Silenzio_, by eat-girls
 - _Umbilical_, by Thou
+- _卵_, by betcover!!
 
 </details>
 
