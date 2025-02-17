@@ -25,9 +25,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Muuntautuja_, by Oranssi Pazuzu
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
+- _End of the Middle_, by Richard Dawson
 - _城堡_, by Jolin Tsai
 - _Ephemera_, by Fergus Jones, Perko
-- _End of the Middle_, by Richard Dawson
 - _浪費愛情_, by 小安
 - _Strange Meridians_, by upsammy
 - _Peasant_, by Richard Dawson
