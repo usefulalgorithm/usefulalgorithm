@@ -15,9 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Ballads of Harry Houdini_, by Papa M
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
-- _2020_, by Richard Dawson
-- _Muuntautuja_, by Oranssi Pazuzu
-- _Umbilical_, by Thou
 
 </details>
 
