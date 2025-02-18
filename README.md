@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Peel_, by KMRU
 - _End of the Middle_, by Richard Dawson
 - _As If_, by Miki Yui
 - _Intrinsic Rhythm_, by Perila
@@ -24,9 +25,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Only Good Dreams for Me_, by Zaumne
 - _Skinned_, by ML Buch
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
+- _End of the Middle_, by Richard Dawson
 - _Muuntautuja_, by Oranssi Pazuzu
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
-- _End of the Middle_, by Richard Dawson
 - _Intrinsic Rhythm_, by Perila
 - _城堡_, by Jolin Tsai
 - _Ephemera_, by Fergus Jones, Perko
@@ -39,7 +40,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Ballads of Harry Houdini_, by Papa M
 - _Endlessness_, by Nala Sinephro
 - _Area Silenzio_, by eat-girls
-- _Umbilical_, by Thou
 
 </details>
 
