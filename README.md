@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Intrinsic Rhythm_, by Perila
+- _Ephemera_, by Fergus Jones, Perko
 - _As If_, by Miki Yui
 - _End of the Middle_, by Richard Dawson
-- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
-- _Ballads of Harry Houdini_, by Papa M
 
 </details>
 
