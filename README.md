@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _As If_, by Miki Yui
 - _Intrinsic Rhythm_, by Perila
 - _Ephemera_, by Fergus Jones, Perko
-- _As If_, by Miki Yui
 - _End of the Middle_, by Richard Dawson
 
 </details>
@@ -27,12 +27,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Muuntautuja_, by Oranssi Pazuzu
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _End of the Middle_, by Richard Dawson
+- _Intrinsic Rhythm_, by Perila
 - _城堡_, by Jolin Tsai
 - _Ephemera_, by Fergus Jones, Perko
 - _浪費愛情_, by 小安
 - _Strange Meridians_, by upsammy
 - _Peasant_, by Richard Dawson
-- _Intrinsic Rhythm_, by Perila
 - _CODE NOIR_, by Quinton Barnes
 - _If I don't make it, I love u_, by Still House Plants
 - _Energy! Come On!_, by Energy
