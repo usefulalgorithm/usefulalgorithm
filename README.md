@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _End of the Middle_, by Richard Dawson
 - _As If_, by Miki Yui
 - _Intrinsic Rhythm_, by Perila
-- _Ephemera_, by Fergus Jones, Perko
 
 </details>
 
