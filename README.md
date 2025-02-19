@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Följd_, by Civilistjävel!
 - _Peel_, by KMRU
 - _End of the Middle_, by Richard Dawson
 - _As If_, by Miki Yui
