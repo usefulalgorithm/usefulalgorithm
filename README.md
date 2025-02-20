@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Rack_, by The Jesus Lizard
 - _dessus oben alto up_, by Andrea Belfi, Jules Reidy
 - _Peel_, by KMRU
-- _As If_, by Miki Yui
 
 </details>
 
@@ -24,9 +23,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Only Good Dreams for Me_, by Zaumne
+- _End of the Middle_, by Richard Dawson
 - _Skinned_, by ML Buch
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
-- _End of the Middle_, by Richard Dawson
 - _Muuntautuja_, by Oranssi Pazuzu
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _Intrinsic Rhythm_, by Perila
@@ -37,10 +36,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Peasant_, by Richard Dawson
 - _CODE NOIR_, by Quinton Barnes
 - _If I don't make it, I love u_, by Still House Plants
+- _Följd_, by Civilistjävel!
 - _Energy! Come On!_, by Energy
 - _Ballads of Harry Houdini_, by Papa M
-- _Följd_, by Civilistjävel!
-- _Endlessness_, by Nala Sinephro
 
 </details>
 
