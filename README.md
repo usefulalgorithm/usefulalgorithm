@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _End of the Middle_, by Richard Dawson
 - _Följd_, by Civilistjävel!
 - _Rack_, by The Jesus Lizard
 - _dessus oben alto up_, by Andrea Belfi, Jules Reidy
 - _Peel_, by KMRU
-- _End of the Middle_, by Richard Dawson
 - _As If_, by Miki Yui
-- _Intrinsic Rhythm_, by Perila
 
 </details>
 
@@ -40,8 +39,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _If I don't make it, I love u_, by Still House Plants
 - _Energy! Come On!_, by Energy
 - _Ballads of Harry Houdini_, by Papa M
+- _Följd_, by Civilistjävel!
 - _Endlessness_, by Nala Sinephro
-- _Area Silenzio_, by eat-girls
 
 </details>
 
