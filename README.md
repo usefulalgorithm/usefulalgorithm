@@ -30,9 +30,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Ephemera_, by Fergus Jones, Perko
 - _浪費愛情_, by 小安
 - _Strange Meridians_, by upsammy
+- _Cowards_, by Squid
 - _Peasant_, by Richard Dawson
 - _CODE NOIR_, by Quinton Barnes
-- _Cowards_, by Squid
 - _Följd_, by Civilistjävel!
 - _Energy! Come On!_, by Energy
 - _Ballads of Harry Houdini_, by Papa M
