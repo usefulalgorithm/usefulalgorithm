@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Young-Girl Forever_, by Sofie Royer
 - _End of the Middle_, by Richard Dawson
 - _Följd_, by Civilistjävel!
 - _Rack_, by The Jesus Lizard
