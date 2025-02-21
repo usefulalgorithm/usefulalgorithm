@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cowards_, by Squid
 - _Young-Girl Forever_, by Sofie Royer
 - _End of the Middle_, by Richard Dawson
-- _Följd_, by Civilistjävel!
 
 </details>
 
