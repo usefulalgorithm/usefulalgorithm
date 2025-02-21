@@ -34,9 +34,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Peasant_, by Richard Dawson
 - _CODE NOIR_, by Quinton Barnes
 - _Följd_, by Civilistjävel!
+- _Cowards_, by Squid
 - _Energy! Come On!_, by Energy
 - _Ballads of Harry Houdini_, by Papa M
-- _If I don't make it, I love u_, by Still House Plants
 
 </details>
 
