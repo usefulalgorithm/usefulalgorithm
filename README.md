@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Cowards_, by Squid
 - _Young-Girl Forever_, by Sofie Royer
-- _End of the Middle_, by Richard Dawson
 
 </details>
 
@@ -33,8 +32,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Strange Meridians_, by upsammy
 - _Peasant_, by Richard Dawson
 - _CODE NOIR_, by Quinton Barnes
-- _Följd_, by Civilistjävel!
 - _Cowards_, by Squid
+- _Följd_, by Civilistjävel!
 - _Energy! Come On!_, by Energy
 - _Ballads of Harry Houdini_, by Papa M
 
