@@ -11,8 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Genuine Dexterity_, by Kenny Segal, K-The-I???
+- _Goyard Ibn Said_, by Ghais Guevara
+- _GNX_, by Kendrick Lamar
 - _Cowards_, by Squid
-- _Young-Girl Forever_, by Sofie Royer
 
 </details>
 
