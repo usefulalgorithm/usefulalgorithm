@@ -28,6 +28,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _Only Good Dreams for Me_, by Zaumne
 - _Intrinsic Rhythm_, by Perila
+- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _城堡_, by Jolin Tsai
 - _Ephemera_, by Fergus Jones, Perko
 - _浪費愛情_, by 小安
@@ -39,7 +40,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Skinned_, by ML Buch
 - _Energy! Come On!_, by Energy
 - _Ballads of Harry Houdini_, by Papa M
-- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Umbilical_, by Thou
 
 </details>
