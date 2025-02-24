@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Goyard Ibn Said_, by Ghais Guevara
 - _Cowards_, by Squid
-- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 
 </details>
 
@@ -24,15 +24,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Muuntautuja_, by Oranssi Pazuzu
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
-- _Intrinsic Rhythm_, by Perila
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
+- _Intrinsic Rhythm_, by Perila
 - _Cowards_, by Squid
 - _城堡_, by Jolin Tsai
 - _Ephemera_, by Fergus Jones, Perko
 - _Only Good Dreams for Me_, by Zaumne
+- _Goyard Ibn Said_, by Ghais Guevara
 - _浪費愛情_, by 小安
 - _Strange Meridians_, by upsammy
-- _Goyard Ibn Said_, by Ghais Guevara
 - _Peasant_, by Richard Dawson
 - _CODE NOIR_, by Quinton Barnes
 - _Följd_, by Civilistjävel!
