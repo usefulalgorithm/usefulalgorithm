@@ -28,11 +28,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Only Good Dreams for Me_, by Zaumne
 - _Intrinsic Rhythm_, by Perila
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
+- _Cowards_, by Squid
 - _城堡_, by Jolin Tsai
 - _Ephemera_, by Fergus Jones, Perko
 - _浪費愛情_, by 小安
 - _Strange Meridians_, by upsammy
-- _Cowards_, by Squid
 - _Peasant_, by Richard Dawson
 - _CODE NOIR_, by Quinton Barnes
 - _Följd_, by Civilistjävel!
