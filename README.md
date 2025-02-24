@@ -12,8 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
-- _Goyard Ibn Said_, by Ghais Guevara
-- _Cowards_, by Squid
 
 </details>
 
@@ -21,9 +19,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _End of the Middle_, by Richard Dawson
+- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Muuntautuja_, by Oranssi Pazuzu
-- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _Intrinsic Rhythm_, by Perila
 - _Cowards_, by Squid
