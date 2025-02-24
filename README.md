@@ -23,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _End of the Middle_, by Richard Dawson
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Muuntautuja_, by Oranssi Pazuzu
-- _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
+- _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _Intrinsic Rhythm_, by Perila
 - _Cowards_, by Squid
 - _城堡_, by Jolin Tsai
@@ -39,7 +39,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Skinned_, by ML Buch
 - _Energy! Come On!_, by Energy
 - _Ballads of Harry Houdini_, by Papa M
-- _Umbilical_, by Thou
 
 </details>
 
