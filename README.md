@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Birdhouse in Conduit_, by Ylayali
 - _History Will Absolve Me_, by billy woods
 - _End of the Middle_, by Richard Dawson
 - _Black Man!_, by Teller Bank$, Wino Willy
@@ -27,11 +28,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Muuntautuja_, by Oranssi Pazuzu
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
+- _Goyard Ibn Said_, by Ghais Guevara
 - _Intrinsic Rhythm_, by Perila
 - _Cowards_, by Squid
 - _城堡_, by Jolin Tsai
 - _Ephemera_, by Fergus Jones, Perko
-- _Goyard Ibn Said_, by Ghais Guevara
 - _浪費愛情_, by 小安
 - _Strange Meridians_, by upsammy
 - _Only Good Dreams for Me_, by Zaumne
