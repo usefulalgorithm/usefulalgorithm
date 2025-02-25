@@ -11,6 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _History Will Absolve Me_, by billy woods
+- _End of the Middle_, by Richard Dawson
+- _Black Man!_, by Teller Bank$, Wino Willy
+- _Goyard Ibn Said_, by Ghais Guevara
 - _Showbiz!_, by MIKE
 
 </details>
