@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Showbiz!_, by MIKE
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
-- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 
 </details>
 
