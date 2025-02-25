@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Big Hotel_, by Winged Wheel
 - _Birdhouse in Conduit_, by Ylayali
 - _History Will Absolve Me_, by billy woods
 - _End of the Middle_, by Richard Dawson
