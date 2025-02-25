@@ -11,16 +11,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
+- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _End of the Middle_, by Richard Dawson
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
+- _End of the Middle_, by Richard Dawson
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Muuntautuja_, by Oranssi Pazuzu
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
@@ -28,10 +28,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cowards_, by Squid
 - _城堡_, by Jolin Tsai
 - _Ephemera_, by Fergus Jones, Perko
-- _Only Good Dreams for Me_, by Zaumne
 - _Goyard Ibn Said_, by Ghais Guevara
 - _浪費愛情_, by 小安
 - _Strange Meridians_, by upsammy
+- _Only Good Dreams for Me_, by Zaumne
 - _Peasant_, by Richard Dawson
 - _CODE NOIR_, by Quinton Barnes
 - _Följd_, by Civilistjävel!
@@ -43,9 +43,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _金融狂熱簡史A Short History of Financial Euphoria_, by John Kenneth Galbraith－著╱許雅淑、李宗義－譯 ([link](https://hardcover.app/books/a-short-history-of-financial-euphoria-1990)). It's kinda bad.
+Just finished reading _我長在打開的樹洞_, by 程廷 Apyang Imiq ([link](https://hardcover.app/books/2021-bbd4daef-893f-4523-96e8-6096d72f9c27)). It's a good book.
 
-Gotta finish 25 books before 2026-01-01. I've read 6 so far.
+Gotta finish 25 books before 2026-01-01. I've read 7 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
