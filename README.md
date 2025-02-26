@@ -11,12 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Goyard Ibn Said_, by Ghais Guevara
+- _Chimera_, by AKKOGORILLA
+- _Larderello_, by Dos Monos
 - _Big Hotel_, by Winged Wheel
 - _Birdhouse in Conduit_, by Ylayali
 - _History Will Absolve Me_, by billy woods
 - _End of the Middle_, by Richard Dawson
 - _Black Man!_, by Teller Bank$, Wino Willy
-- _Goyard Ibn Said_, by Ghais Guevara
 - _Showbiz!_, by MIKE
 
 </details>
@@ -28,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _End of the Middle_, by Richard Dawson
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Muuntautuja_, by Oranssi Pazuzu
-- _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _Goyard Ibn Said_, by Ghais Guevara
+- _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _Intrinsic Rhythm_, by Perila
 - _Cowards_, by Squid
 - _城堡_, by Jolin Tsai
@@ -40,6 +42,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Peasant_, by Richard Dawson
 - _CODE NOIR_, by Quinton Barnes
 - _Följd_, by Civilistjävel!
+- _GNX_, by Kendrick Lamar
 - _Skinned_, by ML Buch
 - _Energy! Come On!_, by Energy
 - _Ballads of Harry Houdini_, by Papa M
