@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _If I Had a Hammer: Songs of Hope and Struggle_, by Pete Seeger
 - _Kentucky_, by Panopticon
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Goyard Ibn Said_, by Ghais Guevara
