@@ -29,8 +29,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _End of the Middle_, by Richard Dawson
-- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Goyard Ibn Said_, by Ghais Guevara
+- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Muuntautuja_, by Oranssi Pazuzu
 - _Cowards_, by Squid
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
