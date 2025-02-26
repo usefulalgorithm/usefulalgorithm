@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Kentucky_, by Panopticon
+- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Goyard Ibn Said_, by Ghais Guevara
 - _Cowards_, by Squid
 - _Chimera_, by AKKOGORILLA
