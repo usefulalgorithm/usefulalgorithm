@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Showbiz!_, by MIKE
 
 </details>
@@ -26,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cowards_, by Squid
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _Intrinsic Rhythm_, by Perila
-- _Ephemera_, by Fergus Jones, Perko
 - _Showbiz!_, by MIKE
+- _Ephemera_, by Fergus Jones, Perko
 - _Peasant_, by Richard Dawson
 - _CODE NOIR_, by Quinton Barnes
 - _Följd_, by Civilistjävel!
