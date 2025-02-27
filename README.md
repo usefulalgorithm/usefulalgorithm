@@ -11,10 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _New Harmony_, by Frail
+- _Goyard Ibn Said_, by Ghais Guevara
 - _If I Had a Hammer: Songs of Hope and Struggle_, by Pete Seeger
 - _Kentucky_, by Panopticon
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
-- _Goyard Ibn Said_, by Ghais Guevara
 - _Cowards_, by Squid
 - _Chimera_, by AKKOGORILLA
 - _Larderello_, by Dos Monos
