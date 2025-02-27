@@ -33,7 +33,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Följd_, by Civilistjävel!
 - _GNX_, by Kendrick Lamar
 - _Skinned_, by ML Buch
-- _Ballads of Harry Houdini_, by Papa M
 
 </details>
 
