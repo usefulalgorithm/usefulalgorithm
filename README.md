@@ -11,20 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Showbiz!_, by MIKE
 - _New Harmony_, by Frail
 - _Goyard Ibn Said_, by Ghais Guevara
 - _If I Had a Hammer: Songs of Hope and Struggle_, by Pete Seeger
 - _Kentucky_, by Panopticon
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Cowards_, by Squid
-- _Chimera_, by AKKOGORILLA
-- _Larderello_, by Dos Monos
-- _Big Hotel_, by Winged Wheel
-- _Birdhouse in Conduit_, by Ylayali
-- _History Will Absolve Me_, by billy woods
-- _End of the Middle_, by Richard Dawson
-- _Black Man!_, by Teller Bank$, Wino Willy
-- _Showbiz!_, by MIKE
 
 </details>
 
@@ -40,9 +33,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _Intrinsic Rhythm_, by Perila
 - _Ephemera_, by Fergus Jones, Perko
-- _Strange Meridians_, by upsammy
 - _Peasant_, by Richard Dawson
 - _CODE NOIR_, by Quinton Barnes
+- _Showbiz!_, by MIKE
 - _Följd_, by Civilistjävel!
 - _GNX_, by Kendrick Lamar
 - _Skinned_, by ML Buch
