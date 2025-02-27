@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _New Harmony_, by Frail
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Showbiz!_, by MIKE
 
