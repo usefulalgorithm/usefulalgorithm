@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Dance Tonight! Revolution Tomorrow!_, by Orchid
+- _Orchid_, by Orchid
 - _New Harmony_, by Frail
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
-- _Showbiz!_, by MIKE
 
 </details>
 
