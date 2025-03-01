@@ -36,7 +36,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _CODE NOIR_, by Quinton Barnes
 - _Följd_, by Civilistjävel!
 - _GNX_, by Kendrick Lamar
-- _Skinned_, by ML Buch
 
 </details>
 
