@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
 - _Orchid_, by Orchid
-- _Black Rain Falls_, by Wren
-- _New Harmony_, by Frail
 
 </details>
 
@@ -24,9 +22,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
+- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _End of the Middle_, by Richard Dawson
 - _Goyard Ibn Said_, by Ghais Guevara
-- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Muuntautuja_, by Oranssi Pazuzu
 - _Cowards_, by Squid
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
@@ -36,7 +34,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Peasant_, by Richard Dawson
 - _CODE NOIR_, by Quinton Barnes
 - _Följd_, by Civilistjävel!
-- _GNX_, by Kendrick Lamar
 
 </details>
 
