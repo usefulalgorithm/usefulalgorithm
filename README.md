@@ -14,9 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Goyard Ibn Said_, by Ghais Guevara
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Visit to a Grave_, by ...and its name was Epyon
-- _Genuine Dexterity_, by Kenny Segal, K-The-I???
-- _Dance Tonight! Revolution Tomorrow!_, by Orchid
-- _Orchid_, by Orchid
 
 </details>
 
@@ -25,8 +22,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
-- _End of the Middle_, by Richard Dawson
 - _Goyard Ibn Said_, by Ghais Guevara
+- _End of the Middle_, by Richard Dawson
 - _Muuntautuja_, by Oranssi Pazuzu
 - _Cowards_, by Squid
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
