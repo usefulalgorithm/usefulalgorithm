@@ -11,7 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Goyard Ibn Said_, by Ghais Guevara
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
+- _Visit to a Grave_, by ...and its name was Epyon
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
 - _Orchid_, by Orchid
