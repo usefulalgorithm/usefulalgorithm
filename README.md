@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Goyard Ibn Said_, by Ghais Guevara
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _第八作品集『無題』_, by downy
@@ -22,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
-- _Goyard Ibn Said_, by Ghais Guevara
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
+- _Goyard Ibn Said_, by Ghais Guevara
 - _End of the Middle_, by Richard Dawson
 - _Cowards_, by Squid
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
@@ -32,7 +33,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Ephemera_, by Fergus Jones, Perko
 - _Muuntautuja_, by Oranssi Pazuzu
 - _Peasant_, by Richard Dawson
-- _Följd_, by Civilistjävel!
 
 </details>
 
