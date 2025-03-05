@@ -24,14 +24,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Goyard Ibn Said_, by Ghais Guevara
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _End of the Middle_, by Richard Dawson
-- _Muuntautuja_, by Oranssi Pazuzu
 - _Cowards_, by Squid
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
+- _Muuntautuja_, by Oranssi Pazuzu
 - _Intrinsic Rhythm_, by Perila
 - _Showbiz!_, by MIKE
 - _Ephemera_, by Fergus Jones, Perko
 - _Peasant_, by Richard Dawson
-- _CODE NOIR_, by Quinton Barnes
 - _Följd_, by Civilistjävel!
 
 </details>
