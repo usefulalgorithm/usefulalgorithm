@@ -22,8 +22,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
+- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Goyard Ibn Said_, by Ghais Guevara
 - _End of the Middle_, by Richard Dawson
 - _Cowards_, by Squid
