@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _第八作品集『無題』_, by downy
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Goyard Ibn Said_, by Ghais Guevara
-- _Melt My Eyez See Your Future_, by Denzel Curry
 
 </details>
 
