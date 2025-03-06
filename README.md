@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _第八作品集『無題』_, by downy
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
-- _Goyard Ibn Said_, by Ghais Guevara
 
 </details>
 
