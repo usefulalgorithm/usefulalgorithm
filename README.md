@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Cowards_, by Squid
 - _第八作品集『無題』_, by downy
-- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 
 </details>
 
@@ -30,6 +29,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Showbiz!_, by MIKE
 - _Ephemera_, by Fergus Jones, Perko
 - _Muuntautuja_, by Oranssi Pazuzu
+- _日蝕_, by downy
 - _Peasant_, by Richard Dawson
 
 </details>
