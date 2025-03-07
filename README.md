@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Saffron Bloom_, by Saffron Bloom
 - _Frances the Mute_, by The Mars Volta
 - _Traced in Air_, by Cynic
-- _Cowards_, by Squid
 
 </details>
 
