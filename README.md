@@ -13,8 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _第八作品集『無題』_, by downy
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
-- _Saffron Bloom_, by Saffron Bloom
-- _Frances the Mute_, by The Mars Volta
 
 </details>
 
@@ -27,10 +25,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _End of the Middle_, by Richard Dawson
 - _Cowards_, by Squid
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
+- _日蝕_, by downy
 - _Intrinsic Rhythm_, by Perila
 - _Showbiz!_, by MIKE
 - _Muuntautuja_, by Oranssi Pazuzu
-- _日蝕_, by downy
 - _Peasant_, by Richard Dawson
 
 </details>
