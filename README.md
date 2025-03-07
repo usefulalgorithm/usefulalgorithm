@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Saffron Bloom_, by Saffron Bloom
 - _Frances the Mute_, by The Mars Volta
 - _Traced in Air_, by Cynic
