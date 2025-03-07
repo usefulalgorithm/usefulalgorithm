@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Saffron Bloom_, by Saffron Bloom
 - _Frances the Mute_, by The Mars Volta
 - _Traced in Air_, by Cynic
 - _Cowards_, by Squid
@@ -29,7 +30,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
 - _Intrinsic Rhythm_, by Perila
 - _Showbiz!_, by MIKE
-- _Ephemera_, by Fergus Jones, Perko
 - _Muuntautuja_, by Oranssi Pazuzu
 - _日蝕_, by downy
 - _Peasant_, by Richard Dawson
