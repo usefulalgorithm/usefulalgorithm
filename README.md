@@ -11,10 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _第八作品集『無題』_, by downy
 - _Exivious_, by Exivious
 - _Focus_, by Cynic
-- _第八作品集『無題』_, by downy
-- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 
 </details>
 
