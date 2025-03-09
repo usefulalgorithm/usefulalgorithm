@@ -23,12 +23,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Goyard Ibn Said_, by Ghais Guevara
+- _第八作品集『無題』_, by downy
 - _End of the Middle_, by Richard Dawson
 - _Cowards_, by Squid
-- _日蝕_, by downy
 - _HEAL_, by Pavel Milyakov, Lucas Dupuy
-- _foundyou_, by downy
-- _第八作品集『無題』_, by downy
 - _Intrinsic Rhythm_, by Perila
 - _Showbiz!_, by MIKE
 
