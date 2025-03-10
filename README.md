@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _End of the Middle_, by Richard Dawson
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _如果每天都可以 happy happy 誰想要sad:)) - 一起去度假_, by 陳嫺靜
-- _Exivious_, by Exivious
 
 </details>
 
@@ -31,7 +30,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _End of the Middle_, by Richard Dawson
 - _Intrinsic Rhythm_, by Perila
 - _Showbiz!_, by MIKE
-- _HEAL_, by Pavel Milyakov, Lucas Dupuy
 
 </details>
 
