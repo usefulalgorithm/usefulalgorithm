@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _第八作品集『無題』_, by downy
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 
