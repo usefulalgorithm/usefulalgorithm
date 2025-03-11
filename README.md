@@ -21,8 +21,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
-- _Goyard Ibn Said_, by Ghais Guevara
 - _第八作品集『無題』_, by downy
+- _Goyard Ibn Said_, by Ghais Guevara
 - _Cowards_, by Squid
 - _End of the Middle_, by Richard Dawson
 - _Showbiz!_, by MIKE
