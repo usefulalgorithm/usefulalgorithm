@@ -16,8 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cowards_, by Squid
 - _Reckless Things_, by Niechęć
 - _End of the Middle_, by Richard Dawson
-- _Genuine Dexterity_, by Kenny Segal, K-The-I???
-- _第八作品集『無題』_, by downy
 
 </details>
 
