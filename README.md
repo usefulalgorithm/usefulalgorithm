@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 - _Cowards_, by Squid
 - _End of the Middle_, by Richard Dawson
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
