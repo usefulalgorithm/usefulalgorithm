@@ -37,13 +37,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _我長在打開的樹洞_, by 程廷 Apyang Imiq ([link](https://hardcover.app/books/2021-bbd4daef-893f-4523-96e8-6096d72f9c27)). It's a good book.
+Just finished reading _新版臺灣棒球一百年_, by 謝仕淵 ([link](https://hardcover.app/books/b93cc34c-c4f4-4892-ad4d-0293f99b6308)). It's just meh.
 
-Gotta finish 25 books before 2026-01-01. I've read 7 so far.
+Gotta finish 25 books before 2026-01-01. I've read 8 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
 
+- _The Last Samurai_, by Helen DeWitt ([link](https://hardcover.app/books/the-last-samurai))
 - _The Absence of Myth: Writings on Surrealism_, by Georges Bataille, Michael   Richardson ([link](https://hardcover.app/books/the-absence-of-myth-writings-on-surrealism))
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
