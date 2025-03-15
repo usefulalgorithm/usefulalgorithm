@@ -21,8 +21,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _End of the Middle_, by Richard Dawson
+- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _第八作品集『無題』_, by downy
 - _Cowards_, by Squid
 - _Goyard Ibn Said_, by Ghais Guevara
