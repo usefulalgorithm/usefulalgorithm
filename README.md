@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _End of the Middle_, by Richard Dawson
 - _Reign Supreme_, by Dying Fetus
 - _Descend into Depravity (Deluxe Version)_, by Dying Fetus
-- _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 
 </details>
 
