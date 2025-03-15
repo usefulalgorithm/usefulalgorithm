@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
+- _Dead Channel Sky_, by clipping.
 - _Descend into Depravity (Deluxe Version)_, by Dying Fetus
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _End of the Middle_, by Richard Dawson
@@ -21,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _End of the Middle_, by Richard Dawson
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
+- _End of the Middle_, by Richard Dawson
 - _第八作品集『無題』_, by downy
 - _Cowards_, by Squid
 - _Goyard Ibn Said_, by Ghais Guevara
