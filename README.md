@@ -11,13 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Dead Channel Sky_, by clipping.
+- _Tassel of Ares_, by Serpent Column
 - _Halo On The Inside_, by Circuit des Yeux
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
-- _Dead Channel Sky_, by clipping.
 - _Descend into Depravity (Deluxe Version)_, by Dying Fetus
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _End of the Middle_, by Richard Dawson
-- _Reign Supreme_, by Dying Fetus
 
 </details>
 
