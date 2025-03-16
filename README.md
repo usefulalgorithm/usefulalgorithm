@@ -18,8 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tassel of Ares_, by Serpent Column
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
 - _Descend into Depravity (Deluxe Version)_, by Dying Fetus
-- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
-- _End of the Middle_, by Richard Dawson
 
 </details>
 
