@@ -11,9 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Halo On The Inside_, by Circuit des Yeux
+- _Trans-Europa Express (2009 Remaster, German Version)_, by Kraftwerk
+- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Dead Channel Sky_, by clipping.
 - _Tassel of Ares_, by Serpent Column
-- _Halo On The Inside_, by Circuit des Yeux
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
 - _Descend into Depravity (Deluxe Version)_, by Dying Fetus
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
@@ -29,8 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _第八作品集『無題』_, by downy
 - _Cowards_, by Squid
 - _Goyard Ibn Said_, by Ghais Guevara
-- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
+- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Showbiz!_, by MIKE
 - _Exivious_, by Exivious
 
