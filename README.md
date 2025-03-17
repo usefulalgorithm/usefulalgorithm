@@ -11,13 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Dead Channel Sky_, by clipping.
 - _Halo On The Inside_, by Circuit des Yeux
 - _Trans-Europa Express (2009 Remaster, German Version)_, by Kraftwerk
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
-- _Dead Channel Sky_, by clipping.
 - _Tassel of Ares_, by Serpent Column
-- _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
-- _Descend into Depravity (Deluxe Version)_, by Dying Fetus
 
 </details>
 
