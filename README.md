@@ -20,8 +20,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
-- _End of the Middle_, by Richard Dawson
 - _第八作品集『無題』_, by downy
+- _End of the Middle_, by Richard Dawson
 - _Cowards_, by Squid
 - _Goyard Ibn Said_, by Ghais Guevara
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
