@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Dead Channel Sky_, by clipping.
-- _Halo On The Inside_, by Circuit des Yeux
 
 </details>
 
