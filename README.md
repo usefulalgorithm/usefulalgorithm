@@ -13,9 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Dead Channel Sky_, by clipping.
 - _Halo On The Inside_, by Circuit des Yeux
-- _Trans-Europa Express (2009 Remaster, German Version)_, by Kraftwerk
-- _Genuine Dexterity_, by Kenny Segal, K-The-I???
-- _Tassel of Ares_, by Serpent Column
 
 </details>
 
