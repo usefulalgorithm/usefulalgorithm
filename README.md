@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
 - _Animal Death Already Breathing_, by YHWH Nailgun
 - _Dead Channel Sky_, by clipping.
 
