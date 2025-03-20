@@ -23,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _第八作品集『無題』_, by downy
 - _End of the Middle_, by Richard Dawson
-- _Cowards_, by Squid
 - _Goyard Ibn Said_, by Ghais Guevara
+- _Cowards_, by Squid
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Dead Channel Sky_, by clipping.
