@@ -14,8 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Only Good Dreams for Me_, by Zaumne
 - _The Deer Are Small And The Rabbits Are Big_, by Laura Cannell, Lori Goldston
 - _Animal Death Already Breathing_, by YHWH Nailgun
-- _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
-- _Dead Channel Sky_, by clipping.
 
 </details>
 
