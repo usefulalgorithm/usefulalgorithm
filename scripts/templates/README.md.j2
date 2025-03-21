@@ -24,20 +24,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 {% endfor %}
 </details>
 
-## 📚
-
-Just finished reading _{{ last_read.book.title }}_, by {{ last_read.authors | join(", ") }} ([link]({{ last_read.link }})). {{ last_read.verdict }}
-
-Gotta finish {{ goal.goal }} books before {{ goal.end_date.date().isoformat() }}. I've read {{ goal.progress }} so far.
-
-<details>
-<summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
-
-{% for book in currently_reading -%}
-- _{{ book.book.title }}_, by {{ book.authors | join(", ") }} ([link]({{ book.link }}))
-{% endfor %}
-</details>
-
 ## 💬
 
 GitHub says "usefulalgorithm/usefulalgorithm is a special repository", but every repository is special to me insofar as they've all induced different pain and suffering to my life.
