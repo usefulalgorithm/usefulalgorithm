@@ -26,10 +26,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _第八作品集『無題』_, by downy
 - _Goyard Ibn Said_, by Ghais Guevara
 - _End of the Middle_, by Richard Dawson
-- _Cowards_, by Squid
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Only Good Dreams for Me_, by Zaumne
+- _Cowards_, by Squid
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
 - _Dead Channel Sky_, by clipping.
 
