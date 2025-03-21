@@ -133,7 +133,8 @@ def check_hardcover() -> Tuple[UserBook, List[UserBook], Goal]:
     transport = HTTPXAsyncTransport(
         url="https://api.hardcover.app/v1/graphql",
         headers={
-            "authorization": os.environ["HARDCOVER_AUTHORIZATION"],
+            "Authorization": os.environ["HARDCOVER_AUTHORIZATION"],
+            "User-Agent": "CheckMyBooks/0.1.0 (usefulalgorithm@gmail.com)",
         },
     )
     client = Client(transport=transport, fetch_schema_from_transport=True)

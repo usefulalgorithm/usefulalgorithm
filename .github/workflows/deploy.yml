@@ -29,7 +29,6 @@ jobs:
           SPOTIPY_REDIRECT_URI: ${{ secrets.SPOTIPY_REDIRECT_URI }}
           SPOTIPY_REFRESH_TOKEN: ${{ secrets.SPOTIPY_REFRESH_TOKEN }}
           HARDCOVER_AUTHORIZATION: ${{ secrets.HARDCOVER_AUTHORIZATION }}
-          HARDCOVER_USER_ID: ${{ secrets.HARDCOVER_USER_ID }}
       - name: Deploy README.md
         run: |
           git config --global user.name 'Tsung-Ju Lii'
