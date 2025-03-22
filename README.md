@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Lahai_, by Sampha
 - _Beloved! Paradise! Jazz!?_, by McKinley Dixon
 - _In Plain Speech_, by Circuit des Yeux
 - _End of the Middle_, by Richard Dawson
