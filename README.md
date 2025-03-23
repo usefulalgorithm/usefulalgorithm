@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Halo On The Inside_, by Circuit des Yeux
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Lahai_, by Sampha
@@ -24,7 +25,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _SAYA_, by Saya Gray
 - _Only Good Dreams for Me_, by Zaumne
 - _Toilet_, by Clown Core
-- _Dead Channel Sky_, by clipping.
 
 </details>
 
