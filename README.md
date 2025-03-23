@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
+- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Lahai_, by Sampha
 - _Beloved! Paradise! Jazz!?_, by McKinley Dixon
 - _In Plain Speech_, by Circuit des Yeux
@@ -20,7 +22,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Joy In Fear_, by goat (JP)
 - _Like A Flower - The 1st Mini Album_, by IRENE
 - _SAYA_, by Saya Gray
-- _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 - _Only Good Dreams for Me_, by Zaumne
 - _Toilet_, by Clown Core
 - _Dead Channel Sky_, by clipping.
