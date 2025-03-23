@@ -34,15 +34,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _第八作品集『無題』_, by downy
-- _End of the Middle_, by Richard Dawson
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
+- _End of the Middle_, by Richard Dawson
 - _Goyard Ibn Said_, by Ghais Guevara
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Only Good Dreams for Me_, by Zaumne
 - _Cowards_, by Squid
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
 - _Dead Channel Sky_, by clipping.
-- _Halo On The Inside_, by Circuit des Yeux
 
 </details>
 
