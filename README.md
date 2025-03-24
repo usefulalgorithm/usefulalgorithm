@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Strange Meridians_, by upsammy
+- _Start A Band_, by Adebisi Shank
 - _New Harmony_, by Frail
 - _Orange Barrel Action_, by Theo Parrish
 - _Only Good Dreams for Me_, by Zaumne
