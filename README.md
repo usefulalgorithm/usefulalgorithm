@@ -17,9 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _God's Country_, by Chat Pile
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 - _Start A Band_, by Adebisi Shank
-- _Genuine Dexterity_, by Kenny Segal, K-The-I???
-- _Lahai_, by Sampha
-- _Beloved! Paradise! Jazz!?_, by McKinley Dixon
 
 </details>
 
