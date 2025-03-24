@@ -25,7 +25,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Joy In Fear_, by goat (JP)
 - _Like A Flower - The 1st Mini Album_, by IRENE
 - _SAYA_, by Saya Gray
-- _Only Good Dreams for Me_, by Zaumne
 
 </details>
 
