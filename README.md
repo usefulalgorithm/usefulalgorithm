@@ -11,11 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Only Good Dreams for Me_, by Zaumne
 - _Halo On The Inside_, by Circuit des Yeux
-- _Neither Here Nor There_, by Kevin Drumm
-- _God's Country_, by Chat Pile
-- _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 
 </details>
 
@@ -32,7 +30,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Halo On The Inside_, by Circuit des Yeux
 - _Cowards_, by Squid
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
-- _Dead Channel Sky_, by clipping.
 
 </details>
 
