@@ -11,9 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
+- _New Harmony_, by Frail
+- _Orange Barrel Action_, by Theo Parrish
 - _Only Good Dreams for Me_, by Zaumne
-- _Halo On The Inside_, by Circuit des Yeux
+- _Nothing Sticks_, by Pictoria Vark
+- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 
 </details>
 
@@ -21,9 +23,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
+- _Only Good Dreams for Me_, by Zaumne
 - _第八作品集『無題』_, by downy
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
-- _Only Good Dreams for Me_, by Zaumne
 - _End of the Middle_, by Richard Dawson
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Goyard Ibn Said_, by Ghais Guevara
