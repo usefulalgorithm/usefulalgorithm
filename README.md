@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Neither Here Nor There_, by Kevin Drumm
 - _God's Country_, by Chat Pile
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
-- _Start A Band_, by Adebisi Shank
 
 </details>
 
@@ -26,8 +25,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _第八作品集『無題』_, by downy
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
-- _End of the Middle_, by Richard Dawson
 - _Only Good Dreams for Me_, by Zaumne
+- _End of the Middle_, by Richard Dawson
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Goyard Ibn Said_, by Ghais Guevara
 - _Halo On The Inside_, by Circuit des Yeux
