@@ -34,6 +34,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Halo On The Inside_, by Circuit des Yeux
 - _Cowards_, by Squid
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
+- _Dead Channel Sky_, by clipping.
 
 </details>
 
