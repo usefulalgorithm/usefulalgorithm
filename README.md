@@ -11,7 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Your Lungs And Your Tongues_, by Vazz
+- _New Dawn_, by Marshall Allen
 - _Gift Songs_, by Jefre Cantu-Ledesma
+- _Pruning_, by Memotone
 - _Orange Barrel Action_, by Theo Parrish
 - _Strange Meridians_, by upsammy
 
