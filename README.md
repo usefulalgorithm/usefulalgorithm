@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Pruning_, by Memotone
 - _Gift Songs_, by Jefre Cantu-Ledesma
 - _Strange Meridians_, by upsammy
 - _Your Lungs And Your Tongues_, by Vazz
