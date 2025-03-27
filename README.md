@@ -11,11 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Strange Meridians_, by upsammy
 - _Gift Songs_, by Jefre Cantu-Ledesma
+- _Strange Meridians_, by upsammy
 - _Your Lungs And Your Tongues_, by Vazz
 - _New Dawn_, by Marshall Allen
-- _Pruning_, by Memotone
 
 </details>
 
@@ -30,6 +29,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Halo On The Inside_, by Circuit des Yeux
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
+- _Gift Songs_, by Jefre Cantu-Ledesma
 - _Cowards_, by Squid
 - _Dead Channel Sky_, by clipping.
 
