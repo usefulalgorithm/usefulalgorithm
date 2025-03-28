@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Gift Songs_, by Jefre Cantu-Ledesma
 - _Halo On The Inside_, by Circuit des Yeux
 - _Start A Band_, by Adebisi Shank
 - _Pruning_, by Memotone
-- _Gift Songs_, by Jefre Cantu-Ledesma
 - _Strange Meridians_, by upsammy
 - _Your Lungs And Your Tongues_, by Vazz
-- _New Dawn_, by Marshall Allen
 
 </details>
 
