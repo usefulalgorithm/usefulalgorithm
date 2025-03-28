@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _End of the Middle_, by Richard Dawson
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 - _Gift Songs_, by Jefre Cantu-Ledesma
 - _Halo On The Inside_, by Circuit des Yeux
 - _Start A Band_, by Adebisi Shank
 - _Pruning_, by Memotone
-- _Strange Meridians_, by upsammy
 
 </details>
 
