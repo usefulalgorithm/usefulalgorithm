@@ -30,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Halo On The Inside_, by Circuit des Yeux
-- _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
 - _Gift Songs_, by Jefre Cantu-Ledesma
+- _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
 - _Cowards_, by Squid
 - _Dead Channel Sky_, by clipping.
 - _Goyard Ibn Said_, by Ghais Guevara
