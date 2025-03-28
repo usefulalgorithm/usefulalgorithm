@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _End of the Middle_, by Richard Dawson
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 - _Halo On The Inside_, by Circuit des Yeux
-- _Start A Band_, by Adebisi Shank
-- _Pruning_, by Memotone
 
 </details>
 
