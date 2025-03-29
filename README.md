@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Gift Songs_, by Jefre Cantu-Ledesma
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _THE BOOK 2_, by YOASOBI
 - _THE BOOK_, by YOASOBI
 - _歪曲_, by Shing02
 - _Orange Barrel Action_, by Theo Parrish
-- _Gift Songs_, by Jefre Cantu-Ledesma
 - _End of the Middle_, by Richard Dawson
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 
@@ -31,8 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _End of the Middle_, by Richard Dawson
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
-- _Halo On The Inside_, by Circuit des Yeux
 - _Gift Songs_, by Jefre Cantu-Ledesma
+- _Halo On The Inside_, by Circuit des Yeux
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
 - _Cowards_, by Squid
 - _Dead Channel Sky_, by clipping.
