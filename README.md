@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
+- _THE BOOK 2_, by YOASOBI
+- _THE BOOK_, by YOASOBI
 - _歪曲_, by Shing02
 - _Orange Barrel Action_, by Theo Parrish
 - _Gift Songs_, by Jefre Cantu-Ledesma
