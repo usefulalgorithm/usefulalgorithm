@@ -37,6 +37,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
 - _Cowards_, by Squid
 - _Dead Channel Sky_, by clipping.
+- _Exivious_, by Exivious
 - _Goyard Ibn Said_, by Ghais Guevara
 
 </details>
