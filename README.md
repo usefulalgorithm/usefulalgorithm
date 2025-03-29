@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Gift Songs_, by Jefre Cantu-Ledesma
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _THE BOOK 2_, by YOASOBI
