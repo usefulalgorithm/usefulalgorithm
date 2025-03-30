@@ -37,10 +37,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Gift Songs_, by Jefre Cantu-Ledesma
 - _Halo On The Inside_, by Circuit des Yeux
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
+- _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Cowards_, by Squid
 - _Dead Channel Sky_, by clipping.
 - _Exivious_, by Exivious
-- _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Goyard Ibn Said_, by Ghais Guevara
 
 </details>
