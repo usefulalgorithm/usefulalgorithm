@@ -34,15 +34,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 - _End of the Middle_, by Richard Dawson
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
-- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _Gift Songs_, by Jefre Cantu-Ledesma
 - _Halo On The Inside_, by Circuit des Yeux
+- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Cowards_, by Squid
 - _Dead Channel Sky_, by clipping.
 - _Exivious_, by Exivious
 - _Goyard Ibn Said_, by Ghais Guevara
+- _Start A Band_, by Adebisi Shank
 
 </details>
 
