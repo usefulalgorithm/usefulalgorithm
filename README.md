@@ -41,8 +41,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cowards_, by Squid
 - _Dead Channel Sky_, by clipping.
 - _Exivious_, by Exivious
-- _Goyard Ibn Said_, by Ghais Guevara
-- _Start A Band_, by Adebisi Shank
 
 </details>
 
