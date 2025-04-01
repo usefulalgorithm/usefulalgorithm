@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Niet Zonder Reden_, by Birdguy
 - _Pruning_, by Memotone
+- _Niet Zonder Reden_, by Birdguy
 - _Gift Songs_, by Jefre Cantu-Ledesma
 - _A Primer of Holy Words_, by Thou
 - _IOX_, by LA Timpa
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
-- _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 
 </details>
 
@@ -35,6 +34,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Cowards_, by Squid
+- _Pruning_, by Memotone
 - _Dead Channel Sky_, by clipping.
 - _Exivious_, by Exivious
 
