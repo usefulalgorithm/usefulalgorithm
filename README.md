@@ -21,7 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _THE BOOK 2_, by YOASOBI
 - _THE BOOK_, by YOASOBI
 - _歪曲_, by Shing02
-- _Orange Barrel Action_, by Theo Parrish
 
 </details>
 
