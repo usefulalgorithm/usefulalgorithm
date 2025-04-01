@@ -18,9 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Pruning_, by Memotone
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
-- _THE BOOK 2_, by YOASOBI
-- _THE BOOK_, by YOASOBI
-- _歪曲_, by Shing02
 
 </details>
 
