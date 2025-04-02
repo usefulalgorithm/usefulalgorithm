@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Niet Zonder Reden_, by Birdguy
 - _Gift Songs_, by Jefre Cantu-Ledesma
 - _A Primer of Holy Words_, by Thou
-- _IOX_, by LA Timpa
-- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 
 </details>
 
