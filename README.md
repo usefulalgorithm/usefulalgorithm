@@ -11,10 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Niet Zonder Reden_, by Birdguy
 - _Pruning_, by Memotone
+- _Niet Zonder Reden_, by Birdguy
 - _Gift Songs_, by Jefre Cantu-Ledesma
-- _A Primer of Holy Words_, by Thou
 
 </details>
 
