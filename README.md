@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Halo On The Inside_, by Circuit des Yeux
 - _Even The Horizon Knows Its Bounds_, by Lawrence English
 - _Niet Zonder Reden_, by Birdguy
 - _Pruning_, by Memotone
