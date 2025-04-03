@@ -11,11 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Goldstar_, by Imperial Triumphant
+- _Pruning_, by Memotone
+- _Comedia_, by Racine
+- _IOX_, by LA Timpa
 - _Halo On The Inside_, by Circuit des Yeux
 - _Even The Horizon Knows Its Bounds_, by Lawrence English
 - _Niet Zonder Reden_, by Birdguy
-- _Pruning_, by Memotone
-- _Gift Songs_, by Jefre Cantu-Ledesma
 
 </details>
 
@@ -27,14 +29,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Gift Songs_, by Jefre Cantu-Ledesma
 - _End of the Middle_, by Richard Dawson
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
-- _第八作品集『無題』_, by downy
 - _Halo On The Inside_, by Circuit des Yeux
+- _第八作品集『無題』_, by downy
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
 - _Pruning_, by Memotone
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
-- _Cowards_, by Squid
 - _Dead Channel Sky_, by clipping.
 - _Exivious_, by Exivious
+- _Start A Band_, by Adebisi Shank
 
 </details>
 
