@@ -24,9 +24,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Only Good Dreams for Me_, by Zaumne
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
-- _第八作品集『無題』_, by downy
 - _Gift Songs_, by Jefre Cantu-Ledesma
 - _End of the Middle_, by Richard Dawson
+- _第八作品集『無題』_, by downy
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Halo On The Inside_, by Circuit des Yeux
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
