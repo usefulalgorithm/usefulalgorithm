@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Mossed Capable Of Being Observant_, by Angel R, Florian T M Zeisig
 - _Goldstar_, by Imperial Triumphant
 - _Pruning_, by Memotone
 - _Comedia_, by Racine
