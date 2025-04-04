@@ -37,7 +37,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Pruning_, by Memotone
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Dead Channel Sky_, by clipping.
-- _Exivious_, by Exivious
 - _Start A Band_, by Adebisi Shank
 
 </details>
