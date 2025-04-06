@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Alluvion_, by Mizmor, Hell
 - _Comedia_, by Racine
 - _Cafe Tom Tom_, by Cities Aviv
 - _IOX_, by LA Timpa
