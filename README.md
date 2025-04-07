@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _Pruning_, by Memotone
 - _Even The Horizon Knows Its Bounds_, by Lawrence English
 - _Alluvion_, by Mizmor, Hell
 - _Comedia_, by Racine
-- _Cafe Tom Tom_, by Cities Aviv
-- _IOX_, by LA Timpa
 
 </details>
 
@@ -28,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Gift Songs_, by Jefre Cantu-Ledesma
 - _End of the Middle_, by Richard Dawson
 - _Halo On The Inside_, by Circuit des Yeux
-- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Pruning_, by Memotone
+- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
 - _第八作品集『無題』_, by downy
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
