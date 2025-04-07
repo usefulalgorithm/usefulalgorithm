@@ -11,16 +11,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Pruning_, by Memotone
+- _Even The Horizon Knows Its Bounds_, by Lawrence English
 - _Alluvion_, by Mizmor, Hell
 - _Comedia_, by Racine
 - _Cafe Tom Tom_, by Cities Aviv
 - _IOX_, by LA Timpa
 - _Mossed Capable Of Being Observant_, by Angel R, Florian T M Zeisig
 - _Goldstar_, by Imperial Triumphant
-- _Pruning_, by Memotone
 - _Halo On The Inside_, by Circuit des Yeux
-- _Even The Horizon Knows Its Bounds_, by Lawrence English
-- _Niet Zonder Reden_, by Birdguy
 
 </details>
 
