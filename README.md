@@ -12,9 +12,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
+- _Alluvion_, by Mizmor, Hell
 - _Pruning_, by Memotone
 - _Even The Horizon Knows Its Bounds_, by Lawrence English
-- _Alluvion_, by Mizmor, Hell
 - _Comedia_, by Racine
 
 </details>
