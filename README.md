@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Alluvion_, by Mizmor, Hell
 - _Pruning_, by Memotone
 - _Even The Horizon Knows Its Bounds_, by Lawrence English
-- _Comedia_, by Racine
 
 </details>
 
