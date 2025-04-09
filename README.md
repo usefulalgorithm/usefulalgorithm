@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Lonely People With Power_, by Deafheaven
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _Alluvion_, by Mizmor, Hell
 - _Pruning_, by Memotone
