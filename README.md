@@ -11,10 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Lonely People With Power_, by Deafheaven
 - _Ghost Note_, by Kim Hiorthøy
 - _Even The Horizon Knows Its Bounds_, by Lawrence English
-- _Lonely People With Power_, by Deafheaven
-- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 
 </details>
 
