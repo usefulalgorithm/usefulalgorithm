@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Even The Horizon Knows Its Bounds_, by Lawrence English
 - _Lonely People With Power_, by Deafheaven
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
-- _Alluvion_, by Mizmor, Hell
 
 </details>
 
@@ -27,8 +26,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Halo On The Inside_, by Circuit des Yeux
 - _Pruning_, by Memotone
 - _End of the Middle_, by Richard Dawson
-- _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
+- _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Dead Channel Sky_, by clipping.
 - _Comedia_, by Racine
