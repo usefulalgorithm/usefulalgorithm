@@ -24,14 +24,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Gift Songs_, by Jefre Cantu-Ledesma
 - _Halo On The Inside_, by Circuit des Yeux
 - _Pruning_, by Memotone
-- _End of the Middle_, by Richard Dawson
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Dead Channel Sky_, by clipping.
 - _Comedia_, by Racine
+- _End of the Middle_, by Richard Dawson
 - _Start A Band_, by Adebisi Shank
 - _Toilet_, by Clown Core
+- _Lonely People With Power_, by Deafheaven
 - _Strange Meridians_, by upsammy
 - _Descend Into Depravity_, by Dying Fetus
 - _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
