@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Ghost Note_, by Kim Hiorthøy
+- _Even The Horizon Knows Its Bounds_, by Lawrence English
 - _Lonely People With Power_, by Deafheaven
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _Alluvion_, by Mizmor, Hell
-- _Pruning_, by Memotone
-- _Even The Horizon Knows Its Bounds_, by Lawrence English
 
 </details>
 
@@ -25,11 +25,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Only Good Dreams for Me_, by Zaumne
 - _Gift Songs_, by Jefre Cantu-Ledesma
 - _Halo On The Inside_, by Circuit des Yeux
-- _End of the Middle_, by Richard Dawson
 - _Pruning_, by Memotone
+- _End of the Middle_, by Richard Dawson
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
-- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Dead Channel Sky_, by clipping.
 - _Comedia_, by Racine
@@ -37,6 +36,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Toilet_, by Clown Core
 - _Strange Meridians_, by upsammy
 - _Descend Into Depravity_, by Dying Fetus
+- _Decide Which Way The Eyes Are Looking_, by Lina Tullgren
 
 </details>
 
