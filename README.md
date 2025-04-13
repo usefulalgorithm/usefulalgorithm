@@ -33,6 +33,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Strange Meridians_, by upsammy
 - _Ghost Note_, by Kim Hiorthøy
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
+- _Pizzazz_, by Racine
+- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 
 </details>
 
