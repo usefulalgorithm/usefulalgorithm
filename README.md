@@ -11,9 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Ghost Note_, by Kim Hiorthøy
 - _Lonely People With Power_, by Deafheaven
-- _Even The Horizon Knows Its Bounds_, by Lawrence English
+- _Ghost Note_, by Kim Hiorthøy
 
 </details>
 
