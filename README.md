@@ -21,15 +21,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Only Good Dreams for Me_, by Zaumne
 - _Gift Songs_, by Jefre Cantu-Ledesma
-- _Halo On The Inside_, by Circuit des Yeux
 - _Pruning_, by Memotone
-- _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
+- _Halo On The Inside_, by Circuit des Yeux
+- _Lonely People With Power_, by Deafheaven
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Comedia_, by Racine
 - _Start A Band_, by Adebisi Shank
+- _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 - _Dead Channel Sky_, by clipping.
 - _Toilet_, by Clown Core
-- _Lonely People With Power_, by Deafheaven
 - _Strange Meridians_, by upsammy
 - _Ghost Note_, by Kim Hiorthøy
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
