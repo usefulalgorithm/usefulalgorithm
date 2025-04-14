@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _Lonely People With Power_, by Deafheaven
 - _Ghost Note_, by Kim Hiorthøy
 
@@ -28,13 +29,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Comedia_, by Racine
 - _Start A Band_, by Adebisi Shank
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
-- _Dead Channel Sky_, by clipping.
 - _Toilet_, by Clown Core
 - _Strange Meridians_, by upsammy
+- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
+- _Dead Channel Sky_, by clipping.
 - _Ghost Note_, by Kim Hiorthøy
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
 - _Pizzazz_, by Racine
-- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 
 </details>
 
