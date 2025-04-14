@@ -22,8 +22,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Only Good Dreams for Me_, by Zaumne
 - _Gift Songs_, by Jefre Cantu-Ledesma
 - _Pruning_, by Memotone
-- _Halo On The Inside_, by Circuit des Yeux
 - _Lonely People With Power_, by Deafheaven
+- _Halo On The Inside_, by Circuit des Yeux
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Comedia_, by Racine
 - _Start A Band_, by Adebisi Shank
