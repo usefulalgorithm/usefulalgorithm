@@ -28,27 +28,25 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Comedia_, by Racine
 - _Start A Band_, by Adebisi Shank
+- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 - _Toilet_, by Clown Core
 - _Strange Meridians_, by upsammy
-- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
-- _Dead Channel Sky_, by clipping.
 - _Ghost Note_, by Kim Hiorthøy
+- _Dead Channel Sky_, by clipping.
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
-- _Pizzazz_, by Racine
 
 </details>
 
 ## 📚
 
-Just finished reading _新版臺灣棒球一百年_, by 謝仕淵 ([link](https://hardcover.app/books/b93cc34c-c4f4-4892-ad4d-0293f99b6308)). It's just meh.
+Just finished reading _The Last Samurai_, by Helen DeWitt ([link](https://hardcover.app/books/the-last-samurai)). It's just meh.
 
-Gotta finish 25 books before 2026-01-01. I've read 8 so far.
+Gotta finish 25 books before 2026-01-01. I've read 9 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
 
-- _The Last Samurai_, by Helen DeWitt ([link](https://hardcover.app/books/the-last-samurai))
 - _The Absence of Myth: Writings on Surrealism_, by Georges Bataille, Michael   Richardson ([link](https://hardcover.app/books/the-absence-of-myth-writings-on-surrealism))
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
