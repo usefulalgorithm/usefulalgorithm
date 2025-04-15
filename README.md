@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Qwizard_, by Pub
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _Ghost Note_, by Kim Hiorthøy
-- _Lonely People With Power_, by Deafheaven
 
 </details>
 
@@ -35,7 +34,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Toilet_, by Clown Core
 - _Strange Meridians_, by upsammy
 - _Ghost Note_, by Kim Hiorthøy
-- _Dead Channel Sky_, by clipping.
+- _IOX_, by LA Timpa
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
 - _Pizzazz_, by Racine
 
