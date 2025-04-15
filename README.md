@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _IOX_, by LA Timpa
 - _Qwizard_, by Pub
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _Ghost Note_, by Kim Hiorthøy
