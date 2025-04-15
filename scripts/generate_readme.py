@@ -10,17 +10,16 @@ current_dir = pathlib.Path(__file__).parent.resolve()
 
 def generate_readme() -> None:
     latest_albums, top_albums = check_spotify()
-    # It seems hardcover stopped letting me call this in github workflow...
-    # last_read, currently_reading, goal = check_hardcover()
+    last_read, currently_reading, goal = check_hardcover()
     template = Environment(loader=FileSystemLoader(current_dir)).get_template(
         "templates/README.md.j2"
     )
     rendered = template.render(
         latest_albums=latest_albums,
         top_albums=top_albums,
-        # last_read=last_read,
-        # currently_reading=currently_reading,
-        # goal=goal,
+        last_read=last_read,
+        currently_reading=currently_reading,
+        goal=goal,
     )
     logger.info(rendered)
     with open(current_dir.parent / "README.md", "w") as f:
