@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Qwizard_, by Pub
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _Ghost Note_, by Kim Hiorthøy
 - _Lonely People With Power_, by Deafheaven
@@ -25,10 +26,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Pruning_, by Memotone
 - _Lonely People With Power_, by Deafheaven
 - _Halo On The Inside_, by Circuit des Yeux
+- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Comedia_, by Racine
 - _Start A Band_, by Adebisi Shank
-- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 - _Toilet_, by Clown Core
 - _Strange Meridians_, by upsammy
