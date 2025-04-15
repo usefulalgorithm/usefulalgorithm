@@ -12,8 +12,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
-- _Lonely People With Power_, by Deafheaven
 - _Ghost Note_, by Kim Hiorthøy
+- _Lonely People With Power_, by Deafheaven
 
 </details>
 
