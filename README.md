@@ -36,6 +36,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Ghost Note_, by Kim Hiorthøy
 - _Dead Channel Sky_, by clipping.
 - _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
+- _Pizzazz_, by Racine
 
 </details>
 
