@@ -20,6 +20,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
+- _Kingdom Come: Deliverance II (Original Soundtrack Essentials)_, by Jan Valta, Adam Sporka
 - _Only Good Dreams for Me_, by Zaumne
 - _Gift Songs_, by Jefre Cantu-Ledesma
 - _Pruning_, by Memotone
@@ -34,6 +35,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Strange Meridians_, by upsammy
 - _Ghost Note_, by Kim Hiorthøy
 - _IOX_, by LA Timpa
+- _Qwizard_, by Pub
 - _Pizzazz_, by Racine
 
 </details>
