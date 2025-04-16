@@ -35,7 +35,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Strange Meridians_, by upsammy
 - _Ghost Note_, by Kim Hiorthøy
 - _IOX_, by LA Timpa
-- _This Is the Album of a Band Called Adebisi Shank_, by Adebisi Shank
 - _Pizzazz_, by Racine
 
 </details>
