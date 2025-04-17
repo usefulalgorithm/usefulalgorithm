@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Your Lungs And Your Tongues_, by Vazz
+- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _Kingdom Come: Deliverance II (Original Soundtrack Essentials)_, by Jan Valta, Adam Sporka
 - _Qwizard_, by Pub
-- _IOX_, by LA Timpa
 
 </details>
 
