@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Foel Tower_, by Quade
 - _Kingdom Come: Deliverance II (Original Soundtrack Essentials)_, by Jan Valta, Adam Sporka
 - _Stochastic Drift_, by Barker
 - _Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]_, by John Coltrane
@@ -37,11 +38,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 - _IOX_, by LA Timpa
 - _Ghost Note_, by Kim Hiorthøy
+- _Stochastic Drift_, by Barker
 - _Strange Meridians_, by upsammy
 - _Qwizard_, by Pub
-- _Stochastic Drift_, by Barker
 - _Pizzazz_, by Racine
-- _Your Lungs And Your Tongues_, by Vazz
 
 </details>
 
