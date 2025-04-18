@@ -11,13 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Kingdom Come: Deliverance II (Original Soundtrack Essentials)_, by Jan Valta, Adam Sporka
 - _Stochastic Drift_, by Barker
 - _Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]_, by John Coltrane
 - _IOX_, by LA Timpa
 - _Alluvion_, by Mizmor, Hell
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _Your Lungs And Your Tongues_, by Vazz
-- _Kingdom Come: Deliverance II (Original Soundtrack Essentials)_, by Jan Valta, Adam Sporka
 
 </details>
 
