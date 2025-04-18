@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _IOX_, by LA Timpa
 - _Alluvion_, by Mizmor, Hell
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _Stochastic Drift_, by Barker
