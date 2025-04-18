@@ -17,7 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Stochastic Drift_, by Barker
 - _Your Lungs And Your Tongues_, by Vazz
 - _Kingdom Come: Deliverance II (Original Soundtrack Essentials)_, by Jan Valta, Adam Sporka
-- _Qwizard_, by Pub
 
 </details>
 
