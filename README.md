@@ -11,10 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Stochastic Drift_, by Barker
+- _Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]_, by John Coltrane
 - _IOX_, by LA Timpa
 - _Alluvion_, by Mizmor, Hell
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
-- _Stochastic Drift_, by Barker
 - _Your Lungs And Your Tongues_, by Vazz
 - _Kingdom Come: Deliverance II (Original Soundtrack Essentials)_, by Jan Valta, Adam Sporka
 
@@ -34,10 +35,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Comedia_, by Racine
 - _Start A Band_, by Adebisi Shank
 - _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
-- _Ghost Note_, by Kim Hiorthøy
 - _IOX_, by LA Timpa
+- _Ghost Note_, by Kim Hiorthøy
 - _Strange Meridians_, by upsammy
 - _Qwizard_, by Pub
+- _Stochastic Drift_, by Barker
 - _Pizzazz_, by Racine
 - _Your Lungs And Your Tongues_, by Vazz
 
