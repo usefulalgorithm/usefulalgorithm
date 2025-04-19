@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _The Foel Tower_, by Quade
 - _Stochastic Drift_, by Barker
+- _The Foel Tower_, by Quade
 - _Blue Veil_, by Lucy Railton
 - _Kingdom Come: Deliverance II (Original Soundtrack Essentials)_, by Jan Valta, Adam Sporka
 - _Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]_, by John Coltrane
