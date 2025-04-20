@@ -28,20 +28,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Gift Songs_, by Jefre Cantu-Ledesma
 - _Pruning_, by Memotone
 - _Lonely People With Power_, by Deafheaven
-- _Halo On The Inside_, by Circuit des Yeux
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
+- _Halo On The Inside_, by Circuit des Yeux
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Only Good Dreams for Me_, by Zaumne
 - _Comedia_, by Racine
-- _Start A Band_, by Adebisi Shank
 - _Stochastic Drift_, by Barker
 - _IOX_, by LA Timpa
 - _Ghost Note_, by Kim Hiorthøy
-- _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
 - _Strange Meridians_, by upsammy
 - _Qwizard_, by Pub
 - _Pizzazz_, by Racine
-- _Canada Geese_, by Quade
+- _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
+- _Start A Band_, by Adebisi Shank
 
 </details>
 
