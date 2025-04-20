@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Cult Subterranea_, by Celestaphone, Dealers of God
+- _Heavy Rocks (2011)_, by Boris
 - _Följd_, by Civilistjävel!
 - _The Foel Tower_, by Quade
 - _Stochastic Drift_, by Barker
