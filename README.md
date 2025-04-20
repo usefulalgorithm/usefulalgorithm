@@ -11,14 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Stochastic Drift_, by Barker
+- _Följd_, by Civilistjävel!
 - _The Foel Tower_, by Quade
+- _Stochastic Drift_, by Barker
 - _Blue Veil_, by Lucy Railton
 - _Kingdom Come: Deliverance II (Original Soundtrack Essentials)_, by Jan Valta, Adam Sporka
 - _Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]_, by John Coltrane
 - _IOX_, by LA Timpa
-- _Alluvion_, by Mizmor, Hell
-- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 
 </details>
 
@@ -42,6 +41,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Strange Meridians_, by upsammy
 - _Qwizard_, by Pub
 - _Pizzazz_, by Racine
+- _Canada Geese_, by Quade
 
 </details>
 
