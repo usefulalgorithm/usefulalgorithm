@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Stochastic Drift_, by Barker
+- _IOX_, by LA Timpa
 - _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Heavy Rocks (2011)_, by Boris
 - _Följd_, by Civilistjävel!
 - _The Foel Tower_, by Quade
-- _Stochastic Drift_, by Barker
-- _Blue Veil_, by Lucy Railton
-- _Kingdom Come: Deliverance II (Original Soundtrack Essentials)_, by Jan Valta, Adam Sporka
 
 </details>
 
@@ -30,17 +29,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Lonely People With Power_, by Deafheaven
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _Halo On The Inside_, by Circuit des Yeux
-- _(What's The Story) Morning Glory? [Remastered]_, by Oasis
-- _Only Good Dreams for Me_, by Zaumne
-- _Comedia_, by Racine
 - _Stochastic Drift_, by Barker
 - _IOX_, by LA Timpa
+- _(What's The Story) Morning Glory? [Remastered]_, by Oasis
+- _Comedia_, by Racine
+- _Only Good Dreams for Me_, by Zaumne
 - _Ghost Note_, by Kim Hiorthøy
 - _Strange Meridians_, by upsammy
 - _Qwizard_, by Pub
 - _Pizzazz_, by Racine
-- _如果每天都可以 happy happy 誰想要sad:＊- 合作的秘密_, by 陳嫺靜
-- _Start A Band_, by Adebisi Shank
+- _Your Lungs And Your Tongues_, by Vazz
 
 </details>
 
