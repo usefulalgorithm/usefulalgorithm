@@ -11,11 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Följd_, by Civilistjävel!
 - _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Stochastic Drift_, by Barker
 - _IOX_, by LA Timpa
-- _Heavy Rocks (2011)_, by Boris
-- _Följd_, by Civilistjävel!
 
 </details>
 
@@ -31,14 +30,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _IOX_, by LA Timpa
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Comedia_, by Racine
-- _Only Good Dreams for Me_, by Zaumne
 - _Ghost Note_, by Kim Hiorthøy
+- _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Strange Meridians_, by upsammy
 - _Halo On The Inside_, by Circuit des Yeux
 - _Qwizard_, by Pub
-- _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Pizzazz_, by Racine
 - _Your Lungs And Your Tongues_, by Vazz
+- _The Foel Tower_, by Quade
+- _Följd_, by Civilistjävel!
 
 </details>
 
