@@ -28,7 +28,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Pruning_, by Memotone
 - _Lonely People With Power_, by Deafheaven
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
-- _Halo On The Inside_, by Circuit des Yeux
 - _Stochastic Drift_, by Barker
 - _IOX_, by LA Timpa
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
@@ -36,7 +35,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Only Good Dreams for Me_, by Zaumne
 - _Ghost Note_, by Kim Hiorthøy
 - _Strange Meridians_, by upsammy
+- _Halo On The Inside_, by Circuit des Yeux
 - _Qwizard_, by Pub
+- _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Pizzazz_, by Racine
 - _Your Lungs And Your Tongues_, by Vazz
 
