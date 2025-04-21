@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _IOX_, by LA Timpa
 - _Heavy Rocks (2011)_, by Boris
 - _Följd_, by Civilistjävel!
-- _The Foel Tower_, by Quade
 
 </details>
 
