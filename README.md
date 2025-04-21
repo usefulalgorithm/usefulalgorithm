@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Följd_, by Civilistjävel!
 - _Cult Subterranea_, by Celestaphone, Dealers of God
+- _Följd_, by Civilistjävel!
 - _Stochastic Drift_, by Barker
 - _IOX_, by LA Timpa
 
@@ -32,13 +32,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Comedia_, by Racine
 - _Ghost Note_, by Kim Hiorthøy
 - _Cult Subterranea_, by Celestaphone, Dealers of God
-- _Strange Meridians_, by upsammy
 - _Halo On The Inside_, by Circuit des Yeux
+- _Strange Meridians_, by upsammy
+- _Följd_, by Civilistjävel!
 - _Qwizard_, by Pub
 - _Pizzazz_, by Racine
 - _Your Lungs And Your Tongues_, by Vazz
 - _The Foel Tower_, by Quade
-- _Följd_, by Civilistjävel!
 
 </details>
 
