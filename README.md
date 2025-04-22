@@ -38,7 +38,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Qwizard_, by Pub
 - _Pizzazz_, by Racine
 - _Your Lungs And Your Tongues_, by Vazz
-- _The Foel Tower_, by Quade
 
 </details>
 
