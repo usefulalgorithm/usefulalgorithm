@@ -26,18 +26,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Lonely People With Power_, by Deafheaven
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _Stochastic Drift_, by Barker
+- _Cult Subterranea_, by Celestaphone, Dealers of God
 - _IOX_, by LA Timpa
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Följd_, by Civilistjävel!
 - _Comedia_, by Racine
-- _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Ghost Note_, by Kim Hiorthøy
 - _Halo On The Inside_, by Circuit des Yeux
 - _Qwizard_, by Pub
 - _Pizzazz_, by Racine
 - _Your Lungs And Your Tongues_, by Vazz
 - _The Foel Tower_, by Quade
-- _Strange Meridians_, by upsammy
 
 </details>
 
