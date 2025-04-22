@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
+- _Cult Subterranea_, by Celestaphone, Dealers of God
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _Följd_, by Civilistjävel!
-- _Cult Subterranea_, by Celestaphone, Dealers of God
 
 </details>
 
