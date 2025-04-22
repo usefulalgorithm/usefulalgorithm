@@ -37,7 +37,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Halo On The Inside_, by Circuit des Yeux
 - _Qwizard_, by Pub
 - _Pizzazz_, by Racine
-- _Your Lungs And Your Tongues_, by Vazz
 
 </details>
 
