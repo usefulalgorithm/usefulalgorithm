@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Följd_, by Civilistjävel!
+- _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Cult Subterranea_, by Celestaphone, Dealers of God
-- _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
-- _Följd_, by Civilistjävel!
 
 </details>
 
@@ -25,12 +25,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Gift Songs_, by Jefre Cantu-Ledesma
 - _Pruning_, by Memotone
 - _Lonely People With Power_, by Deafheaven
+- _Följd_, by Civilistjävel!
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _Stochastic Drift_, by Barker
 - _Cult Subterranea_, by Celestaphone, Dealers of God
 - _IOX_, by LA Timpa
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
-- _Följd_, by Civilistjävel!
 - _Comedia_, by Racine
 - _Ghost Note_, by Kim Hiorthøy
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
