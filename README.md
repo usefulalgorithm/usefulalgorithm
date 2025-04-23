@@ -24,8 +24,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Kingdom Come: Deliverance II (Original Soundtrack Essentials)_, by Jan Valta, Adam Sporka
-- _Gift Songs_, by Jefre Cantu-Ledesma
 - _Följd_, by Civilistjävel!
+- _Gift Songs_, by Jefre Cantu-Ledesma
 - _Pruning_, by Memotone
 - _Lonely People With Power_, by Deafheaven
 - _Stochastic Drift_, by Barker
