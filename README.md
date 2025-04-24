@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
+- _The Foel Tower_, by Quade
 - _Följd_, by Civilistjävel!
 - _Do You Ever Regret Pantomime?_, by Pub
 - _Qwizard_, by Pub
 - _Stochastic Drift_, by Barker
-- _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
-- _Cult Subterranea_, by Celestaphone, Dealers of God
 
 </details>
 
@@ -36,6 +36,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Comedia_, by Racine
 - _Ghost Note_, by Kim Hiorthøy
 - _Qwizard_, by Pub
+- _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _Halo On The Inside_, by Circuit des Yeux
 
