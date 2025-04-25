@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Följd_, by Civilistjävel!
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _The Foel Tower_, by Quade
-- _Följd_, by Civilistjävel!
 
 </details>
 
@@ -23,10 +23,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Kingdom Come: Deliverance II (Original Soundtrack Essentials)_, by Jan Valta, Adam Sporka
 - _Följd_, by Civilistjävel!
 - _Lonely People With Power_, by Deafheaven
-- _Gift Songs_, by Jefre Cantu-Ledesma
 - _Pruning_, by Memotone
 - _Stochastic Drift_, by Barker
 - _Cult Subterranea_, by Celestaphone, Dealers of God
+- _Gift Songs_, by Jefre Cantu-Ledesma
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _IOX_, by LA Timpa
