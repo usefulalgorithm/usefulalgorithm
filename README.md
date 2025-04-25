@@ -27,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Pruning_, by Memotone
 - _Stochastic Drift_, by Barker
 - _Cult Subterranea_, by Celestaphone, Dealers of God
-- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
+- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _IOX_, by LA Timpa
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Comedia_, by Racine
