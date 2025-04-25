@@ -14,8 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _The Foel Tower_, by Quade
 - _Följd_, by Civilistjävel!
-- _Do You Ever Regret Pantomime?_, by Pub
-- _Qwizard_, by Pub
 
 </details>
 
@@ -30,14 +28,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Stochastic Drift_, by Barker
 - _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
+- _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _IOX_, by LA Timpa
 - _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Comedia_, by Racine
-- _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Ghost Note_, by Kim Hiorthøy
 - _Qwizard_, by Pub
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
-- _Halo On The Inside_, by Circuit des Yeux
 
 </details>
 
