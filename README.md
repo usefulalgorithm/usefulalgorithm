@@ -11,8 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Cult Subterranea_, by Celestaphone, Dealers of God
+- _animal body_, by Haisuinonasa
+- _Mahōgakkō_, by Hakushi Hasegawa
+- _Somoku Hodo_, by Hakushi Hasegawa
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
+- _World Speaks_, by Piotr Kurek
+- _Cult Subterranea_, by Celestaphone, Dealers of God
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _Följd_, by Civilistjävel!
 
@@ -25,13 +29,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Följd_, by Civilistjävel!
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Lonely People With Power_, by Deafheaven
-- _Pruning_, by Memotone
-- _Stochastic Drift_, by Barker
 - _Cult Subterranea_, by Celestaphone, Dealers of God
-- _IOX_, by LA Timpa
+- _Stochastic Drift_, by Barker
+- _Pruning_, by Memotone
 - _Comedia_, by Racine
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
+- _IOX_, by LA Timpa
 - _Ghost Note_, by Kim Hiorthøy
 - _Qwizard_, by Pub
 - _Gift Songs_, by Jefre Cantu-Ledesma
