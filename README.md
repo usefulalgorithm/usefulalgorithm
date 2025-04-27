@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Följd_, by Civilistjävel!
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
+- _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
+- _Följd_, by Civilistjävel!
 
 </details>
 
@@ -21,19 +22,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Kingdom Come: Deliverance II (Original Soundtrack Essentials)_, by Jan Valta, Adam Sporka
 - _Följd_, by Civilistjävel!
+- _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Lonely People With Power_, by Deafheaven
 - _Pruning_, by Memotone
-- _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Stochastic Drift_, by Barker
 - _Cult Subterranea_, by Celestaphone, Dealers of God
-- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _IOX_, by LA Timpa
-- _(What's The Story) Morning Glory? [Remastered]_, by Oasis
 - _Comedia_, by Racine
-- _Gift Songs_, by Jefre Cantu-Ledesma
+- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
+- _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _Ghost Note_, by Kim Hiorthøy
 - _Qwizard_, by Pub
-- _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
+- _Gift Songs_, by Jefre Cantu-Ledesma
 
 </details>
 
