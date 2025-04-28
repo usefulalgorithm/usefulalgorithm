@@ -11,11 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _Cult Subterranea_, by Celestaphone, Dealers of God
-- _Crimson Moon Evocations_, by Sepulchral Curse
-- _I KNOW HOW YOU WILL DIE_, by Snooze
-- _Blue Veil_, by Lucy Railton
-- _animal body_, by Haisuinonasa
 
 </details>
 
@@ -29,9 +26,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Lonely People With Power_, by Deafheaven
 - _Stochastic Drift_, by Barker
 - _Pruning_, by Memotone
+- _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _Comedia_, by Racine
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
-- _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _IOX_, by LA Timpa
 - _Ghost Note_, by Kim Hiorthøy
 - _Qwizard_, by Pub
