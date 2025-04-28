@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Crimson Moon Evocations_, by Sepulchral Curse
 - _I KNOW HOW YOU WILL DIE_, by Snooze
 - _Blue Veil_, by Lucy Railton
@@ -19,9 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _World Speaks_, by Piotr Kurek
-- _Cult Subterranea_, by Celestaphone, Dealers of God
-- _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
-- _Följd_, by Civilistjävel!
 
 </details>
 
