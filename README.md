@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
-- _Cult Subterranea_, by Celestaphone, Dealers of God
 
 </details>
 
