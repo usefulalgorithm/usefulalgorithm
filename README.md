@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Crimson Moon Evocations_, by Sepulchral Curse
+- _I KNOW HOW YOU WILL DIE_, by Snooze
 - _Blue Veil_, by Lucy Railton
 - _animal body_, by Haisuinonasa
 - _Mahōgakkō_, by Hakushi Hasegawa
@@ -29,8 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Kingdom Come: Deliverance II (Original Soundtrack Essentials)_, by Jan Valta, Adam Sporka
 - _Följd_, by Civilistjävel!
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
-- _Lonely People With Power_, by Deafheaven
 - _Cult Subterranea_, by Celestaphone, Dealers of God
+- _Lonely People With Power_, by Deafheaven
 - _Stochastic Drift_, by Barker
 - _Pruning_, by Memotone
 - _Comedia_, by Racine
