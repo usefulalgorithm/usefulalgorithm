@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Somoku Hodo_, by Hakushi Hasegawa
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 
 </details>
@@ -23,9 +24,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Lonely People With Power_, by Deafheaven
+- _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _Stochastic Drift_, by Barker
 - _Pruning_, by Memotone
-- _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _Comedia_, by Racine
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _IOX_, by LA Timpa
