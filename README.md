@@ -11,7 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _馬_, by betcover!!
 - _Somoku Hodo_, by Hakushi Hasegawa
+- _GNX_, by Kendrick Lamar
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 
 </details>
@@ -30,9 +32,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Comedia_, by Racine
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _IOX_, by LA Timpa
+- _馬_, by betcover!!
 - _Ghost Note_, by Kim Hiorthøy
 - _Qwizard_, by Pub
-- _Gift Songs_, by Jefre Cantu-Ledesma
 
 </details>
 
