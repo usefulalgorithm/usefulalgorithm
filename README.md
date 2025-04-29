@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Žaltys_, by Raphael Roginski
 - _卵_, by betcover!!
 - _馬_, by betcover!!
