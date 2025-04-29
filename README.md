@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _馬_, by betcover!!
+- _卵_, by betcover!!
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _GNX_, by Kendrick Lamar
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
