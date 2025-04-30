@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Somoku Hodo_, by Hakushi Hasegawa
 - _Cult Subterranea_, by Celestaphone, Dealers of God
 - _卵_, by betcover!!
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _馬_, by betcover!!
-- _Žaltys_, by Raphael Roginski
 
 </details>
 
@@ -32,6 +32,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _馬_, by betcover!!
 - _Comedia_, by Racine
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
+- _Somoku Hodo_, by Hakushi Hasegawa
 - _IOX_, by LA Timpa
 - _Ghost Note_, by Kim Hiorthøy
 - _卵_, by betcover!!
