@@ -16,8 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _馬_, by betcover!!
 - _Žaltys_, by Raphael Roginski
-- _Somoku Hodo_, by Hakushi Hasegawa
-- _GNX_, by Kendrick Lamar
 
 </details>
 
@@ -36,6 +34,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _IOX_, by LA Timpa
 - _Ghost Note_, by Kim Hiorthøy
+- _卵_, by betcover!!
 - _Qwizard_, by Pub
 
 </details>
