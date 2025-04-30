@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _馬_, by betcover!!
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Žaltys_, by Raphael Roginski
 - _卵_, by betcover!!
-- _馬_, by betcover!!
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _GNX_, by Kendrick Lamar
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
