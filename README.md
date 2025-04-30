@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Cult Subterranea_, by Celestaphone, Dealers of God
 - _卵_, by betcover!!
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _馬_, by betcover!!
@@ -36,7 +37,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _IOX_, by LA Timpa
 - _Ghost Note_, by Kim Hiorthøy
 - _Qwizard_, by Pub
-- _Pruning_, by Memotone
 
 </details>
 
