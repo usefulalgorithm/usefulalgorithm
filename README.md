@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _Cult Subterranea_, by Celestaphone, Dealers of God
-- _卵_, by betcover!!
 
 </details>
 
