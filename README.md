@@ -32,9 +32,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _Comedia_, by Racine
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
+- _卵_, by betcover!!
 - _IOX_, by LA Timpa
 - _Ghost Note_, by Kim Hiorthøy
-- _卵_, by betcover!!
 - _Qwizard_, by Pub
 
 </details>
