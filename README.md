@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Demilitarize_, by Nazar
 - _Totality_, by Natural Information Society, Bitchin Bajas
-- _卵_, by betcover!!
 - _Somoku Hodo_, by Hakushi Hasegawa
-- _Cult Subterranea_, by Celestaphone, Dealers of God
+- _卵_, by betcover!!
 
 </details>
 
