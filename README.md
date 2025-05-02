@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Pirouette_, by Model/Actriz
 - _Demilitarize_, by Nazar
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Somoku Hodo_, by Hakushi Hasegawa
@@ -30,10 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _Stochastic Drift_, by Barker
 - _馬_, by betcover!!
-- _Comedia_, by Racine
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _卵_, by betcover!!
-- _IOX_, by LA Timpa
 - _Ghost Note_, by Kim Hiorthøy
 - _Qwizard_, by Pub
 
