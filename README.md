@@ -12,11 +12,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Somoku Hodo_, by Hakushi Hasegawa
+- _Demilitarize_, by Nazar
 - _馬_, by betcover!!
 - _Pirouette_, by Model/Actriz
-- _Demilitarize_, by Nazar
 - _Totality_, by Natural Information Society, Bitchin Bajas
-- _卵_, by betcover!!
 
 </details>
 
@@ -27,10 +26,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Följd_, by Civilistjävel!
 - _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
+- _馬_, by betcover!!
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _Lonely People With Power_, by Deafheaven
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
-- _馬_, by betcover!!
 - _Stochastic Drift_, by Barker
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _卵_, by betcover!!
