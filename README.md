@@ -29,9 +29,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Lonely People With Power_, by Deafheaven
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
+- _馬_, by betcover!!
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _Stochastic Drift_, by Barker
-- _馬_, by betcover!!
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _卵_, by betcover!!
 - _Ghost Note_, by Kim Hiorthøy
