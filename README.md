@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _馬_, by betcover!!
 - _Pirouette_, by Model/Actriz
 - _Demilitarize_, by Nazar
 - _Totality_, by Natural Information Society, Bitchin Bajas
