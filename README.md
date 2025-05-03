@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Heavy Lifting_, by Fib
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _Demilitarize_, by Nazar
 - _馬_, by betcover!!
