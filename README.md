@@ -11,12 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Cult Subterranea_, by Celestaphone, Dealers of God
+- _Iris Silver Mist_, by Jenny Hval
 - _Heavy Lifting_, by Fib
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _Demilitarize_, by Nazar
 - _馬_, by betcover!!
 - _Pirouette_, by Model/Actriz
-- _Totality_, by Natural Information Society, Bitchin Bajas
 
 </details>
 
@@ -36,6 +37,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _卵_, by betcover!!
 - _Ghost Note_, by Kim Hiorthøy
 - _Qwizard_, by Pub
+- _Totality_, by Natural Information Society, Bitchin Bajas
 
 </details>
 
