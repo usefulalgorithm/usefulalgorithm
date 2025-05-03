@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Rest Symbol_, by rest symbol
 - _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Iris Silver Mist_, by Jenny Hval
 - _Heavy Lifting_, by Fib
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _Demilitarize_, by Nazar
-- _馬_, by betcover!!
-- _Pirouette_, by Model/Actriz
 
 </details>
 
