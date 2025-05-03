@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Iris Silver Mist_, by Jenny Hval
 - _Heavy Lifting_, by Fib
-- _Somoku Hodo_, by Hakushi Hasegawa
-- _Demilitarize_, by Nazar
 
 </details>
 
