@@ -11,11 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _seeyalater stratocaster_, by ippo.tsk
+- _Onomatomani[a]kus_, by Marmalade butcher
+- _animal body_, by Haisuinonasa
+- _Somoku Hodo_, by Hakushi Hasegawa
 - _Rest Symbol_, by rest symbol
 - _The Direction of Last Things_, by Intronaut
 - _Cult Subterranea_, by Celestaphone, Dealers of God
-- _Iris Silver Mist_, by Jenny Hval
-- _Heavy Lifting_, by Fib
 
 </details>
 
@@ -26,8 +28,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Följd_, by Civilistjävel!
 - _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
-- _馬_, by betcover!!
 - _Somoku Hodo_, by Hakushi Hasegawa
+- _馬_, by betcover!!
 - _Lonely People With Power_, by Deafheaven
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _Stochastic Drift_, by Barker
@@ -35,7 +37,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _卵_, by betcover!!
 - _Ghost Note_, by Kim Hiorthøy
 - _Qwizard_, by Pub
-- _Totality_, by Natural Information Society, Bitchin Bajas
 
 </details>
 
