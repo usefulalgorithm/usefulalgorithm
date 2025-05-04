@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _ZAZEN BOYS III_, by ZAZEN BOYS
+- _馬_, by betcover!!
 - _seeyalater stratocaster_, by ippo.tsk
 - _Onomatomani[a]kus_, by Marmalade butcher
 - _animal body_, by Haisuinonasa
@@ -27,14 +29,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Kingdom Come: Deliverance II (Original Soundtrack Essentials)_, by Jan Valta, Adam Sporka
 - _Följd_, by Civilistjävel!
 - _Cult Subterranea_, by Celestaphone, Dealers of God
+- _馬_, by betcover!!
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Somoku Hodo_, by Hakushi Hasegawa
-- _馬_, by betcover!!
 - _Lonely People With Power_, by Deafheaven
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _Stochastic Drift_, by Barker
-- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _卵_, by betcover!!
+- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _Ghost Note_, by Kim Hiorthøy
 - _Qwizard_, by Pub
 
