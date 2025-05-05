@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Every Bridge Burning_, by Nails
 - _Demilitarize_, by Nazar
+- _Every Bridge Burning_, by Nails
 - _Rest Symbol_, by rest symbol
 - _ZAZEN BOYS_, by ZAZEN BOYS
 - _ZAZEN BOYS III_, by ZAZEN BOYS
@@ -21,7 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Onomatomani[a]kus_, by Marmalade butcher
 - _animal body_, by Haisuinonasa
 - _Somoku Hodo_, by Hakushi Hasegawa
-- _The Direction of Last Things_, by Intronaut
 
 </details>
 
