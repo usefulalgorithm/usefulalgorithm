@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _BLK ZMBY_, by billy woods
 - _Void Patrol_, by Void Patrol
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Rest Symbol_, by rest symbol
 - _Demilitarize_, by Nazar
-- _Every Bridge Burning_, by Nails
 
 </details>
 
