@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Rest Symbol_, by rest symbol
 - _Demilitarize_, by Nazar
 - _Every Bridge Burning_, by Nails
-- _ZAZEN BOYS_, by ZAZEN BOYS
 
 </details>
 
@@ -31,10 +31,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _Stochastic Drift_, by Barker
 - _卵_, by betcover!!
+- _Rest Symbol_, by rest symbol
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _Demilitarize_, by Nazar
-- _Rest Symbol_, by rest symbol
-- _Ghost Note_, by Kim Hiorthøy
+- _Totality_, by Natural Information Society, Bitchin Bajas
 
 </details>
 
