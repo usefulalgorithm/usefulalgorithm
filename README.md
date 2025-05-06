@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Clearwater_, by They Hate Change
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Void Patrol_, by Void Patrol
 - _Stochastic Drift_, by Barker
-- _Clearwater_, by They Hate Change
 - _animal body_, by Haisuinonasa
 - _BLK ZMBY_, by billy woods
 - _Totality_, by Natural Information Society, Bitchin Bajas
