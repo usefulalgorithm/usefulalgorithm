@@ -11,8 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _BLK ZMBY_, by billy woods
 - _Void Patrol_, by Void Patrol
+- _Stochastic Drift_, by Barker
+- _Clearwater_, by They Hate Change
+- _animal body_, by Haisuinonasa
+- _BLK ZMBY_, by billy woods
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Rest Symbol_, by rest symbol
 - _Demilitarize_, by Nazar
@@ -36,7 +39,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Rest Symbol_, by rest symbol
 - _Demilitarize_, by Nazar
 - _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
-- _Ghost Note_, by Kim Hiorthøy
+- _Void Patrol_, by Void Patrol
 
 </details>
 
