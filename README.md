@@ -39,8 +39,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Rest Symbol_, by rest symbol
 - _Demilitarize_, by Nazar
-- _Romance in the Age of Adaptive Feedback_, by Unspecified Enemies
 - _Void Patrol_, by Void Patrol
+- _Ghost Note_, by Kim Hiorthøy
 
 </details>
 
