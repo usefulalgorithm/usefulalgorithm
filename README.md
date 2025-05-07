@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Rest Symbol_, by rest symbol
 - _Void Patrol_, by Void Patrol
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
-- _Clearwater_, by They Hate Change
 
 </details>
 
@@ -28,14 +27,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _Lonely People With Power_, by Deafheaven
+- _Rest Symbol_, by rest symbol
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _Stochastic Drift_, by Barker
 - _Void Patrol_, by Void Patrol
-- _Rest Symbol_, by rest symbol
 - _卵_, by betcover!!
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Demilitarize_, by Nazar
-- _Ghost Note_, by Kim Hiorthøy
 
 </details>
 
