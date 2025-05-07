@@ -34,8 +34,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Stochastic Drift_, by Barker
 - _卵_, by betcover!!
 - _Totality_, by Natural Information Society, Bitchin Bajas
-- _Rest Symbol_, by rest symbol
 - _Void Patrol_, by Void Patrol
+- _Rest Symbol_, by rest symbol
 - _Demilitarize_, by Nazar
 - _Ghost Note_, by Kim Hiorthøy
 
