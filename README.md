@@ -26,9 +26,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _馬_, by betcover!!
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Somoku Hodo_, by Hakushi Hasegawa
-- _Lonely People With Power_, by Deafheaven
 - _Rest Symbol_, by rest symbol
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
+- _Lonely People With Power_, by Deafheaven
 - _Stochastic Drift_, by Barker
 - _Void Patrol_, by Void Patrol
 - _卵_, by betcover!!
