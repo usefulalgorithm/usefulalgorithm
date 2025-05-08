@@ -29,11 +29,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _Rest Symbol_, by rest symbol
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
-- _Lonely People With Power_, by Deafheaven
 - _Stochastic Drift_, by Barker
 - _Void Patrol_, by Void Patrol
 - _卵_, by betcover!!
 - _Totality_, by Natural Information Society, Bitchin Bajas
+- _Lonely People With Power_, by Deafheaven
 - _Demilitarize_, by Nazar
 
 </details>
