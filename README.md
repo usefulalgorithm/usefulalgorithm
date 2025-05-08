@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Dos Moons_, by Dos Monos
 - _Void Patrol_, by Void Patrol
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _Only Dust Remains_, by Backxwash
@@ -30,8 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _Rest Symbol_, by rest symbol
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
-- _Stochastic Drift_, by Barker
 - _Void Patrol_, by Void Patrol
+- _Stochastic Drift_, by Barker
 - _卵_, by betcover!!
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Lonely People With Power_, by Deafheaven
