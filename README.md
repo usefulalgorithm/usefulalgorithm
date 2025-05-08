@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Rest Symbol_, by rest symbol
 - _Dos Moons_, by Dos Monos
 - _Void Patrol_, by Void Patrol
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _Only Dust Remains_, by Backxwash
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
-- _Rest Symbol_, by rest symbol
 
 </details>
 
