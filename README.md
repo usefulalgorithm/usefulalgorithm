@@ -12,11 +12,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Rest Symbol_, by rest symbol
+- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
+- _Memorial_, by Russian Circles
+- _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Dos Moons_, by Dos Monos
 - _Void Patrol_, by Void Patrol
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _Only Dust Remains_, by Backxwash
-- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 
 </details>
 
@@ -26,8 +28,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Kingdom Come: Deliverance II (Original Soundtrack Essentials)_, by Jan Valta, Adam Sporka
 - _Följd_, by Civilistjävel!
 - _Cult Subterranea_, by Celestaphone, Dealers of God
-- _馬_, by betcover!!
 - _Rest Symbol_, by rest symbol
+- _馬_, by betcover!!
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _Void Patrol_, by Void Patrol
