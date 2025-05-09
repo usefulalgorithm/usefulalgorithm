@@ -38,7 +38,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Stochastic Drift_, by Barker
 - _卵_, by betcover!!
 - _Totality_, by Natural Information Society, Bitchin Bajas
-- _Lonely People With Power_, by Deafheaven
 - _Demilitarize_, by Nazar
 
 </details>
