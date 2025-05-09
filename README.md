@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Dos Moons_, by Dos Monos
 - _bmbmbm (Dos Monos Remix)_, by black midi
 - _Dos City_, by Dos Monos
 - _Blue Veil_, by Lucy Railton
 - _Rest Symbol_, by rest symbol
-- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
-- _Memorial_, by Russian Circles
 
 </details>
 
