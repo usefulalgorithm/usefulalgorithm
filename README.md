@@ -17,8 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Dos Moons_, by Dos Monos
 - _Void Patrol_, by Void Patrol
-- _All Worlds_, by Lust For Youth, Croatian Amor
-- _Only Dust Remains_, by Backxwash
 
 </details>
 
