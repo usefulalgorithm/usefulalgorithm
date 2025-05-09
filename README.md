@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _bmbmbm (Dos Monos Remix)_, by black midi
+- _Dos City_, by Dos Monos
+- _Blue Veil_, by Lucy Railton
 - _Rest Symbol_, by rest symbol
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Memorial_, by Russian Circles
-- _Every Sound Has A Color In The Valley Of Night_, by Night Verses
-- _Dos Moons_, by Dos Monos
-- _Void Patrol_, by Void Patrol
 
 </details>
 
@@ -28,9 +28,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Rest Symbol_, by rest symbol
 - _馬_, by betcover!!
+- _Void Patrol_, by Void Patrol
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Somoku Hodo_, by Hakushi Hasegawa
-- _Void Patrol_, by Void Patrol
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _Stochastic Drift_, by Barker
 - _卵_, by betcover!!
