@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Dos Moons_, by Dos Monos
+- _IOX_, by LA Timpa
 - _Larderello_, by Dos Monos
 - _Dos City_, by Dos Monos
-- _IOX_, by LA Timpa
 - _lucre_, by Dean Blunt, Elias Rønnenfelt
 - _Windowlicker_, by Aphex Twin
-- _Dos Moons_, by Dos Monos
 - _bmbmbm (Dos Monos Remix)_, by black midi
 - _Blue Veil_, by Lucy Railton
 - _Rest Symbol_, by rest symbol
