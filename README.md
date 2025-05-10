@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _卵_, by betcover!!
 - _GOLLIWOG_, by billy woods
 - _Hellfire_, by black midi
 - _Dos Moons_, by Dos Monos
