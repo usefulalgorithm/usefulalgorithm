@@ -38,8 +38,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
-- _Stochastic Drift_, by Barker
 - _卵_, by betcover!!
+- _Stochastic Drift_, by Barker
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Dos Moons_, by Dos Monos
 - _Demilitarize_, by Nazar
