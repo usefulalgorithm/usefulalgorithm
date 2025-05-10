@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _GOLLIWOG_, by billy woods
+- _Hellfire_, by black midi
 - _Dos Moons_, by Dos Monos
 - _IOX_, by LA Timpa
 - _Larderello_, by Dos Monos
@@ -38,8 +40,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Stochastic Drift_, by Barker
 - _卵_, by betcover!!
 - _Totality_, by Natural Information Society, Bitchin Bajas
-- _Demilitarize_, by Nazar
 - _Dos Moons_, by Dos Monos
+- _Demilitarize_, by Nazar
 
 </details>
 
