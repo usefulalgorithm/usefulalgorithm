@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _卵_, by betcover!!
 - _IOX_, by LA Timpa
 - _Under Tangled Silence_, by DjRUM
-- _Dos Moons_, by Dos Monos
 
 </details>
 
@@ -33,6 +33,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Stochastic Drift_, by Barker
 - _Dos Moons_, by Dos Monos
 - _Totality_, by Natural Information Society, Bitchin Bajas
+- _IOX_, by LA Timpa
 - _Demilitarize_, by Nazar
 
 </details>
