@@ -35,6 +35,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _Stochastic Drift_, by Barker
 - _Totality_, by Natural Information Society, Bitchin Bajas
+- _Under Tangled Silence_, by DjRUM
 - _IOX_, by LA Timpa
 - _Demilitarize_, by Nazar
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
