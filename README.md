@@ -11,10 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Under Tangled Silence_, by DjRUM
+- _Stressmanagement_, by Skee Mask
 - _Dos Moons_, by Dos Monos
 - _卵_, by betcover!!
 - _IOX_, by LA Timpa
-- _Under Tangled Silence_, by DjRUM
 
 </details>
 
@@ -29,13 +30,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Void Patrol_, by Void Patrol
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Somoku Hodo_, by Hakushi Hasegawa
+- _Dos Moons_, by Dos Monos
 - _卵_, by betcover!!
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
-- _Dos Moons_, by Dos Monos
 - _Stochastic Drift_, by Barker
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _IOX_, by LA Timpa
 - _Demilitarize_, by Nazar
+- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 
 </details>
 
