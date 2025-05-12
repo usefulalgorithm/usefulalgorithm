@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Every Bridge Burning_, by Nails
 - _Under Tangled Silence_, by DjRUM
 - _Stressmanagement_, by Skee Mask
 - _Dos Moons_, by Dos Monos
