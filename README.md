@@ -11,10 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _IOX_, by LA Timpa
 - _Under Tangled Silence_, by DjRUM
 - _Dos Moons_, by Dos Monos
-- _卵_, by betcover!!
-- _GOLLIWOG_, by billy woods
 
 </details>
 
