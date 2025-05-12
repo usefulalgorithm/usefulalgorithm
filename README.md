@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Dos Moons_, by Dos Monos
 - _卵_, by betcover!!
 - _GOLLIWOG_, by billy woods
-- _Hellfire_, by black midi
-- _IOX_, by LA Timpa
 
 </details>
 
@@ -34,8 +32,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _卵_, by betcover!!
 - _Stochastic Drift_, by Barker
-- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Dos Moons_, by Dos Monos
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Demilitarize_, by Nazar
 
 </details>
