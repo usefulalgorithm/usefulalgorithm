@@ -11,15 +11,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _From Where You Came_, by Kara-Lis Coverdale
+- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
+- _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Geneva_, by Russian Circles
 - _Every Bridge Burning_, by Nails
 - _Under Tangled Silence_, by DjRUM
 - _Stressmanagement_, by Skee Mask
 - _Dos Moons_, by Dos Monos
 - _卵_, by betcover!!
-- _IOX_, by LA Timpa
 
 </details>
 
