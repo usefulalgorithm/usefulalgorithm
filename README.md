@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _From Where You Came_, by Kara-Lis Coverdale
 - _Geneva_, by Russian Circles
-- _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Every Bridge Burning_, by Nails
 - _Under Tangled Silence_, by DjRUM
 - _Stressmanagement_, by Skee Mask
@@ -42,6 +42,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Under Tangled Silence_, by DjRUM
 - _IOX_, by LA Timpa
 - _Demilitarize_, by Nazar
+- _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 
 </details>
