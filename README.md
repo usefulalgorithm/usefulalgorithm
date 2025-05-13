@@ -34,16 +34,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Void Patrol_, by Void Patrol
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Somoku Hodo_, by Hakushi Hasegawa
-- _Dos Moons_, by Dos Monos
 - _卵_, by betcover!!
+- _Dos Moons_, by Dos Monos
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _Stochastic Drift_, by Barker
 - _Totality_, by Natural Information Society, Bitchin Bajas
+- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Under Tangled Silence_, by DjRUM
 - _IOX_, by LA Timpa
 - _Demilitarize_, by Nazar
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
-- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 
 </details>
 
