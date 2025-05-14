@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Žaltys_, by Raphael Roginski
+- _Honey for the Ants_, by Wojciech Rusin
 - _From Where You Came_, by Kara-Lis Coverdale
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
-- _IOX_, by LA Timpa
 
 </details>
 
