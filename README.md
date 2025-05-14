@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _From Where You Came_, by Kara-Lis Coverdale
+- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _IOX_, by LA Timpa
 
 </details>
@@ -32,9 +33,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Kingdom Come: Deliverance II (Original Soundtrack Essentials)_, by Jan Valta, Adam Sporka
 - _Stochastic Drift_, by Barker
 - _IOX_, by LA Timpa
+- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
-- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Under Tangled Silence_, by DjRUM
 - _Demilitarize_, by Nazar
 
