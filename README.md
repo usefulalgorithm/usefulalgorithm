@@ -41,7 +41,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Under Tangled Silence_, by DjRUM
-- _IOX_, by LA Timpa
 - _Demilitarize_, by Nazar
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 
