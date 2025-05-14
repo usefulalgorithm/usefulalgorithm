@@ -11,11 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _IOX_, by LA Timpa
-- _Every Sound Has A Color In The Valley Of Night_, by Night Verses
-- _Dos Moons_, by Dos Monos
-- _Every Bridge Burning_, by Nails
 - _From Where You Came_, by Kara-Lis Coverdale
+- _IOX_, by LA Timpa
 
 </details>
 
@@ -34,8 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _Kingdom Come: Deliverance II (Original Soundtrack Essentials)_, by Jan Valta, Adam Sporka
 - _Stochastic Drift_, by Barker
-- _Totality_, by Natural Information Society, Bitchin Bajas
 - _IOX_, by LA Timpa
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Under Tangled Silence_, by DjRUM
