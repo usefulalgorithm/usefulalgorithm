@@ -32,13 +32,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _卵_, by betcover!!
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
-- _Kingdom Come: Deliverance II (Original Soundtrack Essentials)_, by Jan Valta, Adam Sporka
 - _Stochastic Drift_, by Barker
 - _IOX_, by LA Timpa
+- _From Where You Came_, by Kara-Lis Coverdale
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
-- _From Where You Came_, by Kara-Lis Coverdale
 - _Under Tangled Silence_, by DjRUM
 - _Blue Veil_, by Lucy Railton
 - _Demilitarize_, by Nazar
