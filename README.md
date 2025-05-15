@@ -11,10 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Žaltys_, by Raphael Roginski
-- _Honey for the Ants_, by Wojciech Rusin
 - _From Where You Came_, by Kara-Lis Coverdale
+- _animal body_, by Haisuinonasa
+- _Žaltys_, by Raphael Roginski
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
+- _Honey for the Ants_, by Wojciech Rusin
 
 </details>
 
@@ -37,10 +38,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
+- _From Where You Came_, by Kara-Lis Coverdale
 - _Under Tangled Silence_, by DjRUM
 - _Blue Veil_, by Lucy Railton
 - _Demilitarize_, by Nazar
-- _From Where You Came_, by Kara-Lis Coverdale
+- _animal body_, by Haisuinonasa
 
 </details>
 
