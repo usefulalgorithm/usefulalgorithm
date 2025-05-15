@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _animal body_, by Haisuinonasa
 - _Žaltys_, by Raphael Roginski
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
-- _Honey for the Ants_, by Wojciech Rusin
 
 </details>
 
