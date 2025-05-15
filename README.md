@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Dos Moons_, by Dos Monos
 - _Larderello_, by Dos Monos
 - _Mahōgakkō_, by Hakushi Hasegawa
 - _Somoku Hodo_, by Hakushi Hasegawa
@@ -25,10 +26,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Rest Symbol_, by rest symbol
 - _Dos Moons_, by Dos Monos
+- _Somoku Hodo_, by Hakushi Hasegawa
 - _馬_, by betcover!!
 - _Void Patrol_, by Void Patrol
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
-- _Somoku Hodo_, by Hakushi Hasegawa
 - _卵_, by betcover!!
 - _From Where You Came_, by Kara-Lis Coverdale
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
