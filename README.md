@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Larderello_, by Dos Monos
+- _Mahōgakkō_, by Hakushi Hasegawa
+- _Somoku Hodo_, by Hakushi Hasegawa
 - _From Where You Came_, by Kara-Lis Coverdale
-- _animal body_, by Haisuinonasa
-- _Žaltys_, by Raphael Roginski
-- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 
 </details>
 
@@ -30,17 +30,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _卵_, by betcover!!
+- _From Where You Came_, by Kara-Lis Coverdale
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _Stochastic Drift_, by Barker
 - _IOX_, by LA Timpa
-- _From Where You Came_, by Kara-Lis Coverdale
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Under Tangled Silence_, by DjRUM
 - _Blue Veil_, by Lucy Railton
 - _Demilitarize_, by Nazar
-- _animal body_, by Haisuinonasa
 
 </details>
 
