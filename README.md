@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Discipline_, by King Crimson
 - _Only Dust Remains_, by Backxwash
 - _Dos Moons_, by Dos Monos
-- _Larderello_, by Dos Monos
 
 </details>
 
