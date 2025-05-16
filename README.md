@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Dos Moons_, by Dos Monos
 - _Larderello_, by Dos Monos
 - _Mahōgakkō_, by Hakushi Hasegawa
-- _Somoku Hodo_, by Hakushi Hasegawa
 
 </details>
 
@@ -41,6 +40,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Stochastic Drift_, by Barker
 - _Under Tangled Silence_, by DjRUM
 - _Blue Veil_, by Lucy Railton
+- _Demilitarize_, by Nazar
 
 </details>
 
