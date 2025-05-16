@@ -36,7 +36,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Pearl_, by Dos Monos
-- _Stochastic Drift_, by Barker
 - _Under Tangled Silence_, by DjRUM
 - _Blue Veil_, by Lucy Railton
 - _Demilitarize_, by Nazar
