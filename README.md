@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Dos Moons_, by Dos Monos
 - _Only Dust Remains_, by Backxwash
+- _Dos Moons_, by Dos Monos
 - _Larderello_, by Dos Monos
 - _Mahōgakkō_, by Hakushi Hasegawa
 - _Somoku Hodo_, by Hakushi Hasegawa
-- _From Where You Came_, by Kara-Lis Coverdale
 
 </details>
 
@@ -25,8 +24,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Följd_, by Civilistjävel!
 - _Cult Subterranea_, by Celestaphone, Dealers of God
-- _Rest Symbol_, by rest symbol
 - _Dos Moons_, by Dos Monos
+- _Rest Symbol_, by rest symbol
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _馬_, by betcover!!
 - _Void Patrol_, by Void Patrol
@@ -34,14 +33,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _卵_, by betcover!!
 - _From Where You Came_, by Kara-Lis Coverdale
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
-- _Stochastic Drift_, by Barker
 - _IOX_, by LA Timpa
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
+- _Pearl_, by Dos Monos
+- _Stochastic Drift_, by Barker
 - _Under Tangled Silence_, by DjRUM
 - _Blue Veil_, by Lucy Railton
-- _Demilitarize_, by Nazar
 
 </details>
 
