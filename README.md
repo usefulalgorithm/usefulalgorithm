@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _卵_, by betcover!!
+- _Žaltys_, by Raphael Roginski
 - _Only Dust Remains_, by Backxwash
 - _Discipline_, by King Crimson
 - _Dos Moons_, by Dos Monos
