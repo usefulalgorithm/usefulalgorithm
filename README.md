@@ -27,9 +27,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Dos Moons_, by Dos Monos
 - _Rest Symbol_, by rest symbol
 - _Somoku Hodo_, by Hakushi Hasegawa
+- _卵_, by betcover!!
 - _馬_, by betcover!!
 - _Void Patrol_, by Void Patrol
-- _卵_, by betcover!!
 - _From Where You Came_, by Kara-Lis Coverdale
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
