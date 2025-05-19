@@ -17,7 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _卵_, by betcover!!
 - _Žaltys_, by Raphael Roginski
 - _Discipline_, by King Crimson
-- _Dos Moons_, by Dos Monos
 
 </details>
 
@@ -35,9 +34,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _From Where You Came_, by Kara-Lis Coverdale
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Only Dust Remains_, by Backxwash
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
-- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
