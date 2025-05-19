@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Žaltys_, by Raphael Roginski
 - _samurai champloo music record departure_, by Nujabes, fat jon
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Only Dust Remains_, by Backxwash
 - _LIKE A DRAGON 8 ORIGINAL SOUNDTRACK_, by SEGA SOUND TEAM
 - _卵_, by betcover!!
-- _Žaltys_, by Raphael Roginski
 - _Discipline_, by King Crimson
 
 </details>
