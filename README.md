@@ -24,8 +24,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Följd_, by Civilistjävel!
 - _Dos Moons_, by Dos Monos
+- _Följd_, by Civilistjävel!
 - _Rest Symbol_, by rest symbol
 - _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Somoku Hodo_, by Hakushi Hasegawa
