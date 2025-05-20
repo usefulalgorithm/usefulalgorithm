@@ -16,8 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Žaltys_, by Raphael Roginski
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _samurai champloo music record departure_, by Nujabes, fat jon
-- _LIKE A DRAGON 8 ORIGINAL SOUNDTRACK_, by SEGA SOUND TEAM
-- _卵_, by betcover!!
 
 </details>
 
@@ -32,13 +30,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _卵_, by betcover!!
 - _馬_, by betcover!!
 - _Void Patrol_, by Void Patrol
+- _Only Dust Remains_, by Backxwash
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _From Where You Came_, by Kara-Lis Coverdale
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
-- _Only Dust Remains_, by Backxwash
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
-- _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
 - _Under Tangled Silence_, by DjRUM
