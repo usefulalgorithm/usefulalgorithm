@@ -11,10 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _samurai champloo music record departure_, by Nujabes, fat jon
+- _Only Dust Remains_, by Backxwash
+- _Obzen_, by Meshuggah
 - _Žaltys_, by Raphael Roginski
 - _Totality_, by Natural Information Society, Bitchin Bajas
-- _Only Dust Remains_, by Backxwash
+- _samurai champloo music record departure_, by Nujabes, fat jon
 - _LIKE A DRAGON 8 ORIGINAL SOUNDTRACK_, by SEGA SOUND TEAM
 - _卵_, by betcover!!
 - _Discipline_, by King Crimson
@@ -25,24 +26,25 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Dos Moons_, by Dos Monos
-- _Följd_, by Civilistjävel!
 - _Rest Symbol_, by rest symbol
-- _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Somoku Hodo_, by Hakushi Hasegawa
+- _Följd_, by Civilistjävel!
+- _Cult Subterranea_, by Celestaphone, Dealers of God
 - _卵_, by betcover!!
 - _馬_, by betcover!!
 - _Void Patrol_, by Void Patrol
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _From Where You Came_, by Kara-Lis Coverdale
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
-- _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
-- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Only Dust Remains_, by Backxwash
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
+- _OUTSTANDING UNDERSTANDING_, by R.A.P. Ferreira
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
 - _Under Tangled Silence_, by DjRUM
 - _Demilitarize_, by Nazar
+- _animal body_, by Haisuinonasa
 
 </details>
 
