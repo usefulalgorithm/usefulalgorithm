@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Totality_, by Natural Information Society, Bitchin Bajas
+- _Koloss_, by Meshuggah
 - _We Live In A Society_, by Flume, JPEGMAFIA
 - _Only Dust Remains_, by Backxwash
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
-- _Obzen_, by Meshuggah
-- _Žaltys_, by Raphael Roginski
 
 </details>
 
