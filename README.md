@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Only Dust Remains_, by Backxwash
 - _Žaltys_, by Raphael Roginski
-- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Koloss_, by Meshuggah
 - _We Live In A Society_, by Flume, JPEGMAFIA
-- _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 
 </details>
 
@@ -24,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Dos Moons_, by Dos Monos
-- _Rest Symbol_, by rest symbol
 - _Only Dust Remains_, by Backxwash
+- _Rest Symbol_, by rest symbol
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _卵_, by betcover!!
 - _Totality_, by Natural Information Society, Bitchin Bajas
@@ -33,10 +32,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Void Patrol_, by Void Patrol
 - _From Where You Came_, by Kara-Lis Coverdale
 - _Cult Subterranea_, by Celestaphone, Dealers of God
-- _Följd_, by Civilistjävel!
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
+- _Följd_, by Civilistjävel!
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
 - _Under Tangled Silence_, by DjRUM
