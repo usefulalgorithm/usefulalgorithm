@@ -14,8 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Only Dust Remains_, by Backxwash
 - _Žaltys_, by Raphael Roginski
-- _Koloss_, by Meshuggah
-- _We Live In A Society_, by Flume, JPEGMAFIA
 
 </details>
 
@@ -25,9 +23,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Dos Moons_, by Dos Monos
 - _Only Dust Remains_, by Backxwash
 - _Rest Symbol_, by rest symbol
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _卵_, by betcover!!
-- _Totality_, by Natural Information Society, Bitchin Bajas
 - _馬_, by betcover!!
 - _Void Patrol_, by Void Patrol
 - _From Where You Came_, by Kara-Lis Coverdale
@@ -35,12 +33,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
-- _Följd_, by Civilistjävel!
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
 - _Under Tangled Silence_, by DjRUM
 - _Demilitarize_, by Nazar
+- _Följd_, by Civilistjävel!
 - _animal body_, by Haisuinonasa
+- _Žaltys_, by Raphael Roginski
 
 </details>
 
