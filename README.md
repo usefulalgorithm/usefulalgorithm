@@ -25,13 +25,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Dos Moons_, by Dos Monos
 - _Rest Symbol_, by rest symbol
 - _Somoku Hodo_, by Hakushi Hasegawa
-- _Följd_, by Civilistjävel!
 - _Only Dust Remains_, by Backxwash
 - _卵_, by betcover!!
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _馬_, by betcover!!
 - _Void Patrol_, by Void Patrol
 - _Cult Subterranea_, by Celestaphone, Dealers of God
-- _Totality_, by Natural Information Society, Bitchin Bajas
+- _Följd_, by Civilistjävel!
 - _From Where You Came_, by Kara-Lis Coverdale
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
