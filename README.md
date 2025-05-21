@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Žaltys_, by Raphael Roginski
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Koloss_, by Meshuggah
 - _We Live In A Society_, by Flume, JPEGMAFIA
