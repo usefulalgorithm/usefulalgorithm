@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Obzen_, by Meshuggah
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Only Dust Remains_, by Backxwash
 - _Žaltys_, by Raphael Roginski
