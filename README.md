@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _From Where You Came_, by Kara-Lis Coverdale
 - _Obzen_, by Meshuggah
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Only Dust Remains_, by Backxwash
@@ -28,8 +29,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _卵_, by betcover!!
 - _馬_, by betcover!!
-- _Void Patrol_, by Void Patrol
 - _From Where You Came_, by Kara-Lis Coverdale
+- _Void Patrol_, by Void Patrol
 - _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
