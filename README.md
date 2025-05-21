@@ -37,7 +37,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Pearl_, by Dos Monos
 - _Under Tangled Silence_, by DjRUM
 - _Demilitarize_, by Nazar
-- _Följd_, by Civilistjävel!
 - _animal body_, by Haisuinonasa
 - _Žaltys_, by Raphael Roginski
 
