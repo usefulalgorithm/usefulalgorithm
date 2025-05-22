@@ -11,9 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Flickering Resonance_, by Pelican
+- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
+- _Every Bridge Burning_, by Nails
 - _Days With Dr. Yen Lo_, by Dr. Yen Lo
 - _Obzen_, by Meshuggah
-- _Every Bridge Burning_, by Nails
 
 </details>
 
@@ -28,11 +30,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _卵_, by betcover!!
 - _馬_, by betcover!!
-- _Void Patrol_, by Void Patrol
 - _Every Bridge Burning_, by Nails
+- _Void Patrol_, by Void Patrol
 - _Cult Subterranea_, by Celestaphone, Dealers of God
-- _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
+- _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
 - _Under Tangled Silence_, by DjRUM
