@@ -27,16 +27,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _卵_, by betcover!!
 - _馬_, by betcover!!
 - _Void Patrol_, by Void Patrol
+- _Every Bridge Burning_, by Nails
 - _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
-- _Every Bridge Burning_, by Nails
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
 - _Under Tangled Silence_, by DjRUM
 - _Demilitarize_, by Nazar
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
-- _animal body_, by Haisuinonasa
 
 </details>
 
