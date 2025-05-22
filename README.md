@@ -11,11 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Every Bridge Burning_, by Nails
+- _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
+- _I LIE HERE BURIED WITH MY RINGS AND MY DRESSES_, by Backxwash
+- _Only Dust Remains_, by Backxwash
 - _From Where You Came_, by Kara-Lis Coverdale
 - _Obzen_, by Meshuggah
 - _Totality_, by Natural Information Society, Bitchin Bajas
-- _Only Dust Remains_, by Backxwash
-- _Žaltys_, by Raphael Roginski
 
 </details>
 
@@ -26,19 +28,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Only Dust Remains_, by Backxwash
 - _Rest Symbol_, by rest symbol
 - _Totality_, by Natural Information Society, Bitchin Bajas
+- _From Where You Came_, by Kara-Lis Coverdale
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _卵_, by betcover!!
 - _馬_, by betcover!!
-- _From Where You Came_, by Kara-Lis Coverdale
 - _Void Patrol_, by Void Patrol
 - _Cult Subterranea_, by Celestaphone, Dealers of God
-- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
-- _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
+- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
 - _Under Tangled Silence_, by DjRUM
 - _Demilitarize_, by Nazar
+- _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _animal body_, by Haisuinonasa
 - _Žaltys_, by Raphael Roginski
 
