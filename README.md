@@ -12,12 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Every Bridge Burning_, by Nails
-- _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
-- _I LIE HERE BURIED WITH MY RINGS AND MY DRESSES_, by Backxwash
-- _Only Dust Remains_, by Backxwash
-- _From Where You Came_, by Kara-Lis Coverdale
-- _Obzen_, by Meshuggah
-- _Totality_, by Natural Information Society, Bitchin Bajas
 
 </details>
 
@@ -35,6 +29,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Void Patrol_, by Void Patrol
 - _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
+- _Every Bridge Burning_, by Nails
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
@@ -42,7 +37,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Demilitarize_, by Nazar
 - _Greyhound Days_, by Patrick Shiroishi, Piotr Kurek
 - _animal body_, by Haisuinonasa
-- _Žaltys_, by Raphael Roginski
 
 </details>
 
