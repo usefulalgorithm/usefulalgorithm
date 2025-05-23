@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _From Where You Came_, by Kara-Lis Coverdale
+- _VII: Beast of Arpocalyx_, by Botanist
 - _Thankful_, by Jeremy Passion, Melissa Polinar, Gabe Bondoc
 - _平庸之上_, by 9m88
 - _Steven Universe, Vol. 1 (Original Soundtrack)_, by Steven Universe
@@ -21,7 +23,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Every Bridge Burning_, by Nails
 - _Days With Dr. Yen Lo_, by Dr. Yen Lo
-- _Obzen_, by Meshuggah
 
 </details>
 
@@ -33,14 +34,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Rest Symbol_, by rest symbol
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _From Where You Came_, by Kara-Lis Coverdale
-- _Somoku Hodo_, by Hakushi Hasegawa
+- _Somoku - From THE FIRST TAKE_, by Hakushi Hasegawa
 - _卵_, by betcover!!
 - _馬_, by betcover!!
 - _Every Bridge Burning_, by Nails
 - _Void Patrol_, by Void Patrol
+- _Somoku Hodo_, by Hakushi Hasegawa
+- _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Cult Subterranea_, by Celestaphone, Dealers of God
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
-- _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
 - _Under Tangled Silence_, by DjRUM
