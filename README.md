@@ -11,13 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Husk_, by Hope Drone
+- _Schlagenheim_, by black midi
 - _From Where You Came_, by Kara-Lis Coverdale
 - _VII: Beast of Arpocalyx_, by Botanist
 - _Thankful_, by Jeremy Passion, Melissa Polinar, Gabe Bondoc
 - _平庸之上_, by 9m88
 - _Steven Universe, Vol. 1 (Original Soundtrack)_, by Steven Universe
 - _未來_, by Khalil Fong
-- _Husk_, by Hope Drone
 - _Flickering Resonance_, by Pelican
 - _Blue Veil_, by Lucy Railton
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
