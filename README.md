@@ -11,7 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Husk_, by Hope Drone
 - _Flickering Resonance_, by Pelican
+- _Blue Veil_, by Lucy Railton
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Every Bridge Burning_, by Nails
 - _Days With Dr. Yen Lo_, by Dr. Yen Lo
