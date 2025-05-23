@@ -23,7 +23,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Blue Veil_, by Lucy Railton
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Every Bridge Burning_, by Nails
-- _Days With Dr. Yen Lo_, by Dr. Yen Lo
 
 </details>
 
