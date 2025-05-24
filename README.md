@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Vėjula_, by merope, Indrė Jurgelevičiūtė, Bert Cools
+- _Lateralus_, by TOOL
 - _From Where You Came_, by Kara-Lis Coverdale
 - _Husk_, by Hope Drone
 - _Schlagenheim_, by black midi
