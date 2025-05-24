@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _From Where You Came_, by Kara-Lis Coverdale
 - _Husk_, by Hope Drone
 - _Schlagenheim_, by black midi
-- _From Where You Came_, by Kara-Lis Coverdale
 - _VII: Beast of Arpocalyx_, by Botanist
 - _Thankful_, by Jeremy Passion, Melissa Polinar, Gabe Bondoc
 - _平庸之上_, by 9m88
