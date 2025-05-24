@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Vėjula_, by merope, Indrė Jurgelevičiūtė, Bert Cools
 - _From Where You Came_, by Kara-Lis Coverdale
 - _Husk_, by Hope Drone
 - _Schlagenheim_, by black midi
 - _VII: Beast of Arpocalyx_, by Botanist
 - _Thankful_, by Jeremy Passion, Melissa Polinar, Gabe Bondoc
-- _平庸之上_, by 9m88
-- _Steven Universe, Vol. 1 (Original Soundtrack)_, by Steven Universe
 
 </details>
 
@@ -40,16 +39,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
-- _Under Tangled Silence_, by DjRUM
-- _Demilitarize_, by Nazar
 
 </details>
 
 ## 📚
 
-Just finished reading _The Last Samurai_, by Helen DeWitt ([link](https://hardcover.app/books/the-last-samurai)). It's just meh.
+Just finished reading _Men in Space_, by Tom McCarthy ([link](https://hardcover.app/books/men-in-space)). It's just meh.
 
-Gotta finish 25 books before 2026-01-01. I've read 9 so far.
+Gotta finish 25 books before 2026-01-01. I've read 10 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
