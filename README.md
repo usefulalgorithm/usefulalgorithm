@@ -21,16 +21,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _未來_, by Khalil Fong
 - _Flickering Resonance_, by Pelican
 - _Blue Veil_, by Lucy Railton
-- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
-- _Every Bridge Burning_, by Nails
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Dos Moons_, by Dos Monos
 - _From Where You Came_, by Kara-Lis Coverdale
+- _Dos Moons_, by Dos Monos
 - _Only Dust Remains_, by Backxwash
 - _Rest Symbol_, by rest symbol
 - _Totality_, by Natural Information Society, Bitchin Bajas
