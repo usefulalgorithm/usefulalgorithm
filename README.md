@@ -18,9 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Thankful_, by Jeremy Passion, Melissa Polinar, Gabe Bondoc
 - _平庸之上_, by 9m88
 - _Steven Universe, Vol. 1 (Original Soundtrack)_, by Steven Universe
-- _未來_, by Khalil Fong
-- _Flickering Resonance_, by Pelican
-- _Blue Veil_, by Lucy Railton
 
 </details>
 
