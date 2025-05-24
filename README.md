@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _10,000 Days_, by TOOL
 - _Vėjula_, by merope, Indrė Jurgelevičiūtė, Bert Cools
 - _Lateralus_, by TOOL
 - _From Where You Came_, by Kara-Lis Coverdale
