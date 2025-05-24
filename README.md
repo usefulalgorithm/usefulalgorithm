@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _From Where You Came_, by Kara-Lis Coverdale
 - _Husk_, by Hope Drone
 - _Schlagenheim_, by black midi
-- _VII: Beast of Arpocalyx_, by Botanist
-- _Thankful_, by Jeremy Passion, Melissa Polinar, Gabe Bondoc
 
 </details>
 
