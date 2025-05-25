@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Blue Veil_, by Lucy Railton
 - _Lateralus_, by TOOL
 - _The Crying Nudes_, by The Crying Nudes
@@ -46,6 +47,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
+- _Blue Veil_, by Lucy Railton
 
 </details>
 
