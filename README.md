@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Blue Veil_, by Lucy Railton
+- _Lateralus_, by TOOL
 - _The Crying Nudes_, by The Crying Nudes
 - _Ginkgo_, by Panchiko
 - _Like A Ribbon_, by John Glacier
@@ -21,7 +23,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _lucre_, by Dean Blunt, Elias Rønnenfelt
 - _10,000 Days_, by TOOL
 - _Vėjula_, by merope, Indrė Jurgelevičiūtė, Bert Cools
-- _Lateralus_, by TOOL
 - _From Where You Came_, by Kara-Lis Coverdale
 
 </details>
