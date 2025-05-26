@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Crying Nudes_, by The Crying Nudes
 - _Like A Ribbon_, by John Glacier
 - _departures, wonders & tears_, by Florence Sinclair
-- _Vėjula_, by merope, Indrė Jurgelevičiūtė, Bert Cools
 
 </details>
 
