@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Blue Veil_, by Lucy Railton
 - _The Crying Nudes_, by The Crying Nudes
 - _Like A Ribbon_, by John Glacier
-- _Genuine Dexterity_, by Kenny Segal, K-The-I???
 
 </details>
 
