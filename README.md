@@ -26,10 +26,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Rest Symbol_, by rest symbol
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _卵_, by betcover!!
-- _Somoku - From THE FIRST TAKE_, by Hakushi Hasegawa
 - _馬_, by betcover!!
 - _Every Bridge Burning_, by Nails
 - _Void Patrol_, by Void Patrol
+- _Somoku - From THE FIRST TAKE_, by Hakushi Hasegawa
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
