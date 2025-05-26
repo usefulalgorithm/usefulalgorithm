@@ -11,14 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Vėjula_, by merope, Indrė Jurgelevičiūtė, Bert Cools
 - _Blue Veil_, by Lucy Railton
 - _The Crying Nudes_, by The Crying Nudes
 - _Like A Ribbon_, by John Glacier
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
-- _Lateralus_, by TOOL
-- _Ginkgo_, by Panchiko
-- _Heavy Glory_, by Elias Rønnenfelt
-- _Deceive the Spasms_, by Black Pepper
 
 </details>
 
@@ -38,7 +35,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
-- _Cult Subterranea_, by Celestaphone, Dealers of God
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
 - _Blue Veil_, by Lucy Railton
