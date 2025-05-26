@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Like A Ribbon_, by John Glacier
 - _The Crying Nudes_, by The Crying Nudes
 - _Genuine Dexterity_, by Kenny Segal, K-The-I???
 - _Blue Veil_, by Lucy Railton
 - _Lateralus_, by TOOL
 - _Ginkgo_, by Panchiko
-- _Like A Ribbon_, by John Glacier
 - _Heavy Glory_, by Elias Rønnenfelt
 - _Deceive the Spasms_, by Black Pepper
 - _Pleasure Is Everything_, by mark william lewis
