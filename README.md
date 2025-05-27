@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Crying Nudes_, by The Crying Nudes
 - _Cavalcade_, by black midi
 - _lucre_, by Dean Blunt, Elias Rønnenfelt
-- _Like A Ribbon_, by John Glacier
 
 </details>
 
@@ -34,11 +33,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Somoku - From THE FIRST TAKE_, by Hakushi Hasegawa
-- _馬_, by betcover!!
 - _Blue Veil_, by Lucy Railton
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
 - _The Crying Nudes_, by The Crying Nudes
+- _Under Tangled Silence_, by DjRUM
 
 </details>
 
