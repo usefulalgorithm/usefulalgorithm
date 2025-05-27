@@ -11,9 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Let Me Out_, by Fatboi Sharif, Driveby
+- _12_, by Westside Gunn
+- _Magnolia Leflore_, by Boldy James, Your Boy Posca
 - _Like A Ribbon_, by John Glacier
 - _Excelsior_, by Benny The Butcher
-- _Magnolia Leflore_, by Boldy James, Your Boy Posca
 
 </details>
 
