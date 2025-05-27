@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Excelsior_, by Benny The Butcher
 - _Magnolia Leflore_, by Boldy James, Your Boy Posca
 - _Blue Veil_, by Lucy Railton
-- _The Crying Nudes_, by The Crying Nudes
 
 </details>
 
