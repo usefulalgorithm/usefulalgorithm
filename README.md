@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Like A Ribbon_, by John Glacier
 - _Excelsior_, by Benny The Butcher
 - _Magnolia Leflore_, by Boldy James, Your Boy Posca
-- _Blue Veil_, by Lucy Railton
 
 </details>
 
@@ -33,10 +33,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Somoku - From THE FIRST TAKE_, by Hakushi Hasegawa
+- _Like A Ribbon_, by John Glacier
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
 - _The Crying Nudes_, by The Crying Nudes
-- _Under Tangled Silence_, by DjRUM
 
 </details>
 
