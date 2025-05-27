@@ -11,9 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Blue Veil_, by Lucy Railton
 - _The Crying Nudes_, by The Crying Nudes
+- _Cavalcade_, by black midi
+- _lucre_, by Dean Blunt, Elias Rønnenfelt
 - _Like A Ribbon_, by John Glacier
-- _departures, wonders & tears_, by Florence Sinclair
 
 </details>
 
@@ -26,16 +28,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Rest Symbol_, by rest symbol
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _卵_, by betcover!!
-- _馬_, by betcover!!
 - _Every Bridge Burning_, by Nails
 - _Void Patrol_, by Void Patrol
-- _Somoku - From THE FIRST TAKE_, by Hakushi Hasegawa
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
+- _Somoku - From THE FIRST TAKE_, by Hakushi Hasegawa
+- _馬_, by betcover!!
+- _Blue Veil_, by Lucy Railton
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
-- _Blue Veil_, by Lucy Railton
+- _The Crying Nudes_, by The Crying Nudes
 
 </details>
 
