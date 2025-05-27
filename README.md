@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Excelsior_, by Benny The Butcher
+- _Magnolia Leflore_, by Boldy James, Your Boy Posca
 - _Blue Veil_, by Lucy Railton
 - _The Crying Nudes_, by The Crying Nudes
-- _Cavalcade_, by black midi
-- _lucre_, by Dean Blunt, Elias Rønnenfelt
 
 </details>
 
