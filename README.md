@@ -11,8 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Like A Ribbon_, by John Glacier
+- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
+- _Super Tecmo Bo_, by Boldy James, The Alchemist
+- _Let Me Out_, by Fatboi Sharif, Driveby
 - _Excelsior_, by Benny The Butcher
+- _Like A Ribbon_, by John Glacier
 
 </details>
 
@@ -30,11 +33,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Blue Veil_, by Lucy Railton
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
-- _卵_, by betcover!!
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
+- _Under Tangled Silence_, by DjRUM
 
 </details>
 
