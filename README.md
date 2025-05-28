@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Excelsior_, by Benny The Butcher
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _Magnolia Leflore_, by Boldy James, Your Boy Posca
 - _Like A Ribbon_, by John Glacier
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
-- _Excelsior_, by Benny The Butcher
 
 </details>
 
@@ -30,13 +30,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Every Bridge Burning_, by Nails
 - _Void Patrol_, by Void Patrol
-- _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Blue Veil_, by Lucy Railton
+- _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Somoku Hodo_, by Hakushi Hasegawa
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
-- _卵_, by betcover!!
 - _Somoku - From THE FIRST TAKE_, by Hakushi Hasegawa
 - _Like A Ribbon_, by John Glacier
+- _卵_, by betcover!!
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
 - _The Crying Nudes_, by The Crying Nudes
