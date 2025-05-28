@@ -11,11 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _Excelsior_, by Benny The Butcher
 - _Let Me Out_, by Fatboi Sharif, Driveby
-- _12_, by Westside Gunn
-- _Magnolia Leflore_, by Boldy James, Your Boy Posca
-- _Like A Ribbon_, by John Glacier
 
 </details>
 
@@ -27,9 +25,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Only Dust Remains_, by Backxwash
 - _Rest Symbol_, by rest symbol
 - _Totality_, by Natural Information Society, Bitchin Bajas
-- _卵_, by betcover!!
 - _Every Bridge Burning_, by Nails
 - _Void Patrol_, by Void Patrol
+- _卵_, by betcover!!
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Blue Veil_, by Lucy Railton
 - _Somoku Hodo_, by Hakushi Hasegawa
