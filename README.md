@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _Magnolia Leflore_, by Boldy James, Your Boy Posca
 - _Like A Ribbon_, by John Glacier
