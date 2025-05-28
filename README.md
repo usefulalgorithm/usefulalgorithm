@@ -31,15 +31,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Every Bridge Burning_, by Nails
 - _Void Patrol_, by Void Patrol
 - _Blue Veil_, by Lucy Railton
+- _Like A Ribbon_, by John Glacier
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Somoku Hodo_, by Hakushi Hasegawa
-- _Like A Ribbon_, by John Glacier
-- _Somoku - From THE FIRST TAKE_, by Hakushi Hasegawa
 - _卵_, by betcover!!
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
 - _The Crying Nudes_, by The Crying Nudes
+- _Excelsior_, by Benny The Butcher
 
 </details>
 
