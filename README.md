@@ -11,13 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _八+九_, by 八十八ヶ所巡礼
+- _Like A Ribbon_, by John Glacier
+- _Did You Enjoy Your Time Here...?_, by PremRock
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _Blue Veil_, by Lucy Railton
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
-- _Let Me Out_, by Fatboi Sharif, Driveby
-- _Like A Ribbon_, by John Glacier
-- _Contemporary Movement_, by Duster
 
 </details>
 
@@ -28,18 +28,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Dos Moons_, by Dos Monos
 - _Only Dust Remains_, by Backxwash
 - _Rest Symbol_, by rest symbol
-- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Like A Ribbon_, by John Glacier
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Every Bridge Burning_, by Nails
 - _Blue Veil_, by Lucy Railton
 - _Void Patrol_, by Void Patrol
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
-- _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
+- _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
 - _The Crying Nudes_, by The Crying Nudes
-- _Excelsior_, by Benny The Butcher
 
 </details>
 
