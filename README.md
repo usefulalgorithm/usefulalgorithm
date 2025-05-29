@@ -11,10 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
-- _Like A Ribbon_, by John Glacier
-- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
+- _Super Tecmo Bo_, by Boldy James, The Alchemist
 
 </details>
 
@@ -35,8 +33,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
 - _The Crying Nudes_, by The Crying Nudes
+- _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _Excelsior_, by Benny The Butcher
-- _Under Tangled Silence_, by DjRUM
 
 </details>
 
