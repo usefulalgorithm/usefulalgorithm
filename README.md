@@ -11,11 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
+- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
+- _Like A Ribbon_, by John Glacier
+- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _Excelsior_, by Benny The Butcher
-- _Like A Ribbon_, by John Glacier
 
 </details>
 
