@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Let Me Out_, by Fatboi Sharif, Driveby
+- _Like A Ribbon_, by John Glacier
+- _Contemporary Movement_, by Duster
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 
