@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Blue Veil_, by Lucy Railton
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
@@ -30,8 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Like A Ribbon_, by John Glacier
 - _Every Bridge Burning_, by Nails
-- _Void Patrol_, by Void Patrol
 - _Blue Veil_, by Lucy Railton
+- _Void Patrol_, by Void Patrol
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
