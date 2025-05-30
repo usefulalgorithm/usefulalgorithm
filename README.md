@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Let Me Out_, by Fatboi Sharif, Driveby
 - _Excelsior_, by Benny The Butcher
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _八+九_, by 八十八ヶ所巡礼
 - _Like A Ribbon_, by John Glacier
-- _Did You Enjoy Your Time Here...?_, by PremRock
-- _Blue Veil_, by Lucy Railton
 
 </details>
 
@@ -35,9 +34,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Void Patrol_, by Void Patrol
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
+- _Let Me Out_, by Fatboi Sharif, Driveby
+- _Excelsior_, by Benny The Butcher
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
-- _The Crying Nudes_, by The Crying Nudes
 
 </details>
 
