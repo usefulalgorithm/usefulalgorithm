@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _八+九_, by 八十八ヶ所巡礼
 - _Like A Ribbon_, by John Glacier
+- _八+九_, by 八十八ヶ所巡礼
 - _Did You Enjoy Your Time Here...?_, by PremRock
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _Blue Veil_, by Lucy Railton
