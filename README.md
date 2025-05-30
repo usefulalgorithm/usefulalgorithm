@@ -12,12 +12,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
+- _HOME?_, by Wretch 32
 - _Revengeseekerz_, by Jane Remover
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _Excelsior_, by Benny The Butcher
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _八+九_, by 八十八ヶ所巡礼
-- _Like A Ribbon_, by John Glacier
 
 </details>
 
