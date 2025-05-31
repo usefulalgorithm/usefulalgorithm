@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Demise Of Love_, by Demise Of Love, Daniel Avery, Working Men's Club, Ghost Culture
+- _Big city life_, by Smerz
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _HOME?_, by Wretch 32
 - _Revengeseekerz_, by Jane Remover
