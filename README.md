@@ -17,7 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _Excelsior_, by Benny The Butcher
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
-- _八+九_, by 八十八ヶ所巡礼
 
 </details>
 
