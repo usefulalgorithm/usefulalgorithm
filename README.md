@@ -24,16 +24,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _From Where You Came_, by Kara-Lis Coverdale
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Like A Ribbon_, by John Glacier
 - _Dos Moons_, by Dos Monos
-- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Only Dust Remains_, by Backxwash
 - _Blue Veil_, by Lucy Railton
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _Every Bridge Burning_, by Nails
 - _Void Patrol_, by Void Patrol
-- _Rest Symbol_, by rest symbol
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
+- _Rest Symbol_, by rest symbol
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Let Me Out_, by Fatboi Sharif, Driveby
