@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _departures, wonders & tears_, by Florence Sinclair
 - _HOME?_, by Wretch 32
-- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Blue Veil_, by Lucy Railton
 - _Big city life_, by Smerz
 - _Good Coding_, by great area
@@ -26,10 +26,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _From Where You Came_, by Kara-Lis Coverdale
 - _Like A Ribbon_, by John Glacier
 - _Dos Moons_, by Dos Monos
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Only Dust Remains_, by Backxwash
 - _Blue Veil_, by Lucy Railton
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
-- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Every Bridge Burning_, by Nails
 - _Void Patrol_, by Void Patrol
 - _Rest Symbol_, by rest symbol
