@@ -11,14 +11,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Blue Veil_, by Lucy Railton
+- _The Crying Nudes_, by The Crying Nudes
+- _Let Me Out_, by Fatboi Sharif, Driveby
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Demise Of Love_, by Demise Of Love, Daniel Avery, Working Men's Club, Ghost Culture
 - _Big city life_, by Smerz
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _HOME?_, by Wretch 32
 - _Revengeseekerz_, by Jane Remover
-- _Let Me Out_, by Fatboi Sharif, Driveby
-- _Excelsior_, by Benny The Butcher
-- _Super Tecmo Bo_, by Boldy James, The Alchemist
 
 </details>
 
@@ -34,11 +35,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Every Bridge Burning_, by Nails
 - _Void Patrol_, by Void Patrol
 - _Rest Symbol_, by rest symbol
-- _Blue Veil_, by Lucy Railton
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
+- _Blue Veil_, by Lucy Railton
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Let Me Out_, by Fatboi Sharif, Driveby
+- _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
