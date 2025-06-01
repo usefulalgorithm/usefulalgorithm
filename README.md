@@ -11,12 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
+- _caroline 2_, by caroline
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _departures, wonders & tears_, by Florence Sinclair
 - _HOME?_, by Wretch 32
 - _Blue Veil_, by Lucy Railton
 - _Big city life_, by Smerz
-- _Good Coding_, by great area
 
 </details>
 
