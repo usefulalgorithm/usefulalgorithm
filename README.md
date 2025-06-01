@@ -11,11 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _departures, wonders & tears_, by Florence Sinclair
+- _HOME?_, by Wretch 32
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Blue Veil_, by Lucy Railton
 - _Big city life_, by Smerz
 - _Good Coding_, by great area
-- _The Crying Nudes_, by The Crying Nudes
-- _Let Me Out_, by Fatboi Sharif, Driveby
 
 </details>
 
