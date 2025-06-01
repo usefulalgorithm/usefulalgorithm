@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 - _caroline 2_, by caroline
 - _Totality_, by Natural Information Society, Bitchin Bajas
@@ -31,13 +32,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Only Dust Remains_, by Backxwash
 - _Blue Veil_, by Lucy Railton
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
-- _Every Bridge Burning_, by Nails
-- _Void Patrol_, by Void Patrol
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
-- _Rest Symbol_, by rest symbol
+- _Void Patrol_, by Void Patrol
+- _Every Bridge Burning_, by Nails
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Let Me Out_, by Fatboi Sharif, Driveby
+- _Rest Symbol_, by rest symbol
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
 - _IOX_, by LA Timpa
