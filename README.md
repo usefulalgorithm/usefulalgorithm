@@ -11,14 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
-- _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 - _caroline 2_, by caroline
 - _Totality_, by Natural Information Society, Bitchin Bajas
+- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
+- _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 - _departures, wonders & tears_, by Florence Sinclair
 - _HOME?_, by Wretch 32
 - _Blue Veil_, by Lucy Railton
-- _Big city life_, by Smerz
 
 </details>
 
