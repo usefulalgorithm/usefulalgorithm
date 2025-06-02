@@ -17,7 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 - _departures, wonders & tears_, by Florence Sinclair
 - _HOME?_, by Wretch 32
-- _Blue Veil_, by Lucy Railton
 
 </details>
 
