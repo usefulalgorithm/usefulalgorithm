@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Pro Unlimited_, by Various Artists
 - _SILVER SLUGGER OF THE YEAR_, by Jazzy lion man, Soo Do Koo
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 - _Iris Silver Mist_, by Jenny Hval
 - _caroline 2_, by caroline
 - _Totality_, by Natural Information Society, Bitchin Bajas
-- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 
 </details>
 
@@ -36,8 +36,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Let Me Out_, by Fatboi Sharif, Driveby
-- _Rest Symbol_, by rest symbol
 - _The Crying Nudes_, by The Crying Nudes
+- _Rest Symbol_, by rest symbol
 - _Excelsior_, by Benny The Butcher
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
