@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Pro Unlimited_, by Various Artists
 - _SILVER SLUGGER OF THE YEAR_, by Jazzy lion man, Soo Do Koo
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 - _Iris Silver Mist_, by Jenny Hval
 - _caroline 2_, by caroline
-- _Totality_, by Natural Information Society, Bitchin Bajas
 
 </details>
 
