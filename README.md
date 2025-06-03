@@ -34,8 +34,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _Every Bridge Burning_, by Nails
 - _Let Me Out_, by Fatboi Sharif, Driveby
-- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
+- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _The Crying Nudes_, by The Crying Nudes
 - _Rest Symbol_, by rest symbol
 - _Excelsior_, by Benny The Butcher
