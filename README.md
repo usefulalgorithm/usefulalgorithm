@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 - _Pray for Paris_, by Westside Gunn
+- _caroline 2_, by caroline
+- _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Pro Unlimited_, by Various Artists
@@ -26,18 +27,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Like A Ribbon_, by John Glacier
 - _Dos Moons_, by Dos Monos
-- _Only Dust Remains_, by Backxwash
 - _Blue Veil_, by Lucy Railton
+- _Only Dust Remains_, by Backxwash
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _Every Bridge Burning_, by Nails
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
-- _Void Patrol_, by Void Patrol
 - _The Crying Nudes_, by The Crying Nudes
 - _Rest Symbol_, by rest symbol
 - _Excelsior_, by Benny The Butcher
+- _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 - _IOX_, by LA Timpa
 - _Pearl_, by Dos Monos
 
