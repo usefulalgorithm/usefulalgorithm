@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Dregs_, by Dregs
 - _Beloved! Paradise! Jazz!?_, by McKinley Dixon
 - _Windowlicker_, by Aphex Twin
 - _Seeker of Knowledge_, by Chow
