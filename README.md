@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _ULTRAPOP_, by The Armed
+- _Dregs_, by Dregs
 - _Aethiopes_, by billy woods
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
-- _Dregs_, by Dregs
 - _Beloved! Paradise! Jazz!?_, by McKinley Dixon
 - _Windowlicker_, by Aphex Twin
 - _Seeker of Knowledge_, by Chow
@@ -39,7 +40,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
 - _The Crying Nudes_, by The Crying Nudes
-- _Rest Symbol_, by rest symbol
 - _Excelsior_, by Benny The Butcher
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 - _IOX_, by LA Timpa
