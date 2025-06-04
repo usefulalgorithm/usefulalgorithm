@@ -30,10 +30,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Like A Ribbon_, by John Glacier
 - _Dos Moons_, by Dos Monos
+- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _Blue Veil_, by Lucy Railton
 - _Only Dust Remains_, by Backxwash
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
-- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _Every Bridge Burning_, by Nails
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
