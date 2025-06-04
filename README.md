@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _ps / dm_, by spirit blue
 - _ULTRAPOP_, by The Armed
 - _Dregs_, by Dregs
 - _Aethiopes_, by billy woods
