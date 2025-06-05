@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _clones_, by (un)familiar., samlrc
 - _caroline 2_, by caroline
 - _ULTRAPOP_, by The Armed
-- _clones_, by (un)familiar., samlrc
 - _the world is still here and so are we_, by Mclusky
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _We're Not Here to Be Loved_, by Fleshwater
@@ -21,7 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Gris Klein_, by Birds in Row
 - _ps / dm_, by spirit blue
 - _Dregs_, by Dregs
-- _Aethiopes_, by billy woods
 
 </details>
 
