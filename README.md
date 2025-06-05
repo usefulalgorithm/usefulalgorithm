@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _We're Not Here to Be Loved_, by Fleshwater
+- _Your Day Will Come_, by Chanel Beads
+- _Gris Klein_, by Birds in Row
 - _ps / dm_, by spirit blue
 - _ULTRAPOP_, by The Armed
 - _Dregs_, by Dregs
@@ -19,9 +22,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Beloved! Paradise! Jazz!?_, by McKinley Dixon
 - _Windowlicker_, by Aphex Twin
 - _Seeker of Knowledge_, by Chow
-- _Pray for Paris_, by Westside Gunn
-- _caroline 2_, by caroline
-- _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 
 </details>
 
