@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _clones_, by (un)familiar., samlrc
+- _the world is still here and so are we_, by Mclusky
+- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _We're Not Here to Be Loved_, by Fleshwater
 - _Your Day Will Come_, by Chanel Beads
 - _Gris Klein_, by Birds in Row
@@ -18,10 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ULTRAPOP_, by The Armed
 - _Dregs_, by Dregs
 - _Aethiopes_, by billy woods
-- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
-- _Beloved! Paradise! Jazz!?_, by McKinley Dixon
-- _Windowlicker_, by Aphex Twin
-- _Seeker of Knowledge_, by Chow
 
 </details>
 
@@ -31,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _From Where You Came_, by Kara-Lis Coverdale
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Like A Ribbon_, by John Glacier
-- _Dos Moons_, by Dos Monos
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
+- _Dos Moons_, by Dos Monos
 - _Blue Veil_, by Lucy Railton
 - _Only Dust Remains_, by Backxwash
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
