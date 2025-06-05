@@ -19,8 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _We're Not Here to Be Loved_, by Fleshwater
 - _Your Day Will Come_, by Chanel Beads
 - _Gris Klein_, by Birds in Row
-- _ps / dm_, by spirit blue
-- _Dregs_, by Dregs
 
 </details>
 
