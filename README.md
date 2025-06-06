@@ -11,14 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Magic, Alive!_, by McKinley Dixon
 - _clones_, by (un)familiar., samlrc
 - _caroline 2_, by caroline
 - _ULTRAPOP_, by The Armed
 - _the world is still here and so are we_, by Mclusky
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _We're Not Here to Be Loved_, by Fleshwater
-- _Your Day Will Come_, by Chanel Beads
-- _Gris Klein_, by Birds in Row
 
 </details>
 
