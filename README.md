@@ -13,11 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Magic, Alive!_, by McKinley Dixon
 - _clones_, by (un)familiar., samlrc
-- _caroline 2_, by caroline
-- _ULTRAPOP_, by The Armed
-- _the world is still here and so are we_, by Mclusky
-- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
-- _We're Not Here to Be Loved_, by Fleshwater
 
 </details>
 
@@ -28,19 +23,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Like A Ribbon_, by John Glacier
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
-- _Dos Moons_, by Dos Monos
-- _Blue Veil_, by Lucy Railton
 - _Only Dust Remains_, by Backxwash
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
+- _Blue Veil_, by Lucy Railton
+- _Dos Moons_, by Dos Monos
 - _Every Bridge Burning_, by Nails
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
-- _Music From The Merch Desk (2016 - 2023)_, by Aphex Twin
-- _Windowlicker_, by Aphex Twin
-- _IOX_, by LA Timpa
+- _Under Tangled Silence_, by DjRUM
 
 </details>
 
