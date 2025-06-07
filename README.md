@@ -27,9 +27,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Only Dust Remains_, by Backxwash
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _Blue Veil_, by Lucy Railton
-- _Dos Moons_, by Dos Monos
 - _Every Bridge Burning_, by Nails
 - _Let Me Out_, by Fatboi Sharif, Driveby
+- _Dos Moons_, by Dos Monos
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
