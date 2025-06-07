@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _Magic, Alive!_, by McKinley Dixon
 - _Addison_, by Addison Rae
 - _Corners (Chanel Beads Rework)_, by LEYA, Chanel Beads
