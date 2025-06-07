@@ -22,8 +22,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _From Where You Came_, by Kara-Lis Coverdale
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
+- _From Where You Came_, by Kara-Lis Coverdale
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Like A Ribbon_, by John Glacier
 - _Only Dust Remains_, by Backxwash
