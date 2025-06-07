@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Pray for Paris_, by Westside Gunn
-- _Corners (Chanel Beads Rework)_, by LEYA, Chanel Beads
 - _Magic, Alive!_, by McKinley Dixon
+- _Addison_, by Addison Rae
+- _Corners (Chanel Beads Rework)_, by LEYA, Chanel Beads
+- _Pray for Paris_, by Westside Gunn
 - _clones_, by (un)familiar., samlrc
 
 </details>
