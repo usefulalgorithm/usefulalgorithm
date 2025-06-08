@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _caroline 2_, by caroline
 - _Magic, Alive!_, by McKinley Dixon
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _Addison_, by Addison Rae
@@ -34,6 +35,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Dos Moons_, by Dos Monos
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
+- _caroline 2_, by caroline
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 - _Magic, Alive!_, by McKinley Dixon
