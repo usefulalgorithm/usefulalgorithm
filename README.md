@@ -36,7 +36,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Excelsior_, by Benny The Butcher
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
-- _Under Tangled Silence_, by DjRUM
+- _Magic, Alive!_, by McKinley Dixon
 
 </details>
 
