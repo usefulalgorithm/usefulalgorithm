@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _ps / dm_, by spirit blue
+- _GENERATIONAL CURSE_, by ICECOLDBISHOP
 - _Magic, Alive!_, by McKinley Dixon
-- _Totality_, by Natural Information Society, Bitchin Bajas
 
 </details>
 
@@ -28,8 +29,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Blue Veil_, by Lucy Railton
 - _Every Bridge Burning_, by Nails
 - _Let Me Out_, by Fatboi Sharif, Driveby
-- _rubberneck_, by (un)familiar.
 - _Magic, Alive!_, by McKinley Dixon
+- _rubberneck_, by (un)familiar.
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
 - _caroline 2_, by caroline
