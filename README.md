@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _clones_, by (un)familiar., samlrc
 - _caroline 2_, by caroline
 - _Magic, Alive!_, by McKinley Dixon
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _Addison_, by Addison Rae
 - _Corners (Chanel Beads Rework)_, by LEYA, Chanel Beads
-- _Pray for Paris_, by Westside Gunn
 
 </details>
 
@@ -37,6 +37,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Excelsior_, by Benny The Butcher
 - _caroline 2_, by caroline
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
+- _rubberneck_, by (un)familiar.
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 - _Magic, Alive!_, by McKinley Dixon
 
