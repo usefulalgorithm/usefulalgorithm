@@ -13,8 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Magic, Alive!_, by McKinley Dixon
 - _Totality_, by Natural Information Society, Bitchin Bajas
-- _clones_, by (un)familiar., samlrc
-- _caroline 2_, by caroline
 
 </details>
 
