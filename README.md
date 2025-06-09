@@ -11,35 +11,33 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Magic, Alive!_, by McKinley Dixon
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _clones_, by (un)familiar., samlrc
 - _caroline 2_, by caroline
-- _Magic, Alive!_, by McKinley Dixon
-- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
-- _Addison_, by Addison Rae
-- _Corners (Chanel Beads Rework)_, by LEYA, Chanel Beads
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _From Where You Came_, by Kara-Lis Coverdale
-- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Like A Ribbon_, by John Glacier
 - _Only Dust Remains_, by Backxwash
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _Blue Veil_, by Lucy Railton
 - _Every Bridge Burning_, by Nails
 - _Let Me Out_, by Fatboi Sharif, Driveby
+- _rubberneck_, by (un)familiar.
 - _Dos Moons_, by Dos Monos
+- _Magic, Alive!_, by McKinley Dixon
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
 - _caroline 2_, by caroline
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
-- _rubberneck_, by (un)familiar.
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
-- _Magic, Alive!_, by McKinley Dixon
 
 </details>
 
