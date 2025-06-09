@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _lucre_, by Dean Blunt, Elias Rønnenfelt
 - _ps / dm_, by spirit blue
 - _GENERATIONAL CURSE_, by ICECOLDBISHOP
 - _Magic, Alive!_, by McKinley Dixon
@@ -35,7 +36,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Excelsior_, by Benny The Butcher
 - _caroline 2_, by caroline
 - _Every Sound Has A Color In The Valley Of Night_, by Night Verses
-- _Dos Moons_, by Dos Monos
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 
 </details>
