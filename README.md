@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _ps / dm_, by spirit blue
 - _clones_, by (un)familiar., samlrc
 - _caroline 2_, by caroline
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Magic, Alive!_, by McKinley Dixon
 - _lucre_, by Dean Blunt, Elias Rønnenfelt
-- _ps / dm_, by spirit blue
 - _GENERATIONAL CURSE_, by ICECOLDBISHOP
 
 </details>
@@ -26,19 +26,20 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
-- _From Where You Came_, by Kara-Lis Coverdale
 - _Like A Ribbon_, by John Glacier
+- _From Where You Came_, by Kara-Lis Coverdale
 - _Only Dust Remains_, by Backxwash
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _Blue Veil_, by Lucy Railton
+- _rubberneck_, by (un)familiar.
 - _Magic, Alive!_, by McKinley Dixon
 - _Let Me Out_, by Fatboi Sharif, Driveby
-- _rubberneck_, by (un)familiar.
 - _Every Bridge Burning_, by Nails
 - _caroline 2_, by caroline
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
+- _ps / dm_, by spirit blue
 
 </details>
 
