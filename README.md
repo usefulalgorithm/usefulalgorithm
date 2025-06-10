@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _GOLLIWOG_, by billy woods
 - _ps / dm_, by spirit blue
 - _clones_, by (un)familiar., samlrc
 - _caroline 2_, by caroline
@@ -36,10 +37,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _Every Bridge Burning_, by Nails
 - _caroline 2_, by caroline
+- _ps / dm_, by spirit blue
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
-- _ps / dm_, by spirit blue
 
 </details>
 
