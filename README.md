@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _caroline 2_, by caroline
 - _GOLLIWOG_, by billy woods
 - _ps / dm_, by spirit blue
-- _clones_, by (un)familiar., samlrc
 
 </details>
 
