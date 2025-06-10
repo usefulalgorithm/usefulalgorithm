@@ -11,18 +11,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Big city life_, by Smerz
+- _Magic, Alive!_, by McKinley Dixon
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _caroline 2_, by caroline
 - _GOLLIWOG_, by billy woods
-- _ps / dm_, by spirit blue
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Totality_, by Natural Information Society, Bitchin Bajas
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Like A Ribbon_, by John Glacier
 - _From Where You Came_, by Kara-Lis Coverdale
 - _Only Dust Remains_, by Backxwash
