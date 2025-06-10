@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _caroline 2_, by caroline
 - _GOLLIWOG_, by billy woods
 - _ps / dm_, by spirit blue
 - _clones_, by (un)familiar., samlrc
-- _caroline 2_, by caroline
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Magic, Alive!_, by McKinley Dixon
 - _lucre_, by Dean Blunt, Elias Rønnenfelt
