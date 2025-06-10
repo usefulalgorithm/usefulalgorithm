@@ -30,14 +30,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Only Dust Remains_, by Backxwash
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _Blue Veil_, by Lucy Railton
-- _Every Bridge Burning_, by Nails
-- _Let Me Out_, by Fatboi Sharif, Driveby
 - _Magic, Alive!_, by McKinley Dixon
+- _Let Me Out_, by Fatboi Sharif, Driveby
 - _rubberneck_, by (un)familiar.
+- _Every Bridge Burning_, by Nails
+- _caroline 2_, by caroline
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
-- _caroline 2_, by caroline
-- _Every Sound Has A Color In The Valley Of Night_, by Night Verses
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 
 </details>
