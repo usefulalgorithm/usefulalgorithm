@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Magic, Alive!_, by McKinley Dixon
 - _GOLLIWOG_, by billy woods
 - _A Shaw Deal_, by Geologist, D.S.
-- _Magic, Alive!_, by McKinley Dixon
 - _勇気_, by betcover!!
 
 </details>
@@ -23,13 +23,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _Totality_, by Natural Information Society, Bitchin Bajas
-- _Like A Ribbon_, by John Glacier
 - _Magic, Alive!_, by McKinley Dixon
+- _Like A Ribbon_, by John Glacier
 - _rubberneck_, by (un)familiar.
-- _From Where You Came_, by Kara-Lis Coverdale
 - _Only Dust Remains_, by Backxwash
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _Blue Veil_, by Lucy Railton
+- _From Where You Came_, by Kara-Lis Coverdale
 - _caroline 2_, by caroline
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _ps / dm_, by spirit blue
