@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _勇気_, by betcover!!
 - _Magic, Alive!_, by McKinley Dixon
 
 </details>
@@ -21,8 +22,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Like A Ribbon_, by John Glacier
-- _rubberneck_, by (un)familiar.
 - _Magic, Alive!_, by McKinley Dixon
+- _rubberneck_, by (un)familiar.
 - _From Where You Came_, by Kara-Lis Coverdale
 - _Only Dust Remains_, by Backxwash
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
