@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _caroline 2_, by caroline
 - _勇気_, by betcover!!
 - _A Shaw Deal_, by Geologist, D.S.
-- _caroline 2_, by caroline
 - _Magic, Alive!_, by McKinley Dixon
 - _GOLLIWOG_, by billy woods
 
