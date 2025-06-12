@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _A Shaw Deal_, by Geologist, D.S.
+- _勇気_, by betcover!!
 - _Magic, Alive!_, by McKinley Dixon
+- _A Shaw Deal_, by Geologist, D.S.
 - _GOLLIWOG_, by billy woods
 
 </details>
