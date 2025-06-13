@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _clones_, by (un)familiar., samlrc
 - _Vanusa_, by Vanusa
 - _caroline 2_, by caroline
-- _A Shaw Deal_, by Geologist, D.S.
 
 </details>
 
@@ -39,6 +38,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Excelsior_, by Benny The Butcher
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 - _From Where You Came_, by Kara-Lis Coverdale
+- _勇気_, by betcover!!
 
 </details>
 
