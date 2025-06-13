@@ -23,15 +23,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _Totality_, by Natural Information Society, Bitchin Bajas
-- _rubberneck_, by (un)familiar.
 - _Magic, Alive!_, by McKinley Dixon
+- _rubberneck_, by (un)familiar.
 - _Like A Ribbon_, by John Glacier
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _caroline 2_, by caroline
 - _Blue Veil_, by Lucy Railton
+- _ps / dm_, by spirit blue
 - _勇気_, by betcover!!
 - _Let Me Out_, by Fatboi Sharif, Driveby
-- _ps / dm_, by spirit blue
 - _Only Dust Remains_, by Backxwash
 - _Every Bridge Burning_, by Nails
 - _The Crying Nudes_, by The Crying Nudes
