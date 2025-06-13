@@ -29,9 +29,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _caroline 2_, by caroline
 - _Blue Veil_, by Lucy Railton
 - _Let Me Out_, by Fatboi Sharif, Driveby
+- _勇気_, by betcover!!
 - _Only Dust Remains_, by Backxwash
 - _ps / dm_, by spirit blue
-- _勇気_, by betcover!!
 - _Every Bridge Burning_, by Nails
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
