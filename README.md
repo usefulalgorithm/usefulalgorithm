@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _ps / dm_, by spirit blue
 - _勇気_, by betcover!!
 
 </details>
@@ -26,10 +27,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _caroline 2_, by caroline
 - _Blue Veil_, by Lucy Railton
-- _Let Me Out_, by Fatboi Sharif, Driveby
 - _勇気_, by betcover!!
-- _Only Dust Remains_, by Backxwash
+- _Let Me Out_, by Fatboi Sharif, Driveby
 - _ps / dm_, by spirit blue
+- _Only Dust Remains_, by Backxwash
 - _Every Bridge Burning_, by Nails
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
