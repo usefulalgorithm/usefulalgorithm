@@ -14,8 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _勇気_, by betcover!!
 - _馬_, by betcover!!
 - _clones_, by (un)familiar., samlrc
-- _Vanusa_, by Vanusa
-- _caroline 2_, by caroline
 
 </details>
 
@@ -28,17 +26,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Magic, Alive!_, by McKinley Dixon
 - _Like A Ribbon_, by John Glacier
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
-- _Only Dust Remains_, by Backxwash
 - _caroline 2_, by caroline
 - _Blue Veil_, by Lucy Railton
 - _Let Me Out_, by Fatboi Sharif, Driveby
+- _Only Dust Remains_, by Backxwash
 - _ps / dm_, by spirit blue
+- _勇気_, by betcover!!
 - _Every Bridge Burning_, by Nails
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 - _From Where You Came_, by Kara-Lis Coverdale
-- _勇気_, by betcover!!
 
 </details>
 
