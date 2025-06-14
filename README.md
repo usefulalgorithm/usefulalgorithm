@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _勇気_, by betcover!!
 - _Magic, Alive!_, by McKinley Dixon
+- _勇気_, by betcover!!
 - _A Shaw Deal_, by Geologist, D.S.
 - _caroline 2_, by caroline
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
