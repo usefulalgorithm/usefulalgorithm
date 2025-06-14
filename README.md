@@ -29,9 +29,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _rubberneck_, by (un)familiar.
 - _Like A Ribbon_, by John Glacier
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
+- _勇気_, by betcover!!
 - _caroline 2_, by caroline
 - _Blue Veil_, by Lucy Railton
-- _勇気_, by betcover!!
 - _ps / dm_, by spirit blue
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _Every Bridge Burning_, by Nails
