@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _馬_, by betcover!!
 - _勇気_, by betcover!!
 - _Humid Sun_, by Masahiro Takahashi
 - _Magic, Alive!_, by McKinley Dixon
