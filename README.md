@@ -28,8 +28,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Magic, Alive!_, by McKinley Dixon
 - _rubberneck_, by (un)familiar.
-- _Like A Ribbon_, by John Glacier
 - _勇気_, by betcover!!
+- _Like A Ribbon_, by John Glacier
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _caroline 2_, by caroline
 - _Blue Veil_, by Lucy Railton
