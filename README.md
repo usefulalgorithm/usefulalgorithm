@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Mega Mercy_, by Any
 - _Palm_, by Kukangendai
 - _勇気_, by betcover!!
-- _馬_, by betcover!!
 
 </details>
 
@@ -22,10 +21,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
-- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Magic, Alive!_, by McKinley Dixon
 - _勇気_, by betcover!!
 - _rubberneck_, by (un)familiar.
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Like A Ribbon_, by John Glacier
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _caroline 2_, by caroline
@@ -33,7 +32,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ps / dm_, by spirit blue
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _Every Bridge Burning_, by Nails
-- _Only Dust Remains_, by Backxwash
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
