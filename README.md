@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _NEVER ENOUGH_, by Turnstile
 - _勇気_, by betcover!!
 - _Mega Mercy_, by Any
-- _Palm_, by Kukangendai
 
 </details>
 
