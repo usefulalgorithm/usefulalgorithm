@@ -11,14 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _馬_, by betcover!!
 - _勇気_, by betcover!!
+- _馬_, by betcover!!
 - _Humid Sun_, by Masahiro Takahashi
 - _Magic, Alive!_, by McKinley Dixon
 - _A Shaw Deal_, by Geologist, D.S.
 - _caroline 2_, by caroline
-- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
-- _ps / dm_, by spirit blue
 
 </details>
 
