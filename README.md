@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Mega Mercy_, by Any
+- _Palm_, by Kukangendai
 - _勇気_, by betcover!!
 - _馬_, by betcover!!
-- _Humid Sun_, by Masahiro Takahashi
 
 </details>
 
