@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _NEVER ENOUGH_, by Turnstile
 - _勇気_, by betcover!!
 - _Palm_, by Kukangendai
-- _NEVER ENOUGH_, by Turnstile
 - _Magic, Alive!_, by McKinley Dixon
 - _Mega Mercy_, by Any
 
