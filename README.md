@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Palm_, by Kukangendai
-- _Magic, Alive!_, by McKinley Dixon
 - _勇気_, by betcover!!
-- _Mega Mercy_, by Any
+- _Palm_, by Kukangendai
 - _NEVER ENOUGH_, by Turnstile
+- _Magic, Alive!_, by McKinley Dixon
+- _Mega Mercy_, by Any
 
 </details>
 
@@ -36,7 +36,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Every Bridge Burning_, by Nails
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
-- _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 
 </details>
 
