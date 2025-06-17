@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Palm_, by Kukangendai
 - _Magic, Alive!_, by McKinley Dixon
 - _勇気_, by betcover!!
 - _Mega Mercy_, by Any
