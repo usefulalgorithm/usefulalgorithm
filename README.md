@@ -11,11 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Unsilent Death (10th Anniversary Edition)_, by Nails
-- _Mega Mercy_, by Any
-- _NEVER ENOUGH_, by Turnstile
 - _勇気_, by betcover!!
 - _Palm_, by Kukangendai
+- _NEVER ENOUGH_, by Turnstile
+- _Longhena_, by Gridlink
+- _TNT_, by Wormrot
+- _Unsilent Death (10th Anniversary Edition)_, by Nails
+- _Mega Mercy_, by Any
 - _Magic, Alive!_, by McKinley Dixon
 
 </details>
@@ -27,10 +29,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _Magic, Alive!_, by McKinley Dixon
 - _rubberneck_, by (un)familiar.
-- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Like A Ribbon_, by John Glacier
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _caroline 2_, by caroline
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Blue Veil_, by Lucy Railton
 - _ps / dm_, by spirit blue
 - _Let Me Out_, by Fatboi Sharif, Driveby
@@ -42,9 +44,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _Men in Space_, by Tom McCarthy ([link](https://hardcover.app/books/men-in-space)). It's just meh.
+Just finished reading _Care: The Highest Stage of Capitalism_, by Premilla Nadasen ([link](https://hardcover.app/books/care-the-highest-stage-of-capitalism)). It's a good book.
 
-Gotta finish 25 books before 2026-01-01. I've read 10 so far.
+Gotta finish 25 books before 2026-01-01. I've read 11 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
