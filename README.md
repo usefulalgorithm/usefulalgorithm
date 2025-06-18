@@ -11,11 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Unsilent Death (10th Anniversary Edition)_, by Nails
+- _Mega Mercy_, by Any
 - _NEVER ENOUGH_, by Turnstile
 - _勇気_, by betcover!!
 - _Palm_, by Kukangendai
 - _Magic, Alive!_, by McKinley Dixon
-- _Mega Mercy_, by Any
 
 </details>
 
