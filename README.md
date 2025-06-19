@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Rocky Top Ballads_, by Fine
 - _馬_, by betcover!!
 - _ps / dm_, by spirit blue
 - _NEVER ENOUGH_, by Turnstile
@@ -30,9 +31,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Like A Ribbon_, by John Glacier
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _caroline 2_, by caroline
+- _ps / dm_, by spirit blue
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Blue Veil_, by Lucy Railton
-- _ps / dm_, by spirit blue
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
