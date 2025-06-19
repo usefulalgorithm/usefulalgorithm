@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _馬_, by betcover!!
+- _ps / dm_, by spirit blue
 - _NEVER ENOUGH_, by Turnstile
 - _Joy In Fear_, by goat (JP)
 - _Palm_, by Kukangendai
