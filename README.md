@@ -11,14 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Joy In Fear_, by goat (JP)
 - _IOX_, by LA Timpa
 - _勇気_, by betcover!!
 - _Palm_, by Kukangendai
 - _NEVER ENOUGH_, by Turnstile
 - _Longhena_, by Gridlink
 - _TNT_, by Wormrot
-- _Unsilent Death (10th Anniversary Edition)_, by Nails
-- _Mega Mercy_, by Any
 
 </details>
 
@@ -38,6 +37,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
+- _Palm_, by Kukangendai
 
 </details>
 
