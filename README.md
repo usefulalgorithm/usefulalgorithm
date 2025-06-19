@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _IOX_, by LA Timpa
 - _勇気_, by betcover!!
 - _Palm_, by Kukangendai
 - _NEVER ENOUGH_, by Turnstile
@@ -18,7 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _TNT_, by Wormrot
 - _Unsilent Death (10th Anniversary Edition)_, by Nails
 - _Mega Mercy_, by Any
-- _Magic, Alive!_, by McKinley Dixon
 
 </details>
 
@@ -36,9 +36,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Blue Veil_, by Lucy Railton
 - _ps / dm_, by spirit blue
 - _Let Me Out_, by Fatboi Sharif, Driveby
-- _Every Bridge Burning_, by Nails
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
+- _Every Bridge Burning_, by Nails
 
 </details>
 
