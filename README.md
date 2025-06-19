@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Palm_, by Kukangendai
 - _IOX_, by LA Timpa
 - _Joy In Fear_, by goat (JP)
 - _勇気_, by betcover!!
