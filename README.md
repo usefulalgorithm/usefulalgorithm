@@ -38,7 +38,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
-- _Every Bridge Burning_, by Nails
 
 </details>
 
