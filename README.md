@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Black Man!_, by Teller Bank$, Wino Willy
 - _Egotrip_, by John michel, Anthony James
 
 </details>
@@ -30,9 +31,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Blue Veil_, by Lucy Railton
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _The Crying Nudes_, by The Crying Nudes
+- _Egotrip_, by John michel, Anthony James
 - _Excelsior_, by Benny The Butcher
 - _Palm_, by Kukangendai
-- _Egotrip_, by John michel, Anthony James
 
 </details>
 
