@@ -17,9 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _馬_, by betcover!!
 - _ps / dm_, by spirit blue
 - _NEVER ENOUGH_, by Turnstile
-- _Joy In Fear_, by goat (JP)
-- _Palm_, by Kukangendai
-- _IOX_, by LA Timpa
 
 </details>
 
@@ -27,8 +24,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _勇気_, by betcover!!
-- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _Magic, Alive!_, by McKinley Dixon
+- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _rubberneck_, by (un)familiar.
 - _Like A Ribbon_, by John Glacier
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
@@ -40,6 +37,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
 - _Palm_, by Kukangendai
+- _Mega Mercy_, by Any
 
 </details>
 
