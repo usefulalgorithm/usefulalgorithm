@@ -11,11 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Rocky Top Ballads_, by Fine
+- _NEVER ENOUGH_, by Turnstile
 - _Black Man!_, by Teller Bank$, Wino Willy
 - _Egotrip_, by John michel, Anthony James
-- _Rocky Top Ballads_, by Fine
-- _Magic, Alive!_, by McKinley Dixon
-- _馬_, by betcover!!
 
 </details>
 
