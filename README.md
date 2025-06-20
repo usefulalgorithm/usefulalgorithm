@@ -12,8 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Egotrip_, by John michel, Anthony James
-- _NEVER ENOUGH_, by Turnstile
-- _Rocky Top Ballads_, by Fine
 
 </details>
 
@@ -34,7 +32,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
 - _Palm_, by Kukangendai
-- _Mega Mercy_, by Any
+- _Egotrip_, by John michel, Anthony James
 
 </details>
 
