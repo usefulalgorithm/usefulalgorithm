@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Egotrip_, by John michel, Anthony James
 - _NEVER ENOUGH_, by Turnstile
 - _Rocky Top Ballads_, by Fine
-- _Black Man!_, by Teller Bank$, Wino Willy
 
 </details>
 
