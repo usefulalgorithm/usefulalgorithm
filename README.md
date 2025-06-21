@@ -11,11 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Frances the Mute_, by The Mars Volta
+- _rubberneck_, by (un)familiar.
 - _Nightclouds_, by Ellen Arkbro
 - _ps / dm_, by spirit blue
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _Egotrip_, by John michel, Anthony James
-- _Frances the Mute_, by The Mars Volta
 - _Magic, Alive!_, by McKinley Dixon
 - _Black Man!_, by Teller Bank$, Wino Willy
 
