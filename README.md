@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _no floor_, by More Eaze, claire rousay
 - _Frances the Mute_, by The Mars Volta
 - _rubberneck_, by (un)familiar.
 - _Nightclouds_, by Ellen Arkbro
