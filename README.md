@@ -34,12 +34,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _caroline 2_, by caroline
 - _Totality_, by Natural Information Society, Bitchin Bajas
-- _Blue Veil_, by Lucy Railton
 - _Let Me Out_, by Fatboi Sharif, Driveby
+- _Blue Veil_, by Lucy Railton
 - _Egotrip_, by John michel, Anthony James
-- _The Crying Nudes_, by The Crying Nudes
 - _Excelsior_, by Benny The Butcher
 - _Palm_, by Kukangendai
+- _The Crying Nudes_, by The Crying Nudes
 
 </details>
 
