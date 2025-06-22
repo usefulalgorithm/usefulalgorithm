@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _GULP_, by Facta
 - _Borez_, by Borez, Beau Wanzer, Rezzett
 - _Lifetime_, by Erika de Casier
 - _Dissever_, by Emptyset
