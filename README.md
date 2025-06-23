@@ -14,9 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Lifetime_, by Erika de Casier
 - _Canticle Hardposte_, by Proc Fiskal
 - _The Way Of Time_, by Biosphere
-- _GULP_, by Facta
-- _no floor_, by More Eaze, claire rousay
-- _Borez_, by Borez, Beau Wanzer, Rezzett
 
 </details>
 
@@ -29,14 +26,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _rubberneck_, by (un)familiar.
 - _ps / dm_, by spirit blue
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
-- _Like A Ribbon_, by John Glacier
 - _caroline 2_, by caroline
 - _Totality_, by Natural Information Society, Bitchin Bajas
+- _Like A Ribbon_, by John Glacier
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _Egotrip_, by John michel, Anthony James
 - _Blue Veil_, by Lucy Railton
 - _Excelsior_, by Benny The Butcher
 - _Palm_, by Kukangendai
+- _Mega Mercy_, by Any
 
 </details>
 
