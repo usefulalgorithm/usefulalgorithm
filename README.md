@@ -11,15 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Lifetime_, by Erika de Casier
+- _Canticle Hardposte_, by Proc Fiskal
 - _The Way Of Time_, by Biosphere
 - _GULP_, by Facta
 - _no floor_, by More Eaze, claire rousay
 - _Borez_, by Borez, Beau Wanzer, Rezzett
-- _Lifetime_, by Erika de Casier
-- _Dissever_, by Emptyset
-- _Frances the Mute_, by The Mars Volta
-- _rubberneck_, by (un)familiar.
-- _Nightclouds_, by Ellen Arkbro
 
 </details>
 
