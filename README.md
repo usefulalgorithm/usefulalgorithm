@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Magic, Alive!_, by McKinley Dixon
 - _Lifetime_, by Erika de Casier
 
 </details>
