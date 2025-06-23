@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Lifetime_, by Erika de Casier
-- _Canticle Hardposte_, by Proc Fiskal
 
 </details>
 
@@ -23,12 +22,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Magic, Alive!_, by McKinley Dixon
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _rubberneck_, by (un)familiar.
-- _ps / dm_, by spirit blue
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
+- _ps / dm_, by spirit blue
 - _caroline 2_, by caroline
 - _Totality_, by Natural Information Society, Bitchin Bajas
-- _Like A Ribbon_, by John Glacier
 - _Let Me Out_, by Fatboi Sharif, Driveby
+- _Like A Ribbon_, by John Glacier
 - _Egotrip_, by John michel, Anthony James
 - _Blue Veil_, by Lucy Railton
 - _Excelsior_, by Benny The Butcher
