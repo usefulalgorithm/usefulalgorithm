@@ -11,19 +11,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _no floor_, by More Eaze, claire rousay
+- _The Way Of Time_, by Biosphere
 - _GULP_, by Facta
+- _no floor_, by More Eaze, claire rousay
 - _Borez_, by Borez, Beau Wanzer, Rezzett
 - _Lifetime_, by Erika de Casier
 - _Dissever_, by Emptyset
 - _Frances the Mute_, by The Mars Volta
 - _rubberneck_, by (un)familiar.
 - _Nightclouds_, by Ellen Arkbro
-- _ps / dm_, by spirit blue
-- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
-- _Egotrip_, by John michel, Anthony James
-- _Magic, Alive!_, by McKinley Dixon
-- _Black Man!_, by Teller Bank$, Wino Willy
 
 </details>
 
@@ -34,17 +30,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Magic, Alive!_, by McKinley Dixon
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _rubberneck_, by (un)familiar.
-- _Like A Ribbon_, by John Glacier
 - _ps / dm_, by spirit blue
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
+- _Like A Ribbon_, by John Glacier
 - _caroline 2_, by caroline
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Let Me Out_, by Fatboi Sharif, Driveby
-- _Blue Veil_, by Lucy Railton
 - _Egotrip_, by John michel, Anthony James
+- _Blue Veil_, by Lucy Railton
 - _Excelsior_, by Benny The Butcher
 - _Palm_, by Kukangendai
-- _The Crying Nudes_, by The Crying Nudes
 
 </details>
 
