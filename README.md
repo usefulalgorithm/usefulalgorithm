@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Lifetime_, by Erika de Casier
 - _Canticle Hardposte_, by Proc Fiskal
-- _The Way Of Time_, by Biosphere
 
 </details>
 
