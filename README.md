@@ -31,9 +31,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _Like A Ribbon_, by John Glacier
 - _Egotrip_, by John michel, Anthony James
-- _Excelsior_, by Benny The Butcher
-- _Palm_, by Kukangendai
 - _Lifetime_, by Erika de Casier
+- _Palm_, by Kukangendai
+- _Excelsior_, by Benny The Butcher
 - _Mega Mercy_, by Any
 
 </details>
@@ -47,6 +47,7 @@ Gotta finish 25 books before 2026-01-01. I've read 11 so far.
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
 
+- _Omnicide II_, by Jason Bahbak Mohaghegh ([link](https://hardcover.app/books/omnicide-ii))
 - _The Absence of Myth: Writings on Surrealism_, by Georges Bataille, Michael   Richardson ([link](https://hardcover.app/books/the-absence-of-myth-writings-on-surrealism))
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
