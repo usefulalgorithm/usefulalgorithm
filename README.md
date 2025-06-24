@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Lifetime_, by Erika de Casier
 - _At The Threshold Of The Greatest Chasm_, by Cosmic Putrefaction
-- _Magic, Alive!_, by McKinley Dixon
 
 </details>
 
@@ -33,7 +32,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Egotrip_, by John michel, Anthony James
 - _Lifetime_, by Erika de Casier
 - _Palm_, by Kukangendai
-- _Excelsior_, by Benny The Butcher
 - _Mega Mercy_, by Any
 
 </details>
