@@ -34,7 +34,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Excelsior_, by Benny The Butcher
 - _Palm_, by Kukangendai
 - _Lifetime_, by Erika de Casier
-- _Blue Veil_, by Lucy Railton
 - _Mega Mercy_, by Any
 
 </details>
