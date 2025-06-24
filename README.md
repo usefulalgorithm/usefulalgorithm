@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Magic, Alive!_, by McKinley Dixon
 - _Lifetime_, by Erika de Casier
+- _At The Threshold Of The Greatest Chasm_, by Cosmic Putrefaction
+- _Magic, Alive!_, by McKinley Dixon
 
 </details>
 
@@ -30,9 +31,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _Like A Ribbon_, by John Glacier
 - _Egotrip_, by John michel, Anthony James
-- _Blue Veil_, by Lucy Railton
 - _Excelsior_, by Benny The Butcher
 - _Palm_, by Kukangendai
+- _Lifetime_, by Erika de Casier
+- _Blue Veil_, by Lucy Railton
 - _Mega Mercy_, by Any
 
 </details>
