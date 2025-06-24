@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _勇気_, by betcover!!
 - _Lifetime_, by Erika de Casier
-- _At The Threshold Of The Greatest Chasm_, by Cosmic Putrefaction
 
 </details>
 
@@ -28,9 +28,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _caroline 2_, by caroline
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Let Me Out_, by Fatboi Sharif, Driveby
-- _Like A Ribbon_, by John Glacier
 - _Egotrip_, by John michel, Anthony James
 - _Lifetime_, by Erika de Casier
+- _Like A Ribbon_, by John Glacier
 - _Palm_, by Kukangendai
 - _Mega Mercy_, by Any
 
