@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Canticle Hardposte_, by Proc Fiskal
 - _勇気_, by betcover!!
 - _Lifetime_, by Erika de Casier
 
@@ -30,8 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Lifetime_, by Erika de Casier
 - _Egotrip_, by John michel, Anthony James
 - _Like A Ribbon_, by John Glacier
-- _Let Me Out_, by Fatboi Sharif, Driveby
 - _Palm_, by Kukangendai
+- _Let Me Out_, by Fatboi Sharif, Driveby
 - _Mega Mercy_, by Any
 
 </details>
