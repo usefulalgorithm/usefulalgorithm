@@ -23,14 +23,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Magic, Alive!_, by McKinley Dixon
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _rubberneck_, by (un)familiar.
-- _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _ps / dm_, by spirit blue
 - _caroline 2_, by caroline
 - _Totality_, by Natural Information Society, Bitchin Bajas
-- _Let Me Out_, by Fatboi Sharif, Driveby
+- _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _Lifetime_, by Erika de Casier
 - _Egotrip_, by John michel, Anthony James
 - _Like A Ribbon_, by John Glacier
+- _Let Me Out_, by Fatboi Sharif, Driveby
 - _Palm_, by Kukangendai
 - _Mega Mercy_, by Any
 
