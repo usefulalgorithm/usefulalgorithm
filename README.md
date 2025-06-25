@@ -30,7 +30,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Lifetime_, by Erika de Casier
 - _Egotrip_, by John michel, Anthony James
-- _Like A Ribbon_, by John Glacier
 - _Palm_, by Kukangendai
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _Mega Mercy_, by Any
