@@ -26,8 +26,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _rubberneck_, by (un)familiar.
 - _ps / dm_, by spirit blue
 - _caroline 2_, by caroline
-- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Lifetime_, by Erika de Casier
 - _Egotrip_, by John michel, Anthony James
 - _Like A Ribbon_, by John Glacier
