@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Frances the Mute_, by The Mars Volta
 - _Lifetime_, by Erika de Casier
 - _Magic, Alive!_, by McKinley Dixon
 - _At The Threshold Of The Greatest Chasm_, by Cosmic Putrefaction
 - _no floor_, by More Eaze, claire rousay
-- _Canticle Hardposte_, by Proc Fiskal
 
 </details>
 
@@ -26,15 +26,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Magic, Alive!_, by McKinley Dixon
 - _rubberneck_, by (un)familiar.
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
+- _Lifetime_, by Erika de Casier
 - _ps / dm_, by spirit blue
 - _caroline 2_, by caroline
-- _Lifetime_, by Erika de Casier
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Egotrip_, by John michel, Anthony James
 - _Palm_, by Kukangendai
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _no floor_, by More Eaze, claire rousay
-- _Let Me Out_, by Fatboi Sharif, Driveby
 - _Mega Mercy_, by Any
 
 </details>
