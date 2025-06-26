@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _At The Threshold Of The Greatest Chasm_, by Cosmic Putrefaction
 - _no floor_, by More Eaze, claire rousay
 - _Canticle Hardposte_, by Proc Fiskal
-- _勇気_, by betcover!!
 
 </details>
 
@@ -25,8 +24,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _勇気_, by betcover!!
 - _Magic, Alive!_, by McKinley Dixon
-- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _rubberneck_, by (un)familiar.
+- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _ps / dm_, by spirit blue
 - _caroline 2_, by caroline
 - _Lifetime_, by Erika de Casier
