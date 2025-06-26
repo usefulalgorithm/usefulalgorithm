@@ -11,10 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Lifetime_, by Erika de Casier
+- _At The Threshold Of The Greatest Chasm_, by Cosmic Putrefaction
 - _no floor_, by More Eaze, claire rousay
 - _Canticle Hardposte_, by Proc Fiskal
 - _勇気_, by betcover!!
-- _Lifetime_, by Erika de Casier
 
 </details>
 
