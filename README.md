@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Joy In Fear_, by goat (JP)
 - _Iris Silver Mist_, by Jenny Hval
 - _馬_, by betcover!!
 - _Frances the Mute_, by The Mars Volta
