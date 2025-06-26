@@ -28,11 +28,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _rubberneck_, by (un)familiar.
 - _ps / dm_, by spirit blue
 - _caroline 2_, by caroline
-- _Totality_, by Natural Information Society, Bitchin Bajas
-- _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _Lifetime_, by Erika de Casier
+- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Egotrip_, by John michel, Anthony James
 - _Palm_, by Kukangendai
+- _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _no floor_, by More Eaze, claire rousay
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _Mega Mercy_, by Any
