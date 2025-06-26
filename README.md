@@ -14,8 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Frances the Mute_, by The Mars Volta
 - _Lifetime_, by Erika de Casier
 - _Magic, Alive!_, by McKinley Dixon
-- _At The Threshold Of The Greatest Chasm_, by Cosmic Putrefaction
-- _no floor_, by More Eaze, claire rousay
 
 </details>
 
@@ -34,6 +32,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Palm_, by Kukangendai
 - _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _no floor_, by More Eaze, claire rousay
+- _Frances the Mute_, by The Mars Volta
 - _Mega Mercy_, by Any
 
 </details>
