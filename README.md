@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _馬_, by betcover!!
 - _Frances the Mute_, by The Mars Volta
 - _Lifetime_, by Erika de Casier
-- _Magic, Alive!_, by McKinley Dixon
 
 </details>
 
@@ -29,10 +29,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _caroline 2_, by caroline
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Egotrip_, by John michel, Anthony James
-- _Palm_, by Kukangendai
-- _Super Tecmo Bo_, by Boldy James, The Alchemist
-- _no floor_, by More Eaze, claire rousay
 - _Frances the Mute_, by The Mars Volta
+- _Palm_, by Kukangendai
+- _no floor_, by More Eaze, claire rousay
 - _Mega Mercy_, by Any
 
 </details>
