@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Iris Silver Mist_, by Jenny Hval
 - _馬_, by betcover!!
 - _Frances the Mute_, by The Mars Volta
 - _Lifetime_, by Erika de Casier
@@ -33,6 +34,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Palm_, by Kukangendai
 - _no floor_, by More Eaze, claire rousay
 - _Mega Mercy_, by Any
+- _馬_, by betcover!!
 
 </details>
 
