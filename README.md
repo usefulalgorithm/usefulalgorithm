@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _no floor_, by More Eaze, claire rousay
 - _Canticle Hardposte_, by Proc Fiskal
 - _勇気_, by betcover!!
 - _Lifetime_, by Erika de Casier
@@ -26,11 +27,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _rubberneck_, by (un)familiar.
 - _ps / dm_, by spirit blue
 - _caroline 2_, by caroline
-- _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _Totality_, by Natural Information Society, Bitchin Bajas
+- _Super Tecmo Bo_, by Boldy James, The Alchemist
 - _Lifetime_, by Erika de Casier
 - _Egotrip_, by John michel, Anthony James
 - _Palm_, by Kukangendai
+- _no floor_, by More Eaze, claire rousay
 - _Let Me Out_, by Fatboi Sharif, Driveby
 - _Mega Mercy_, by Any
 
