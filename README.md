@@ -11,12 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Hymnal_, by Lyra Pramuk
+- _Black Man!_, by Teller Bank$, Wino Willy
+- _no floor_, by More Eaze, claire rousay
 - _Lifetime_, by Erika de Casier
 - _馬_, by betcover!!
 - _Palm_, by Kukangendai
 - _勇気_, by betcover!!
 - _Iris Silver Mist_, by Jenny Hval
-- _Frances the Mute_, by The Mars Volta
 
 </details>
 
@@ -33,10 +35,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Totality_, by Natural Information Society, Bitchin Bajas
 - _Frances the Mute_, by The Mars Volta
 - _Egotrip_, by John michel, Anthony James
-- _Palm_, by Kukangendai
 - _no floor_, by More Eaze, claire rousay
-- _Mega Mercy_, by Any
+- _Palm_, by Kukangendai
 - _馬_, by betcover!!
+- _Mega Mercy_, by Any
 
 </details>
 
