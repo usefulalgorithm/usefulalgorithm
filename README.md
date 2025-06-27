@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Frances the Mute_, by The Mars Volta
 - _The Great Misdirect_, by Between The Buried And Me
 - _Joy In Fear_, by goat (JP)
 - _Iris Silver Mist_, by Jenny Hval
 - _馬_, by betcover!!
-- _Frances the Mute_, by The Mars Volta
 - _Lifetime_, by Erika de Casier
 
 </details>
@@ -31,8 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ps / dm_, by spirit blue
 - _caroline 2_, by caroline
 - _Totality_, by Natural Information Society, Bitchin Bajas
-- _Egotrip_, by John michel, Anthony James
 - _Frances the Mute_, by The Mars Volta
+- _Egotrip_, by John michel, Anthony James
 - _Palm_, by Kukangendai
 - _no floor_, by More Eaze, claire rousay
 - _Mega Mercy_, by Any
