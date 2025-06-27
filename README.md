@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _勇気_, by betcover!!
 - _Iris Silver Mist_, by Jenny Hval
 - _Frances the Mute_, by The Mars Volta
 - _The Great Misdirect_, by Between The Buried And Me
 - _Joy In Fear_, by goat (JP)
-- _馬_, by betcover!!
 
 </details>
 
