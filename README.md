@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Lifetime_, by Erika de Casier
 - _Magic, Alive!_, by McKinley Dixon
 - _Hymnal_, by Lyra Pramuk
 - _Black Man!_, by Teller Bank$, Wino Willy
 - _no floor_, by More Eaze, claire rousay
-- _Lifetime_, by Erika de Casier
 - _馬_, by betcover!!
 - _Palm_, by Kukangendai
 - _勇気_, by betcover!!
