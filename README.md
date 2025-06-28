@@ -11,11 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Magic, Alive!_, by McKinley Dixon
+- _Joy In Fear_, by goat (JP)
 - _Lifetime_, by Erika de Casier
 - _Hymnal_, by Lyra Pramuk
 - _separated at birth_, by STILLZ, 千葉雄喜
 - _Amplifier Worship_, by Boris
-- _Magic, Alive!_, by McKinley Dixon
 
 </details>
 
