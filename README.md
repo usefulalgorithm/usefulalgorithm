@@ -11,14 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Hymnal_, by Lyra Pramuk
 - _Lifetime_, by Erika de Casier
+- _Hymnal_, by Lyra Pramuk
 - _separated at birth_, by STILLZ, 千葉雄喜
 - _Amplifier Worship_, by Boris
 - _Magic, Alive!_, by McKinley Dixon
-- _Black Man!_, by Teller Bank$, Wino Willy
-- _no floor_, by More Eaze, claire rousay
-- _馬_, by betcover!!
 
 </details>
 
