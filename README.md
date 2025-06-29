@@ -11,13 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Black Man!_, by Teller Bank$, Wino Willy
 - _Magic, Alive!_, by McKinley Dixon
+- _Black Man!_, by Teller Bank$, Wino Willy
 - _Joy In Fear_, by goat (JP)
 - _Lifetime_, by Erika de Casier
 - _Hymnal_, by Lyra Pramuk
-- _separated at birth_, by STILLZ, 千葉雄喜
-- _Amplifier Worship_, by Boris
 
 </details>
 
@@ -30,14 +28,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _rubberneck_, by (un)familiar.
 - _ps / dm_, by spirit blue
 - _caroline 2_, by caroline
-- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
-- _Totality_, by Natural Information Society, Bitchin Bajas
 - _Frances the Mute_, by The Mars Volta
+- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _Egotrip_, by John michel, Anthony James
 - _no floor_, by More Eaze, claire rousay
 - _Palm_, by Kukangendai
 - _馬_, by betcover!!
 - _Mega Mercy_, by Any
+- _Totality_, by Natural Information Society, Bitchin Bajas
+- _Joy In Fear_, by goat (JP)
 
 </details>
 
