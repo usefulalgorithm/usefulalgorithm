@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Black Man!_, by Teller Bank$, Wino Willy
 - _Magic, Alive!_, by McKinley Dixon
 - _Joy In Fear_, by goat (JP)
 - _Lifetime_, by Erika de Casier
