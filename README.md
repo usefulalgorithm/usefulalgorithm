@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Iris Silver Mist_, by Jenny Hval
 - _Magic, Alive!_, by McKinley Dixon
 - _Black Man!_, by Teller Bank$, Wino Willy
-- _Joy In Fear_, by goat (JP)
 
 </details>
 
