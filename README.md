@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Iris Silver Mist_, by Jenny Hval
+- _Hymnal_, by Lyra Pramuk
 - _Magic, Alive!_, by McKinley Dixon
-- _Black Man!_, by Teller Bank$, Wino Willy
+- _Iris Silver Mist_, by Jenny Hval
 
 </details>
 
@@ -25,8 +25,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Lifetime_, by Erika de Casier
 - _rubberneck_, by (un)familiar.
 - _ps / dm_, by spirit blue
-- _caroline 2_, by caroline
 - _Frances the Mute_, by The Mars Volta
+- _caroline 2_, by caroline
 - _Egotrip_, by John michel, Anthony James
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _no floor_, by More Eaze, claire rousay
