@@ -34,7 +34,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Iris Silver Mist_, by Jenny Hval
 - _馬_, by betcover!!
 - _Mega Mercy_, by Any
-- _Totality_, by Natural Information Society, Bitchin Bajas
+- _Hymnal_, by Lyra Pramuk
 - _Joy In Fear_, by goat (JP)
 
 </details>
