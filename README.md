@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _ZAZEN BOYS 4_, by ZAZEN BOYS
+- _ZAZEN BOYS III_, by ZAZEN BOYS
 - _勇気_, by betcover!!
 - _no floor_, by More Eaze, claire rousay
 - _Hymnal_, by Lyra Pramuk
