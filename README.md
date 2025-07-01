@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _no floor_, by More Eaze, claire rousay
 - _Hymnal_, by Lyra Pramuk
 - _Black Man!_, by Teller Bank$, Wino Willy
-- _The Way Of Time_, by Biosphere
 
 </details>
 
@@ -25,13 +25,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Lifetime_, by Erika de Casier
 - _rubberneck_, by (un)familiar.
 - _ps / dm_, by spirit blue
-- _Frances the Mute_, by The Mars Volta
 - _Hymnal_, by Lyra Pramuk
+- _Frances the Mute_, by The Mars Volta
 - _Egotrip_, by John michel, Anthony James
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
+- _Black Man!_, by Teller Bank$, Wino Willy
 - _no floor_, by More Eaze, claire rousay
 - _caroline 2_, by caroline
-- _Black Man!_, by Teller Bank$, Wino Willy
 - _Palm_, by Kukangendai
 - _Iris Silver Mist_, by Jenny Hval
 - _馬_, by betcover!!
