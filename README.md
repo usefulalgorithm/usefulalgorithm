@@ -11,8 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Lifetime_, by Erika de Casier
 - _Hymnal_, by Lyra Pramuk
+- _Lifetime_, by Erika de Casier
+- _God's Country_, by Chat Pile
+- _The Great Misdirect_, by Between The Buried And Me
 
 </details>
 
@@ -25,15 +27,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _rubberneck_, by (un)familiar.
 - _ps / dm_, by spirit blue
 - _Frances the Mute_, by The Mars Volta
-- _caroline 2_, by caroline
 - _Egotrip_, by John michel, Anthony James
 - _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _no floor_, by More Eaze, claire rousay
+- _Hymnal_, by Lyra Pramuk
+- _caroline 2_, by caroline
 - _Palm_, by Kukangendai
 - _Iris Silver Mist_, by Jenny Hval
 - _馬_, by betcover!!
 - _Mega Mercy_, by Any
-- _Hymnal_, by Lyra Pramuk
 - _Joy In Fear_, by goat (JP)
 
 </details>
