@@ -11,12 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Black Man!_, by Teller Bank$, Wino Willy
 - _The Way Of Time_, by Biosphere
 - _Cablcar_, by Jeremy Young
 - _Hymnal_, by Lyra Pramuk
-- _Lifetime_, by Erika de Casier
-- _God's Country_, by Chat Pile
-- _The Great Misdirect_, by Between The Buried And Me
 
 </details>
 
@@ -37,8 +35,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Palm_, by Kukangendai
 - _Iris Silver Mist_, by Jenny Hval
 - _馬_, by betcover!!
+- _Black Man!_, by Teller Bank$, Wino Willy
 - _Mega Mercy_, by Any
-- _Joy In Fear_, by goat (JP)
+- _The Way Of Time_, by Biosphere
 
 </details>
 
