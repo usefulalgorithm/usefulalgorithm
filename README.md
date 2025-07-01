@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Way Of Time_, by Biosphere
+- _Cablcar_, by Jeremy Young
 - _Hymnal_, by Lyra Pramuk
 - _Lifetime_, by Erika de Casier
 - _God's Country_, by Chat Pile
