@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _勇気_, by betcover!!
 - _no floor_, by More Eaze, claire rousay
-- _Black Man!_, by Teller Bank$, Wino Willy
 
 </details>
 
@@ -27,14 +26,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Magic, Alive!_, by McKinley Dixon
 - _Lifetime_, by Erika de Casier
 - _rubberneck_, by (un)familiar.
-- _ps / dm_, by spirit blue
 - _Hymnal_, by Lyra Pramuk
+- _ps / dm_, by spirit blue
 - _Frances the Mute_, by The Mars Volta
 - _no floor_, by More Eaze, claire rousay
 - _Egotrip_, by John michel, Anthony James
-- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _Black Man!_, by Teller Bank$, Wino Willy
 - _caroline 2_, by caroline
+- _A City Drowned in God's Black Tears_, by Infinity Knives, Brian Ennals
 - _Palm_, by Kukangendai
 - _Iris Silver Mist_, by Jenny Hval
 - _馬_, by betcover!!
