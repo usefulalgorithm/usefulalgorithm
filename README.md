@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _馬_, by betcover!!
 - _Hymnal_, by Lyra Pramuk
 - _animal body_, by Haisuinonasa
-- _ZAZEN BOYS III_, by ZAZEN BOYS
 
 </details>
 
