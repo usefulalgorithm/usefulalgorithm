@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Lifetime_, by Erika de Casier
 - _馬_, by betcover!!
 - _Hymnal_, by Lyra Pramuk
 - _animal body_, by Haisuinonasa
@@ -32,11 +33,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _no floor_, by More Eaze, claire rousay
 - _Egotrip_, by John michel, Anthony James
 - _Black Man!_, by Teller Bank$, Wino Willy
-- _caroline 2_, by caroline
-- _Palm_, by Kukangendai
 - _animal body_, by Haisuinonasa
-- _Iris Silver Mist_, by Jenny Hval
 - _馬_, by betcover!!
+- _Palm_, by Kukangendai
+- _ZAZEN BOYS III_, by ZAZEN BOYS
+- _Iris Silver Mist_, by Jenny Hval
 
 </details>
 
