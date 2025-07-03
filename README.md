@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Hymnal_, by Lyra Pramuk
 - _animal body_, by Haisuinonasa
 - _ZAZEN BOYS III_, by ZAZEN BOYS
-- _Hymnal_, by Lyra Pramuk
 - _Magic, Alive!_, by McKinley Dixon
 
 </details>
