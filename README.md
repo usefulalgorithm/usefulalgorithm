@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _All the Footprints You've Ever Left and the Fear Expecting Ahead_, by envy
 - _Lifetime_, by Erika de Casier
 - _馬_, by betcover!!
 - _Hymnal_, by Lyra Pramuk
