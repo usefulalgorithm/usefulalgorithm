@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _A dead sinking story_, by envy
 - _黒斑の侵蝕_, by Heaven In Her Arms
 - _All the Footprints You've Ever Left and the Fear Expecting Ahead_, by envy
 - _Hymnal_, by Lyra Pramuk
