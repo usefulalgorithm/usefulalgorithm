@@ -11,9 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Ordinary Corrupt Human Love_, by Deafheaven
 - _Hymnal_, by Lyra Pramuk
-- _Lifetime_, by Erika de Casier
+- _Ordinary Corrupt Human Love_, by Deafheaven
 
 </details>
 
