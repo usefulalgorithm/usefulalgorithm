@@ -35,10 +35,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _rubberneck_, by (un)familiar.
 - _ps / dm_, by spirit blue
 - _Frances the Mute_, by The Mars Volta
-- _no floor_, by More Eaze, claire rousay
 - _animal body_, by Haisuinonasa
-- _Egotrip_, by John michel, Anthony James
+- _no floor_, by More Eaze, claire rousay
 - _Black Man!_, by Teller Bank$, Wino Willy
+- _Egotrip_, by John michel, Anthony James
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _馬_, by betcover!!
 - _Palm_, by Kukangendai
