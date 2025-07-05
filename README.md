@@ -11,11 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _黒斑の侵蝕_, by Heaven In Her Arms
+- _Sezession_, by mouse on the keys
+- _ZAZEN BOYS III_, by ZAZEN BOYS
 - _New Environments & Rhythm Studies_, by Andrew Pekler
 - _no floor_, by More Eaze, claire rousay
 - _Hymnal_, by Lyra Pramuk
 - _A dead sinking story_, by envy
-- _黒斑の侵蝕_, by Heaven In Her Arms
 - _All the Footprints You've Ever Left and the Fear Expecting Ahead_, by envy
 
 </details>
@@ -31,12 +33,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ps / dm_, by spirit blue
 - _Frances the Mute_, by The Mars Volta
 - _no floor_, by More Eaze, claire rousay
+- _animal body_, by Haisuinonasa
 - _Egotrip_, by John michel, Anthony James
 - _Black Man!_, by Teller Bank$, Wino Willy
-- _animal body_, by Haisuinonasa
+- _ZAZEN BOYS III_, by ZAZEN BOYS
 - _馬_, by betcover!!
 - _Palm_, by Kukangendai
-- _ZAZEN BOYS III_, by ZAZEN BOYS
 
 </details>
 
