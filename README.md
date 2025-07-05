@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _New Environments & Rhythm Studies_, by Andrew Pekler
 - _no floor_, by More Eaze, claire rousay
 - _Hymnal_, by Lyra Pramuk
 - _A dead sinking story_, by envy
