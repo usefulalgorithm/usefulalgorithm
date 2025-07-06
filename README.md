@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Poems We Write For Ourselves_, by Henzo
+- _Magic, Alive!_, by McKinley Dixon
 - _勇気_, by betcover!!
 - _life's a zoo_, by VHS Midnight Style
 - _Black Man!_, by Teller Bank$, Wino Willy
