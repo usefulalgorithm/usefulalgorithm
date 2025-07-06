@@ -32,8 +32,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _勇気_, by betcover!!
-- _Lifetime_, by Erika de Casier
 - _Magic, Alive!_, by McKinley Dixon
+- _Lifetime_, by Erika de Casier
 - _Hymnal_, by Lyra Pramuk
 - _rubberneck_, by (un)familiar.
 - _ps / dm_, by spirit blue
