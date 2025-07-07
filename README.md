@@ -18,10 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _life's a zoo_, by VHS Midnight Style
 - _Black Man!_, by Teller Bank$, Wino Willy
 - _animal body_, by Haisuinonasa
-- _Sezession_, by mouse on the keys
-- _黒斑の侵蝕_, by Heaven In Her Arms
-- _ZAZEN BOYS III_, by ZAZEN BOYS
-- _New Environments & Rhythm Studies_, by Andrew Pekler
 
 </details>
 
