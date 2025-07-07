@@ -11,13 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _勇気_, by betcover!!
 - _Landscape from Memory_, by Rival Consoles
 - _The Poems We Write For Ourselves_, by Henzo
-- _Magic, Alive!_, by McKinley Dixon
-- _勇気_, by betcover!!
-- _life's a zoo_, by VHS Midnight Style
-- _Black Man!_, by Teller Bank$, Wino Willy
-- _animal body_, by Haisuinonasa
 
 </details>
 
@@ -26,8 +22,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _勇気_, by betcover!!
 - _Lifetime_, by Erika de Casier
-- _Magic, Alive!_, by McKinley Dixon
 - _Hymnal_, by Lyra Pramuk
+- _Magic, Alive!_, by McKinley Dixon
 - _ps / dm_, by spirit blue
 - _Frances the Mute_, by The Mars Volta
 - _animal body_, by Haisuinonasa
@@ -38,6 +34,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _馬_, by betcover!!
 - _Palm_, by Kukangendai
+- _Iris Silver Mist_, by Jenny Hval
 
 </details>
 
