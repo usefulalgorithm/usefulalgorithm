@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Onda_, by Drum & Lace
 - _Crystallization_, by SAB
 - _All the Footprints You've Ever Left and the Fear Expecting Ahead_, by envy
 - _Frances the Mute_, by The Mars Volta
@@ -31,10 +32,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _no floor_, by More Eaze, claire rousay
 - _Black Man!_, by Teller Bank$, Wino Willy
 - _Egotrip_, by John michel, Anthony James
-- _ps / dm_, by spirit blue
-- _rubberneck_, by (un)familiar.
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _馬_, by betcover!!
+- _ps / dm_, by spirit blue
 - _Palm_, by Kukangendai
 - _Iris Silver Mist_, by Jenny Hval
 
