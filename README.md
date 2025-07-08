@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _All the Footprints You've Ever Left and the Fear Expecting Ahead_, by envy
+- _Frances the Mute_, by The Mars Volta
 - _勇気_, by betcover!!
 - _Landscape from Memory_, by Rival Consoles
 - _The Poems We Write For Ourselves_, by Henzo
