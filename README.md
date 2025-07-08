@@ -11,12 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Trax for the Year 3g$$$_, by Kareem
 - _A Hero's Death_, by Fontaines D.C.
 - _Onda_, by Drum & Lace
 - _Crystallization_, by SAB
-- _All the Footprints You've Ever Left and the Fear Expecting Ahead_, by envy
-- _Frances the Mute_, by The Mars Volta
-- _勇気_, by betcover!!
 
 </details>
 
@@ -36,7 +34,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _馬_, by betcover!!
 - _Palm_, by Kukangendai
 - _Iris Silver Mist_, by Jenny Hval
-- _ps / dm_, by spirit blue
 
 </details>
 
