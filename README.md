@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Trax for the Year 3g$$$_, by Kareem
 - _A Hero's Death_, by Fontaines D.C.
 - _Onda_, by Drum & Lace
-- _Crystallization_, by SAB
 
 </details>
 
