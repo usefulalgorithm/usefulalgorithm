@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _集合_, by 電球
 - _Trax for the Year 3g$$$_, by Kareem
 
 </details>
