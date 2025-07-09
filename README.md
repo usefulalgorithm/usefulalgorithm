@@ -12,8 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Trax for the Year 3g$$$_, by Kareem
-- _Laini Tani_, by Nadah El Shazly
-- _集合_, by 電球
 
 </details>
 
@@ -30,10 +28,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Black Man!_, by Teller Bank$, Wino Willy
 - _Egotrip_, by John michel, Anthony James
 - _ZAZEN BOYS III_, by ZAZEN BOYS
+- _Trax for the Year 3g$$$_, by Kareem
 - _馬_, by betcover!!
 - _Palm_, by Kukangendai
 - _Iris Silver Mist_, by Jenny Hval
-- _Trax for the Year 3g$$$_, by Kareem
 
 </details>
 
