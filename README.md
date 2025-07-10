@@ -11,12 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Tranzkript 1_, by Actress
+- _Loop-Finding-Jazz-Records_, by Jan Jelinek
 - _New Environments & Rhythm Studies_, by Andrew Pekler
 - _Menos El Oso_, by Minus the Bear
 - _Studia Spiritual_, by Various Artists
 - _Trax for the Year 3g$$$_, by Kareem
 - _集合_, by 電球
-- _Marjaa: The Battle of the Hotels (Versions)_, by Civilistjävel!, Mayssa Jallad
 
 </details>
 
