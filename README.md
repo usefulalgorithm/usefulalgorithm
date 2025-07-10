@@ -17,7 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Trax for the Year 3g$$$_, by Kareem
 - _集合_, by 電球
 - _Marjaa: The Battle of the Hotels (Versions)_, by Civilistjävel!, Mayssa Jallad
-- _Ostranenie_, by Grischa Lichtenberger
 
 </details>
 
