@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _New Environments & Rhythm Studies_, by Andrew Pekler
+- _Menos El Oso_, by Minus the Bear
 - _Studia Spiritual_, by Various Artists
 - _Trax for the Year 3g$$$_, by Kareem
 - _集合_, by 電球
