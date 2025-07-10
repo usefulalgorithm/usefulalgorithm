@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Studia Spiritual_, by Various Artists
 - _Trax for the Year 3g$$$_, by Kareem
 - _集合_, by 電球
 - _Marjaa: The Battle of the Hotels (Versions)_, by Civilistjävel!, Mayssa Jallad
@@ -27,14 +28,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Magic, Alive!_, by McKinley Dixon
 - _animal body_, by Haisuinonasa
 - _Frances the Mute_, by The Mars Volta
+- _Trax for the Year 3g$$$_, by Kareem
 - _no floor_, by More Eaze, claire rousay
 - _Black Man!_, by Teller Bank$, Wino Willy
-- _Trax for the Year 3g$$$_, by Kareem
 - _Egotrip_, by John michel, Anthony James
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _馬_, by betcover!!
 - _Palm_, by Kukangendai
-- _Iris Silver Mist_, by Jenny Hval
 
 </details>
 
