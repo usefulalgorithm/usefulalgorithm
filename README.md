@@ -35,7 +35,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Black Man!_, by Teller Bank$, Wino Willy
 - _Egotrip_, by John michel, Anthony James
 - _ZAZEN BOYS III_, by ZAZEN BOYS
-- _馬_, by betcover!!
 - _Palm_, by Kukangendai
 
 </details>
