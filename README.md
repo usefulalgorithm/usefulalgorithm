@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Trax for the Year 3g$$$_, by Kareem
 - _Ostranenie_, by Grischa Lichtenberger
+- _Trax for the Year 3g$$$_, by Kareem
 - _勇気_, by betcover!!
 - _animal body_, by Haisuinonasa
 
