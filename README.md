@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Marjaa: The Battle of the Hotels (Versions)_, by Civilistjävel!, Mayssa Jallad
 - _Ostranenie_, by Grischa Lichtenberger
 - _Trax for the Year 3g$$$_, by Kareem
 - _勇気_, by betcover!!
