@@ -13,13 +13,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Landscape from Memory_, by Rival Consoles
 - _Tranzkript 1_, by Actress
+- _GNX_, by Kendrick Lamar
+- _meet the grahams_, by Kendrick Lamar
 - _勇気_, by betcover!!
 - _集合_, by 電球
 - _Muuntautuja_, by Oranssi Pazuzu
 - _Elements_, by Atheist
-- _Traced in Air_, by Cynic
-- _Menos El Oso_, by Minus the Bear
-- _Loop-Finding-Jazz-Records_, by Jan Jelinek
 
 </details>
 
