@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Tranzkript 1_, by Actress
+- _勇気_, by betcover!!
 - _集合_, by 電球
 - _Landscape from Memory_, by Rival Consoles
-- _Tranzkript 1_, by Actress
 - _Muuntautuja_, by Oranssi Pazuzu
 - _Elements_, by Atheist
 - _Traced in Air_, by Cynic
