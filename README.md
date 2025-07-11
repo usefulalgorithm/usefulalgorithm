@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Cutting the Throat of God_, by Ulcerate
+- _Timewave Zero_, by Blood Incantation
+- _Elements_, by Atheist
 - _Landscape from Memory_, by Rival Consoles
 - _Tranzkript 1_, by Actress
 - _GNX_, by Kendrick Lamar
