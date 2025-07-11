@@ -17,8 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _meet the grahams_, by Kendrick Lamar
 - _勇気_, by betcover!!
 - _集合_, by 電球
-- _Muuntautuja_, by Oranssi Pazuzu
-- _Elements_, by Atheist
 
 </details>
 
@@ -26,8 +24,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Lifetime_, by Erika de Casier
-- _勇気_, by betcover!!
 - _Hymnal_, by Lyra Pramuk
+- _勇気_, by betcover!!
 - _Magic, Alive!_, by McKinley Dixon
 - _animal body_, by Haisuinonasa
 - _Frances the Mute_, by The Mars Volta
@@ -37,6 +35,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Egotrip_, by John michel, Anthony James
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Palm_, by Kukangendai
+- _Landscape from Memory_, by Rival Consoles
 
 </details>
 
