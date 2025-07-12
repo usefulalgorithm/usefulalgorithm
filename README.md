@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Shards_, by Tim Hecker
 - _Trax for the Year 3g$$$_, by Kareem
 - _Ostranenie_, by Grischa Lichtenberger
 - _Landscape from Memory_, by Rival Consoles
@@ -29,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _勇気_, by betcover!!
 - _Magic, Alive!_, by McKinley Dixon
 - _animal body_, by Haisuinonasa
-- _Frances the Mute_, by The Mars Volta
 - _Trax for the Year 3g$$$_, by Kareem
+- _Frances the Mute_, by The Mars Volta
 - _no floor_, by More Eaze, claire rousay
 - _Black Man!_, by Teller Bank$, Wino Willy
 - _Egotrip_, by John michel, Anthony James
