@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _集合_, by 電球
 - _Cutting the Throat of God_, by Ulcerate
 - _Timewave Zero_, by Blood Incantation
 - _Elements_, by Atheist
@@ -19,7 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _GNX_, by Kendrick Lamar
 - _meet the grahams_, by Kendrick Lamar
 - _勇気_, by betcover!!
-- _集合_, by 電球
 
 </details>
 
