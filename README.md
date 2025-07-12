@@ -11,14 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Trax for the Year 3g$$$_, by Kareem
+- _Ostranenie_, by Grischa Lichtenberger
+- _Landscape from Memory_, by Rival Consoles
 - _集合_, by 電球
 - _Cutting the Throat of God_, by Ulcerate
 - _Timewave Zero_, by Blood Incantation
 - _Elements_, by Atheist
-- _Landscape from Memory_, by Rival Consoles
-- _Tranzkript 1_, by Actress
-- _GNX_, by Kendrick Lamar
-- _meet the grahams_, by Kendrick Lamar
 
 </details>
 
@@ -36,9 +35,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Black Man!_, by Teller Bank$, Wino Willy
 - _Egotrip_, by John michel, Anthony James
 - _ZAZEN BOYS III_, by ZAZEN BOYS
-- _Palm_, by Kukangendai
-- _こわさについて／窓_, by 電球
 - _Landscape from Memory_, by Rival Consoles
+- _こわさについて／窓_, by 電球
+- _Palm_, by Kukangendai
 
 </details>
 
