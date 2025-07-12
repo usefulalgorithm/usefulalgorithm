@@ -19,7 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tranzkript 1_, by Actress
 - _GNX_, by Kendrick Lamar
 - _meet the grahams_, by Kendrick Lamar
-- _勇気_, by betcover!!
 
 </details>
 
