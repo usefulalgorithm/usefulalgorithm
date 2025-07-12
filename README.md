@@ -38,6 +38,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Egotrip_, by John michel, Anthony James
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Palm_, by Kukangendai
+- _こわさについて／窓_, by 電球
 - _Landscape from Memory_, by Rival Consoles
 
 </details>
