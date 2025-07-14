@@ -11,11 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _集合_, by 電球
 - _Shards_, by Tim Hecker
 - _第五作品集『無題』_, by downy
-- _Trax for the Year 3g$$$_, by Kareem
-- _Ostranenie_, by Grischa Lichtenberger
-- _Landscape from Memory_, by Rival Consoles
 
 </details>
 
