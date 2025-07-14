@@ -16,8 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Trax for the Year 3g$$$_, by Kareem
 - _Ostranenie_, by Grischa Lichtenberger
 - _Landscape from Memory_, by Rival Consoles
-- _集合_, by 電球
-- _Cutting the Throat of God_, by Ulcerate
 
 </details>
 
@@ -37,7 +35,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
 - _こわさについて／窓_, by 電球
-- _Palm_, by Kukangendai
+- _Iris Silver Mist_, by Jenny Hval
 
 </details>
 
