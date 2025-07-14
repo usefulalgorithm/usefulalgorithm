@@ -29,10 +29,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Frances the Mute_, by The Mars Volta
 - _no floor_, by More Eaze, claire rousay
 - _Black Man!_, by Teller Bank$, Wino Willy
+- _こわさについて／窓_, by 電球
 - _Egotrip_, by John michel, Anthony James
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
-- _こわさについて／窓_, by 電球
 - _Iris Silver Mist_, by Jenny Hval
 
 </details>
