@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _hexed!_, by aya
+- _勇気_, by betcover!!
 - _Shards_, by Tim Hecker
 - _第五作品集『無題』_, by downy
 - _In Waves_, by Sport
@@ -30,10 +32,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _こわさについて／窓_, by 電球
 - _no floor_, by More Eaze, claire rousay
 - _Black Man!_, by Teller Bank$, Wino Willy
+- _Shards_, by Tim Hecker
 - _Egotrip_, by John michel, Anthony James
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
-- _Shards_, by Tim Hecker
 - _集合_, by 電球
 
 </details>
