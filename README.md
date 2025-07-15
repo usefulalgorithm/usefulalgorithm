@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Tranzkript 1_, by Actress
 - _hexed!_, by aya
 - _勇気_, by betcover!!
 - _Shards_, by Tim Hecker
 - _第五作品集『無題』_, by downy
-- _In Waves_, by Sport
 
 </details>
 
