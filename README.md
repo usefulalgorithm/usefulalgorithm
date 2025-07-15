@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _In Waves_, by Sport
 - _Shards_, by Tim Hecker
 - _Ghost/Spirit_, by Jules Reidy
 - _集合_, by 電球
