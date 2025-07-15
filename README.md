@@ -36,8 +36,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Black Man!_, by Teller Bank$, Wino Willy
 - _Shards_, by Tim Hecker
 - _Egotrip_, by John michel, Anthony James
-- _ZAZEN BOYS III_, by ZAZEN BOYS
 - _集合_, by 電球
+- _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
 
 </details>
