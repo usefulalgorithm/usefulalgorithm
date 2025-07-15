@@ -11,10 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _In Waves_, by Sport
 - _Shards_, by Tim Hecker
-- _Ghost/Spirit_, by Jules Reidy
-- _集合_, by 電球
+- _第五作品集『無題』_, by downy
+- _In Waves_, by Sport
 
 </details>
 
@@ -34,8 +33,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Egotrip_, by John michel, Anthony James
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
+- _Shards_, by Tim Hecker
 - _集合_, by 電球
-- _Iris Silver Mist_, by Jenny Hval
 
 </details>
 
