@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _集合_, by 電球
 - _第五作品集『無題』_, by downy
 - _meet the grahams_, by Kendrick Lamar
 - _Tranzkript 1_, by Actress
@@ -26,18 +27,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Lifetime_, by Erika de Casier
 - _Hymnal_, by Lyra Pramuk
 - _勇気_, by betcover!!
+- _こわさについて／窓_, by 電球
 - _animal body_, by Haisuinonasa
 - _Magic, Alive!_, by McKinley Dixon
 - _Trax for the Year 3g$$$_, by Kareem
 - _Frances the Mute_, by The Mars Volta
-- _こわさについて／窓_, by 電球
 - _no floor_, by More Eaze, claire rousay
 - _Black Man!_, by Teller Bank$, Wino Willy
 - _Shards_, by Tim Hecker
 - _Egotrip_, by John michel, Anthony James
 - _ZAZEN BOYS III_, by ZAZEN BOYS
-- _Landscape from Memory_, by Rival Consoles
 - _集合_, by 電球
+- _Landscape from Memory_, by Rival Consoles
 
 </details>
 
