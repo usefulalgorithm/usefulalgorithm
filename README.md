@@ -33,13 +33,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Magic, Alive!_, by McKinley Dixon
 - _Trax for the Year 3g$$$_, by Kareem
 - _Frances the Mute_, by The Mars Volta
+- _Shards_, by Tim Hecker
 - _no floor_, by More Eaze, claire rousay
 - _Black Man!_, by Teller Bank$, Wino Willy
-- _Shards_, by Tim Hecker
 - _Egotrip_, by John michel, Anthony James
 - _集合_, by 電球
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
+- _Tranzkript 1_, by Actress
 
 </details>
 
