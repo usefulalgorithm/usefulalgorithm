@@ -17,8 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _集合_, by 電球
 - _第五作品集『無題』_, by downy
 - _meet the grahams_, by Kendrick Lamar
-- _勇気_, by betcover!!
-- _Shards_, by Tim Hecker
 
 </details>
 
@@ -37,10 +35,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _no floor_, by More Eaze, claire rousay
 - _Black Man!_, by Teller Bank$, Wino Willy
 - _Egotrip_, by John michel, Anthony James
+- _Tranzkript 1_, by Actress
 - _集合_, by 電球
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
-- _Tranzkript 1_, by Actress
 
 </details>
 
