@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Basictonalvocabulary_, by Surgeon
 - _Trax for the Year 3g$$$_, by Kareem
 - _Tranzkript 1_, by Actress
 - _hexed!_, by aya
-- _Basictonalvocabulary_, by Surgeon
 - _集合_, by 電球
 - _第五作品集『無題』_, by downy
 - _meet the grahams_, by Kendrick Lamar
