@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Trax for the Year 3g$$$_, by Kareem
 - _Tranzkript 1_, by Actress
 - _hexed!_, by aya
 - _Basictonalvocabulary_, by Surgeon
@@ -32,10 +33,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Trax for the Year 3g$$$_, by Kareem
 - _Frances the Mute_, by The Mars Volta
 - _Shards_, by Tim Hecker
+- _Tranzkript 1_, by Actress
 - _no floor_, by More Eaze, claire rousay
 - _Black Man!_, by Teller Bank$, Wino Willy
 - _Egotrip_, by John michel, Anthony James
-- _Tranzkript 1_, by Actress
 - _集合_, by 電球
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
