@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _Diamond Eyes_, by Deftones
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 - _Veteran_, by JPEGMAFIA
