@@ -11,14 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _life's a zoo_, by VHS Midnight Style
 - _Diamond Eyes_, by Deftones
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 - _Veteran_, by JPEGMAFIA
-- _GNX_, by Kendrick Lamar
-- _The Forever Story (Extended Version)_, by JID
-- _Melt My Eyez See Your Future_, by Denzel Curry
-- _Basictonalvocabulary_, by Surgeon
 
 </details>
 
