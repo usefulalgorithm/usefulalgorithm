@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _GNX_, by Kendrick Lamar
 - _Basictonalvocabulary_, by Surgeon
 - _Trax for the Year 3g$$$_, by Kareem
 - _Tranzkript 1_, by Actress
