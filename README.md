@@ -20,7 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Basictonalvocabulary_, by Surgeon
 - _Trax for the Year 3g$$$_, by Kareem
-- _Tranzkript 1_, by Actress
 
 </details>
 
