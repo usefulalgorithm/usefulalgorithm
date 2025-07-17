@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Diamond Eyes_, by Deftones
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 - _Veteran_, by JPEGMAFIA
 - _GNX_, by Kendrick Lamar
@@ -19,7 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Basictonalvocabulary_, by Surgeon
 - _Trax for the Year 3g$$$_, by Kareem
 - _Tranzkript 1_, by Actress
-- _hexed!_, by aya
 
 </details>
 
