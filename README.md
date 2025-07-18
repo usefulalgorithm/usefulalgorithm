@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Basictonalvocabulary_, by Surgeon
 - _Shards_, by Tim Hecker
 - _life's a zoo_, by VHS Midnight Style
 - _Diamond Eyes_, by Deftones
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
-- _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
-- _Veteran_, by JPEGMAFIA
 
 </details>
 
@@ -28,17 +27,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _勇気_, by betcover!!
 - _こわさについて／窓_, by 電球
 - _animal body_, by Haisuinonasa
-- _Magic, Alive!_, by McKinley Dixon
+- _Shards_, by Tim Hecker
 - _Trax for the Year 3g$$$_, by Kareem
 - _Frances the Mute_, by The Mars Volta
-- _Shards_, by Tim Hecker
+- _Magic, Alive!_, by McKinley Dixon
 - _Tranzkript 1_, by Actress
 - _no floor_, by More Eaze, claire rousay
 - _Black Man!_, by Teller Bank$, Wino Willy
-- _Egotrip_, by John michel, Anthony James
 - _集合_, by 電球
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
+- _Diamond Eyes_, by Deftones
 
 </details>
 
