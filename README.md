@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Shards_, by Tim Hecker
 - _life's a zoo_, by VHS Midnight Style
 - _Diamond Eyes_, by Deftones
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
