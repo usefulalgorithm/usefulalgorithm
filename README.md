@@ -11,12 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _集合_, by 電球
 - _Basictonalvocabulary_, by Surgeon
+- _集合_, by 電球
 - _歪曲_, by Shing02
 - _400_, by Shing02
-- _Shards_, by Tim Hecker
-- _life's a zoo_, by VHS Midnight Style
 
 </details>
 
