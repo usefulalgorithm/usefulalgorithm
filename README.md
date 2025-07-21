@@ -22,11 +22,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Lifetime_, by Erika de Casier
 - _Hymnal_, by Lyra Pramuk
+- _Lifetime_, by Erika de Casier
 - _勇気_, by betcover!!
-- _Diamond Eyes_, by Deftones
 - _こわさについて／窓_, by 電球
+- _Diamond Eyes_, by Deftones
 - _animal body_, by Haisuinonasa
 - _Shards_, by Tim Hecker
 - _Tranzkript 1_, by Actress
