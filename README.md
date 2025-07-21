@@ -11,12 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
+- _Tranzkript 1_, by Actress
 - _Basictonalvocabulary_, by Surgeon
 - _Diamond Eyes_, by Deftones
-- _Tranzkript 1_, by Actress
-- _集合_, by 電球
-- _歪曲_, by Shing02
-- _400_, by Shing02
 
 </details>
 
@@ -34,6 +32,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Trax for the Year 3g$$$_, by Kareem
 - _Magic, Alive!_, by McKinley Dixon
 - _集合_, by 電球
+- _Basictonalvocabulary_, by Surgeon
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
 - _Frances the Mute_, by The Mars Volta
