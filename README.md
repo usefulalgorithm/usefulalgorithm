@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Tranzkript 1_, by Actress
-- _Diamond Eyes_, by Deftones
 - _Basictonalvocabulary_, by Surgeon
+- _Diamond Eyes_, by Deftones
+- _Tranzkript 1_, by Actress
 - _集合_, by 電球
 - _歪曲_, by Shing02
 - _400_, by Shing02
@@ -30,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _こわさについて／窓_, by 電球
 - _animal body_, by Haisuinonasa
 - _Shards_, by Tim Hecker
-- _Trax for the Year 3g$$$_, by Kareem
 - _Tranzkript 1_, by Actress
+- _Trax for the Year 3g$$$_, by Kareem
 - _Magic, Alive!_, by McKinley Dixon
 - _集合_, by 電球
 - _ZAZEN BOYS III_, by ZAZEN BOYS
