@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Tranzkript 1_, by Actress
 - _Diamond Eyes_, by Deftones
 - _Basictonalvocabulary_, by Surgeon
 - _集合_, by 電球
