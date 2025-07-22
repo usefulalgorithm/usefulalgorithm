@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _hexed!_, by aya
 - _Diamond Eyes_, by Deftones
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
-- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 
 </details>
 
