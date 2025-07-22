@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Diamond Eyes_, by Deftones
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _集合_, by 電球
 - _Tranzkript 1_, by Actress
 - _Basictonalvocabulary_, by Surgeon
-- _Diamond Eyes_, by Deftones
 
 </details>
 
@@ -24,9 +24,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Hymnal_, by Lyra Pramuk
 - _Lifetime_, by Erika de Casier
+- _Diamond Eyes_, by Deftones
 - _勇気_, by betcover!!
 - _こわさについて／窓_, by 電球
-- _Diamond Eyes_, by Deftones
 - _animal body_, by Haisuinonasa
 - _Shards_, by Tim Hecker
 - _Tranzkript 1_, by Actress
