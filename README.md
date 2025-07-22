@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _歪曲_, by Shing02
+- _Tranzkript 1_, by Actress
 - _hexed!_, by aya
 - _Diamond Eyes_, by Deftones
+- _歪曲_, by Shing02
 
 </details>
 
