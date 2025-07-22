@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Diamond Eyes_, by Deftones
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _集合_, by 電球
-- _Tranzkript 1_, by Actress
-- _Basictonalvocabulary_, by Surgeon
 
 </details>
 
