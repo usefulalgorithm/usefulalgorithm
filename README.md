@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _歪曲_, by Shing02
 - _hexed!_, by aya
 - _Diamond Eyes_, by Deftones
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
@@ -23,8 +24,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hymnal_, by Lyra Pramuk
 - _Lifetime_, by Erika de Casier
 - _Diamond Eyes_, by Deftones
-- _勇気_, by betcover!!
 - _こわさについて／窓_, by 電球
+- _勇気_, by betcover!!
 - _animal body_, by Haisuinonasa
 - _Shards_, by Tim Hecker
 - _Tranzkript 1_, by Actress
@@ -36,6 +37,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Landscape from Memory_, by Rival Consoles
 - _Frances the Mute_, by The Mars Volta
 - _Black Man!_, by Teller Bank$, Wino Willy
+- _Iris Silver Mist_, by Jenny Hval
 
 </details>
 
