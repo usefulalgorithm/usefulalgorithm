@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _400_, by Shing02
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
+- _400_, by Shing02
 - _Tranzkript 1_, by Actress
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _The Other 2/5ths or: The Absolutely True Diary of a Part-Time Trench Baby!!_, by Ghais Guevara
@@ -34,12 +34,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Shards_, by Tim Hecker
 - _Trax for the Year 3g$$$_, by Kareem
 - _勇気_, by betcover!!
+- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _集合_, by 電球
 - _Basictonalvocabulary_, by Surgeon
 - _Magic, Alive!_, by McKinley Dixon
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
-- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _Frances the Mute_, by The Mars Volta
 - _Black Man!_, by Teller Bank$, Wino Willy
 
