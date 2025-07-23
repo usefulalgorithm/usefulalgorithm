@@ -38,9 +38,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Magic, Alive!_, by McKinley Dixon
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
+- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _Frances the Mute_, by The Mars Volta
 - _Black Man!_, by Teller Bank$, Wino Willy
-- _Iris Silver Mist_, by Jenny Hval
 
 </details>
 
