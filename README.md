@@ -11,14 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _臺北人文地景_, by COLD DEW
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _400_, by Shing02
 - _Tranzkript 1_, by Actress
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _The Other 2/5ths or: The Absolutely True Diary of a Part-Time Trench Baby!!_, by Ghais Guevara
-- _hexed!_, by aya
-- _Diamond Eyes_, by Deftones
-- _歪曲_, by Shing02
 
 </details>
 
