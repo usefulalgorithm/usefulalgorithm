@@ -32,12 +32,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Trax for the Year 3g$$$_, by Kareem
 - _勇気_, by betcover!!
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
-- _集合_, by 電球
 - _Basictonalvocabulary_, by Surgeon
+- _集合_, by 電球
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
 - _Black Man!_, by Teller Bank$, Wino Willy
-- _Iris Silver Mist_, by Jenny Hval
 
 </details>
 
