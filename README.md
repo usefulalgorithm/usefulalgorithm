@@ -25,8 +25,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hymnal_, by Lyra Pramuk
 - _Diamond Eyes_, by Deftones
 - _こわさについて／窓_, by 電球
-- _Lifetime_, by Erika de Casier
 - _Tranzkript 1_, by Actress
+- _Lifetime_, by Erika de Casier
 - _animal body_, by Haisuinonasa
 - _Shards_, by Tim Hecker
 - _Trax for the Year 3g$$$_, by Kareem
@@ -36,7 +36,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Basictonalvocabulary_, by Surgeon
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
-- _Frances the Mute_, by The Mars Volta
 - _Black Man!_, by Teller Bank$, Wino Willy
 - _Iris Silver Mist_, by Jenny Hval
 
