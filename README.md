@@ -24,9 +24,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Hymnal_, by Lyra Pramuk
-- _Lifetime_, by Erika de Casier
 - _Diamond Eyes_, by Deftones
 - _こわさについて／窓_, by 電球
+- _Lifetime_, by Erika de Casier
 - _Tranzkript 1_, by Actress
 - _animal body_, by Haisuinonasa
 - _Shards_, by Tim Hecker
@@ -35,11 +35,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _集合_, by 電球
 - _Basictonalvocabulary_, by Surgeon
-- _Magic, Alive!_, by McKinley Dixon
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
 - _Frances the Mute_, by The Mars Volta
 - _Black Man!_, by Teller Bank$, Wino Willy
+- _Iris Silver Mist_, by Jenny Hval
 
 </details>
 
