@@ -11,12 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
+- _Not Like Us_, by Kendrick Lamar
+- _GNX_, by Kendrick Lamar
+- _The Other 2/5ths or: The Absolutely True Diary of a Part-Time Trench Baby!!_, by Ghais Guevara
 - _Tranzkript 1_, by Actress
 - _Diamond Eyes_, by Deftones
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _A Patient Man_, by Cult Leader
-- _Basictonalvocabulary_, by Surgeon
-- _臺北人文地景_, by COLD DEW
 
 </details>
 
@@ -25,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Hymnal_, by Lyra Pramuk
 - _Diamond Eyes_, by Deftones
-- _こわさについて／窓_, by 電球
 - _Tranzkript 1_, by Actress
+- _こわさについて／窓_, by 電球
 - _Lifetime_, by Erika de Casier
 - _animal body_, by Haisuinonasa
 - _Shards_, by Tim Hecker
