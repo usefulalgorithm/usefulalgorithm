@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _A Patient Man_, by Cult Leader
 - _Basictonalvocabulary_, by Surgeon
 - _臺北人文地景_, by COLD DEW
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _400_, by Shing02
-- _Tranzkript 1_, by Actress
 
 </details>
 
