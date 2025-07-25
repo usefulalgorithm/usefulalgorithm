@@ -26,17 +26,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Diamond Eyes_, by Deftones
 - _Tranzkript 1_, by Actress
 - _こわさについて／窓_, by 電球
-- _Lifetime_, by Erika de Casier
 - _animal body_, by Haisuinonasa
 - _Shards_, by Tim Hecker
 - _Trax for the Year 3g$$$_, by Kareem
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
+- _Lifetime_, by Erika de Casier
 - _Basictonalvocabulary_, by Surgeon
 - _集合_, by 電球
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
 - _勇気_, by betcover!!
-- _Black Man!_, by Teller Bank$, Wino Willy
+- _hexed!_, by aya
 
 </details>
 
