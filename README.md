@@ -11,11 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Hard Sell_, by Giulio Erasmus, The End of the Worm
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 - _Diamond Eyes_, by Deftones
 - _臺北人文地景_, by COLD DEW
-- _Not Like Us_, by Kendrick Lamar
-- _GNX_, by Kendrick Lamar
 
 </details>
 
