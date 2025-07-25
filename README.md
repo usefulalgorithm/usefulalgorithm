@@ -11,14 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Diamond Eyes_, by Deftones
 - _臺北人文地景_, by COLD DEW
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 - _Not Like Us_, by Kendrick Lamar
 - _GNX_, by Kendrick Lamar
 - _The Other 2/5ths or: The Absolutely True Diary of a Part-Time Trench Baby!!_, by Ghais Guevara
 - _Tranzkript 1_, by Actress
-- _Diamond Eyes_, by Deftones
-- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 
 </details>
 
