@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _A Grand Don't Come for Free_, by The Streets
 - _Hard Sell_, by Giulio Erasmus, The End of the Worm
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 - _Diamond Eyes_, by Deftones
