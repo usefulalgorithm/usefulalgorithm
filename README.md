@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _人工島_, by 電球
+- _集合_, by 電球
 - _out focus_, by sigh
 - _臺北人文地景_, by COLD DEW
 - _Hard Sell_, by Giulio Erasmus, The End of the Worm
