@@ -37,7 +37,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
 - _勇気_, by betcover!!
-- _Lifetime_, by Erika de Casier
 - _臺北人文地景_, by COLD DEW
 - _hexed!_, by aya
 
