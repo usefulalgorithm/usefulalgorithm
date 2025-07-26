@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
+- _第五作品集『無題』_, by downy
 - _A Grand Don't Come for Free_, by The Streets
 - _Hard Sell_, by Giulio Erasmus, The End of the Worm
-- _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 - _Diamond Eyes_, by Deftones
 - _臺北人文地景_, by COLD DEW
 
