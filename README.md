@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _臺北人文地景_, by COLD DEW
+- _Hard Sell_, by Giulio Erasmus, The End of the Worm
+- _Diamond Eyes_, by Deftones
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 - _第五作品集『無題』_, by downy
 - _A Grand Don't Come for Free_, by The Streets
-- _Hard Sell_, by Giulio Erasmus, The End of the Worm
-- _Diamond Eyes_, by Deftones
-- _臺北人文地景_, by COLD DEW
 
 </details>
 
@@ -31,12 +31,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Shards_, by Tim Hecker
 - _Trax for the Year 3g$$$_, by Kareem
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
-- _Lifetime_, by Erika de Casier
 - _Basictonalvocabulary_, by Surgeon
 - _集合_, by 電球
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
 - _勇気_, by betcover!!
+- _Lifetime_, by Erika de Casier
+- _臺北人文地景_, by COLD DEW
 - _hexed!_, by aya
 
 </details>
