@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
-- _臺北人文地景_, by COLD DEW
 
 </details>
 
@@ -21,10 +20,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Hymnal_, by Lyra Pramuk
 - _Diamond Eyes_, by Deftones
+- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _こわさについて／窓_, by 電球
 - _臺北人文地景_, by COLD DEW
 - _Tranzkript 1_, by Actress
-- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _animal body_, by Haisuinonasa
 - _Shards_, by Tim Hecker
 - _Trax for the Year 3g$$$_, by Kareem
