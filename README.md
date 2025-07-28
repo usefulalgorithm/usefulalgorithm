@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _臺北人文地景_, by COLD DEW
 - _人工島_, by 電球
 - _Remember To Forget_, by Grace UK
@@ -30,18 +31,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hymnal_, by Lyra Pramuk
 - _Diamond Eyes_, by Deftones
 - _こわさについて／窓_, by 電球
+- _臺北人文地景_, by COLD DEW
 - _Tranzkript 1_, by Actress
+- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _animal body_, by Haisuinonasa
 - _Shards_, by Tim Hecker
 - _Trax for the Year 3g$$$_, by Kareem
-- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _Basictonalvocabulary_, by Surgeon
 - _集合_, by 電球
-- _臺北人文地景_, by COLD DEW
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
 - _勇気_, by betcover!!
-- _hexed!_, by aya
 
 </details>
 
