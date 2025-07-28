@@ -13,15 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _臺北人文地景_, by COLD DEW
-- _人工島_, by 電球
-- _Remember To Forget_, by Grace UK
-- _集合_, by 電球
-- _out focus_, by sigh
-- _Hard Sell_, by Giulio Erasmus, The End of the Worm
-- _Diamond Eyes_, by Deftones
-- _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
-- _第五作品集『無題』_, by downy
-- _A Grand Don't Come for Free_, by The Streets
 
 </details>
 
