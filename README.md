@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Hard Sell_, by Giulio Erasmus, The End of the Worm
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 
 </details>
@@ -18,8 +19,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Hymnal_, by Lyra Pramuk
 - _Diamond Eyes_, by Deftones
+- _Hymnal_, by Lyra Pramuk
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _こわさについて／窓_, by 電球
 - _臺北人文地景_, by COLD DEW
@@ -32,6 +33,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Landscape from Memory_, by Rival Consoles
 - _勇気_, by betcover!!
+- _hexed!_, by aya
 
 </details>
 
