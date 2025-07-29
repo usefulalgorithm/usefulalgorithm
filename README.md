@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hard Sell_, by Giulio Erasmus, The End of the Worm
 - _LXVE 業放草 [[DELUXE EDITION] (Remaster)]_, by Jinmenusagi
 - _人工島_, by 電球
-- _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 
 </details>
 
