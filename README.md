@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _Hard Sell_, by Giulio Erasmus, The End of the Worm
 - _LXVE 業放草 [[DELUXE EDITION] (Remaster)]_, by Jinmenusagi
 - _人工島_, by 電球
@@ -26,9 +27,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _こわさについて／窓_, by 電球
 - _臺北人文地景_, by COLD DEW
 - _Tranzkript 1_, by Actress
-- _Hymnal_, by Lyra Pramuk
 - _animal body_, by Haisuinonasa
 - _Shards_, by Tim Hecker
+- _Hymnal_, by Lyra Pramuk
 - _Trax for the Year 3g$$$_, by Kareem
 - _Basictonalvocabulary_, by Surgeon
 - _集合_, by 電球
@@ -36,6 +37,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _人工島_, by 電球
 - _Landscape from Memory_, by Rival Consoles
 - _勇気_, by betcover!!
+- _hexed!_, by aya
 
 </details>
 
