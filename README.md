@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _LXVE 業放草 [[DELUXE EDITION] (Remaster)]_, by Jinmenusagi
 - _人工島_, by 電球
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
-- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 
 </details>
 
@@ -34,9 +33,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Basictonalvocabulary_, by Surgeon
 - _集合_, by 電球
 - _ZAZEN BOYS III_, by ZAZEN BOYS
+- _人工島_, by 電球
 - _Landscape from Memory_, by Rival Consoles
 - _勇気_, by betcover!!
-- _人工島_, by 電球
 
 </details>
 
