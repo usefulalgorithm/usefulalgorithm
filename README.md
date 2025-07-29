@@ -41,14 +41,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _Care: The Highest Stage of Capitalism_, by Premilla Nadasen ([link](https://hardcover.app/books/care-the-highest-stage-of-capitalism)). It's a good book.
+Just finished reading _Omnicide II_, by Jason Bahbak Mohaghegh ([link](https://hardcover.app/books/omnicide-ii)). It's just meh.
 
-Gotta finish 25 books before 2026-01-01. I've read 11 so far.
+Gotta finish 25 books before 2026-01-01. I've read 12 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
 
-- _Omnicide II_, by Jason Bahbak Mohaghegh ([link](https://hardcover.app/books/omnicide-ii))
+- _The Hall of Uselessness: Collected Essays_, by Simon Leys ([link](https://hardcover.app/books/the-hall-of-uselessness))
 - _The Absence of Myth: Writings on Surrealism_, by Georges Bataille, Michael   Richardson ([link](https://hardcover.app/books/the-absence-of-myth-writings-on-surrealism))
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
