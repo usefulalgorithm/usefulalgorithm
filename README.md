@@ -11,10 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _人工島_, by 電球
-- _Singles Compiled_, by Hood
-- _Hard Sell_, by Giulio Erasmus, The End of the Worm
 
 </details>
 
