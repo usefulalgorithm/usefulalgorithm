@@ -28,14 +28,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tranzkript 1_, by Actress
 - _animal body_, by Haisuinonasa
 - _Shards_, by Tim Hecker
-- _Hymnal_, by Lyra Pramuk
 - _Trax for the Year 3g$$$_, by Kareem
 - _Basictonalvocabulary_, by Surgeon
 - _集合_, by 電球
+- _Hymnal_, by Lyra Pramuk
 - _人工島_, by 電球
 - _Landscape from Memory_, by Rival Consoles
 - _hexed!_, by aya
 - _ZAZEN BOYS III_, by ZAZEN BOYS
+- _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 
 </details>
 
