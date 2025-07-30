@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _第五作品集『無題』_, by downy
 - _Flesh Bill Clinton Humanoid Skeleton_, by Dealers of God
 - _Anthems To The Welkin At Dusk_, by Emperor
-- _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _Hard Sell_, by Giulio Erasmus, The End of the Worm
 - _LXVE 業放草 [[DELUXE EDITION] (Remaster)]_, by Jinmenusagi
 - _人工島_, by 電球
@@ -29,16 +29,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _こわさについて／窓_, by 電球
 - _臺北人文地景_, by COLD DEW
 - _Tranzkript 1_, by Actress
-- _animal body_, by Haisuinonasa
 - _Shards_, by Tim Hecker
 - _Trax for the Year 3g$$$_, by Kareem
 - _Basictonalvocabulary_, by Surgeon
 - _集合_, by 電球
 - _人工島_, by 電球
 - _Landscape from Memory_, by Rival Consoles
+- _animal body_, by Haisuinonasa
 - _Hymnal_, by Lyra Pramuk
 - _hexed!_, by aya
-- _ZAZEN BOYS III_, by ZAZEN BOYS
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 
 </details>
