@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Flesh Bill Clinton Humanoid Skeleton_, by Dealers of God
+- _Anthems To The Welkin At Dusk_, by Emperor
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _Hard Sell_, by Giulio Erasmus, The End of the Worm
 - _LXVE 業放草 [[DELUXE EDITION] (Remaster)]_, by Jinmenusagi
