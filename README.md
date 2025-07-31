@@ -35,6 +35,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _集合_, by 電球
 - _人工島_, by 電球
 - _Landscape from Memory_, by Rival Consoles
+- _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _hexed!_, by aya
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 
