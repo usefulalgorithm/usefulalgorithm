@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Flesh Bill Clinton Humanoid Skeleton_, by Dealers of God
+- _Ego Death_, by Aho Ssan, Resina
 - _smallest things_, by Memotone
 - _Statik_, by Actress
 - _Tranzkript 1_, by Actress
@@ -22,7 +24,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Axe To Fall_, by Converge
 - _人工島_, by 電球
 - _第五作品集『無題』_, by downy
-- _Flesh Bill Clinton Humanoid Skeleton_, by Dealers of God
 
 </details>
 
