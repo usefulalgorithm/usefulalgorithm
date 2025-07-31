@@ -11,13 +11,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _smallest things_, by Memotone
+- _Statik_, by Actress
+- _Tranzkript 1_, by Actress
+- _Diner Coffee_, by Mamaleek
+- _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
+- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _Axe To Fall_, by Converge
 - _人工島_, by 電球
 - _第五作品集『無題』_, by downy
 - _Flesh Bill Clinton Humanoid Skeleton_, by Dealers of God
-- _Anthems To The Welkin At Dusk_, by Emperor
 
 </details>
 
