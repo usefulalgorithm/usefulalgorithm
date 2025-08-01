@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Lifetime_, by Erika de Casier
 - _smallest things_, by Memotone
 - _GOLLIWOG_, by billy woods
 - _Marjaa: The Battle of the Hotels (Versions)_, by Civilistjävel!, Mayssa Jallad
@@ -20,7 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _集合_, by 電球
 - _Flesh Bill Clinton Humanoid Skeleton_, by Dealers of God
 - _卵_, by betcover!!
-- _Dance Tonight! Revolution Tomorrow!_, by Orchid
 
 </details>
 
