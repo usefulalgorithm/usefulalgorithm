@@ -12,9 +12,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _馬_, by betcover!!
+- _Flesh Bill Clinton Humanoid Skeleton_, by Dealers of God
 - _卵_, by betcover!!
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
-- _Flesh Bill Clinton Humanoid Skeleton_, by Dealers of God
 - _Ego Death_, by Aho Ssan, Resina
 - _smallest things_, by Memotone
 - _Statik_, by Actress
