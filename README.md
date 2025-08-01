@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _smallest things_, by Memotone
+- _GOLLIWOG_, by billy woods
+- _Marjaa: The Battle of the Hotels (Versions)_, by Civilistjävel!, Mayssa Jallad
 - _Only Good Dreams for Me_, by Zaumne
 - _Br​ö​df​ö​da_, by Civilistjävel!
 - _馬_, by betcover!!
@@ -18,12 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Flesh Bill Clinton Humanoid Skeleton_, by Dealers of God
 - _卵_, by betcover!!
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
-- _Ego Death_, by Aho Ssan, Resina
-- _smallest things_, by Memotone
-- _Statik_, by Actress
-- _Tranzkript 1_, by Actress
-- _Diner Coffee_, by Mamaleek
-- _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 
 </details>
 
