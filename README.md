@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Only Good Dreams for Me_, by Zaumne
 - _Br​ö​df​ö​da_, by Civilistjävel!
 - _馬_, by betcover!!
 - _集合_, by 電球
@@ -23,7 +24,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tranzkript 1_, by Actress
 - _Diner Coffee_, by Mamaleek
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
-- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 
 </details>
 
@@ -37,12 +37,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tranzkript 1_, by Actress
 - _Shards_, by Tim Hecker
 - _Trax for the Year 3g$$$_, by Kareem
+- _集合_, by 電球
 - _人工島_, by 電球
 - _Basictonalvocabulary_, by Surgeon
-- _集合_, by 電球
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _Landscape from Memory_, by Rival Consoles
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
+- _Ostranenie_, by Grischa Lichtenberger
 - _hexed!_, by aya
 
 </details>
