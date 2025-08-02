@@ -11,16 +11,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _ALL OUR KNIVES ARE ALWAYS SHARP_, by Tony Njoku
+- _人工島_, by 電球
+- _Marjaa: The Battle of the Hotels (Versions)_, by Civilistjävel!, Mayssa Jallad
 - _Lifetime_, by Erika de Casier
 - _smallest things_, by Memotone
 - _GOLLIWOG_, by billy woods
-- _Marjaa: The Battle of the Hotels (Versions)_, by Civilistjävel!, Mayssa Jallad
 - _Only Good Dreams for Me_, by Zaumne
 - _Br​ö​df​ö​da_, by Civilistjävel!
 - _馬_, by betcover!!
 - _集合_, by 電球
-- _Flesh Bill Clinton Humanoid Skeleton_, by Dealers of God
-- _卵_, by betcover!!
 
 </details>
 
