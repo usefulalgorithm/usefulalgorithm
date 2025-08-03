@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Exivious_, by Exivious
+- _Traced in Air_, by Cynic
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _馬_, by betcover!!
 - _Flesh Bill Clinton Humanoid Skeleton_, by Dealers of God
@@ -20,7 +22,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Lifetime_, by Erika de Casier
 - _smallest things_, by Memotone
 - _GOLLIWOG_, by billy woods
-- _Only Good Dreams for Me_, by Zaumne
 
 </details>
 
