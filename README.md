@@ -11,19 +11,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _A Grand Don't Come for Free_, by The Streets
 - _object 1_, by Flooding
 - _Exivious_, by Exivious
 - _Traced in Air_, by Cynic
-- _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _馬_, by betcover!!
 - _Flesh Bill Clinton Humanoid Skeleton_, by Dealers of God
 - _ALL OUR KNIVES ARE ALWAYS SHARP_, by Tony Njoku
 - _人工島_, by 電球
 - _Marjaa: The Battle of the Hotels (Versions)_, by Civilistjävel!, Mayssa Jallad
 - _Lifetime_, by Erika de Casier
-- _smallest things_, by Memotone
-- _GOLLIWOG_, by billy woods
 
 </details>
 
