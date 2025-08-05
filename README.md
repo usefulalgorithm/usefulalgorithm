@@ -18,7 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _A Grand Don't Come for Free_, by The Streets
 - _object 1_, by Flooding
 - _Exivious_, by Exivious
-- _Traced in Air_, by Cynic
 
 </details>
 
@@ -32,13 +31,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tranzkript 1_, by Actress
 - _Shards_, by Tim Hecker
 - _人工島_, by 電球
-- _Trax for the Year 3g$$$_, by Kareem
 - _集合_, by 電球
 - _Basictonalvocabulary_, by Surgeon
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
+- _Trax for the Year 3g$$$_, by Kareem
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 - _Ostranenie_, by Grischa Lichtenberger
 - _hexed!_, by aya
+- _Dance Tonight! Revolution Tomorrow!_, by Orchid
+- _Landscape from Memory_, by Rival Consoles
 
 </details>
 
