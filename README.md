@@ -19,7 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _object 1_, by Flooding
 - _Exivious_, by Exivious
 - _Traced in Air_, by Cynic
-- _馬_, by betcover!!
 
 </details>
 
