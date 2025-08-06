@@ -30,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tranzkript 1_, by Actress
 - _Shards_, by Tim Hecker
 - _人工島_, by 電球
-- _集合_, by 電球
 - _Basictonalvocabulary_, by Surgeon
+- _集合_, by 電球
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _Trax for the Year 3g$$$_, by Kareem
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
