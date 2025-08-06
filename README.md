@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _A Compendium of Beasts Volume 4_, by Laura Cannell
 - _Vooid (2025)_, by VOOID
 - _Konata Kanata_, by Hontatedori
 - _Submersus_, by Hell
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _A Grand Don't Come for Free_, by The Streets
-- _object 1_, by Flooding
-- _Exivious_, by Exivious
 
 </details>
 
