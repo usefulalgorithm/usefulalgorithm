@@ -24,9 +24,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Diamond Eyes_, by Deftones
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
-- _こわさについて／窓_, by 電球
 - _臺北人文地景_, by COLD DEW
 - _Tranzkript 1_, by Actress
+- _こわさについて／窓_, by 電球
 - _Shards_, by Tim Hecker
 - _人工島_, by 電球
 - _Basictonalvocabulary_, by Surgeon
