@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _smallest things_, by Memotone
-- _A Compendium of Beasts Volume 4_, by Laura Cannell
 
 </details>
 
