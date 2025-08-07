@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _smallest things_, by Memotone
 - _A Compendium of Beasts Volume 4_, by Laura Cannell
-- _Vooid (2025)_, by VOOID
 
 </details>
 
@@ -31,6 +30,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _集合_, by 電球
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
+- _smallest things_, by Memotone
 - _hexed!_, by aya
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
 - _Landscape from Memory_, by Rival Consoles
