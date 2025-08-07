@@ -14,8 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _smallest things_, by Memotone
 - _A Compendium of Beasts Volume 4_, by Laura Cannell
 - _Vooid (2025)_, by VOOID
-- _Konata Kanata_, by Hontatedori
-- _Submersus_, by Hell
 
 </details>
 
