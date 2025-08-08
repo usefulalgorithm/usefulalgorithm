@@ -25,14 +25,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _臺北人文地景_, by COLD DEW
 - _Tranzkript 1_, by Actress
-- _こわさについて／窓_, by 電球
 - _Shards_, by Tim Hecker
 - _人工島_, by 電球
+- _こわさについて／窓_, by 電球
 - _Basictonalvocabulary_, by Surgeon
-- _集合_, by 電球
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
-- _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 - _smallest things_, by Memotone
+- _集合_, by 電球
+- _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 - _hexed!_, by aya
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
 - _第五作品集『無題』_, by downy
