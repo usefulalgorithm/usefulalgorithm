@@ -26,8 +26,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _臺北人文地景_, by COLD DEW
 - _Shards_, by Tim Hecker
-- _Tranzkript 1_, by Actress
 - _人工島_, by 電球
+- _Tranzkript 1_, by Actress
 - _Basictonalvocabulary_, by Surgeon
 - _こわさについて／窓_, by 電球
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
