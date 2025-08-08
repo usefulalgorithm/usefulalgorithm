@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _smallest things_, by Memotone
+- _Seas of Triple Consciousness_, by Jordan Deal
 - _Lifetime_, by Erika de Casier
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
-- _smallest things_, by Memotone
 
 </details>
 
