@@ -11,12 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _呪詛告白初恋そして世界_, by moreru
+- _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _Vooid (2025)_, by VOOID
 - _我又沒有做錯事_, by MassMan
 - _smallest things_, by Memotone
 - _Seas of Triple Consciousness_, by Jordan Deal
 - _Lifetime_, by Erika de Casier
-- _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 
 </details>
 
