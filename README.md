@@ -38,7 +38,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 - _hexed!_, by aya
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
-- _第五作品集『無題』_, by downy
 - _集合_, by 電球
 
 </details>
