@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Lifetime_, by Erika de Casier
 - _Remember To Forget_, by Grace UK
 - _Fever of the World_, by Memotone
 - _New Assumptions…_, by Ex Agent
