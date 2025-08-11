@@ -14,12 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Lifetime_, by Erika de Casier
 - _Remember To Forget_, by Grace UK
 - _Fever of the World_, by Memotone
-- _New Assumptions…_, by Ex Agent
-- _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
-- _呪詛告白初恋そして世界_, by moreru
-- _Vooid (2025)_, by VOOID
-- _我又沒有做錯事_, by MassMan
-- _smallest things_, by Memotone
 
 </details>
 
@@ -30,16 +24,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _臺北人文地景_, by COLD DEW
 - _人工島_, by 電球
-- _Shards_, by Tim Hecker
 - _Tranzkript 1_, by Actress
 - _smallest things_, by Memotone
 - _Basictonalvocabulary_, by Surgeon
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
-- _こわさについて／窓_, by 電球
+- _Shards_, by Tim Hecker
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 - _hexed!_, by aya
+- _こわさについて／窓_, by 電球
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
-- _集合_, by 電球
+- _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
+- _Vooid (2025)_, by VOOID
 
 </details>
 
