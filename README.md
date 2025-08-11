@@ -29,8 +29,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Shards_, by Tim Hecker
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 - _hexed!_, by aya
-- _Dance Tonight! Revolution Tomorrow!_, by Orchid
 - _Lifetime_, by Erika de Casier
+- _Dance Tonight! Revolution Tomorrow!_, by Orchid
 - _I LAY DOWN MY LIFE FOR YOU_, by JPEGMAFIA
 - _こわさについて／窓_, by 電球
 - _Vooid (2025)_, by VOOID
