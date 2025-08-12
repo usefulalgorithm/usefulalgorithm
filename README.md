@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _Lifetime_, by Erika de Casier
 
 </details>
@@ -26,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _smallest things_, by Memotone
 - _Basictonalvocabulary_, by Surgeon
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
-- _Shards_, by Tim Hecker
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
+- _Shards_, by Tim Hecker
 - _hexed!_, by aya
 - _Lifetime_, by Erika de Casier
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
