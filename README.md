@@ -12,8 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Lifetime_, by Erika de Casier
-- _I.V._, by Loma Prieta
-- _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 
 </details>
 
@@ -27,10 +25,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tranzkript 1_, by Actress
 - _smallest things_, by Memotone
 - _Basictonalvocabulary_, by Surgeon
-- _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _Lifetime_, by Erika de Casier
+- _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
-- _hexed!_, by aya
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 
