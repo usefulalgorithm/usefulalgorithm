@@ -11,10 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Vooid (2025)_, by VOOID
 - _Clube da Mariposa Mórbida_, by Akira Umeda, Metal Preyers
 - _Metallic Life Review_, by Matmos
-- _Vooid (2025)_, by VOOID
-- _Lifetime_, by Erika de Casier
 
 </details>
 
@@ -29,8 +28,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _smallest things_, by Memotone
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _Basictonalvocabulary_, by Surgeon
-- _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 - _Vooid (2025)_, by VOOID
+- _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 
