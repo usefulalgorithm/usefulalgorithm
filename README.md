@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Vooid (2025)_, by VOOID
 - _Clube da Mariposa Mórbida_, by Akira Umeda, Metal Preyers
-- _Metallic Life Review_, by Matmos
 
 </details>
 
