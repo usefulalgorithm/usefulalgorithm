@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Metallic Life Review_, by Matmos
 - _Vooid (2025)_, by VOOID
 - _Lifetime_, by Erika de Casier
-- _Never Die_, by Matt Jencik, Midwife
 
 </details>
 
