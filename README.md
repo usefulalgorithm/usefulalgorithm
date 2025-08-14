@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _馬_, by betcover!!
 - _Vooid (2025)_, by VOOID
-- _Clube da Mariposa Mórbida_, by Akira Umeda, Metal Preyers
 
 </details>
 
