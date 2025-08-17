@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Remember To Forget_, by Grace UK
 - _Never Die_, by Matt Jencik, Midwife
 - _Vooid (2025)_, by VOOID
-- _Shell~Wave_, by Surgeon
 
 </details>
 
