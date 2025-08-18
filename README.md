@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Sunshine and Balance Beams_, by Pile
-- _Remember To Forget_, by Grace UK
 
 </details>
 
@@ -29,6 +28,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Diamond Eyes_, by Deftones
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
+- _Sunshine and Balance Beams_, by Pile
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _馬_, by betcover!!
 
