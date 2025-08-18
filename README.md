@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Sunshine and Balance Beams_, by Pile
 - _Remember To Forget_, by Grace UK
-- _Never Die_, by Matt Jencik, Midwife
 
 </details>
 
