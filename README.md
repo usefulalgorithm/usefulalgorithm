@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Nothing Important_, by Richard Dawson
 - _Sunshine and Balance Beams_, by Pile
 - _This is the Second Album of a band called Adebisi Shank_, by Adebisi Shank
 - _This is the Second EP of a Band Called Adebisi Shank_, by Adebisi Shank
