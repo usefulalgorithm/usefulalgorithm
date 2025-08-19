@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Nothing Important_, by Richard Dawson
 - _This is the Second Album of a band called Adebisi Shank_, by Adebisi Shank
 - _This is the Second EP of a Band Called Adebisi Shank_, by Adebisi Shank
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 
 </details>
 
@@ -28,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _Vooid (2025)_, by VOOID
 - _smallest things_, by Memotone
-- _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _Sunshine and Balance Beams_, by Pile
+- _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 - _Diamond Eyes_, by Deftones
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
