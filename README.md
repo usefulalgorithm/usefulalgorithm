@@ -23,14 +23,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _臺北人文地景_, by COLD DEW
 - _人工島_, by 電球
-- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _Lifetime_, by Erika de Casier
+- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _Vooid (2025)_, by VOOID
 - _smallest things_, by Memotone
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
-- _Diamond Eyes_, by Deftones
-- _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 - _Sunshine and Balance Beams_, by Pile
+- _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
+- _Diamond Eyes_, by Deftones
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _馬_, by betcover!!
