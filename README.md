@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Shell~Wave_, by Surgeon
+- _Vooid (2025)_, by VOOID
+- _Never Die_, by Matt Jencik, Midwife
 - _Sunshine and Balance Beams_, by Pile
 
 </details>
@@ -18,8 +21,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _臺北人文地景_, by COLD DEW
 - _Sunshine and Balance Beams_, by Pile
+- _臺北人文地景_, by COLD DEW
 - _人工島_, by 電球
 - _Lifetime_, by Erika de Casier
 - _Vooid (2025)_, by VOOID
