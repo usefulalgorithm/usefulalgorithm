@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Sunshine and Balance Beams_, by Pile
 - _Nothing Important_, by Richard Dawson
-- _This is the Second Album of a band called Adebisi Shank_, by Adebisi Shank
 
 </details>
 
@@ -21,12 +20,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _臺北人文地景_, by COLD DEW
+- _Sunshine and Balance Beams_, by Pile
 - _人工島_, by 電球
 - _Lifetime_, by Erika de Casier
-- _Sunshine and Balance Beams_, by Pile
-- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _Vooid (2025)_, by VOOID
 - _smallest things_, by Memotone
+- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
