@@ -23,9 +23,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Sunshine and Balance Beams_, by Pile
 - _臺北人文地景_, by COLD DEW
+- _Vooid (2025)_, by VOOID
 - _人工島_, by 電球
 - _Lifetime_, by Erika de Casier
-- _Vooid (2025)_, by VOOID
 - _smallest things_, by Memotone
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
