@@ -11,10 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Piecework_, by Kowloon Walled City
+- _Peasant_, by Richard Dawson
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
-- _Sunshine and Balance Beams_, by Pile
-- _Shell~Wave_, by Surgeon
+- _Piecework_, by Kowloon Walled City
 
 </details>
 
@@ -27,12 +26,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _人工島_, by 電球
 - _Lifetime_, by Erika de Casier
 - _smallest things_, by Memotone
-- _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
+- _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
-- _馬_, by betcover!!
 
 </details>
 
