@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _Never Die_, by Matt Jencik, Midwife
-- _Peasant_, by Richard Dawson
 
 </details>
 
@@ -24,9 +23,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Sunshine and Balance Beams_, by Pile
 - _Vooid (2025)_, by VOOID
+- _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _人工島_, by 電球
 - _臺北人文地景_, by COLD DEW
-- _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _Lifetime_, by Erika de Casier
 - _smallest things_, by Memotone
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
