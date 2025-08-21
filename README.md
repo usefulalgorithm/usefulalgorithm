@@ -31,6 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
+- _Dance Tonight! Revolution Tomorrow!_, by Orchid
+- _馬_, by betcover!!
 
 </details>
 
