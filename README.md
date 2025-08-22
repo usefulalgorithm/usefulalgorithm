@@ -12,9 +12,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _God Does Like Ugly_, by JID
+- _Never Die_, by Matt Jencik, Midwife
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
-- _Never Die_, by Matt Jencik, Midwife
 
 </details>
 
