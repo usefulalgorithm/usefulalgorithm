@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Diamond Eyes_, by Deftones
+- _private music_, by Deftones
 - _God Does Like Ugly_, by JID
 - _Never Die_, by Matt Jencik, Midwife
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
@@ -25,14 +27,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Vooid (2025)_, by VOOID
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _人工島_, by 電球
-- _臺北人文地景_, by COLD DEW
 - _Lifetime_, by Erika de Casier
 - _smallest things_, by Memotone
+- _臺北人文地景_, by COLD DEW
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
-- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _God Does Like Ugly (Preluxe Edition)_, by JID
-- _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
+- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _Never Die_, by Matt Jencik, Midwife
+- _Dance Tonight! Revolution Tomorrow!_, by Orchid
+- _馬_, by betcover!!
 
 </details>
 
