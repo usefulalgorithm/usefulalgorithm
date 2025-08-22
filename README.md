@@ -38,9 +38,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _Omnicide II_, by Jason Bahbak Mohaghegh ([link](https://hardcover.app/books/omnicide-ii)). It's just meh.
+Just finished reading _像這樣的小事_, by Claire Keegan, 彭玲嫻 ([link](https://hardcover.app/books/2021-89f66ee0-0b52-4496-994c-3e315d839d6a)). It's a good book.
 
-Gotta finish 25 books before 2026-01-01. I've read 12 so far.
+Gotta finish 25 books before 2026-01-01. I've read 13 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
