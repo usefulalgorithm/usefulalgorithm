@@ -30,7 +30,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _smallest things_, by Memotone
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
+- _God Does Like Ugly (Preluxe Edition)_, by JID
 - _Cadejos + Those Who Pass Between Fleeting Words (Remastered 2025)_, by Mamaleek
+- _Never Die_, by Matt Jencik, Midwife
 
 </details>
 
