@@ -28,10 +28,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Vooid (2025)_, by VOOID
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _God Does Like Ugly (Preluxe Edition)_, by JID
-- _人工島_, by 電球
 - _Lifetime_, by Erika de Casier
+- _人工島_, by 電球
 - _smallest things_, by Memotone
-- _臺北人文地景_, by COLD DEW
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
