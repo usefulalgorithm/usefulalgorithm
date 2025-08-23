@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _God Does Like Ugly_, by JID
 - _GNX_, by Kendrick Lamar
 - _Diamond Eyes_, by Deftones
 - _Never Die_, by Matt Jencik, Midwife
 - _private music_, by Deftones
-- _God Does Like Ugly_, by JID
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 
 </details>
 
@@ -31,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Lifetime_, by Erika de Casier
 - _smallest things_, by Memotone
 - _臺北人文地景_, by COLD DEW
-- _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _God Does Like Ugly (Preluxe Edition)_, by JID
+- _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _Never Die_, by Matt Jencik, Midwife
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
