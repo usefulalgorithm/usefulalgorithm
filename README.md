@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Cleaning Out The Empty Administration Building_, by R.J.F.
 - _God Does Like Ugly_, by JID
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _GNX_, by Kendrick Lamar
