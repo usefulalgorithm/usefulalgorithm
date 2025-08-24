@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Sunshine and Balance Beams_, by Pile
 - _God Does Like Ugly_, by JID
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _GNX_, by Kendrick Lamar
 - _Diamond Eyes_, by Deftones
-- _Never Die_, by Matt Jencik, Midwife
-- _private music_, by Deftones
 
 </details>
 
