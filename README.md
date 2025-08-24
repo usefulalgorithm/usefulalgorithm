@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Sunshine and Balance Beams_, by Pile
+- _Sortilège_, by Preservation, Gabe 'Nandez
 - _God Does Like Ugly_, by JID
 - _Carry Me Along, Blind Dog_, by page girl
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
-- _Sunshine and Balance Beams_, by Pile
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _GNX_, by Kendrick Lamar
 
 </details>
 
