@@ -14,11 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _New Radiations_, by Marissa Nadler
 - _JS_, by Bochum Welt
 - _Sortilège_, by Preservation, Gabe 'Nandez
-- _An Unfinished Rose_, by Troth
-- _Travelling At The Speed Of Time_, by Museum Of No Art
-- _Did You Enjoy Your Time Here...?_, by PremRock
-- _Crack the Skye_, by Mastodon
-- _Forty_, by Blu, August Fanon
 
 </details>
 
