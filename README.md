@@ -11,13 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Did You Enjoy Your Time Here...?_, by PremRock
+- _Crack the Skye_, by Mastodon
 - _Sortilège_, by Preservation, Gabe 'Nandez
 - _Forty_, by Blu, August Fanon
 - _Sunshine and Balance Beams_, by Pile
 - _God Does Like Ugly_, by JID
 - _Carry Me Along, Blind Dog_, by page girl
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 
 </details>
 
@@ -26,9 +27,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Sunshine and Balance Beams_, by Pile
 - _Vooid (2025)_, by VOOID
+- _Lifetime_, by Erika de Casier
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _God Does Like Ugly (Preluxe Edition)_, by JID
-- _Lifetime_, by Erika de Casier
 - _人工島_, by 電球
 - _smallest things_, by Memotone
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
