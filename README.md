@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _An Unfinished Rose_, by Troth
+- _Travelling At The Speed Of Time_, by Museum Of No Art
 - _Did You Enjoy Your Time Here...?_, by PremRock
 - _Crack the Skye_, by Mastodon
 - _Sortilège_, by Preservation, Gabe 'Nandez
@@ -37,6 +39,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Never Die_, by Matt Jencik, Midwife
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
+- _馬_, by betcover!!
 
 </details>
 
