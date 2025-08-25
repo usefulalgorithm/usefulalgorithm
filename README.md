@@ -19,7 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Did You Enjoy Your Time Here...?_, by PremRock
 - _Crack the Skye_, by Mastodon
 - _Forty_, by Blu, August Fanon
-- _Sunshine and Balance Beams_, by Pile
 
 </details>
 
@@ -38,7 +37,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Never Die_, by Matt Jencik, Midwife
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
 - _馬_, by betcover!!
-- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 
 </details>
 
