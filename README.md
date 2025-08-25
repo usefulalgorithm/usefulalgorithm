@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _New Radiations_, by Marissa Nadler
 - _JS_, by Bochum Welt
 - _Sortilège_, by Preservation, Gabe 'Nandez
 - _An Unfinished Rose_, by Troth
@@ -19,9 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Crack the Skye_, by Mastodon
 - _Forty_, by Blu, August Fanon
 - _Sunshine and Balance Beams_, by Pile
-- _God Does Like Ugly_, by JID
-- _Carry Me Along, Blind Dog_, by page girl
-- _Cleaning Out The Empty Administration Building_, by R.J.F.
 
 </details>
 
@@ -36,11 +34,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _人工島_, by 電球
 - _smallest things_, by Memotone
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
-- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Never Die_, by Matt Jencik, Midwife
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
 - _馬_, by betcover!!
+- _Let God Sort Em Out_, by Clipse, Pusha T, Malice
 
 </details>
 
