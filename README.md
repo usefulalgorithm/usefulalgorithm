@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _God Does Like Ugly_, by JID
 - _Black Noise_, by Quinton Barnes
 - _Sortilège_, by Preservation, Gabe 'Nandez
-- _Crack the Skye_, by Mastodon
 
 </details>
 
