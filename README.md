@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _God Does Like Ugly_, by JID
 - _Black Noise_, by Quinton Barnes
 - _Sortilège_, by Preservation, Gabe 'Nandez
 - _Crack the Skye_, by Mastodon
-- _New Radiations_, by Marissa Nadler
 
 </details>
 
