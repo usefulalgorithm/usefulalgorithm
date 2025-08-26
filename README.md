@@ -13,8 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _private music_, by Deftones
 - _God Does Like Ugly_, by JID
-- _Black Noise_, by Quinton Barnes
-- _Sortilège_, by Preservation, Gabe 'Nandez
 
 </details>
 
@@ -33,6 +31,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Sortilège_, by Preservation, Gabe 'Nandez
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
 - _馬_, by betcover!!
+- _private music_, by Deftones
 
 </details>
 
