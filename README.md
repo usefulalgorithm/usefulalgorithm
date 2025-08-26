@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _private music_, by Deftones
-- _God Does Like Ugly_, by JID
 
 </details>
 
@@ -27,11 +26,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _smallest things_, by Memotone
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _private music_, by Deftones
 - _Never Die_, by Matt Jencik, Midwife
 - _Sortilège_, by Preservation, Gabe 'Nandez
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
 - _馬_, by betcover!!
-- _private music_, by Deftones
 
 </details>
 
