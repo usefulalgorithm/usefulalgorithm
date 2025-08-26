@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _private music_, by Deftones
 - _God Does Like Ugly_, by JID
 - _Black Noise_, by Quinton Barnes
 - _Sortilège_, by Preservation, Gabe 'Nandez
@@ -22,13 +23,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Sunshine and Balance Beams_, by Pile
+- _God Does Like Ugly (Preluxe Edition)_, by JID
 - _Vooid (2025)_, by VOOID
 - _Lifetime_, by Erika de Casier
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
-- _God Does Like Ugly (Preluxe Edition)_, by JID
 - _smallest things_, by Memotone
 - _Muzak for the Encouragement of Unproductivity_, by Jasmine Guffond
-- _人工島_, by 電球
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Never Die_, by Matt Jencik, Midwife
 - _Sortilège_, by Preservation, Gabe 'Nandez
