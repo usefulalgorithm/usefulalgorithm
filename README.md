@@ -12,8 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Sortilège_, by Preservation, Gabe 'Nandez
-- _private music_, by Deftones
-- _Crack the Skye_, by Mastodon
 
 </details>
 
@@ -25,9 +23,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Vooid (2025)_, by VOOID
 - _Lifetime_, by Erika de Casier
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
+- _Sortilège_, by Preservation, Gabe 'Nandez
 - _smallest things_, by Memotone
 - _private music_, by Deftones
-- _Sortilège_, by Preservation, Gabe 'Nandez
 - _Crack the Skye_, by Mastodon
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Never Die_, by Matt Jencik, Midwife
