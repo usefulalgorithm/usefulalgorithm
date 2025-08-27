@@ -30,7 +30,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Never Die_, by Matt Jencik, Midwife
 - _Dance Tonight! Revolution Tomorrow!_, by Orchid
-- _馬_, by betcover!!
 
 </details>
 
