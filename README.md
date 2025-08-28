@@ -22,8 +22,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Sunshine and Balance Beams_, by Pile
 - _God Does Like Ugly (Preluxe Edition)_, by JID
-- _Aysan_, by Kourosh Kanani
 - _Sortilège_, by Preservation, Gabe 'Nandez
+- _Aysan_, by Kourosh Kanani
 - _Vooid (2025)_, by VOOID
 - _Lifetime_, by Erika de Casier
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
