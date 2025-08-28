@@ -11,9 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Shell~Wave_, by Surgeon
 - _Sortilège_, by Preservation, Gabe 'Nandez
-- _Cleaning Out The Empty Administration Building_, by R.J.F.
-- _Aysan_, by Kourosh Kanani
 
 </details>
 
