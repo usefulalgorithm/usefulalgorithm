@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Sortilège_, by Preservation, Gabe 'Nandez
 - _Discipline Theory_, by Cruel Decisions, Israel Vines, JK Flesh
 - _Shell~Wave_, by Surgeon
-- _Sortilège_, by Preservation, Gabe 'Nandez
 
 </details>
 
