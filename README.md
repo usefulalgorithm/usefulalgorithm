@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Sortilège_, by Preservation, Gabe 'Nandez
 - _Discipline Theory_, by Cruel Decisions, Israel Vines, JK Flesh
-- _Shell~Wave_, by Surgeon
 
 </details>
 
@@ -21,8 +20,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Sunshine and Balance Beams_, by Pile
-- _God Does Like Ugly (Preluxe Edition)_, by JID
 - _Sortilège_, by Preservation, Gabe 'Nandez
+- _God Does Like Ugly (Preluxe Edition)_, by JID
 - _Aysan_, by Kourosh Kanani
 - _Vooid (2025)_, by VOOID
 - _Lifetime_, by Erika de Casier
