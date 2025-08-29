@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Sortilège_, by Preservation, Gabe 'Nandez
-- _Discipline Theory_, by Cruel Decisions, Israel Vines, JK Flesh
 
 </details>
 
@@ -28,8 +27,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _smallest things_, by Memotone
 - _private music_, by Deftones
-- _Crack the Skye_, by Mastodon
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 
 </details>
 
