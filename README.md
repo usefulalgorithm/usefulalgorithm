@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Sunshine and Balance Beams_, by Pile
 - _Never Die_, by Matt Jencik, Midwife
 - _Sortilège_, by Preservation, Gabe 'Nandez
 
