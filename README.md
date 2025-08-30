@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Black Noise_, by Quinton Barnes
 - _Laurentian Blue_, by Panopticon
 - _Diamond Eyes_, by Deftones
 - _Vooid (2025)_, by VOOID
