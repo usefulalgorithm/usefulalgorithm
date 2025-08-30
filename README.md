@@ -11,10 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Tascam C-sides Remastered_, by Bondo
 - _Never Die_, by Matt Jencik, Midwife
+- _Discipline Theory_, by Cruel Decisions, Israel Vines, JK Flesh
+- _Sunshine and Balance Beams_, by Pile
 - _Sortilège_, by Preservation, Gabe 'Nandez
 - _Shell~Wave_, by Surgeon
-- _Sunshine and Balance Beams_, by Pile
 
 </details>
 
