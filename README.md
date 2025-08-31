@@ -11,14 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Cleaning Out The Empty Administration Building_, by R.J.F.
 - _Tascam C-sides Remastered_, by Bondo
 - _Never Die_, by Matt Jencik, Midwife
 - _Black Noise_, by Quinton Barnes
 - _Laurentian Blue_, by Panopticon
 - _Diamond Eyes_, by Deftones
 - _Vooid (2025)_, by VOOID
-- _Discipline Theory_, by Cruel Decisions, Israel Vines, JK Flesh
-- _Sunshine and Balance Beams_, by Pile
 
 </details>
 
