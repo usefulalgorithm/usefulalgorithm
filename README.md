@@ -11,16 +11,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Never Die_, by Matt Jencik, Midwife
 - _Black Noise_, by Quinton Barnes
 - _Laurentian Blue_, by Panopticon
 - _Diamond Eyes_, by Deftones
 - _Vooid (2025)_, by VOOID
 - _Tascam C-sides Remastered_, by Bondo
-- _Never Die_, by Matt Jencik, Midwife
 - _Discipline Theory_, by Cruel Decisions, Israel Vines, JK Flesh
 - _Sunshine and Balance Beams_, by Pile
 - _Sortilège_, by Preservation, Gabe 'Nandez
-- _Shell~Wave_, by Surgeon
 
 </details>
 
@@ -33,8 +32,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Aysan_, by Kourosh Kanani
 - _Vooid (2025)_, by VOOID
 - _Lifetime_, by Erika de Casier
-- _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _Never Die_, by Matt Jencik, Midwife
+- _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _private music_, by Deftones
 - _smallest things_, by Memotone
 - _Shell~Wave_, by Surgeon
