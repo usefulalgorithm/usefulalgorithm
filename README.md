@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Never Die_, by Matt Jencik, Midwife
 - _Black Noise_, by Quinton Barnes
 - _Laurentian Blue_, by Panopticon
-- _Diamond Eyes_, by Deftones
 
 </details>
 
