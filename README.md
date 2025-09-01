@@ -13,8 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
 - _Tascam C-sides Remastered_, by Bondo
-- _Never Die_, by Matt Jencik, Midwife
-- _Black Noise_, by Quinton Barnes
 
 </details>
 
