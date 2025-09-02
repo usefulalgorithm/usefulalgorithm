@@ -31,6 +31,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _private music_, by Deftones
 - _smallest things_, by Memotone
+- _Black Noise_, by Quinton Barnes
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
 
 </details>
