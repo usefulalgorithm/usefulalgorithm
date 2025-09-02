@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Black Noise_, by Quinton Barnes
 - _Machine Head (Remastered)_, by Deep Purple
 - _Sunshine and Balance Beams_, by Pile
-- _Cleaning Out The Empty Administration Building_, by R.J.F.
 
 </details>
 
