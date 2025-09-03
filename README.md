@@ -27,9 +27,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Vooid (2025)_, by VOOID
 - _Lifetime_, by Erika de Casier
 - _Never Die_, by Matt Jencik, Midwife
+- _Black Noise_, by Quinton Barnes
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _private music_, by Deftones
-- _Black Noise_, by Quinton Barnes
 - _smallest things_, by Memotone
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
 
