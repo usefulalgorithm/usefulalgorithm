@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Instant Holograms On Metal Film_, by Stereolab
+- _Vanisher, Horizon Scraper_, by Quadeca
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
 - _Tascam C-sides Remastered_, by Bondo
 - _Black Noise_, by Quinton Barnes
@@ -31,7 +33,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Black Noise_, by Quinton Barnes
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _private music_, by Deftones
-- _smallest things_, by Memotone
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
 
 </details>
