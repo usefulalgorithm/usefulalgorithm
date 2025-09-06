@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Instant Holograms On Metal Film_, by Stereolab
+- _Black Noise_, by Quinton Barnes
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
+- _Instant Holograms On Metal Film_, by Stereolab
 - _Tascam C-sides Remastered_, by Bondo
 
 </details>
