@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Today, I Wrote Nothing_, by billy woods
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _Instant Holograms On Metal Film_, by Stereolab
-- _Black Noise_, by Quinton Barnes
 
 </details>
 
@@ -38,14 +37,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _像這樣的小事_, by Claire Keegan, 彭玲嫻 ([link](https://hardcover.app/books/2021-89f66ee0-0b52-4496-994c-3e315d839d6a)). It's a good book.
+Just finished reading _The Hall of Uselessness: Collected Essays_, by Simon Leys ([link](https://hardcover.app/books/the-hall-of-uselessness)). It's a good book.
 
-Gotta finish 25 books before 2026-01-01. I've read 13 so far.
+Gotta finish 25 books before 2026-01-01. I've read 14 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
 
-- _The Hall of Uselessness: Collected Essays_, by Simon Leys ([link](https://hardcover.app/books/the-hall-of-uselessness))
+- _Bad Infinity: Selected Writings_, by Aria Dean ([link](https://hardcover.app/books/bad-infinity))
 - _The Absence of Myth: Writings on Surrealism_, by Georges Bataille, Michael   Richardson ([link](https://hardcover.app/books/the-absence-of-myth-writings-on-surrealism))
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
