@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _Instant Holograms On Metal Film_, by Stereolab
 - _Black Noise_, by Quinton Barnes
-- _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 
 </details>
 
@@ -26,11 +26,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Aysan_, by Kourosh Kanani
 - _Never Die_, by Matt Jencik, Midwife
 - _Black Noise_, by Quinton Barnes
-- _Vooid (2025)_, by VOOID
 - _Lifetime_, by Erika de Casier
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _private music_, by Deftones
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
+- _Vooid (2025)_, by VOOID
+- _Shell~Wave_, by Surgeon
 
 </details>
 
