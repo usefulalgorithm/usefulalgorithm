@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _History Will Absolve Me_, by billy woods
 - _Today, I Wrote Nothing_, by billy woods
-- _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 
 </details>
 
@@ -29,10 +29,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Black Noise_, by Quinton Barnes
 - _private music_, by Deftones
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
+- _Today, I Wrote Nothing_, by billy woods
 - _Vooid (2025)_, by VOOID
 - _Instant Holograms On Metal Film_, by Stereolab
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
-- _Today, I Wrote Nothing_, by billy woods
 - _Shell~Wave_, by Surgeon
 - _Crack the Skye_, by Mastodon
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
