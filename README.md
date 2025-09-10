@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _A Danger to Ourselves_, by Lucrecia Dalt
+- _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _History Will Absolve Me_, by billy woods
 - _Today, I Wrote Nothing_, by billy woods
 
