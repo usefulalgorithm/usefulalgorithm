@@ -32,7 +32,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _private music_, by Deftones
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
 - _Today, I Wrote Nothing_, by billy woods
-- _Vooid (2025)_, by VOOID
 - _Instant Holograms On Metal Film_, by Stereolab
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _Shell~Wave_, by Surgeon
