@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _wishful thinking_, by Duval Timothy
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
-- _History Will Absolve Me_, by billy woods
-- _Today, I Wrote Nothing_, by billy woods
 
 </details>
 
@@ -43,9 +41,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _The Hall of Uselessness: Collected Essays_, by Simon Leys ([link](https://hardcover.app/books/the-hall-of-uselessness)). It's a good book.
+Just finished reading _Doppelganger_, by Naomi Klein ([link](https://hardcover.app/books/doppelganger-9)). It's OK I guess.
 
-Gotta finish 25 books before 2026-01-01. I've read 14 so far.
+Gotta finish 25 books before 2026-01-01. I've read 15 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
