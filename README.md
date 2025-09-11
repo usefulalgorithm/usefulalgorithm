@@ -11,9 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Timeline_, by Basic Unit
 - _wishful thinking_, by Duval Timothy
-- _A Danger to Ourselves_, by Lucrecia Dalt
+- _Timeline_, by Basic Unit
 
 </details>
 
