@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _wishful thinking_, by Duval Timothy
 - _Friend_, by james K
 - _Easy Lover_, by Martin Miller
 - _Here Comes The Mind, There Goes The Body_, by Human Leather
@@ -18,7 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Mossbane Lantern_, by Sallow Moth
 - _GUSH_, by Kaitlyn Aurelia Smith
 - _ULTRAPOP_, by The Armed
-- _wishful thinking_, by Duval Timothy
 
 </details>
 
