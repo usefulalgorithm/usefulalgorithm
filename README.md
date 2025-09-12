@@ -11,13 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Friend_, by james K
+- _Here Comes The Mind, There Goes The Body_, by Human Leather
 - _The Great Misdirect (2019 Remix / Remaster)_, by Between The Buried And Me
 - _Mossbane Lantern_, by Sallow Moth
 - _GUSH_, by Kaitlyn Aurelia Smith
-- _Here Comes The Mind, There Goes The Body_, by Human Leather
 - _ULTRAPOP_, by The Armed
 - _wishful thinking_, by Duval Timothy
-- _Timeline_, by Basic Unit
 
 </details>
 
