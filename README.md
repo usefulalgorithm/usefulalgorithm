@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Friend_, by james K
+- _Easy Lover_, by Martin Miller
 - _Here Comes The Mind, There Goes The Body_, by Human Leather
 - _The Great Misdirect (2019 Remix / Remaster)_, by Between The Buried And Me
 - _Mossbane Lantern_, by Sallow Moth
