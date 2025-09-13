@@ -24,8 +24,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Sortilège_, by Preservation, Gabe 'Nandez
 - _God Does Like Ugly (Preluxe Edition)_, by JID
 - _Aysan_, by Kourosh Kanani
-- _Never Die_, by Matt Jencik, Midwife
 - _Black Noise_, by Quinton Barnes
+- _Never Die_, by Matt Jencik, Midwife
 - _private music_, by Deftones
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
 - _Today, I Wrote Nothing_, by billy woods
@@ -35,6 +35,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _wishful thinking_, by Duval Timothy
+- _Shell~Wave_, by Surgeon
 
 </details>
 
