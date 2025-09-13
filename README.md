@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _wishful thinking_, by Duval Timothy
 - _Friend_, by james K
 - _Easy Lover_, by Martin Miller
-- _Here Comes The Mind, There Goes The Body_, by Human Leather
 
 </details>
 
