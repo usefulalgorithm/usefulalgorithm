@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Friend_, by james K
 - _Easy Lover_, by Martin Miller
 - _Here Comes The Mind, There Goes The Body_, by Human Leather
-- _The Great Misdirect (2019 Remix / Remaster)_, by Between The Buried And Me
-- _Mossbane Lantern_, by Sallow Moth
 
 </details>
 
@@ -37,7 +35,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Crack the Skye_, by Mastodon
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _Shell~Wave_, by Surgeon
+- _wishful thinking_, by Duval Timothy
 
 </details>
 
