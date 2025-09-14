@@ -36,7 +36,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _wishful thinking_, by Duval Timothy
-- _Shell~Wave_, by Surgeon
 
 </details>
 
