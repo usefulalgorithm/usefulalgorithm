@@ -12,8 +12,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _wishful thinking_, by Duval Timothy
+- _娛樂世界_, by 林強
 - _Friend_, by james K
-- _Easy Lover_, by Martin Miller
 
 </details>
 
