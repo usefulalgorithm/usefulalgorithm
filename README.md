@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _The Maiden_, by The Sound Of Animals Fighting
 - _wishful thinking_, by Duval Timothy
+- _The Maiden_, by The Sound Of Animals Fighting
 - _Easy Lover_, by Martin Miller
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _娛樂世界_, by 林強
@@ -31,9 +31,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _private music_, by Deftones
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
 - _Today, I Wrote Nothing_, by billy woods
+- _wishful thinking_, by Duval Timothy
 - _Instant Holograms On Metal Film_, by Stereolab
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
-- _wishful thinking_, by Duval Timothy
 - _Crack the Skye_, by Mastodon
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
