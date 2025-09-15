@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Easy Lover_, by Martin Miller
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _娛樂世界_, by 林強
-- _Friend_, by james K
 
 </details>
 
@@ -33,10 +32,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Today, I Wrote Nothing_, by billy woods
 - _Instant Holograms On Metal Film_, by Stereolab
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
+- _wishful thinking_, by Duval Timothy
 - _Crack the Skye_, by Mastodon
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _wishful thinking_, by Duval Timothy
 
 </details>
 
