@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Maiden_, by The Sound Of Animals Fighting
 - _wishful thinking_, by Duval Timothy
 - _Easy Lover_, by Martin Miller
 - _A Danger to Ourselves_, by Lucrecia Dalt
