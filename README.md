@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _pavilion_, by mudy on the 昨晩
 - _The Maiden_, by The Sound Of Animals Fighting
 - _Easy Lover_, by Martin Miller
 - _wishful thinking_, by Duval Timothy
@@ -22,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Sortilège_, by Preservation, Gabe 'Nandez
-- _Sunshine and Balance Beams_, by Pile
 - _God Does Like Ugly (Preluxe Edition)_, by JID
+- _Sunshine and Balance Beams_, by Pile
 - _Aysan_, by Kourosh Kanani
 - _Black Noise_, by Quinton Barnes
 - _Never Die_, by Matt Jencik, Midwife
