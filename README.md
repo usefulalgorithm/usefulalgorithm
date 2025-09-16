@@ -21,8 +21,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Sortilège_, by Preservation, Gabe 'Nandez
 - _God Does Like Ugly (Preluxe Edition)_, by JID
-- _Sunshine and Balance Beams_, by Pile
 - _Aysan_, by Kourosh Kanani
+- _Sunshine and Balance Beams_, by Pile
 - _Black Noise_, by Quinton Barnes
 - _wishful thinking_, by Duval Timothy
 - _Never Die_, by Matt Jencik, Midwife
