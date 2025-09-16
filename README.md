@@ -11,11 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _wishful thinking_, by Duval Timothy
 - _pavilion_, by mudy on the 昨晩
 - _The Maiden_, by The Sound Of Animals Fighting
 - _Easy Lover_, by Martin Miller
-- _wishful thinking_, by Duval Timothy
-- _A Danger to Ourselves_, by Lucrecia Dalt
 
 </details>
 
