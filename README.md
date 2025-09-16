@@ -11,9 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Friend_, by james K
 - _GUSH_, by Kaitlyn Aurelia Smith
-- _CRUX_, by Al Wootton
-- _wishful thinking_, by Duval Timothy
 
 </details>
 
