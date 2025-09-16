@@ -26,16 +26,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Sunshine and Balance Beams_, by Pile
 - _Aysan_, by Kourosh Kanani
 - _Black Noise_, by Quinton Barnes
+- _wishful thinking_, by Duval Timothy
 - _Never Die_, by Matt Jencik, Midwife
 - _private music_, by Deftones
-- _wishful thinking_, by Duval Timothy
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
 - _Today, I Wrote Nothing_, by billy woods
 - _Instant Holograms On Metal Film_, by Stereolab
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _Crack the Skye_, by Mastodon
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 
 </details>
 
