@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _GUSH_, by Kaitlyn Aurelia Smith
 - _CRUX_, by Al Wootton
 - _wishful thinking_, by Duval Timothy
 - _pavilion_, by mudy on the 昨晩
 - _The Maiden_, by The Sound Of Animals Fighting
-- _Easy Lover_, by Martin Miller
 
 </details>
 
