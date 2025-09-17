@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _wishful thinking_, by Duval Timothy
 - _Friend_, by james K
 - _GUSH_, by Kaitlyn Aurelia Smith
 
@@ -22,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Sortilège_, by Preservation, Gabe 'Nandez
 - _God Does Like Ugly (Preluxe Edition)_, by JID
 - _Aysan_, by Kourosh Kanani
-- _Sunshine and Balance Beams_, by Pile
 - _Black Noise_, by Quinton Barnes
+- _Sunshine and Balance Beams_, by Pile
 - _wishful thinking_, by Duval Timothy
 - _Never Die_, by Matt Jencik, Midwife
 - _private music_, by Deftones
@@ -33,6 +34,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _Crack the Skye_, by Mastodon
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
+- _Friend_, by james K
 
 </details>
 
