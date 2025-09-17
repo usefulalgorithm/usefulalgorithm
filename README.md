@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Wide Awake_, by Mechatok
 - _History Will Absolve Me_, by billy woods
+- _Wide Awake_, by Mechatok
 - _Easy Lover_, by Martin Miller
 - _Friend_, by james K
 - _GUSH_, by Kaitlyn Aurelia Smith
