@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Friend_, by james K
 - _GUSH_, by Kaitlyn Aurelia Smith
 - _wishful thinking_, by Duval Timothy
-- _Friend_, by james K
 
 </details>
 
@@ -24,9 +24,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _God Does Like Ugly (Preluxe Edition)_, by JID
 - _Aysan_, by Kourosh Kanani
 - _Black Noise_, by Quinton Barnes
-- _Sunshine and Balance Beams_, by Pile
 - _wishful thinking_, by Duval Timothy
 - _Never Die_, by Matt Jencik, Midwife
+- _Sunshine and Balance Beams_, by Pile
 - _private music_, by Deftones
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
 - _Today, I Wrote Nothing_, by billy woods
