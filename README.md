@@ -39,10 +39,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Easy Lover_, by Martin Miller
 - _Instant Holograms On Metal Film_, by Stereolab
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
-- _Sunshine and Balance Beams_, by Pile
-- _Crack the Skye_, by Mastodon
-- _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _Friend_, by james K
+- _Crack the Skye_, by Mastodon
 
 </details>
 
