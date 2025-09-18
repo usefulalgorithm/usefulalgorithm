@@ -24,10 +24,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Sortilège_, by Preservation, Gabe 'Nandez
-- _God Does Like Ugly (Preluxe Edition)_, by JID
 - _Aysan_, by Kourosh Kanani
 - _wishful thinking_, by Duval Timothy
 - _Black Noise_, by Quinton Barnes
+- _God Does Like Ugly (Preluxe Edition)_, by JID
 - _private music_, by Deftones
 - _Friend_, by james K
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
