@@ -34,12 +34,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Never Die_, by Matt Jencik, Midwife
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
 - _Today, I Wrote Nothing_, by billy woods
+- _Friend_, by james K
 - _Easy Lover_, by Martin Miller
 - _Instant Holograms On Metal Film_, by Stereolab
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
-- _Friend_, by james K
-- _Crack the Skye_, by Mastodon
 - _CRUX_, by Al Wootton
+- _Crack the Skye_, by Mastodon
 
 </details>
 
