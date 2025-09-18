@@ -11,14 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Maiden_, by The Sound Of Animals Fighting
+- _ULTRAPOP_, by The Armed
 - _Friend_, by james K
 - _CRUX_, by Al Wootton
 - _wishful thinking_, by Duval Timothy
 - _勇気_, by betcover!!
 - _Welcome to Sky Valley_, by Kyuss
-- _The Maiden_, by The Sound Of Animals Fighting
 - _History Will Absolve Me_, by billy woods
-- _Wide Awake_, by Mechatok
 
 </details>
 
