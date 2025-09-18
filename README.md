@@ -11,7 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Friend_, by james K
 - _CRUX_, by Al Wootton
+- _wishful thinking_, by Duval Timothy
 - _勇気_, by betcover!!
 - _Welcome to Sky Valley_, by Kyuss
 - _The Maiden_, by The Sound Of Animals Fighting
@@ -26,8 +28,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Sortilège_, by Preservation, Gabe 'Nandez
 - _God Does Like Ugly (Preluxe Edition)_, by JID
 - _Aysan_, by Kourosh Kanani
-- _Black Noise_, by Quinton Barnes
 - _wishful thinking_, by Duval Timothy
+- _Black Noise_, by Quinton Barnes
 - _private music_, by Deftones
 - _Never Die_, by Matt Jencik, Midwife
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
