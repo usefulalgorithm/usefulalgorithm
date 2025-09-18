@@ -17,10 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Maiden_, by The Sound Of Animals Fighting
 - _History Will Absolve Me_, by billy woods
 - _Wide Awake_, by Mechatok
-- _Easy Lover_, by Martin Miller
-- _Friend_, by james K
-- _GUSH_, by Kaitlyn Aurelia Smith
-- _wishful thinking_, by Duval Timothy
 
 </details>
 
@@ -41,6 +37,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _Friend_, by james K
 - _Crack the Skye_, by Mastodon
+- _CRUX_, by Al Wootton
 
 </details>
 
