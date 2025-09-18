@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _A Danger to Ourselves_, by Lucrecia Dalt
 - _The Maiden_, by The Sound Of Animals Fighting
 - _ULTRAPOP_, by The Armed
 - _Friend_, by james K
 - _CRUX_, by Al Wootton
 - _wishful thinking_, by Duval Timothy
-- _勇気_, by betcover!!
-- _Welcome to Sky Valley_, by Kyuss
 
 </details>
 
