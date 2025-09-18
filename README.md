@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _CRUX_, by Al Wootton
+- _勇気_, by betcover!!
 - _Welcome to Sky Valley_, by Kyuss
 - _The Maiden_, by The Sound Of Animals Fighting
 - _History Will Absolve Me_, by billy woods
