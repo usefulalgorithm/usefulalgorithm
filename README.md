@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Maiden_, by The Sound Of Animals Fighting
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _ULTRAPOP_, by The Armed
-- _CRUX_, by Al Wootton
-- _wishful thinking_, by Duval Timothy
 
 </details>
 
@@ -29,11 +27,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Black Noise_, by Quinton Barnes
 - _Friend_, by james K
 - _private music_, by Deftones
-- _God Does Like Ugly (Preluxe Edition)_, by JID
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
 - _Instant Holograms On Metal Film_, by Stereolab
+- _God Does Like Ugly (Preluxe Edition)_, by JID
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _CRUX_, by Al Wootton
 - _Crack the Skye_, by Mastodon
