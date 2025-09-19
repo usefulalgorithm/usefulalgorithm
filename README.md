@@ -25,15 +25,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _wishful thinking_, by Duval Timothy
 - _Black Noise_, by Quinton Barnes
 - _Friend_, by james K
-- _private music_, by Deftones
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
 - _Instant Holograms On Metal Film_, by Stereolab
-- _God Does Like Ugly (Preluxe Edition)_, by JID
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _CRUX_, by Al Wootton
 - _Crack the Skye_, by Mastodon
+- _private music_, by Deftones
+- _God Does Like Ugly (Preluxe Edition)_, by JID
 - _The Maiden_, by The Sound Of Animals Fighting
 
 </details>
