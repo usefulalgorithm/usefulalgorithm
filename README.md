@@ -11,10 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _wishful thinking_, by Duval Timothy
 - _Kesto (234.48:4)_, by Pan Sonic
+- _wishful thinking_, by Duval Timothy
 - _Wide Awake_, by Mechatok
-- _A Danger to Ourselves_, by Lucrecia Dalt
 
 </details>
 
