@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Friend_, by james K
 - _The Maiden_, by The Sound Of Animals Fighting
 - _A Danger to Ourselves_, by Lucrecia Dalt
-- _ULTRAPOP_, by The Armed
 
 </details>
 
