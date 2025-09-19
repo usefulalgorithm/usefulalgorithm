@@ -35,6 +35,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _private music_, by Deftones
 - _God Does Like Ugly (Preluxe Edition)_, by JID
 - _The Maiden_, by The Sound Of Animals Fighting
+- _Wide Awake_, by Mechatok
 
 </details>
 
