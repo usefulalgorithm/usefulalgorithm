@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _A Danger to Ourselves_, by Lucrecia Dalt
-- _The Maiden_, by The Sound Of Animals Fighting
-- _ULTRAPOP_, by The Armed
 - _Friend_, by james K
+- _The Maiden_, by The Sound Of Animals Fighting
+- _A Danger to Ourselves_, by Lucrecia Dalt
+- _ULTRAPOP_, by The Armed
 - _CRUX_, by Al Wootton
 - _wishful thinking_, by Duval Timothy
 
@@ -27,9 +27,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Aysan_, by Kourosh Kanani
 - _wishful thinking_, by Duval Timothy
 - _Black Noise_, by Quinton Barnes
-- _God Does Like Ugly (Preluxe Edition)_, by JID
-- _private music_, by Deftones
 - _Friend_, by james K
+- _private music_, by Deftones
+- _God Does Like Ugly (Preluxe Edition)_, by JID
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
@@ -37,7 +37,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _CRUX_, by Al Wootton
 - _Crack the Skye_, by Mastodon
-- _Never Die_, by Matt Jencik, Midwife
+- _The Maiden_, by The Sound Of Animals Fighting
 
 </details>
 
