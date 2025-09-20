@@ -35,10 +35,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _CRUX_, by Al Wootton
 - _Crack the Skye_, by Mastodon
-- _private music_, by Deftones
-- _God Does Like Ugly (Preluxe Edition)_, by JID
-- _The Maiden_, by The Sound Of Animals Fighting
 - _Wide Awake_, by Mechatok
+- _A Danger to Ourselves_, by Lucrecia Dalt
+- _The Maiden_, by The Sound Of Animals Fighting
+- _private music_, by Deftones
 
 </details>
 
