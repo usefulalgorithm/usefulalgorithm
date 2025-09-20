@@ -11,9 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Sysivalo_, by Ø, Mika Vainio
+- _Diamond Eyes_, by Deftones
+- _You're Weird Now_, by Guerilla Toss
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _Wide Awake_, by Mechatok
-- _Sysivalo_, by Ø, Mika Vainio
 - _Is (Is Superpowered)_, by Kyoka
 - _Kesto (234.48:4)_, by Pan Sonic
 - _wishful thinking_, by Duval Timothy
