@@ -19,7 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Wide Awake_, by Mechatok
 - _Is (Is Superpowered)_, by Kyoka
 - _Kesto (234.48:4)_, by Pan Sonic
-- _wishful thinking_, by Duval Timothy
 
 </details>
 
@@ -37,7 +36,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _CRUX_, by Al Wootton
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
-- _Crack the Skye_, by Mastodon
 - _Wide Awake_, by Mechatok
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _The Maiden_, by The Sound Of Animals Fighting
