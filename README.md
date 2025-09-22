@@ -16,9 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Diamond Eyes_, by Deftones
 - _You're Weird Now_, by Guerilla Toss
 - _A Danger to Ourselves_, by Lucrecia Dalt
-- _Wide Awake_, by Mechatok
-- _Is (Is Superpowered)_, by Kyoka
-- _Kesto (234.48:4)_, by Pan Sonic
 
 </details>
 
