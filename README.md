@@ -11,11 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Mossbane Lantern_, by Sallow Moth
 - _Sysivalo_, by Ø, Mika Vainio
-- _Diamond Eyes_, by Deftones
-- _You're Weird Now_, by Guerilla Toss
-- _A Danger to Ourselves_, by Lucrecia Dalt
+- _Mossbane Lantern_, by Sallow Moth
 
 </details>
 
@@ -36,6 +33,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Wide Awake_, by Mechatok
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _The Maiden_, by The Sound Of Animals Fighting
+- _Mossbane Lantern_, by Sallow Moth
 - _private music_, by Deftones
 
 </details>
