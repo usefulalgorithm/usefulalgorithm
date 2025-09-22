@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Friend_, by james K
 - _Sysivalo_, by Ø, Mika Vainio
-- _Mossbane Lantern_, by Sallow Moth
 
 </details>
 
@@ -21,9 +21,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Sortilège_, by Preservation, Gabe 'Nandez
 - _Aysan_, by Kourosh Kanani
+- _Friend_, by james K
 - _wishful thinking_, by Duval Timothy
 - _Black Noise_, by Quinton Barnes
-- _Friend_, by james K
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
 - _Instant Holograms On Metal Film_, by Stereolab
