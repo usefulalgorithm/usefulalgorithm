@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Liminality / Dream State Return_, by Elder
+- _Mossbane Lantern_, by Sallow Moth
 - _Friend_, by james K
 - _Sysivalo_, by Ø, Mika Vainio
 
@@ -28,12 +30,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Easy Lover_, by Martin Miller
 - _Instant Holograms On Metal Film_, by Stereolab
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
+- _Mossbane Lantern_, by Sallow Moth
 - _CRUX_, by Al Wootton
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
 - _Wide Awake_, by Mechatok
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _The Maiden_, by The Sound Of Animals Fighting
-- _Mossbane Lantern_, by Sallow Moth
 - _private music_, by Deftones
 
 </details>
