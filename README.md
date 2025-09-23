@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Liminality / Dream State Return_, by Elder
 - _Mossbane Lantern_, by Sallow Moth
+- _Liminality / Dream State Return_, by Elder
 - _Friend_, by james K
 - _Sysivalo_, by Ø, Mika Vainio
 
