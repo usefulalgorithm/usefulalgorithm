@@ -25,8 +25,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Aysan_, by Kourosh Kanani
 - _Friend_, by james K
 - _wishful thinking_, by Duval Timothy
-- _Black Noise_, by Quinton Barnes
 - _Mossbane Lantern_, by Sallow Moth
+- _Black Noise_, by Quinton Barnes
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
 - _Instant Holograms On Metal Film_, by Stereolab
