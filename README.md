@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Liminality / Dream State Return_, by Elder
 - _Wide Awake_, by Mechatok
 
 </details>
@@ -25,11 +26,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Mossbane Lantern_, by Sallow Moth
 - _Sortilège_, by Preservation, Gabe 'Nandez
 - _Black Noise_, by Quinton Barnes
+- _Liminality / Dream State Return_, by Elder
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
 - _Instant Holograms On Metal Film_, by Stereolab
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
-- _Liminality / Dream State Return_, by Elder
 - _CRUX_, by Al Wootton
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
 - _A Danger to Ourselves_, by Lucrecia Dalt
