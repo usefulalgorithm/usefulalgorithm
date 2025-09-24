@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _General Patterns_, by Mammo
 - _Scanners_, by Anthony Naples
 - _Liminality / Dream State Return_, by Elder
 - _Wide Awake_, by Mechatok
@@ -20,16 +21,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Aysan_, by Kourosh Kanani
 - _Friend_, by james K
 - _wishful thinking_, by Duval Timothy
 - _Wide Awake_, by Mechatok
+- _Aysan_, by Kourosh Kanani
 - _Mossbane Lantern_, by Sallow Moth
 - _Liminality / Dream State Return_, by Elder
-- _Sortilège_, by Preservation, Gabe 'Nandez
 - _Black Noise_, by Quinton Barnes
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
+- _Sortilège_, by Preservation, Gabe 'Nandez
 - _Instant Holograms On Metal Film_, by Stereolab
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _CRUX_, by Al Wootton
