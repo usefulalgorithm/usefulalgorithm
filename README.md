@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _MUDY IN SQUALL_, by mudy on the 昨晩
 - _Liminality / Dream State Return_, by Elder
 - _General Patterns_, by Mammo
 - _Scanners_, by Anthony Naples
@@ -24,9 +25,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Friend_, by james K
 - _wishful thinking_, by Duval Timothy
 - _Wide Awake_, by Mechatok
-- _Aysan_, by Kourosh Kanani
-- _Mossbane Lantern_, by Sallow Moth
 - _Liminality / Dream State Return_, by Elder
+- _Mossbane Lantern_, by Sallow Moth
+- _Aysan_, by Kourosh Kanani
 - _Black Noise_, by Quinton Barnes
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
