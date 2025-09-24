@@ -12,8 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Wide Awake_, by Mechatok
-- _Liminality / Dream State Return_, by Elder
-- _Mossbane Lantern_, by Sallow Moth
 
 </details>
 
@@ -23,9 +21,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Aysan_, by Kourosh Kanani
 - _Friend_, by james K
 - _wishful thinking_, by Duval Timothy
+- _Wide Awake_, by Mechatok
 - _Mossbane Lantern_, by Sallow Moth
 - _Sortilège_, by Preservation, Gabe 'Nandez
-- _Wide Awake_, by Mechatok
 - _Black Noise_, by Quinton Barnes
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
