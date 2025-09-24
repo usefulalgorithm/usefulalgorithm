@@ -21,10 +21,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Sortilège_, by Preservation, Gabe 'Nandez
 - _Aysan_, by Kourosh Kanani
 - _Friend_, by james K
 - _wishful thinking_, by Duval Timothy
+- _Sortilège_, by Preservation, Gabe 'Nandez
 - _Mossbane Lantern_, by Sallow Moth
 - _Black Noise_, by Quinton Barnes
 - _Today, I Wrote Nothing_, by billy woods
