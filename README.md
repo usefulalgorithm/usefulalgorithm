@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Wide Awake_, by Mechatok
 - _Liminality / Dream State Return_, by Elder
 - _Mossbane Lantern_, by Sallow Moth
-- _Friend_, by james K
 
 </details>
 
@@ -27,14 +26,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Sortilège_, by Preservation, Gabe 'Nandez
 - _Mossbane Lantern_, by Sallow Moth
 - _Black Noise_, by Quinton Barnes
+- _Wide Awake_, by Mechatok
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
 - _Instant Holograms On Metal Film_, by Stereolab
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
+- _Liminality / Dream State Return_, by Elder
 - _CRUX_, by Al Wootton
 - _Cleaning Out The Empty Administration Building_, by R.J.F.
-- _Wide Awake_, by Mechatok
-- _Liminality / Dream State Return_, by Elder
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _The Maiden_, by The Sound Of Animals Fighting
 
