@@ -11,19 +11,20 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _wishful thinking_, by Duval Timothy
+- _The Blue Nowhere_, by Between The Buried And Me
 - _MUDY IN SQUALL_, by mudy on the 昨晩
 - _Liminality / Dream State Return_, by Elder
 - _General Patterns_, by Mammo
 - _Scanners_, by Anthony Naples
-- _Wide Awake_, by Mechatok
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Friend_, by james K
 - _wishful thinking_, by Duval Timothy
+- _Friend_, by james K
 - _Wide Awake_, by Mechatok
 - _Liminality / Dream State Return_, by Elder
 - _Mossbane Lantern_, by Sallow Moth
