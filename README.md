@@ -18,7 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Blue Nowhere_, by Between The Buried And Me
 - _MUDY IN SQUALL_, by mudy on the 昨晩
 - _Liminality / Dream State Return_, by Elder
-- _General Patterns_, by Mammo
 
 </details>
 
