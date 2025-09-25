@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Spaces In Between_, by Michael J. Blood
+- _Heavy Rocks (2011)_, by Boris
+- _Welcome to Sky Valley_, by Kyuss
 - _wishful thinking_, by Duval Timothy
 - _The Blue Nowhere_, by Between The Buried And Me
 - _MUDY IN SQUALL_, by mudy on the 昨晩
