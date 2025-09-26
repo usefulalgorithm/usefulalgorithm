@@ -22,7 +22,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Pieces of a Man_, by Gil Scott-Heron
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _Spaces In Between_, by Michael J. Blood
-- _Mossbane Lantern_, by Sallow Moth
 
 </details>
 
@@ -35,11 +34,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Friend_, by james K
 - _Wide Awake_, by Mechatok
 - _Black Noise_, by Quinton Barnes
+- _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
 - _Instant Holograms On Metal Film_, by Stereolab
-- _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _CRUX_, by Al Wootton
 - _The Maiden_, by The Sound Of Animals Fighting
 
