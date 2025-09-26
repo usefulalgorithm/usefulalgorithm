@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Shifted_, by Conna Haraway
 - _Spaces In Between_, by Michael J. Blood
+- _Mossbane Lantern_, by Sallow Moth
+- _Shifted_, by Conna Haraway
 - _Heavy Rocks (2011)_, by Boris
 - _Welcome to Sky Valley_, by Kyuss
 - _wishful thinking_, by Duval Timothy
-- _The Blue Nowhere_, by Between The Buried And Me
-- _MUDY IN SQUALL_, by mudy on the 昨晩
 
 </details>
 
@@ -25,10 +24,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _wishful thinking_, by Duval Timothy
+- _Mossbane Lantern_, by Sallow Moth
 - _Friend_, by james K
 - _Wide Awake_, by Mechatok
 - _Liminality / Dream State Return_, by Elder
-- _Mossbane Lantern_, by Sallow Moth
 - _Black Noise_, by Quinton Barnes
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
