@@ -12,6 +12,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _A Danger to Ourselves_, by Lucrecia Dalt
+- _Pieces of a Man_, by Gil Scott-Heron
+- _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _Spaces In Between_, by Michael J. Blood
 - _Mossbane Lantern_, by Sallow Moth
 - _Shifted_, by Conna Haraway
@@ -30,12 +32,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Wide Awake_, by Mechatok
 - _Liminality / Dream State Return_, by Elder
 - _Black Noise_, by Quinton Barnes
+- _A Danger to Ourselves_, by Lucrecia Dalt
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
 - _Instant Holograms On Metal Film_, by Stereolab
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _CRUX_, by Al Wootton
-- _A Danger to Ourselves_, by Lucrecia Dalt
 - _The Maiden_, by The Sound Of Animals Fighting
 
 </details>
