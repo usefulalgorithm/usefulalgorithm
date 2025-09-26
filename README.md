@@ -11,15 +11,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _General Patterns_, by Mammo
+- _Pink_, by Boris
+- _Heavy Rocks (2011)_, by Boris
+- _Liminality / Dream State Return_, by Elder
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _Pieces of a Man_, by Gil Scott-Heron
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _Spaces In Between_, by Michael J. Blood
 - _Mossbane Lantern_, by Sallow Moth
 - _Shifted_, by Conna Haraway
-- _Heavy Rocks (2011)_, by Boris
-- _Welcome to Sky Valley_, by Kyuss
-- _wishful thinking_, by Duval Timothy
 
 </details>
 
