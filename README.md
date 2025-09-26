@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
+- _2000: In Search Of The Endless Sky_, by Fleshwater
+- _Sysivalo_, by Ø, Mika Vainio
 - _General Patterns_, by Mammo
 - _Pink_, by Boris
 - _Heavy Rocks (2011)_, by Boris
@@ -20,18 +23,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _Spaces In Between_, by Michael J. Blood
 - _Mossbane Lantern_, by Sallow Moth
-- _Shifted_, by Conna Haraway
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
+- _Liminality / Dream State Return_, by Elder
 - _wishful thinking_, by Duval Timothy
 - _Mossbane Lantern_, by Sallow Moth
 - _Friend_, by james K
 - _Wide Awake_, by Mechatok
-- _Liminality / Dream State Return_, by Elder
 - _Black Noise_, by Quinton Barnes
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _Today, I Wrote Nothing_, by billy woods
