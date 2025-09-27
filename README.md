@@ -34,11 +34,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _wishful thinking_, by Duval Timothy
 - _Friend_, by james K
 - _Wide Awake_, by Mechatok
-- _Black Noise_, by Quinton Barnes
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
+- _Black Noise_, by Quinton Barnes
 - _Instant Holograms On Metal Film_, by Stereolab
 - _CRUX_, by Al Wootton
 - _The Maiden_, by The Sound Of Animals Fighting
