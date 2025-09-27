@@ -23,7 +23,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Heavy Rocks (2011)_, by Boris
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _Pieces of a Man_, by Gil Scott-Heron
-- _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 
 </details>
 
