@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _General Patterns_, by Mammo
+- _Skalpel_, by Skalpel
 - _SCUM (2023 Remastered)_, by Bark Psychosis
 - _Shifted_, by Conna Haraway
 - _Spaces In Between_, by Michael J. Blood
@@ -19,11 +21,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _2000: In Search Of The Endless Sky_, by Fleshwater
 - _Sysivalo_, by Ø, Mika Vainio
-- _General Patterns_, by Mammo
 - _Pink_, by Boris
 - _Heavy Rocks (2011)_, by Boris
 - _A Danger to Ourselves_, by Lucrecia Dalt
-- _Pieces of a Man_, by Gil Scott-Heron
 
 </details>
 
