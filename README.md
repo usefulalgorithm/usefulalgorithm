@@ -38,9 +38,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
-- _Black Noise_, by Quinton Barnes
 - _Instant Holograms On Metal Film_, by Stereolab
 - _CRUX_, by Al Wootton
+- _Black Noise_, by Quinton Barnes
 - _The Maiden_, by The Sound Of Animals Fighting
 
 </details>
