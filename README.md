@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _A Danger to Ourselves_, by Lucrecia Dalt
 - _SCUM (2023 Remastered)_, by Bark Psychosis
 - _General Patterns_, by Mammo
 - _Skalpel_, by Skalpel
@@ -20,8 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Liminality / Dream State Return_, by Elder
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _2000: In Search Of The Endless Sky_, by Fleshwater
-- _Sysivalo_, by Ø, Mika Vainio
-- _Pink_, by Boris
 
 </details>
 
@@ -33,8 +32,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _wishful thinking_, by Duval Timothy
 - _Friend_, by james K
 - _Wide Awake_, by Mechatok
-- _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _A Danger to Ourselves_, by Lucrecia Dalt
+- _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
 - _Instant Holograms On Metal Film_, by Stereolab
