@@ -23,7 +23,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Sysivalo_, by Ø, Mika Vainio
 - _Pink_, by Boris
 - _Heavy Rocks (2011)_, by Boris
-- _A Danger to Ourselves_, by Lucrecia Dalt
 
 </details>
 
