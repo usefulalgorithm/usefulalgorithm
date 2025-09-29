@@ -15,13 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _沒路_, by 非人物種
 - _SCUM (2023 Remastered)_, by Bark Psychosis
-- _General Patterns_, by Mammo
-- _Skalpel_, by Skalpel
-- _Shifted_, by Conna Haraway
-- _Spaces In Between_, by Michael J. Blood
-- _Mossbane Lantern_, by Sallow Moth
-- _Liminality / Dream State Return_, by Elder
-- _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 
 </details>
 
@@ -29,8 +22,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Liminality / Dream State Return_, by Elder
-- _Mossbane Lantern_, by Sallow Moth
 - _wishful thinking_, by Duval Timothy
+- _Mossbane Lantern_, by Sallow Moth
 - _Friend_, by james K
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _Wide Awake_, by Mechatok
@@ -40,7 +33,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Instant Holograms On Metal Film_, by Stereolab
 - _CRUX_, by Al Wootton
 - _Black Noise_, by Quinton Barnes
-- _The Maiden_, by The Sound Of Animals Fighting
 
 </details>
 
