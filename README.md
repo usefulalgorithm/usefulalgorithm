@@ -20,7 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Mossbane Lantern_, by Sallow Moth
 - _Liminality / Dream State Return_, by Elder
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
-- _2000: In Search Of The Endless Sky_, by Fleshwater
 
 </details>
 
