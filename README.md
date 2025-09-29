@@ -11,7 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _wishful thinking_, by Duval Timothy
 - _A Danger to Ourselves_, by Lucrecia Dalt
+- _沒路_, by 非人物種
 - _SCUM (2023 Remastered)_, by Bark Psychosis
 - _General Patterns_, by Mammo
 - _Skalpel_, by Skalpel
@@ -30,8 +32,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Mossbane Lantern_, by Sallow Moth
 - _wishful thinking_, by Duval Timothy
 - _Friend_, by james K
-- _Wide Awake_, by Mechatok
 - _A Danger to Ourselves_, by Lucrecia Dalt
+- _Wide Awake_, by Mechatok
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
