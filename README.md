@@ -12,8 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _wishful thinking_, by Duval Timothy
-- _A Danger to Ourselves_, by Lucrecia Dalt
-- _沒路_, by 非人物種
 
 </details>
 
@@ -31,7 +29,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Easy Lover_, by Martin Miller
 - _Instant Holograms On Metal Film_, by Stereolab
 - _CRUX_, by Al Wootton
-- _Black Noise_, by Quinton Barnes
 
 </details>
 
