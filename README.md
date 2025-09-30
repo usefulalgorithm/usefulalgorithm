@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _GUSH_, by Kaitlyn Aurelia Smith
 - _wishful thinking_, by Duval Timothy
 
 </details>
