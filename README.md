@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Absurd Matter 2_, by Shapednoise
 - _Body Lapse_, by Rian Treanor, Cara Tolmie
 - _Bodhidharma_, by Agriculture
 - _Starburst_, by Danny Brown
