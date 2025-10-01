@@ -30,6 +30,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Easy Lover_, by Martin Miller
 - _Instant Holograms On Metal Film_, by Stereolab
 - _CRUX_, by Al Wootton
+- _GUSH_, by Kaitlyn Aurelia Smith
 
 </details>
 
