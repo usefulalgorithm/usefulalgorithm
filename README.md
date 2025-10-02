@@ -11,15 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _11-1988_, by Kareem
 - _Absurd Matter 2_, by Shapednoise
 - _Body Lapse_, by Rian Treanor, Cara Tolmie
 - _Bodhidharma_, by Agriculture
 - _Starburst_, by Danny Brown
 - _Being the Cause_, by Hirons
-- _Children of the Baked Potato_, by Thundercat, Remi Wolf
-- _Human Bird_, by The Plan
-- _GUSH_, by Kaitlyn Aurelia Smith
-- _wishful thinking_, by Duval Timothy
 
 </details>
 
