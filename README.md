@@ -14,9 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _11-1988_, by Kareem
 - _Absurd Matter 2_, by Shapednoise
 - _Body Lapse_, by Rian Treanor, Cara Tolmie
-- _Bodhidharma_, by Agriculture
-- _Starburst_, by Danny Brown
-- _Being the Cause_, by Hirons
 
 </details>
 
@@ -32,9 +29,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
-- _Instant Holograms On Metal Film_, by Stereolab
 - _CRUX_, by Al Wootton
 - _GUSH_, by Kaitlyn Aurelia Smith
+- _Instant Holograms On Metal Film_, by Stereolab
 
 </details>
 
