@@ -18,7 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Friend_, by james K
 - _Goro Majima Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)_, by SEGA SOUND TEAM
 - _LIKE A DRAGON 8 ORIGINAL SOUNDTRACK_, by SEGA SOUND TEAM
-- _Absurd Matter 2_, by Shapednoise
 
 </details>
 
