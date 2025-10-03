@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Aesthethica_, by Liturgy
+- _93696_, by Liturgy
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Friend_, by james K
 - _Goro Majima Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)_, by SEGA SOUND TEAM
