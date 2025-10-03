@@ -31,7 +31,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Friend_, by james K
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _Wide Awake_, by Mechatok
-- _HUMAN ERROR CLUB_, by HUMAN ERROR CLUB
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
 - _CRUX_, by Al Wootton
