@@ -19,8 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _93696_, by Liturgy
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Friend_, by james K
-- _Goro Majima Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)_, by SEGA SOUND TEAM
-- _LIKE A DRAGON 8 ORIGINAL SOUNDTRACK_, by SEGA SOUND TEAM
 
 </details>
 
