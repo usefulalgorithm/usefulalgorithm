@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _A Danger to Ourselves_, by Lucrecia Dalt
+- _The Spiritual Sound_, by Agriculture
 - _Aesthethica_, by Liturgy
+- _A Danger to Ourselves_, by Lucrecia Dalt
 - _General Patterns_, by Mammo
 - _11-1988_, by Kareem
 - _93696_, by Liturgy
