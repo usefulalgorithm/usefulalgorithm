@@ -18,7 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _11-1988_, by Kareem
 - _93696_, by Liturgy
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
-- _Friend_, by james K
 
 </details>
 
@@ -33,6 +32,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Wide Awake_, by Mechatok
 - _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
+- _Bodhidharma_, by Agriculture
 - _CRUX_, by Al Wootton
 - _GUSH_, by Kaitlyn Aurelia Smith
 
