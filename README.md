@@ -28,7 +28,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Liminality / Dream State Return_, by Elder
 - _Mossbane Lantern_, by Sallow Moth
 - _Friend_, by james K
-- _Bodhidharma_, by Agriculture
+- _The Spiritual Sound_, by Agriculture
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _Wide Awake_, by Mechatok
 - _Easy Lover_, by Martin Miller
