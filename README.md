@@ -28,11 +28,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Liminality / Dream State Return_, by Elder
 - _Mossbane Lantern_, by Sallow Moth
 - _Friend_, by james K
+- _Bodhidharma_, by Agriculture
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _Wide Awake_, by Mechatok
-- _Bodhidharma_, by Agriculture
-- _Today, I Wrote Nothing_, by billy woods
 - _Easy Lover_, by Martin Miller
+- _Today, I Wrote Nothing_, by billy woods
 - _CRUX_, by Al Wootton
 - _GUSH_, by Kaitlyn Aurelia Smith
 
