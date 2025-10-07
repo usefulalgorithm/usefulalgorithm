@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Absurd Matter 2_, by Shapednoise
+- _The Spiritual Sound_, by Agriculture
 - _Never Die_, by Matt Jencik, Midwife
+- _Absurd Matter 2_, by Shapednoise
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _Deloused in the Comatorium_, by The Mars Volta
 - _Anticlines_, by Lucrecia Dalt
-- _The Spiritual Sound_, by Agriculture
-- _Aesthethica_, by Liturgy
 
 </details>
 
@@ -26,10 +25,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _wishful thinking_, by Duval Timothy
 - _Liminality / Dream State Return_, by Elder
+- _The Spiritual Sound_, by Agriculture
 - _Mossbane Lantern_, by Sallow Moth
 - _Friend_, by james K
 - _A Danger to Ourselves_, by Lucrecia Dalt
-- _The Spiritual Sound_, by Agriculture
 - _Wide Awake_, by Mechatok
 - _Easy Lover_, by Martin Miller
 - _Today, I Wrote Nothing_, by billy woods
