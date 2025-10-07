@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _11-1988_, by Kareem
 - _The Spiritual Sound_, by Agriculture
 - _Never Die_, by Matt Jencik, Midwife
 - _Absurd Matter 2_, by Shapednoise
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _Deloused in the Comatorium_, by The Mars Volta
-- _Anticlines_, by Lucrecia Dalt
 
 </details>
 
@@ -33,6 +33,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Easy Lover_, by Martin Miller
 - _CRUX_, by Al Wootton
 - _GUSH_, by Kaitlyn Aurelia Smith
+- _11-1988_, by Kareem
 
 </details>
 
