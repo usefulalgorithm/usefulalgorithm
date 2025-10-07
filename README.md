@@ -38,7 +38,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _Doppelganger_, by Naomi Klein ([link](https://hardcover.app/books/doppelganger-9)). It's OK I guess.
+Just finished reading _Doppelganger_, by Naomi Klein ([link](https://hardcover.app/books/doppelganger)). It's OK I guess.
 
 Gotta finish 25 books before 2026-01-01. I've read 15 so far.
 
