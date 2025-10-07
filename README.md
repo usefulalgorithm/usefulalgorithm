@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Never Die_, by Matt Jencik, Midwife
 - _The Spiritual Sound_, by Agriculture
 - _Liminality / Dream State Return_, by Elder
 - _11-1988_, by Kareem
-- _Never Die_, by Matt Jencik, Midwife
 - _Absurd Matter 2_, by Shapednoise
 
 </details>
