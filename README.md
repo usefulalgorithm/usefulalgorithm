@@ -11,13 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Absurd Matter 2_, by Shapednoise
+- _Never Die_, by Matt Jencik, Midwife
+- _A Danger to Ourselves_, by Lucrecia Dalt
+- _Deloused in the Comatorium_, by The Mars Volta
+- _Anticlines_, by Lucrecia Dalt
 - _The Spiritual Sound_, by Agriculture
 - _Aesthethica_, by Liturgy
-- _A Danger to Ourselves_, by Lucrecia Dalt
-- _General Patterns_, by Mammo
-- _11-1988_, by Kareem
-- _93696_, by Liturgy
-- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 
 </details>
 
@@ -28,8 +28,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Liminality / Dream State Return_, by Elder
 - _Mossbane Lantern_, by Sallow Moth
 - _Friend_, by james K
-- _The Spiritual Sound_, by Agriculture
 - _A Danger to Ourselves_, by Lucrecia Dalt
+- _The Spiritual Sound_, by Agriculture
 - _Wide Awake_, by Mechatok
 - _Easy Lover_, by Martin Miller
 - _Today, I Wrote Nothing_, by billy woods
