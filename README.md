@@ -15,23 +15,22 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Discipline_, by King Crimson
 - _Manger on McNichols_, by Boldy James, Sterling Toles
-- _The Spiritual Sound_, by Agriculture
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _wishful thinking_, by Duval Timothy
 - _The Spiritual Sound_, by Agriculture
+- _wishful thinking_, by Duval Timothy
 - _Liminality / Dream State Return_, by Elder
 - _Mossbane Lantern_, by Sallow Moth
 - _Friend_, by james K
 - _Wide Awake_, by Mechatok
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _Easy Lover_, by Martin Miller
-- _CRUX_, by Al Wootton
 - _GUSH_, by Kaitlyn Aurelia Smith
+- _CRUX_, by Al Wootton
 - _11-1988_, by Kareem
 
 </details>
