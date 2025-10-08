@@ -14,8 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Manger on McNichols_, by Boldy James, Sterling Toles
 - _The Spiritual Sound_, by Agriculture
 - _Never Die_, by Matt Jencik, Midwife
-- _Liminality / Dream State Return_, by Elder
-- _11-1988_, by Kareem
 
 </details>
 
