@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Haram_, by Armand Hammer, The Alchemist
+- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Discipline_, by King Crimson
 - _Manger on McNichols_, by Boldy James, Sterling Toles
 - _The Spiritual Sound_, by Agriculture
