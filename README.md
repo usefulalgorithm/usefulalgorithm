@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Three of a Perfect Pair_, by King Crimson
 - _Discipline_, by King Crimson
 - _Haram_, by Armand Hammer, The Alchemist
-- _Manger on McNichols_, by Boldy James, Sterling Toles
 
 </details>
 
