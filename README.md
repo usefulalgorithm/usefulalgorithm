@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Liminality / Dream State Return_, by Elder
 - _The Spiritual Sound_, by Agriculture
 - _Umbilical_, by Thou
 - _Sunshine and Balance Beams_, by Pile
@@ -18,7 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Three of a Perfect Pair_, by King Crimson
 - _Discipline_, by King Crimson
-- _Haram_, by Armand Hammer, The Alchemist
 
 </details>
 
