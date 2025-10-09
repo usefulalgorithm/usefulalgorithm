@@ -25,8 +25,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _The Spiritual Sound_, by Agriculture
-- _wishful thinking_, by Duval Timothy
 - _Liminality / Dream State Return_, by Elder
+- _wishful thinking_, by Duval Timothy
 - _Mossbane Lantern_, by Sallow Moth
 - _Wide Awake_, by Mechatok
 - _Friend_, by james K
