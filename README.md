@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Spiritual Sound_, by Agriculture
 - _Umbilical_, by Thou
 - _Sunshine and Balance Beams_, by Pile
 - _Wide Awake_, by Mechatok
@@ -28,8 +29,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _wishful thinking_, by Duval Timothy
 - _Liminality / Dream State Return_, by Elder
 - _Mossbane Lantern_, by Sallow Moth
-- _Friend_, by james K
 - _Wide Awake_, by Mechatok
+- _Friend_, by james K
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _Easy Lover_, by Martin Miller
 - _GUSH_, by Kaitlyn Aurelia Smith
