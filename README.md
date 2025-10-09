@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Umbilical_, by Thou
+- _Sunshine and Balance Beams_, by Pile
+- _Wide Awake_, by Mechatok
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Three of a Perfect Pair_, by King Crimson
 - _Discipline_, by King Crimson
@@ -37,14 +40,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _Doppelganger_, by Naomi Klein ([link](https://hardcover.app/books/doppelganger)). It's OK I guess.
+Just finished reading _Bad Infinity: Selected Writings_, by Aria Dean ([link](https://hardcover.app/books/bad-infinity)). It's a good book.
 
-Gotta finish 25 books before 2026-01-01. I've read 15 so far.
+Gotta finish 25 books before 2026-01-01. I've read 16 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
 
-- _Bad Infinity: Selected Writings_, by Aria Dean ([link](https://hardcover.app/books/bad-infinity))
 - _The Absence of Myth: Writings on Surrealism_, by Georges Bataille, Michael   Richardson ([link](https://hardcover.app/books/the-absence-of-myth-writings-on-surrealism))
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
