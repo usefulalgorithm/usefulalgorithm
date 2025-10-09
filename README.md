@@ -18,7 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Wide Awake_, by Mechatok
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Three of a Perfect Pair_, by King Crimson
-- _Discipline_, by King Crimson
 
 </details>
 
