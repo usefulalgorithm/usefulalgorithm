@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Three of a Perfect Pair_, by King Crimson
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Discipline_, by King Crimson
 - _Haram_, by Armand Hammer, The Alchemist
