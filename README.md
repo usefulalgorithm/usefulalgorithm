@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Spiritual Sound_, by Agriculture
 - _Umbilical_, by Thou
 - _Sunshine and Balance Beams_, by Pile
-- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 
 </details>
 
@@ -30,8 +29,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Mossbane Lantern_, by Sallow Moth
 - _Friend_, by james K
 - _A Danger to Ourselves_, by Lucrecia Dalt
-- _Easy Lover_, by Martin Miller
 - _GUSH_, by Kaitlyn Aurelia Smith
+- _Easy Lover_, by Martin Miller
 - _CRUX_, by Al Wootton
 - _11-1988_, by Kareem
 
