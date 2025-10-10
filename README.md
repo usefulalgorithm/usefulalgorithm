@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Absurd Matter 2_, by Shapednoise
 - _Manger on McNichols_, by Boldy James, Sterling Toles
 - _Wide Awake_, by Mechatok
 - _Haram_, by Armand Hammer, The Alchemist
