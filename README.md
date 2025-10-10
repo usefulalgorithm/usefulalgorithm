@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Manger on McNichols_, by Boldy James, Sterling Toles
 - _Wide Awake_, by Mechatok
-- _Liminality / Dream State Return_, by Elder
-- _The Spiritual Sound_, by Agriculture
+- _Haram_, by Armand Hammer, The Alchemist
+- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 
 </details>
 
