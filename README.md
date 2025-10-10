@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Wide Awake_, by Mechatok
 - _Liminality / Dream State Return_, by Elder
 - _The Spiritual Sound_, by Agriculture
-- _Umbilical_, by Thou
 
 </details>
 
