@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Liminality / Dream State Return_, by Elder
 - _The Spiritual Sound_, by Agriculture
 - _Umbilical_, by Thou
-- _Sunshine and Balance Beams_, by Pile
 
 </details>
 
