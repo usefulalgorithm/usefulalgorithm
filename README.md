@@ -13,8 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _FJL_, by Felicity J Lord
 - _In Your Head_, by Buttechno, Triš
-- _11-1988_, by Kareem
-- _Absurd Matter 2_, by Shapednoise
 
 </details>
 
