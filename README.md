@@ -11,12 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _In Your Head_, by Buttechno, Triš
 - _11-1988_, by Kareem
 - _Absurd Matter 2_, by Shapednoise
 - _Manger on McNichols_, by Boldy James, Sterling Toles
-- _Wide Awake_, by Mechatok
-- _Haram_, by Armand Hammer, The Alchemist
-- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 
 </details>
 
@@ -31,10 +29,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Friend_, by james K
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _Absurd Matter 2_, by Shapednoise
+- _11-1988_, by Kareem
 - _GUSH_, by Kaitlyn Aurelia Smith
 - _Easy Lover_, by Martin Miller
 - _CRUX_, by Al Wootton
-- _11-1988_, by Kareem
 
 </details>
 
