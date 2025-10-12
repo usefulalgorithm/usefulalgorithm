@@ -11,10 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _迷跡波_, by MyGO!!!!!
 - _FJL_, by Felicity J Lord
+- _迷跡波_, by MyGO!!!!!
 - _SEQUENCE 01_, by f5ve
-- _Wide Awake_, by Mechatok
 
 </details>
 
@@ -31,7 +30,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Absurd Matter 2_, by Shapednoise
 - _11-1988_, by Kareem
 - _GUSH_, by Kaitlyn Aurelia Smith
-- _Easy Lover_, by Martin Miller
 - _CRUX_, by Al Wootton
 
 </details>
