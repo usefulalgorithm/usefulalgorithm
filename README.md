@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _FJL_, by Felicity J Lord
 - _SEQUENCE 01_, by f5ve
 - _Wide Awake_, by Mechatok
-- _In Your Head_, by Buttechno, Triš
 
 </details>
 
