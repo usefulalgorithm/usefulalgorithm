@@ -31,6 +31,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _11-1988_, by Kareem
 - _GUSH_, by Kaitlyn Aurelia Smith
 - _CRUX_, by Al Wootton
+- _Haram_, by Armand Hammer, The Alchemist
 
 </details>
 
