@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Absurd Matter 2_, by Shapednoise
 - _SEQUENCE 01_, by f5ve
 
 </details>
@@ -24,8 +25,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _wishful thinking_, by Duval Timothy
 - _Mossbane Lantern_, by Sallow Moth
 - _Friend_, by james K
-- _A Danger to Ourselves_, by Lucrecia Dalt
 - _Absurd Matter 2_, by Shapednoise
+- _A Danger to Ourselves_, by Lucrecia Dalt
 - _11-1988_, by Kareem
 - _GUSH_, by Kaitlyn Aurelia Smith
 - _SEQUENCE 01_, by f5ve
