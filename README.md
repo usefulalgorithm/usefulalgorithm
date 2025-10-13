@@ -28,6 +28,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Absurd Matter 2_, by Shapednoise
 - _11-1988_, by Kareem
 - _GUSH_, by Kaitlyn Aurelia Smith
+- _SEQUENCE 01_, by f5ve
 - _CRUX_, by Al Wootton
 - _Haram_, by Armand Hammer, The Alchemist
 
