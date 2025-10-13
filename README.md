@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _SEQUENCE 01_, by f5ve
 - _Haram_, by Armand Hammer, The Alchemist
-- _FJL_, by Felicity J Lord
 
 </details>
 
