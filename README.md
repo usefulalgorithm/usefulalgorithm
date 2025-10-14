@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _歪曲_, by Shing02
 - _400 (Instrumentals)_, by Shing02
 - _SEQUENCE 01_, by f5ve
 - _Absurd Matter 2_, by Shapednoise
@@ -28,11 +29,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Friend_, by james K
 - _Absurd Matter 2_, by Shapednoise
 - _A Danger to Ourselves_, by Lucrecia Dalt
+- _SEQUENCE 01_, by f5ve
 - _11-1988_, by Kareem
 - _GUSH_, by Kaitlyn Aurelia Smith
-- _SEQUENCE 01_, by f5ve
 - _CRUX_, by Al Wootton
-- _Haram_, by Armand Hammer, The Alchemist
 
 </details>
 
