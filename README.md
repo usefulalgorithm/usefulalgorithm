@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Tanoshimi_, by U-zhaan, Tamaki Roy, Chinza Dopeness
+- _SEQUENCE 01_, by f5ve
 - _歪曲_, by Shing02
 - _400 (Instrumentals)_, by Shing02
-- _SEQUENCE 01_, by f5ve
 - _Absurd Matter 2_, by Shapednoise
 
 </details>
