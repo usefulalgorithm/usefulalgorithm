@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Absurd Matter 2_, by Shapednoise
+- _400 (Instrumentals)_, by Shing02
 - _SEQUENCE 01_, by f5ve
+- _Absurd Matter 2_, by Shapednoise
 
 </details>
 
