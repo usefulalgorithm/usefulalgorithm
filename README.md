@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _SEQUENCE 01_, by f5ve
 - _歪曲_, by Shing02
 - _400 (Instrumentals)_, by Shing02
-- _Absurd Matter 2_, by Shapednoise
 
 </details>
 
@@ -32,8 +31,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _SEQUENCE 01_, by f5ve
 - _11-1988_, by Kareem
-- _GUSH_, by Kaitlyn Aurelia Smith
-- _CRUX_, by Al Wootton
 
 </details>
 
