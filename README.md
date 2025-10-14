@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Tanoshimi_, by U-zhaan, Tamaki Roy, Chinza Dopeness
-- _SEQUENCE 01_, by f5ve
 
 </details>
 
@@ -29,6 +28,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _SEQUENCE 01_, by f5ve
 - _11-1988_, by Kareem
+- _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 
 </details>
 
