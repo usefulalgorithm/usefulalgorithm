@@ -22,9 +22,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Spiritual Sound_, by Agriculture
 - _Liminality / Dream State Return_, by Elder
 - _Wide Awake_, by Mechatok
+- _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _wishful thinking_, by Duval Timothy
 - _Mossbane Lantern_, by Sallow Moth
-- _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _SEQUENCE 01_, by f5ve
 - _Absurd Matter 2_, by Shapednoise
 - _A Danger to Ourselves_, by Lucrecia Dalt
