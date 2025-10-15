@@ -25,8 +25,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Spiritual Sound_, by Agriculture
 - _Liminality / Dream State Return_, by Elder
 - _SEQUENCE 01_, by f5ve
-- _Wide Awake_, by Mechatok
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
+- _Wide Awake_, by Mechatok
 - _wishful thinking_, by Duval Timothy
 - _Mossbane Lantern_, by Sallow Moth
 - _Absurd Matter 2_, by Shapednoise
