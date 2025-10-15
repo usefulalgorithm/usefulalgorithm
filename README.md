@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _SEQUENCE 01_, by f5ve
 - _BTW_, by Tamaki Roy
 - _Tanoshimi_, by U-zhaan, Tamaki Roy, Chinza Dopeness
-- _SEQUENCE 01_, by f5ve
 - _Black Messiah_, by D'Angelo
 
 </details>
