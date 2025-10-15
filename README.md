@@ -13,6 +13,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Tanoshimi_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _SEQUENCE 01_, by f5ve
+- _Black Messiah_, by D'Angelo
 
 </details>
 
