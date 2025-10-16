@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Don't Trust Mirrors_, by Kelly Moran
+- _The Spiritual Sound_, by Agriculture
 - _歪曲_, by Shing02
 - _SEQUENCE 01_, by f5ve
-- _The Spiritual Sound_, by Agriculture
 - _Tanoshimi_, by U-zhaan, Tamaki Roy, Chinza Dopeness
-- _Don't Trust Mirrors_, by Kelly Moran
-- _FJL_, by Felicity J Lord
 
 </details>
 
@@ -28,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _SEQUENCE 01_, by f5ve
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Wide Awake_, by Mechatok
-- _wishful thinking_, by Duval Timothy
 - _Mossbane Lantern_, by Sallow Moth
+- _wishful thinking_, by Duval Timothy
 - _Absurd Matter 2_, by Shapednoise
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _11-1988_, by Kareem
