@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Don't Trust Mirrors_, by Kelly Moran
 - _Periphery_, by Periphery
 - _Liminality / Dream State Return_, by Elder
 - _Tanoshimi_, by U-zhaan, Tamaki Roy, Chinza Dopeness
-- _Don't Trust Mirrors_, by Kelly Moran
 
 </details>
 
@@ -30,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _wishful thinking_, by Duval Timothy
 - _Absurd Matter 2_, by Shapednoise
 - _A Danger to Ourselves_, by Lucrecia Dalt
-- _11-1988_, by Kareem
 - _Don't Trust Mirrors_, by Kelly Moran
+- _11-1988_, by Kareem
 
 </details>
 
