@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Spiritual Sound_, by Agriculture
 - _歪曲_, by Shing02
 - _SEQUENCE 01_, by f5ve
-- _Tanoshimi_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 
 </details>
 
