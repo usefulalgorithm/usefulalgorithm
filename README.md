@@ -12,8 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Don't Trust Mirrors_, by Kelly Moran
-- _Periphery_, by Periphery
-- _Liminality / Dream State Return_, by Elder
 
 </details>
 
@@ -27,8 +25,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Wide Awake_, by Mechatok
 - _Mossbane Lantern_, by Sallow Moth
 - _wishful thinking_, by Duval Timothy
-- _Absurd Matter 2_, by Shapednoise
 - _Don't Trust Mirrors_, by Kelly Moran
+- _Absurd Matter 2_, by Shapednoise
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _11-1988_, by Kareem
 
