@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Absurd Matter 2_, by Shapednoise
 - _Don't Trust Mirrors_, by Kelly Moran
 - _Ghettoville_, by Actress
-- _Statik_, by Actress
 
 </details>
 
