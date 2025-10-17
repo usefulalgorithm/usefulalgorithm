@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Absurd Matter 2_, by Shapednoise
 - _Don't Trust Mirrors_, by Kelly Moran
 - _Ghettoville_, by Actress
 - _Statik_, by Actress
 - _Speak Daggers_, by Elias Rønnenfelt
-- _Absurd Matter 2_, by Shapednoise
 
 </details>
 
@@ -26,10 +26,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Liminality / Dream State Return_, by Elder
 - _SEQUENCE 01_, by f5ve
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
-- _Wide Awake_, by Mechatok
-- _Mossbane Lantern_, by Sallow Moth
-- _Don't Trust Mirrors_, by Kelly Moran
 - _Absurd Matter 2_, by Shapednoise
+- _Don't Trust Mirrors_, by Kelly Moran
+- _Mossbane Lantern_, by Sallow Moth
+- _Wide Awake_, by Mechatok
 - _wishful thinking_, by Duval Timothy
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _11-1988_, by Kareem
