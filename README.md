@@ -29,8 +29,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Wide Awake_, by Mechatok
 - _Mossbane Lantern_, by Sallow Moth
 - _Don't Trust Mirrors_, by Kelly Moran
-- _wishful thinking_, by Duval Timothy
 - _Absurd Matter 2_, by Shapednoise
+- _wishful thinking_, by Duval Timothy
 - _A Danger to Ourselves_, by Lucrecia Dalt
 - _11-1988_, by Kareem
 
