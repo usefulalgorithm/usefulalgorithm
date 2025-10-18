@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Ghettoville_, by Actress
 - _Speak Daggers_, by Elias Rønnenfelt
 
 </details>
