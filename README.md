@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Liminality / Dream State Return_, by Elder
 - _Ghettoville_, by Actress
 - _Speak Daggers_, by Elias Rønnenfelt
 
