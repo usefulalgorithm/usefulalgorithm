@@ -20,8 +20,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _The Spiritual Sound_, by Agriculture
 - _Liminality / Dream State Return_, by Elder
+- _The Spiritual Sound_, by Agriculture
 - _SEQUENCE 01_, by f5ve
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Absurd Matter 2_, by Shapednoise
