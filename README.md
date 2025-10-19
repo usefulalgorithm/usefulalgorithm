@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Periphery_, by Periphery
 - _Liminality / Dream State Return_, by Elder
 - _Ghettoville_, by Actress
-- _Speak Daggers_, by Elias Rønnenfelt
 
 </details>
 
@@ -32,8 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Mossbane Lantern_, by Sallow Moth
 - _Wide Awake_, by Mechatok
 - _wishful thinking_, by Duval Timothy
-- _11-1988_, by Kareem
 - _Periphery_, by Periphery
+- _11-1988_, by Kareem
 
 </details>
 
