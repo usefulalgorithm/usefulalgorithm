@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
+- _SEQUENCE 01_, by f5ve
 - _Periphery_, by Periphery
 - _Liminality / Dream State Return_, by Elder
 - _Ghettoville_, by Actress
@@ -31,6 +33,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Wide Awake_, by Mechatok
 - _wishful thinking_, by Duval Timothy
 - _11-1988_, by Kareem
+- _Periphery_, by Periphery
 
 </details>
 
