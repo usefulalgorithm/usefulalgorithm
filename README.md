@@ -33,6 +33,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _wishful thinking_, by Duval Timothy
 - _Periphery_, by Periphery
 - _11-1988_, by Kareem
+- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 
 </details>
 
