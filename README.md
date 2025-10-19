@@ -11,19 +11,20 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Spiritual Sound_, by Agriculture
+- _Don't Trust Mirrors_, by Kelly Moran
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _SEQUENCE 01_, by f5ve
 - _Periphery_, by Periphery
 - _Liminality / Dream State Return_, by Elder
-- _Ghettoville_, by Actress
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Liminality / Dream State Return_, by Elder
 - _The Spiritual Sound_, by Agriculture
+- _Liminality / Dream State Return_, by Elder
 - _SEQUENCE 01_, by f5ve
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Absurd Matter 2_, by Shapednoise
@@ -32,8 +33,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Wide Awake_, by Mechatok
 - _wishful thinking_, by Duval Timothy
 - _Periphery_, by Periphery
-- _11-1988_, by Kareem
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
+- _11-1988_, by Kareem
 
 </details>
 
