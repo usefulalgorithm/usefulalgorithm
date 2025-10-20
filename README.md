@@ -19,7 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Brown Sugar_, by D'Angelo
 - _The Spiritual Sound_, by Agriculture
 - _Don't Trust Mirrors_, by Kelly Moran
-- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 
 </details>
 
