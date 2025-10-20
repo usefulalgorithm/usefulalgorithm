@@ -11,12 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Black Messiah_, by D'Angelo
+- _Haram_, by Armand Hammer, The Alchemist
+- _Is (Is Superpowered)_, by Kyoka
+- _Voodoo_, by D'Angelo
 - _Brown Sugar_, by D'Angelo
 - _The Spiritual Sound_, by Agriculture
 - _Don't Trust Mirrors_, by Kelly Moran
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
-- _SEQUENCE 01_, by f5ve
-- _Periphery_, by Periphery
 
 </details>
 
@@ -35,6 +37,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Periphery_, by Periphery
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _11-1988_, by Kareem
+- _Haram_, by Armand Hammer, The Alchemist
 
 </details>
 
