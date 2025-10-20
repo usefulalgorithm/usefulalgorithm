@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _sleep with a cane_, by Klein
 - _Black Messiah_, by D'Angelo
+- _sleep with a cane_, by Klein
 - _Haram_, by Armand Hammer, The Alchemist
 - _Is (Is Superpowered)_, by Kyoka
 - _Voodoo_, by D'Angelo
