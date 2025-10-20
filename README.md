@@ -18,7 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Voodoo_, by D'Angelo
 - _Brown Sugar_, by D'Angelo
 - _The Spiritual Sound_, by Agriculture
-- _Don't Trust Mirrors_, by Kelly Moran
 
 </details>
 
