@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Anything Can Be a Hammer_, by bloodsports
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
-- _Black Messiah_, by D'Angelo
 
 </details>
 
