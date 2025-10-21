@@ -14,8 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Black Messiah_, by D'Angelo
 - _sleep with a cane_, by Klein
-- _Haram_, by Armand Hammer, The Alchemist
-- _Is (Is Superpowered)_, by Kyoka
 
 </details>
 
@@ -30,9 +28,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Don't Trust Mirrors_, by Kelly Moran
 - _Wide Awake_, by Mechatok
 - _wishful thinking_, by Duval Timothy
-- _Mossbane Lantern_, by Sallow Moth
-- _Periphery_, by Periphery
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
+- _Periphery_, by Periphery
+- _Mossbane Lantern_, by Sallow Moth
 - _11-1988_, by Kareem
 - _Haram_, by Armand Hammer, The Alchemist
 
