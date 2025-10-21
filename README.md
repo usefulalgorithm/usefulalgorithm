@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Anything Can Be a Hammer_, by bloodsports
-- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 
 </details>
 
@@ -29,7 +28,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _wishful thinking_, by Duval Timothy
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Periphery_, by Periphery
-- _Mossbane Lantern_, by Sallow Moth
 - _11-1988_, by Kareem
 - _Haram_, by Armand Hammer, The Alchemist
 
