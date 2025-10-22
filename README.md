@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Speak Daggers_, by Elias Rønnenfelt
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Tanoshimi_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _砂の時間 水の街_, by 北里彰久
 - _Absurd Matter 2_, by Shapednoise
-- _Speak Daggers_, by Elias Rønnenfelt
 - _The Spiritual Sound_, by Agriculture
 - _SEQUENCE 01_, by f5ve
 - _Anything Can Be a Hammer_, by bloodsports
