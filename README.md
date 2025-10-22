@@ -12,8 +12,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _The Spiritual Sound_, by Agriculture
+- _SEQUENCE 01_, by f5ve
 - _Anything Can Be a Hammer_, by bloodsports
-- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 
 </details>
 
@@ -26,8 +26,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Liminality / Dream State Return_, by Elder
 - _Absurd Matter 2_, by Shapednoise
 - _Don't Trust Mirrors_, by Kelly Moran
-- _wishful thinking_, by Duval Timothy
 - _Anything Can Be a Hammer_, by bloodsports
+- _wishful thinking_, by Duval Timothy
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Periphery_, by Periphery
 - _11-1988_, by Kareem
@@ -37,9 +37,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _Bad Infinity: Selected Writings_, by Aria Dean ([link](https://hardcover.app/books/bad-infinity)). It's a good book.
+Just finished reading _Among the Thugs_, by Bill Buford ([link](https://hardcover.app/books/among-the-thugs)). It's a good book.
 
-Gotta finish 25 books before 2026-01-01. I've read 16 so far.
+Gotta finish 25 books before 2026-01-01. I've read 17 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
