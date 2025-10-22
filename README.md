@@ -25,11 +25,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Absurd Matter 2_, by Shapednoise
 - _Don't Trust Mirrors_, by Kelly Moran
-- _Wide Awake_, by Mechatok
 - _wishful thinking_, by Duval Timothy
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
-- _Periphery_, by Periphery
+- _Wide Awake_, by Mechatok
 - _Anything Can Be a Hammer_, by bloodsports
+- _Periphery_, by Periphery
 - _11-1988_, by Kareem
 - _Haram_, by Armand Hammer, The Alchemist
 
