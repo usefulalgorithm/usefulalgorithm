@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Tanoshimi_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _砂の時間 水の街_, by 北里彰久
 - _Absurd Matter 2_, by Shapednoise
@@ -31,8 +32,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Absurd Matter 2_, by Shapednoise
 - _Don't Trust Mirrors_, by Kelly Moran
 - _Anything Can Be a Hammer_, by bloodsports
-- _wishful thinking_, by Duval Timothy
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
+- _wishful thinking_, by Duval Timothy
 - _Periphery_, by Periphery
 - _11-1988_, by Kareem
 - _Haram_, by Armand Hammer, The Alchemist
