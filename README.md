@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Spiritual Sound_, by Agriculture
 - _Anything Can Be a Hammer_, by bloodsports
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 
@@ -20,15 +21,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _The Spiritual Sound_, by Agriculture
-- _Liminality / Dream State Return_, by Elder
 - _SEQUENCE 01_, by f5ve
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
+- _Liminality / Dream State Return_, by Elder
 - _Absurd Matter 2_, by Shapednoise
 - _Don't Trust Mirrors_, by Kelly Moran
 - _wishful thinking_, by Duval Timothy
-- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
-- _Wide Awake_, by Mechatok
 - _Anything Can Be a Hammer_, by bloodsports
+- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Periphery_, by Periphery
 - _11-1988_, by Kareem
 - _Haram_, by Armand Hammer, The Alchemist
