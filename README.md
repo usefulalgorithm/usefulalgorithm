@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Speak Daggers_, by Elias Rønnenfelt
 - _Early Recordings 1994-95_, by Kreidler
+- _Speak Daggers_, by Elias Rønnenfelt
 
 </details>
 
