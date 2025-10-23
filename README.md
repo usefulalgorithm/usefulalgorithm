@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Early Recordings 1994-95_, by Kreidler
 - _New Assumptions…_, by Ex Agent
 - _Our Life With The Wave EP_, by Cv313, Federsen, Intrusion
 - _Goodness_, by feeo
@@ -19,7 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Salvador_, by Sega Bodega
 - _Tanoshimi_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
-- _砂の時間 水の街_, by 北里彰久
 
 </details>
 
