@@ -12,11 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Early Recordings 1994-95_, by Kreidler
-- _New Assumptions…_, by Ex Agent
-- _Our Life With The Wave EP_, by Cv313, Federsen, Intrusion
-- _Goodness_, by feeo
-- _Black Messiah_, by D'Angelo
-- _Speak Daggers_, by Elias Rønnenfelt
 
 </details>
 
