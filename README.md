@@ -11,14 +11,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Tanoshimi_, by U-zhaan, Tamaki Roy, Chinza Dopeness
+- _New Assumptions…_, by Ex Agent
+- _Our Life With The Wave EP_, by Cv313, Federsen, Intrusion
+- _Goodness_, by feeo
+- _Black Messiah_, by D'Angelo
 - _Speak Daggers_, by Elias Rønnenfelt
+- _Salvador_, by Sega Bodega
+- _Tanoshimi_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _砂の時間 水の街_, by 北里彰久
 - _Absurd Matter 2_, by Shapednoise
-- _The Spiritual Sound_, by Agriculture
-- _SEQUENCE 01_, by f5ve
-- _Anything Can Be a Hammer_, by bloodsports
 
 </details>
 
@@ -35,8 +37,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _wishful thinking_, by Duval Timothy
 - _Periphery_, by Periphery
+- _Black Messiah_, by D'Angelo
 - _11-1988_, by Kareem
-- _Haram_, by Armand Hammer, The Alchemist
 
 </details>
 
