@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Break Yo Back EP_, by DJ Spinn, Teklife
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Koloss_, by Meshuggah
 - _Periphery_, by Periphery
@@ -29,15 +30,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _SEQUENCE 01_, by f5ve
 - _Liminality / Dream State Return_, by Elder
 - _Absurd Matter 2_, by Shapednoise
+- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Don't Trust Mirrors_, by Kelly Moran
 - _Anything Can Be a Hammer_, by bloodsports
-- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Periphery_, by Periphery
 - _wishful thinking_, by Duval Timothy
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Black Messiah_, by D'Angelo
 - _11-1988_, by Kareem
-- _Haram_, by Armand Hammer, The Alchemist
 
 </details>
 
