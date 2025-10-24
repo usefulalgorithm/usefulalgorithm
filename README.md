@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Periphery_, by Periphery
+- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Anything Can Be a Hammer_, by bloodsports
 - _Early Recordings 1994-95_, by Kreidler
 - _Speak Daggers_, by Elias Rønnenfelt
@@ -28,9 +30,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Don't Trust Mirrors_, by Kelly Moran
 - _Anything Can Be a Hammer_, by bloodsports
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
+- _Periphery_, by Periphery
 - _wishful thinking_, by Duval Timothy
 - _Speak Daggers_, by Elias Rønnenfelt
-- _Periphery_, by Periphery
 - _Black Messiah_, by D'Angelo
 - _11-1988_, by Kareem
 - _Haram_, by Armand Hammer, The Alchemist
