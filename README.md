@@ -11,14 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Break Yo Back EP_, by DJ Spinn, Teklife
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Koloss_, by Meshuggah
 - _Periphery_, by Periphery
-- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Anything Can Be a Hammer_, by bloodsports
 - _Early Recordings 1994-95_, by Kreidler
-- _Speak Daggers_, by Elias Rønnenfelt
 
 </details>
 
