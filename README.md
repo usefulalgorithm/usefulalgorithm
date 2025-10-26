@@ -30,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Absurd Matter 2_, by Shapednoise
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Don't Trust Mirrors_, by Kelly Moran
-- _Liminality / Dream State Return_, by Elder
 - _Anything Can Be a Hammer_, by bloodsports
+- _Liminality / Dream State Return_, by Elder
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Periphery_, by Periphery
 - _Black Messiah_, by D'Angelo
