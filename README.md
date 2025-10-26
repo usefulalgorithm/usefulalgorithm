@@ -34,10 +34,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Don't Trust Mirrors_, by Kelly Moran
 - _Liminality / Dream State Return_, by Elder
 - _Anything Can Be a Hammer_, by bloodsports
+- _Speak Daggers_, by Elias Rønnenfelt
 - _Periphery_, by Periphery
 - _Black Messiah_, by D'Angelo
 - _wishful thinking_, by Duval Timothy
-- _Speak Daggers_, by Elias Rønnenfelt
 - _11-1988_, by Kareem
 
 </details>
