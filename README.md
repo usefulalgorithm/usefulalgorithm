@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Break Yo Back EP_, by DJ Spinn, Teklife
 - _Goth Girl On The Enterprise_, by Fatboi Sharif, Roper Williams
 - _Thank You for Almost Everything_, by Headache, Vegyn
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Black Messiah_, by D'Angelo
-- _Break Yo Back EP_, by DJ Spinn, Teklife
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 
 </details>
