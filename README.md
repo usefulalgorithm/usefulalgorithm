@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Early Recordings 1994-95_, by Kreidler
 - _Thank You for Almost Everything_, by Headache, Vegyn
 - _Speak Daggers_, by Elias Rønnenfelt
-- _Liminality / Dream State Return_, by Elder
-- _Break Yo Back EP_, by DJ Spinn, Teklife
 
 </details>
 
@@ -34,7 +32,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Periphery_, by Periphery
 - _Black Messiah_, by D'Angelo
-- _wishful thinking_, by Duval Timothy
+- _Early Recordings 1994-95_, by Kreidler
 - _11-1988_, by Kareem
 
 </details>
