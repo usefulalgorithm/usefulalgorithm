@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Thank You for Almost Everything_, by Headache, Vegyn
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Liminality / Dream State Return_, by Elder
 - _Break Yo Back EP_, by DJ Spinn, Teklife
 - _Goth Girl On The Enterprise_, by Fatboi Sharif, Roper Williams
-- _Thank You for Almost Everything_, by Headache, Vegyn
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
-- _Black Messiah_, by D'Angelo
 
 </details>
 
