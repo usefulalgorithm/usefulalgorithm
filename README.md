@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tanoshimi_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Early Recordings 1994-95_, by Kreidler
 - _Thank You for Almost Everything_, by Headache, Vegyn
-- _Speak Daggers_, by Elias Rønnenfelt
 
 </details>
 
