@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _10:44_, by Brahm
 - _Break Yo Back EP_, by DJ Spinn, Teklife
 - _Mamor_, by Pub
-- _Tanoshimi_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 
 </details>
 
