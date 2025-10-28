@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Mamor_, by Pub
 - _Tanoshimi_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Early Recordings 1994-95_, by Kreidler
 - _Thank You for Almost Everything_, by Headache, Vegyn
