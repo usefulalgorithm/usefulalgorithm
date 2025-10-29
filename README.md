@@ -11,9 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _10:44_, by Brahm
 - _Youth Novel_, by Youth Novel
-- _Break Yo Back EP_, by DJ Spinn, Teklife
+- _10:44_, by Brahm
 
 </details>
 
@@ -24,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _SEQUENCE 01_, by f5ve
 - _Absurd Matter 2_, by Shapednoise
-- _Liminality / Dream State Return_, by Elder
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
+- _Liminality / Dream State Return_, by Elder
 - _Don't Trust Mirrors_, by Kelly Moran
 - _Anything Can Be a Hammer_, by bloodsports
 - _Speak Daggers_, by Elias Rønnenfelt
