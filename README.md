@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Youth Novel_, by Youth Novel
 - _10:44_, by Brahm
+- _Youth Novel_, by Youth Novel
 - _Break Yo Back EP_, by DJ Spinn, Teklife
 
 </details>
