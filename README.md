@@ -12,6 +12,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Youth Novel_, by Youth Novel
+- _歪打正鑿_, by MassMan
+- _我又沒有做錯事_, by MassMan
 - _Tanoshimi_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 
 </details>
@@ -34,7 +36,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _10:44_, by Brahm
 - _Early Recordings 1994-95_, by Kreidler
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
-- _Haram_, by Armand Hammer, The Alchemist
 
 </details>
 
