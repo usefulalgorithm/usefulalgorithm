@@ -23,10 +23,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Spiritual Sound_, by Agriculture
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _SEQUENCE 01_, by f5ve
-- _Absurd Matter 2_, by Shapednoise
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Liminality / Dream State Return_, by Elder
 - _Don't Trust Mirrors_, by Kelly Moran
+- _Absurd Matter 2_, by Shapednoise
 - _Anything Can Be a Hammer_, by bloodsports
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Periphery_, by Periphery
@@ -34,6 +34,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _10:44_, by Brahm
 - _Early Recordings 1994-95_, by Kreidler
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
+- _11-1988_, by Kareem
 
 </details>
 
