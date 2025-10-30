@@ -11,9 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Tanoshimi_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Youth Novel_, by Youth Novel
-- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
+- _Tanoshimi_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 
 </details>
 
