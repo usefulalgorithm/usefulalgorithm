@@ -11,8 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _GUSH_, by Kaitlyn Aurelia Smith
+- _Speak Daggers_, by Elias Rønnenfelt
+- _Youth Novel_, by Youth Novel
 - _Electric Chair_, by Cities Aviv
-- _400_, by Shing02
 
 </details>
 
@@ -24,10 +26,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _SEQUENCE 01_, by f5ve
 - _Liminality / Dream State Return_, by Elder
 - _Don't Trust Mirrors_, by Kelly Moran
+- _Speak Daggers_, by Elias Rønnenfelt
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Anything Can Be a Hammer_, by bloodsports
 - _Absurd Matter 2_, by Shapednoise
-- _Speak Daggers_, by Elias Rønnenfelt
 - _Youth Novel_, by Youth Novel
 - _Periphery_, by Periphery
 - _Black Messiah_, by D'Angelo
