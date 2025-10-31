@@ -13,10 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Electric Chair_, by Cities Aviv
 - _400_, by Shing02
-- _歪打正鑿_, by MassMan
-- _我又沒有做錯事_, by MassMan
-- _Youth Novel_, by Youth Novel
-- _Tanoshimi_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 
 </details>
 
