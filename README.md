@@ -12,8 +12,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Electric Chair_, by Cities Aviv
-- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _GUSH_, by Kaitlyn Aurelia Smith
+- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Youth Novel_, by Youth Novel
 
@@ -23,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
-- _The Spiritual Sound_, by Agriculture
 - _SEQUENCE 01_, by f5ve
+- _The Spiritual Sound_, by Agriculture
 - _Liminality / Dream State Return_, by Elder
 - _Don't Trust Mirrors_, by Kelly Moran
 - _Speak Daggers_, by Elias Rønnenfelt
@@ -36,6 +36,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Black Messiah_, by D'Angelo
 - _10:44_, by Brahm
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
+- _Electric Chair_, by Cities Aviv
 - _Early Recordings 1994-95_, by Kreidler
 
 </details>
