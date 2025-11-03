@@ -11,14 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _10:44_, by Brahm
 - _Anything Can Be a Hammer_, by bloodsports
+- _10:44_, by Brahm
 - _Aeropsia_, by Steve Hauschildt
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Electric Chair_, by Cities Aviv
 - _GUSH_, by Kaitlyn Aurelia Smith
-- _Youth Novel_, by Youth Novel
 
 </details>
 
@@ -28,14 +27,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _SEQUENCE 01_, by f5ve
 - _The Spiritual Sound_, by Agriculture
+- _Anything Can Be a Hammer_, by bloodsports
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Liminality / Dream State Return_, by Elder
-- _Anything Can Be a Hammer_, by bloodsports
 - _Don't Trust Mirrors_, by Kelly Moran
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Absurd Matter 2_, by Shapednoise
-- _Youth Novel_, by Youth Novel
 - _10:44_, by Brahm
+- _Youth Novel_, by Youth Novel
 - _Periphery_, by Periphery
 - _Black Messiah_, by D'Angelo
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
