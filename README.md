@@ -11,6 +11,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _This Side Of The Dirt_, by Dusted Angel
+- _Sabbatical_, by Rosa Anschütz
+- _Root Echoes_, by Dj Babatr
+- _AniaraWL07_, by Arkajo, Dorisburg, Efraim Kent
+- _THE BPM_, by Sudan Archives
+- _Daughters_, by Jennifer Walton
+- _Ameretat_, by Ameretat
+- _For You, This Eve, the Wolves Will Be Enchantingly Forsaken_, by Širom
+- _LOTTO_, by They Are Gutting a Body of Water
+- _The Spiritual Sound_, by Agriculture
+- _NOS_, by Blawan
 - _Wir Zwei Allein_, by Läuten der Seele
 - _Hillbilly Ragas_, by Sir Richard Bishop
 - _Amasia: Anamibia Sessions 2_, by Melvin Gibbs
@@ -28,7 +39,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _To Realize Its Own, the Earth_, by Dim
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Anything Can Be a Hammer_, by bloodsports
-- _Some Like It Hot_, by bar italia
 
 </details>
 
