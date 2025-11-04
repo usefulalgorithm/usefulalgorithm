@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Electric Chair_, by Cities Aviv
+- _10:44_, by Brahm
 - _This Side Of The Dirt_, by Dusted Angel
 - _Sabbatical_, by Rosa Anschütz
 - _Root Echoes_, by Dj Babatr
@@ -37,8 +39,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _i still feel it, crawling, under my skin._, by Gravess
 - _Utilize the movement_, by Ragtag
 - _To Realize Its Own, the Earth_, by Dim
-- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
-- _Anything Can Be a Hammer_, by bloodsports
 
 </details>
 
@@ -52,8 +52,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Liminality / Dream State Return_, by Elder
 - _Don't Trust Mirrors_, by Kelly Moran
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
-- _The Spiritual Sound_, by Agriculture
 - _10:44_, by Brahm
+- _The Spiritual Sound_, by Agriculture
 - _Absurd Matter 2_, by Shapednoise
 - _Youth Novel_, by Youth Novel
 - _Periphery_, by Periphery
