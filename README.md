@@ -11,11 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _I Try To Rage Against It_, by Brahm
+- _hermit_, by hermit
+- _i still feel it, crawling, under my skin._, by Gravess
+- _Utilize the movement_, by Ragtag
+- _To Realize Its Own, the Earth_, by Dim
+- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Anything Can Be a Hammer_, by bloodsports
 - _Some Like It Hot_, by bar italia
-- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
-- _THE BPM_, by Sudan Archives
-- _Berghain_, by ROSALÍA, Björk, Yves Tumor
 
 </details>
 
@@ -24,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _SEQUENCE 01_, by f5ve
-- _The Spiritual Sound_, by Agriculture
 - _Anything Can Be a Hammer_, by bloodsports
+- _The Spiritual Sound_, by Agriculture
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Liminality / Dream State Return_, by Elder
 - _Don't Trust Mirrors_, by Kelly Moran
