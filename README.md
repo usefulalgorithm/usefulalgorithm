@@ -33,12 +33,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Ghost Town_, by Lankum
 - _SPAGHETTI_, by LE SSERAFIM
 - _Berghain_, by ROSALÍA, Björk, Yves Tumor
-- _Time Inside the Violet_, by The Soft Pink Truth
-- _I Try To Rage Against It_, by Brahm
-- _hermit_, by hermit
-- _i still feel it, crawling, under my skin._, by Gravess
-- _Utilize the movement_, by Ragtag
-- _To Realize Its Own, the Earth_, by Dim
 
 </details>
 
@@ -48,19 +42,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _SEQUENCE 01_, by f5ve
 - _Anything Can Be a Hammer_, by bloodsports
+- _10:44_, by Brahm
 - _Speak Daggers_, by Elias Rønnenfelt
-- _Liminality / Dream State Return_, by Elder
 - _Don't Trust Mirrors_, by Kelly Moran
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
-- _10:44_, by Brahm
+- _Liminality / Dream State Return_, by Elder
 - _The Spiritual Sound_, by Agriculture
 - _Absurd Matter 2_, by Shapednoise
 - _Youth Novel_, by Youth Novel
 - _Periphery_, by Periphery
 - _Black Messiah_, by D'Angelo
+- _Electric Chair_, by Cities Aviv
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
-- _Electric Chair_, by Cities Aviv
 - _Early Recordings 1994-95_, by Kreidler
 
 </details>
