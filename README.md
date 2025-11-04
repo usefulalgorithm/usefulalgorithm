@@ -11,6 +11,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Wir Zwei Allein_, by Läuten der Seele
+- _Hillbilly Ragas_, by Sir Richard Bishop
+- _Amasia: Anamibia Sessions 2_, by Melvin Gibbs
+- _You Run Through the World Like An Open Razor_, by Bruise Blood
+- _Canaan Land_, by Elijah Minnelli, Dennis Bovell
+- _Hey Zombie_, by Hey Colossus
+- _Ghost Town_, by Lankum
+- _SPAGHETTI_, by LE SSERAFIM
+- _Berghain_, by ROSALÍA, Björk, Yves Tumor
+- _Time Inside the Violet_, by The Soft Pink Truth
 - _I Try To Rage Against It_, by Brahm
 - _hermit_, by hermit
 - _i still feel it, crawling, under my skin._, by Gravess
@@ -28,11 +38,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _SEQUENCE 01_, by f5ve
 - _Anything Can Be a Hammer_, by bloodsports
-- _The Spiritual Sound_, by Agriculture
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Liminality / Dream State Return_, by Elder
 - _Don't Trust Mirrors_, by Kelly Moran
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
+- _The Spiritual Sound_, by Agriculture
 - _10:44_, by Brahm
 - _Absurd Matter 2_, by Shapednoise
 - _Youth Novel_, by Youth Novel
