@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Anything Can Be a Hammer_, by bloodsports
 - _Some Like It Hot_, by bar italia
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _THE BPM_, by Sudan Archives
 - _Berghain_, by ROSALÍA, Björk, Yves Tumor
-- _Anything Can Be a Hammer_, by bloodsports
-- _10:44_, by Brahm
 
 </details>
 
