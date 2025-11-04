@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Some Like It Hot_, by bar italia
+- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _THE BPM_, by Sudan Archives
 - _Berghain_, by ROSALÍA, Björk, Yves Tumor
 - _Anything Can Be a Hammer_, by bloodsports
@@ -19,7 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Electric Chair_, by Cities Aviv
-- _GUSH_, by Kaitlyn Aurelia Smith
 
 </details>
 
