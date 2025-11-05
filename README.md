@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
+- _Goodness_, by feeo
 - _Aeropsia_, by Steve Hauschildt
+- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Electric Chair_, by Cities Aviv
 
 </details>
