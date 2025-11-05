@@ -24,7 +24,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _For You, This Eve, the Wolves Will Be Enchantingly Forsaken_, by Širom
 - _LOTTO_, by They Are Gutting a Body of Water
 - _The Spiritual Sound_, by Agriculture
-- _NOS_, by Blawan
 
 </details>
 
