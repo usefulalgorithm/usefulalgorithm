@@ -25,11 +25,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _LOTTO_, by They Are Gutting a Body of Water
 - _The Spiritual Sound_, by Agriculture
 - _NOS_, by Blawan
-- _Wir Zwei Allein_, by Läuten der Seele
-- _Hillbilly Ragas_, by Sir Richard Bishop
-- _Amasia: Anamibia Sessions 2_, by Melvin Gibbs
-- _You Run Through the World Like An Open Razor_, by Bruise Blood
-- _Canaan Land_, by Elijah Minnelli, Dennis Bovell
 
 </details>
 
@@ -46,10 +41,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Liminality / Dream State Return_, by Elder
 - _Absurd Matter 2_, by Shapednoise
 - _Youth Novel_, by Youth Novel
-- _The Spiritual Sound_, by Agriculture
 - _Periphery_, by Periphery
 - _Electric Chair_, by Cities Aviv
 - _Black Messiah_, by D'Angelo
+- _The Spiritual Sound_, by Agriculture
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Early Recordings 1994-95_, by Kreidler
