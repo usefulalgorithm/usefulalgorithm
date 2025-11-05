@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Aeropsia_, by Steve Hauschildt
 - _Electric Chair_, by Cities Aviv
-- _10:44_, by Brahm
 
 </details>
 
@@ -37,7 +36,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Early Recordings 1994-95_, by Kreidler
-- _The Spiritual Sound_, by Agriculture
 
 </details>
 
