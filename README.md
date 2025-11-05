@@ -11,13 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Aeropsia_, by Steve Hauschildt
 - _Electric Chair_, by Cities Aviv
 - _10:44_, by Brahm
-- _This Side Of The Dirt_, by Dusted Angel
-- _Sabbatical_, by Rosa Anschütz
-- _Root Echoes_, by Dj Babatr
-- _AniaraWL07_, by Arkajo, Dorisburg, Efraim Kent
 
 </details>
 
