@@ -18,12 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Sabbatical_, by Rosa Anschütz
 - _Root Echoes_, by Dj Babatr
 - _AniaraWL07_, by Arkajo, Dorisburg, Efraim Kent
-- _THE BPM_, by Sudan Archives
-- _Daughters_, by Jennifer Walton
-- _Ameretat_, by Ameretat
-- _For You, This Eve, the Wolves Will Be Enchantingly Forsaken_, by Širom
-- _LOTTO_, by They Are Gutting a Body of Water
-- _The Spiritual Sound_, by Agriculture
 
 </details>
 
@@ -43,10 +37,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Periphery_, by Periphery
 - _Electric Chair_, by Cities Aviv
 - _Black Messiah_, by D'Angelo
-- _The Spiritual Sound_, by Agriculture
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Early Recordings 1994-95_, by Kreidler
+- _The Spiritual Sound_, by Agriculture
 
 </details>
 
