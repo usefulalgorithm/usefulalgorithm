@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Revolving Star : Archive & Practice 002_, by Cities Aviv
 - _Goodness_, by feeo
-- _Aeropsia_, by Steve Hauschildt
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
-- _Electric Chair_, by Cities Aviv
+- _Aeropsia_, by Steve Hauschildt
 
 </details>
 
@@ -27,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _10:44_, by Brahm
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Don't Trust Mirrors_, by Kelly Moran
-- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Liminality / Dream State Return_, by Elder
+- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Absurd Matter 2_, by Shapednoise
 - _Youth Novel_, by Youth Novel
 - _Periphery_, by Periphery
