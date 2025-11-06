@@ -13,9 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Electric Chair_, by Cities Aviv
 - _The Revolving Star : Archive & Practice 002_, by Cities Aviv
-- _Goodness_, by feeo
-- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
-- _Aeropsia_, by Steve Hauschildt
 
 </details>
 
