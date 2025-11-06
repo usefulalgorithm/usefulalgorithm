@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Electric Chair_, by Cities Aviv
 - _The Revolving Star : Archive & Practice 002_, by Cities Aviv
 - _Goodness_, by feeo
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
