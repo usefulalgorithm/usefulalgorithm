@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Voodoo_, by D'Angelo
 - _Holy Wars... The Punishment Due_, by FAKE MUSIC
 - _Electric Chair_, by Cities Aviv
@@ -28,9 +29,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Don't Trust Mirrors_, by Kelly Moran
 - _Electric Chair_, by Cities Aviv
 - _Liminality / Dream State Return_, by Elder
-- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Absurd Matter 2_, by Shapednoise
 - _Youth Novel_, by Youth Novel
+- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Periphery_, by Periphery
 - _Black Messiah_, by D'Angelo
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
