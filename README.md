@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Too Hot to Handle (Expanded Edition)_, by Heatwave
 - _Voodoo_, by D'Angelo
 - _Goodness_, by feeo
 - _Holy Wars... The Punishment Due_, by FAKE MUSIC
