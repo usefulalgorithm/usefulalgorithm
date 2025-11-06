@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Voodoo_, by D'Angelo
+- _Holy Wars... The Punishment Due_, by FAKE MUSIC
 - _Electric Chair_, by Cities Aviv
-- _The Revolving Star : Archive & Practice 002_, by Cities Aviv
 
 </details>
 
@@ -25,8 +26,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _10:44_, by Brahm
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Don't Trust Mirrors_, by Kelly Moran
-- _Liminality / Dream State Return_, by Elder
 - _Electric Chair_, by Cities Aviv
+- _Liminality / Dream State Return_, by Elder
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Absurd Matter 2_, by Shapednoise
 - _Youth Novel_, by Youth Novel
