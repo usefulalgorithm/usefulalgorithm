@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Voodoo_, by D'Angelo
+- _Goodness_, by feeo
 - _Holy Wars... The Punishment Due_, by FAKE MUSIC
+- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Electric Chair_, by Cities Aviv
 
 </details>
@@ -35,8 +36,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Periphery_, by Periphery
 - _Black Messiah_, by D'Angelo
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
-- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
+- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Early Recordings 1994-95_, by Kreidler
 
 </details>
