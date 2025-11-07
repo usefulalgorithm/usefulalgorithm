@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Electric Chair_, by Cities Aviv
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 
 </details>
