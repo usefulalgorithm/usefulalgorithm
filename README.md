@@ -11,12 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _In the Earth Again_, by Chat Pile, Hayden Pedigo
+- _God's Country_, by Chat Pile
+- _THE BPM_, by Sudan Archives
 - _Too Hot to Handle (Expanded Edition)_, by Heatwave
 - _Voodoo_, by D'Angelo
 - _Goodness_, by feeo
 - _Holy Wars... The Punishment Due_, by FAKE MUSIC
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
-- _Electric Chair_, by Cities Aviv
 
 </details>
 
