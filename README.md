@@ -36,11 +36,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Electric Chair_, by Cities Aviv
 - _Absurd Matter 2_, by Shapednoise
 - _Youth Novel_, by Youth Novel
-- _Liminality / Dream State Return_, by Elder
+- _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Periphery_, by Periphery
+- _Liminality / Dream State Return_, by Elder
 - _Black Messiah_, by D'Angelo
-- _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Early Recordings 1994-95_, by Kreidler
