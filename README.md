@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Electric Chair_, by Cities Aviv
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Bo Jackson_, by Boldy James, The Alchemist
 - _In the Earth Again_, by Chat Pile, Hayden Pedigo
 - _THE BPM_, by Sudan Archives
-- _Electric Chair_, by Cities Aviv
 
 </details>
 
@@ -26,8 +26,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _SEQUENCE 01_, by f5ve
 - _Anything Can Be a Hammer_, by bloodsports
 - _10:44_, by Brahm
-- _Speak Daggers_, by Elias Rønnenfelt
 - _Electric Chair_, by Cities Aviv
+- _Speak Daggers_, by Elias Rønnenfelt
 - _Don't Trust Mirrors_, by Kelly Moran
 - _Youth Novel_, by Youth Novel
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
