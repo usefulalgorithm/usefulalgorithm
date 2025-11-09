@@ -11,16 +11,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
+- _Stardust_, by Danny Brown
+- _hooke’s law_, by keiyaA
+- _Break Yo Back EP_, by DJ Spinn, Teklife
+- _Descend Into Depravity_, by Dying Fetus
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Hidemi_, by Patrick Shiroishi
 - _Exploiting Dysfunction (Deluxe 25th Anniversary Edition)_, by Cephalic Carnage
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Aeropsia_, by Steve Hauschildt
 - _Electric Chair_, by Cities Aviv
-- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
-- _Bo Jackson_, by Boldy James, The Alchemist
-- _In the Earth Again_, by Chat Pile, Hayden Pedigo
-- _THE BPM_, by Sudan Archives
 
 </details>
 
