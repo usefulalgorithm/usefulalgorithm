@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Dimensional Space (Remastered)_, by Cv313
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Stardust_, by Danny Brown
 - _hooke’s law_, by keiyaA
