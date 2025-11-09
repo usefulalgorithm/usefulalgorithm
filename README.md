@@ -35,8 +35,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Electric Chair_, by Cities Aviv
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Don't Trust Mirrors_, by Kelly Moran
-- _Youth Novel_, by Youth Novel
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
+- _Youth Novel_, by Youth Novel
 - _Periphery_, by Periphery
 - _Liminality / Dream State Return_, by Elder
 - _Black Messiah_, by D'Angelo
