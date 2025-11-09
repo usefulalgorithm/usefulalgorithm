@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Forgetting Is Violent_, by Patrick Shiroishi
+- _Hidemi_, by Patrick Shiroishi
 - _Exploiting Dysfunction (Deluxe 25th Anniversary Edition)_, by Cephalic Carnage
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Aeropsia_, by Steve Hauschildt
