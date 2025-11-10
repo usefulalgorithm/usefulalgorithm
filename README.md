@@ -20,9 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Descend Into Depravity_, by Dying Fetus
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Hidemi_, by Patrick Shiroishi
-- _Exploiting Dysfunction (Deluxe 25th Anniversary Edition)_, by Cephalic Carnage
-- _Aeropsia_, by Steve Hauschildt
-- _Electric Chair_, by Cities Aviv
 
 </details>
 
@@ -37,11 +34,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Don't Trust Mirrors_, by Kelly Moran
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
+- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Youth Novel_, by Youth Novel
 - _Periphery_, by Periphery
 - _Liminality / Dream State Return_, by Elder
 - _Black Messiah_, by D'Angelo
-- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Early Recordings 1994-95_, by Kreidler
