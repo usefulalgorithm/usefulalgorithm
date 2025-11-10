@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Dimensional Space (Remastered)_, by Cv313
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Stardust_, by Danny Brown
@@ -20,7 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Hidemi_, by Patrick Shiroishi
 - _Exploiting Dysfunction (Deluxe 25th Anniversary Edition)_, by Cephalic Carnage
-- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Aeropsia_, by Steve Hauschildt
 - _Electric Chair_, by Cities Aviv
 
