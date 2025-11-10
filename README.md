@@ -35,7 +35,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Early Recordings 1994-95_, by Kreidler
-- _Absurd Matter 2_, by Shapednoise
 - _The Spiritual Sound_, by Agriculture
 
 </details>
