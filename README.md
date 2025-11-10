@@ -13,13 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Dimensional Space (Remastered)_, by Cv313
-- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
-- _Stardust_, by Danny Brown
-- _hooke’s law_, by keiyaA
-- _Break Yo Back EP_, by DJ Spinn, Teklife
-- _Descend Into Depravity_, by Dying Fetus
-- _Forgetting Is Violent_, by Patrick Shiroishi
-- _Hidemi_, by Patrick Shiroishi
 
 </details>
 
@@ -27,14 +20,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
-- _SEQUENCE 01_, by f5ve
 - _Anything Can Be a Hammer_, by bloodsports
+- _SEQUENCE 01_, by f5ve
 - _10:44_, by Brahm
 - _Electric Chair_, by Cities Aviv
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Don't Trust Mirrors_, by Kelly Moran
-- _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
+- _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _Youth Novel_, by Youth Novel
 - _Periphery_, by Periphery
 - _Liminality / Dream State Return_, by Elder
@@ -43,6 +36,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Early Recordings 1994-95_, by Kreidler
 - _Absurd Matter 2_, by Shapednoise
+- _The Spiritual Sound_, by Agriculture
 
 </details>
 
