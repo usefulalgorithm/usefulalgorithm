@@ -23,11 +23,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Anything Can Be a Hammer_, by bloodsports
 - _10:44_, by Brahm
 - _Electric Chair_, by Cities Aviv
-- _SEQUENCE 01_, by f5ve
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Don't Trust Mirrors_, by Kelly Moran
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
+- _SEQUENCE 01_, by f5ve
 - _Youth Novel_, by Youth Novel
 - _Periphery_, by Periphery
 - _Liminality / Dream State Return_, by Elder
