@@ -36,6 +36,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Early Recordings 1994-95_, by Kreidler
+- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _The Spiritual Sound_, by Agriculture
 
 </details>
