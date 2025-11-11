@@ -12,8 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
-- _Dimensional Space (Remastered)_, by Cv313
-- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 
 </details>
 
@@ -34,9 +32,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Liminality / Dream State Return_, by Elder
 - _Black Messiah_, by D'Angelo
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
+- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Early Recordings 1994-95_, by Kreidler
-- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _The Spiritual Sound_, by Agriculture
 
 </details>
