@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Stardust_, by Danny Brown
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 
