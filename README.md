@@ -28,8 +28,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Don't Trust Mirrors_, by Kelly Moran
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
-- _SEQUENCE 01_, by f5ve
 - _Youth Novel_, by Youth Novel
+- _SEQUENCE 01_, by f5ve
 - _Periphery_, by Periphery
 - _Liminality / Dream State Return_, by Elder
 - _Black Messiah_, by D'Angelo
