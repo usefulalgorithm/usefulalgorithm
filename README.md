@@ -20,8 +20,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Anything Can Be a Hammer_, by bloodsports
+- _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _10:44_, by Brahm
 - _Electric Chair_, by Cities Aviv
 - _Speak Daggers_, by Elias Rønnenfelt
