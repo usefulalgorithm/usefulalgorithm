@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Exploiting Dysfunction (Deluxe 25th Anniversary Edition)_, by Cephalic Carnage
 - _Stardust_, by Danny Brown
 - _Forgetting Is Violent_, by Patrick Shiroishi
-- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 
 </details>
 
@@ -21,20 +21,20 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Anything Can Be a Hammer_, by bloodsports
-- _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _10:44_, by Brahm
 - _Electric Chair_, by Cities Aviv
 - _Speak Daggers_, by Elias Rønnenfelt
+- _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Don't Trust Mirrors_, by Kelly Moran
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _Youth Novel_, by Youth Novel
-- _SEQUENCE 01_, by f5ve
 - _Periphery_, by Periphery
 - _Liminality / Dream State Return_, by Elder
 - _Black Messiah_, by D'Angelo
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
+- _SEQUENCE 01_, by f5ve
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Early Recordings 1994-95_, by Kreidler
 - _The Spiritual Sound_, by Agriculture
