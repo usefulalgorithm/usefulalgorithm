@@ -34,10 +34,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Youth Novel_, by Youth Novel
 - _Periphery_, by Periphery
 - _Liminality / Dream State Return_, by Elder
+- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Black Messiah_, by D'Angelo
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
-- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _SEQUENCE 01_, by f5ve
 - _Early Recordings 1994-95_, by Kreidler
 - _The Spiritual Sound_, by Agriculture
