@@ -11,10 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
+- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Dimensional Space (Remastered)_, by Cv313
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Exploiting Dysfunction (Deluxe 25th Anniversary Edition)_, by Cephalic Carnage
-- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Stardust_, by Danny Brown
 
 </details>
