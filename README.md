@@ -29,18 +29,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Electric Chair_, by Cities Aviv
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Don't Trust Mirrors_, by Kelly Moran
-- _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _Youth Novel_, by Youth Novel
+- _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Periphery_, by Periphery
 - _Liminality / Dream State Return_, by Elder
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Black Messiah_, by D'Angelo
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
-- _SEQUENCE 01_, by f5ve
 - _Early Recordings 1994-95_, by Kreidler
-- _The Spiritual Sound_, by Agriculture
 
 </details>
 
