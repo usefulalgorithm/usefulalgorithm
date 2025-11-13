@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _RINA_, by Rina Sawayama
 - _THE BPM_, by Sudan Archives
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
-- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 
 </details>
 
@@ -34,9 +33,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Periphery_, by Periphery
 - _Black Messiah_, by D'Angelo
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
-- _Don't Trust Mirrors_, by Kelly Moran
 - _Early Recordings 1994-95_, by Kreidler
+- _Don't Trust Mirrors_, by Kelly Moran
 - _Liminality / Dream State Return_, by Elder
+- _Forgetting Is Violent_, by Patrick Shiroishi
 
 </details>
 
