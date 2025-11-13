@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
+- _Stardust_, by Danny Brown
 - _RINA_, by Rina Sawayama
 
 </details>
@@ -27,13 +29,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _Youth Novel_, by Youth Novel
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
-- _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
-- _Periphery_, by Periphery
 - _Black Messiah_, by D'Angelo
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
+- _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
+- _Periphery_, by Periphery
 - _Early Recordings 1994-95_, by Kreidler
 - _Don't Trust Mirrors_, by Kelly Moran
-- _Liminality / Dream State Return_, by Elder
 - _Forgetting Is Violent_, by Patrick Shiroishi
 
 </details>
