@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _RINA_, by Rina Sawayama
 - _THE BPM_, by Sudan Archives
-- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 
 </details>
 
