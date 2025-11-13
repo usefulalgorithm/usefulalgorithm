@@ -27,14 +27,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
-- _Youth Novel_, by Youth Novel
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
+- _Youth Novel_, by Youth Novel
 - _Black Messiah_, by D'Angelo
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
-- _Periphery_, by Periphery
 - _Early Recordings 1994-95_, by Kreidler
-- _Don't Trust Mirrors_, by Kelly Moran
+- _Periphery_, by Periphery
 - _Forgetting Is Violent_, by Patrick Shiroishi
 
 </details>
