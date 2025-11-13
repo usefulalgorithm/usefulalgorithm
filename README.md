@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _THE BPM_, by Sudan Archives
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
-- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Dimensional Space (Remastered)_, by Cv313
+- _THE BPM_, by Sudan Archives
+- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Exploiting Dysfunction (Deluxe 25th Anniversary Edition)_, by Cephalic Carnage
 
@@ -31,10 +31,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Don't Trust Mirrors_, by Kelly Moran
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _Youth Novel_, by Youth Novel
+- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Periphery_, by Periphery
 - _Liminality / Dream State Return_, by Elder
-- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Black Messiah_, by D'Angelo
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
