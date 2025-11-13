@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Dimensional Space (Remastered)_, by Cv313
 - _THE BPM_, by Sudan Archives
@@ -28,17 +29,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Electric Chair_, by Cities Aviv
 - _Speak Daggers_, by Elias Rønnenfelt
-- _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
+- _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _Youth Novel_, by Youth Novel
-- _Don't Trust Mirrors_, by Kelly Moran
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Periphery_, by Periphery
+- _Don't Trust Mirrors_, by Kelly Moran
 - _Liminality / Dream State Return_, by Elder
 - _Black Messiah_, by D'Angelo
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Early Recordings 1994-95_, by Kreidler
+- _Forgetting Is Violent_, by Patrick Shiroishi
 
 </details>
 
