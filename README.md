@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _RINA_, by Rina Sawayama
-- _THE BPM_, by Sudan Archives
 
 </details>
 
