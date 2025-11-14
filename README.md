@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Study (of) Breaks_, by Flowstrong
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Dark Eyes_, by Tomasz Stanko Quintet
 - _Isla_, by Portico Quartet
