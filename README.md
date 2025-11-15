@@ -11,13 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Stardust_, by Danny Brown
 - _Study (of) Breaks_, by Flowstrong
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Dark Eyes_, by Tomasz Stanko Quintet
 - _Isla_, by Portico Quartet
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
-- _Stardust_, by Danny Brown
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _RINA_, by Rina Sawayama
 
