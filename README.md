@@ -31,15 +31,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _10:44_, by Brahm
 - _Electric Chair_, by Cities Aviv
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
-- _Speak Daggers_, by Elias Rønnenfelt
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Youth Novel_, by Youth Novel
+- _Speak Daggers_, by Elias Rønnenfelt
 - _Black Messiah_, by D'Angelo
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Early Recordings 1994-95_, by Kreidler
+- _THE BPM_, by Sudan Archives
 - _Periphery_, by Periphery
 
 </details>
