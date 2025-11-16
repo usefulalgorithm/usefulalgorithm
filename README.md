@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Long Procession_, by Amia Venera Landscape
 - _THE BPM_, by Sudan Archives
 - _Stardust_, by Danny Brown
 - _Study (of) Breaks_, by Flowstrong
@@ -36,12 +37,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Youth Novel_, by Youth Novel
 - _Speak Daggers_, by Elias Rønnenfelt
 - _Black Messiah_, by D'Angelo
-- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Early Recordings 1994-95_, by Kreidler
 - _THE BPM_, by Sudan Archives
-- _Periphery_, by Periphery
+- _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 
 </details>
 
