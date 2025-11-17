@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Supreme Clientele_, by Ghostface Killah
 - _Supreme Blientele_, by Westside Gunn
 - _HEELS HAVE EYES 2_, by Westside Gunn
-- _Supreme Clientele_, by Ghostface Killah
 - _Stardust_, by Danny Brown
 - _The Long Procession_, by Amia Venera Landscape
 - _THE BPM_, by Sudan Archives
