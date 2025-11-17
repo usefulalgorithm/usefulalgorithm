@@ -17,8 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Study (of) Breaks_, by Flowstrong
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Dark Eyes_, by Tomasz Stanko Quintet
-- _Isla_, by Portico Quartet
-- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 
 </details>
 
