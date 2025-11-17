@@ -11,16 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Stardust_, by Danny Brown
 - _The Long Procession_, by Amia Venera Landscape
 - _THE BPM_, by Sudan Archives
-- _Stardust_, by Danny Brown
 - _Study (of) Breaks_, by Flowstrong
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Dark Eyes_, by Tomasz Stanko Quintet
 - _Isla_, by Portico Quartet
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
-- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
-- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 
 </details>
 
@@ -36,10 +34,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Youth Novel_, by Youth Novel
 - _Speak Daggers_, by Elias Rønnenfelt
-- _Black Messiah_, by D'Angelo
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Early Recordings 1994-95_, by Kreidler
+- _Black Messiah_, by D'Angelo
+- _Stardust_, by Danny Brown
 - _THE BPM_, by Sudan Archives
 - _HUMAN ERROR CLUB AT KENNY'S HOUSE_, by HUMAN ERROR CLUB, Kenny Segal
 
