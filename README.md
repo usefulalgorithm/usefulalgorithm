@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Supreme Blientele_, by Westside Gunn
 
 </details>
@@ -19,20 +20,20 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
-- _Anything Can Be a Hammer_, by bloodsports
 - _10:44_, by Brahm
 - _Electric Chair_, by Cities Aviv
+- _Anything Can Be a Hammer_, by bloodsports
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
-- _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
+- _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _Youth Novel_, by Youth Novel
 - _Speak Daggers_, by Elias Rønnenfelt
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Early Recordings 1994-95_, by Kreidler
 - _Stardust_, by Danny Brown
-- _THE BPM_, by Sudan Archives
 - _Supreme Blientele_, by Westside Gunn
+- _THE BPM_, by Sudan Archives
 
 </details>
 
