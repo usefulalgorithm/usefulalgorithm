@@ -22,9 +22,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _10:44_, by Brahm
 - _Electric Chair_, by Cities Aviv
-- _Anything Can Be a Hammer_, by bloodsports
-- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
+- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
+- _Anything Can Be a Hammer_, by bloodsports
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _Youth Novel_, by Youth Novel
 - _Speak Daggers_, by Elias Rønnenfelt
