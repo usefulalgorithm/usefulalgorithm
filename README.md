@@ -13,8 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Supreme Blientele_, by Westside Gunn
 - _Supreme Clientele_, by Ghostface Killah
-- _HEELS HAVE EYES 2_, by Westside Gunn
-- _Stardust_, by Danny Brown
 
 </details>
 
@@ -35,6 +33,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Early Recordings 1994-95_, by Kreidler
 - _Stardust_, by Danny Brown
 - _THE BPM_, by Sudan Archives
+- _Supreme Blientele_, by Westside Gunn
 
 </details>
 
