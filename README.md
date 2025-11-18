@@ -26,14 +26,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
-- _Anything Can Be a Hammer_, by bloodsports
 - _Youth Novel_, by Youth Novel
 - _Speak Daggers_, by Elias Rønnenfelt
+- _Anything Can Be a Hammer_, by bloodsports
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
+- _Supreme Blientele_, by Westside Gunn
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Early Recordings 1994-95_, by Kreidler
 - _Stardust_, by Danny Brown
-- _Supreme Blientele_, by Westside Gunn
 - _THE BPM_, by Sudan Archives
 
 </details>
