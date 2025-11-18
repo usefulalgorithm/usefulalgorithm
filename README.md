@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Supreme Blientele_, by Westside Gunn
-- _Supreme Clientele_, by Ghostface Killah
 
 </details>
 
