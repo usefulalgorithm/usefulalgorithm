@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Redux_, by Basic Unit
-- _Supreme Blientele_, by Westside Gunn
 
 </details>
 
@@ -25,8 +24,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Electric Chair_, by Cities Aviv
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
-- _Anything Can Be a Hammer_, by bloodsports
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
+- _Anything Can Be a Hammer_, by bloodsports
 - _Youth Novel_, by Youth Novel
 - _Speak Daggers_, by Elias Rønnenfelt
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
