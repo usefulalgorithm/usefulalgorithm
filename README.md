@@ -35,6 +35,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Early Recordings 1994-95_, by Kreidler
 - _Stardust_, by Danny Brown
 - _THE BPM_, by Sudan Archives
+- _RINA_, by Rina Sawayama
 
 </details>
 
