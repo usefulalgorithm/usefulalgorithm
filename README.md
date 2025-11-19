@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Supreme Blientele_, by Westside Gunn
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
+- _Supreme Blientele_, by Westside Gunn
 - _Redux_, by Basic Unit
 
 </details>
