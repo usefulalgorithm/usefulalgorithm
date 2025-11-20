@@ -29,15 +29,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _Youth Novel_, by Youth Novel
-- _Speak Daggers_, by Elias Rønnenfelt
-- _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Supreme Blientele_, by Westside Gunn
 - _Forgetting Is Violent_, by Patrick Shiroishi
-- _Anything Can Be a Hammer_, by bloodsports
-- _Early Recordings 1994-95_, by Kreidler
 - _Stardust_, by Danny Brown
+- _Speak Daggers_, by Elias Rønnenfelt
 - _THE BPM_, by Sudan Archives
+- _Early Recordings 1994-95_, by Kreidler
+- _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
+- _Anything Can Be a Hammer_, by bloodsports
 - _RINA_, by Rina Sawayama
+- _Holy Wars... The Punishment Due_, by FAKE MUSIC
 
 </details>
 
