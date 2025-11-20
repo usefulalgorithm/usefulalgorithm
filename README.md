@@ -32,7 +32,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Supreme Blientele_, by Westside Gunn
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Stardust_, by Danny Brown
-- _Speak Daggers_, by Elias Rønnenfelt
 - _THE BPM_, by Sudan Archives
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Anything Can Be a Hammer_, by bloodsports
