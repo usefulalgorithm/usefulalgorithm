@@ -11,11 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Long Procession_, by Amia Venera Landscape
+- _Things We Lost in the Fire_, by Low
 - _Supreme Blientele_, by Westside Gunn
 - _馬_, by betcover!!
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Live Laugh Love_, by Earl Sweatshirt
-- _The Long Procession_, by Amia Venera Landscape
 
 </details>
 
