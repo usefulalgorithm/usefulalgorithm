@@ -11,21 +11,21 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _馬_, by betcover!!
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Supreme Blientele_, by Westside Gunn
 - _Live Laugh Love_, by Earl Sweatshirt
 - _The Long Procession_, by Amia Venera Landscape
-- _Redux_, by Basic Unit
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
+- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _10:44_, by Brahm
 - _Electric Chair_, by Cities Aviv
-- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _Youth Novel_, by Youth Novel
@@ -34,7 +34,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Stardust_, by Danny Brown
 - _Speak Daggers_, by Elias Rønnenfelt
 - _THE BPM_, by Sudan Archives
-- _Early Recordings 1994-95_, by Kreidler
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Anything Can Be a Hammer_, by bloodsports
 - _RINA_, by Rina Sawayama
