@@ -27,9 +27,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _10:44_, by Brahm
 - _Electric Chair_, by Cities Aviv
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
-- _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _Youth Novel_, by Youth Novel
 - _Supreme Blientele_, by Westside Gunn
+- _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Stardust_, by Danny Brown
 - _The Long Procession_, by Amia Venera Landscape
