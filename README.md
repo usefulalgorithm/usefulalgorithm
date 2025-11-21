@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Long Procession_, by Amia Venera Landscape
 - _Things We Lost in the Fire_, by Low
 - _Supreme Blientele_, by Westside Gunn
-- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 
 </details>
 
@@ -36,9 +35,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Long Procession_, by Amia Venera Landscape
 - _THE BPM_, by Sudan Archives
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
-- _Anything Can Be a Hammer_, by bloodsports
 - _RINA_, by Rina Sawayama
 - _Holy Wars... The Punishment Due_, by FAKE MUSIC
+- _馬_, by betcover!!
 
 </details>
 
