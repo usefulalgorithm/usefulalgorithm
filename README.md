@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _馬_, by betcover!!
+- _卵_, by betcover!!
 - _The Long Procession_, by Amia Venera Landscape
 - _Things We Lost in the Fire_, by Low
 - _Supreme Blientele_, by Westside Gunn
-- _馬_, by betcover!!
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
-- _Live Laugh Love_, by Earl Sweatshirt
 
 </details>
 
@@ -33,6 +33,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Supreme Blientele_, by Westside Gunn
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Stardust_, by Danny Brown
+- _The Long Procession_, by Amia Venera Landscape
 - _THE BPM_, by Sudan Archives
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _Anything Can Be a Hammer_, by bloodsports
