@@ -23,12 +23,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
-- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _10:44_, by Brahm
 - _Electric Chair_, by Cities Aviv
+- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
-- _Youth Novel_, by Youth Novel
 - _Supreme Blientele_, by Westside Gunn
+- _Youth Novel_, by Youth Novel
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Stardust_, by Danny Brown
@@ -37,7 +37,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _RINA_, by Rina Sawayama
 - _Holy Wars... The Punishment Due_, by FAKE MUSIC
-- _馬_, by betcover!!
 
 </details>
 
