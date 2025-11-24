@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Blue Nowhere_, by Between The Buried And Me
 - _Stardust_, by Danny Brown
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Supreme Blientele_, by Westside Gunn
 - _馬_, by betcover!!
 - _卵_, by betcover!!
-- _The Long Procession_, by Amia Venera Landscape
-- _Things We Lost in the Fire_, by Low
 
 </details>
 
