@@ -29,12 +29,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Supreme Blientele_, by Westside Gunn
 - _Youth Novel_, by Youth Novel
-- _The Long Procession_, by Amia Venera Landscape
 - _Forgetting Is Violent_, by Patrick Shiroishi
+- _The Long Procession_, by Amia Venera Landscape
 - _Stardust_, by Danny Brown
 - _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _THE BPM_, by Sudan Archives
-- _たのしみ_, by U-zhaan, Tamaki Roy, Chinza Dopeness
 - _RINA_, by Rina Sawayama
 - _Holy Wars... The Punishment Due_, by FAKE MUSIC
 
