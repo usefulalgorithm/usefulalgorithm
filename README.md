@@ -16,8 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Blue Nowhere_, by Between The Buried And Me
 - _Stardust_, by Danny Brown
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
-- _Supreme Blientele_, by Westside Gunn
-- _馬_, by betcover!!
 
 </details>
 
