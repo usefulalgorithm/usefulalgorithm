@@ -11,13 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
+- _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Stardust_, by Danny Brown
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _World Maker_, by Psychonaut
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
-- _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
-- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _The Long Procession_, by Amia Venera Landscape
 
 </details>
