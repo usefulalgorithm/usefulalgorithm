@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _World Maker_, by Psychonaut
+- _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _The Long Procession_, by Amia Venera Landscape
-- _The Blue Nowhere_, by Between The Buried And Me
-- _Stardust_, by Danny Brown
 
 </details>
 
@@ -33,8 +33,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _The Long Procession_, by Amia Venera Landscape
 - _Stardust_, by Danny Brown
-- _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _THE BPM_, by Sudan Archives
+- _Bounce N Break Yo Back_, by DJ Spinn, Teklife
 - _RINA_, by Rina Sawayama
 - _Holy Wars... The Punishment Due_, by FAKE MUSIC
 
