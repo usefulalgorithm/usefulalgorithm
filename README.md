@@ -12,8 +12,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Stardust_, by Danny Brown
-- _Haram_, by Armand Hammer, The Alchemist
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
+- _Haram_, by Armand Hammer, The Alchemist
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Forgetting Is Violent_, by Patrick Shiroishi
@@ -31,8 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Supreme Blientele_, by Westside Gunn
-- _10:44_, by Brahm
 - _Stardust_, by Danny Brown
+- _10:44_, by Brahm
 - _The Long Procession_, by Amia Venera Landscape
 - _Youth Novel_, by Youth Novel
 - _THE BPM_, by Sudan Archives
