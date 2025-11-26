@@ -17,7 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Haram_, by Armand Hammer, The Alchemist
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Melt My Eyez See Your Future_, by Denzel Curry
-- _Forgetting Is Violent_, by Patrick Shiroishi
 
 </details>
 
