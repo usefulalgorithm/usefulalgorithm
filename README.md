@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Stardust_, by Danny Brown
 - _Haram_, by Armand Hammer, The Alchemist
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Melt My Eyez See Your Future_, by Denzel Curry
-- _Stardust_, by Danny Brown
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _World Maker_, by Psychonaut
 - _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
@@ -32,9 +32,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Supreme Blientele_, by Westside Gunn
 - _10:44_, by Brahm
+- _Stardust_, by Danny Brown
 - _The Long Procession_, by Amia Venera Landscape
 - _Youth Novel_, by Youth Novel
-- _Stardust_, by Danny Brown
 - _THE BPM_, by Sudan Archives
 - _RINA_, by Rina Sawayama
 - _Holy Wars... The Punishment Due_, by FAKE MUSIC
