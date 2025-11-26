@@ -18,7 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _World Maker_, by Psychonaut
-- _THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED_, by The Armed
 
 </details>
 
@@ -32,12 +31,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Supreme Blientele_, by Westside Gunn
 - _Stardust_, by Danny Brown
-- _10:44_, by Brahm
 - _The Long Procession_, by Amia Venera Landscape
-- _Youth Novel_, by Youth Novel
+- _10:44_, by Brahm
 - _THE BPM_, by Sudan Archives
+- _Youth Novel_, by Youth Novel
 - _RINA_, by Rina Sawayama
 - _Holy Wars... The Punishment Due_, by FAKE MUSIC
+- _馬_, by betcover!!
 
 </details>
 
