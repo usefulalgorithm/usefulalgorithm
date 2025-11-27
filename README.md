@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _Stardust_, by Danny Brown
-- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
+- _Hidemi_, by Patrick Shiroishi
+- _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 
 </details>
 
@@ -28,9 +28,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Stardust_, by Danny Brown
 - _The Long Procession_, by Amia Venera Landscape
-- _10:44_, by Brahm
 - _THE BPM_, by Sudan Archives
-- _Youth Novel_, by Youth Novel
+- _10:44_, by Brahm
 - _RINA_, by Rina Sawayama
 - _Holy Wars... The Punishment Due_, by FAKE MUSIC
 - _馬_, by betcover!!
