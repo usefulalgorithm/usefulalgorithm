@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _Stardust_, by Danny Brown
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
-- _Haram_, by Armand Hammer, The Alchemist
 
 </details>
 
