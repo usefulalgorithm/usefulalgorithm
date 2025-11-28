@@ -25,10 +25,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Stardust_, by Danny Brown
 - _Forgetting Is Violent_, by Patrick Shiroishi
-- _Electric Chair_, by Cities Aviv
 - _Supreme Blientele_, by Westside Gunn
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _The Long Procession_, by Amia Venera Landscape
+- _Electric Chair_, by Cities Aviv
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _THE BPM_, by Sudan Archives
 - _10:44_, by Brahm
