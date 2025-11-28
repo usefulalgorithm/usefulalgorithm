@@ -22,10 +22,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
-- _Electric Chair_, by Cities Aviv
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Stardust_, by Danny Brown
 - _Forgetting Is Violent_, by Patrick Shiroishi
+- _Electric Chair_, by Cities Aviv
 - _Supreme Blientele_, by Westside Gunn
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _The Long Procession_, by Amia Venera Landscape
