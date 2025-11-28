@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
+- _Forgetting Is Violent_, by Patrick Shiroishi
 - _Stardust_, by Danny Brown
 - _World Maker_, by Psychonaut
-- _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _Hidemi_, by Patrick Shiroishi
 
 </details>
