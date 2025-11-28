@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Stardust_, by Danny Brown
 - _World Maker_, by Psychonaut
-- _Hidemi_, by Patrick Shiroishi
 
 </details>
 
