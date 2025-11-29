@@ -36,8 +36,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Supreme Blientele_, by Westside Gunn
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _The Long Procession_, by Amia Venera Landscape
-- _Electric Chair_, by Cities Aviv
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
+- _Electric Chair_, by Cities Aviv
 - _THE BPM_, by Sudan Archives
 - _10:44_, by Brahm
 - _RINA_, by Rina Sawayama
