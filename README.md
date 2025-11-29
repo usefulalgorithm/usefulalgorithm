@@ -11,14 +11,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _2:54_, by 2:54
+- _Tranquilizer_, by Oneohtrix Point Never
+- _Good To Be Home_, by Blu
 - _Koch_, by Lee Gamble
+- _Ghost Culture_, by Ghost Culture
+- _LP_, by Nomo
+- _Church With No Magic_, by PVT
+- _2:54_, by 2:54
 - _Clarence Park_, by Clark
 - _Matmos_, by Matmos
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Stardust_, by Danny Brown
-- _World Maker_, by Psychonaut
 
 </details>
 
