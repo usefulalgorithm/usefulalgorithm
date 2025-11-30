@@ -34,15 +34,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Stardust_, by Danny Brown
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Supreme Blientele_, by Westside Gunn
-- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _The Long Procession_, by Amia Venera Landscape
+- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _Electric Chair_, by Cities Aviv
 - _THE BPM_, by Sudan Archives
-- _10:44_, by Brahm
 - _RINA_, by Rina Sawayama
 - _Holy Wars... The Punishment Due_, by FAKE MUSIC
 - _馬_, by betcover!!
+- _10:44_, by Brahm
 
 </details>
 
