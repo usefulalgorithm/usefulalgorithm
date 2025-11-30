@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Tranquilizer_, by Oneohtrix Point Never
+- _Forgetting Is Violent_, by Patrick Shiroishi
 - _Dancin' In The Streets_, by Rat Heart
 - _Chiasma_, by Yosuke Yamashita Trio
-- _Tranquilizer_, by Oneohtrix Point Never
 - _Good To Be Home_, by Blu
 - _Koch_, by Lee Gamble
 - _Ghost Culture_, by Ghost Culture
@@ -21,8 +22,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Church With No Magic_, by PVT
 - _2:54_, by 2:54
 - _Clarence Park_, by Clark
-- _Matmos_, by Matmos
-- _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 
 </details>
 
