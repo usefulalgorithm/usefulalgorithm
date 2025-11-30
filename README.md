@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Dancin' In The Streets_, by Rat Heart
 - _Chiasma_, by Yosuke Yamashita Trio
 - _Tranquilizer_, by Oneohtrix Point Never
 - _Good To Be Home_, by Blu
@@ -22,8 +23,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Clarence Park_, by Clark
 - _Matmos_, by Matmos
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
-- _Forgetting Is Violent_, by Patrick Shiroishi
-- _Stardust_, by Danny Brown
 
 </details>
 
