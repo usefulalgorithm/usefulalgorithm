@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Chiasma_, by Yosuke Yamashita Trio
 - _Tranquilizer_, by Oneohtrix Point Never
 - _Good To Be Home_, by Blu
 - _Koch_, by Lee Gamble
