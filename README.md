@@ -11,17 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _SUBLOW_, by Jon E Cash
 - _Tranquilizer_, by Oneohtrix Point Never
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Dancin' In The Streets_, by Rat Heart
 - _Chiasma_, by Yosuke Yamashita Trio
-- _Good To Be Home_, by Blu
-- _Koch_, by Lee Gamble
-- _Ghost Culture_, by Ghost Culture
-- _LP_, by Nomo
-- _Church With No Magic_, by PVT
-- _2:54_, by 2:54
-- _Clarence Park_, by Clark
 
 </details>
 
