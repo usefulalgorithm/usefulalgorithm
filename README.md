@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tranquilizer_, by Oneohtrix Point Never
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Dancin' In The Streets_, by Rat Heart
-- _Chiasma_, by Yosuke Yamashita Trio
 
 </details>
 
@@ -35,7 +34,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _RINA_, by Rina Sawayama
 - _Holy Wars... The Punishment Due_, by FAKE MUSIC
 - _馬_, by betcover!!
-- _10:44_, by Brahm
 
 </details>
 
