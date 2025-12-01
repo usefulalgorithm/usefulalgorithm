@@ -13,8 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Tranquilizer_, by Oneohtrix Point Never
 - _SUBLOW_, by Jon E Cash
-- _Forgetting Is Violent_, by Patrick Shiroishi
-- _Dancin' In The Streets_, by Rat Heart
 
 </details>
 
