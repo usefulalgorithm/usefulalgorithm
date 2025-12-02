@@ -12,9 +12,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Tranquilizer_, by Oneohtrix Point Never
-- _Implosion_, by The Bug, Ghost Dubs
 - _Silhouettes of Disgust_, by Downfall Of Gaia
-- _Anything Can Be a Hammer_, by bloodsports
+- _Implosion_, by The Bug, Ghost Dubs
 
 </details>
 
@@ -29,12 +28,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Long Procession_, by Amia Venera Landscape
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
-- _Electric Chair_, by Cities Aviv
 - _THE BPM_, by Sudan Archives
 - _RINA_, by Rina Sawayama
 - _Holy Wars... The Punishment Due_, by FAKE MUSIC
 - _馬_, by betcover!!
 - _Tranquilizer_, by Oneohtrix Point Never
+- _Electric Chair_, by Cities Aviv
 
 </details>
 
