@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Tranquilizer_, by Oneohtrix Point Never
 - _Implosion_, by The Bug, Ghost Dubs
 - _Silhouettes of Disgust_, by Downfall Of Gaia
 - _Anything Can Be a Hammer_, by bloodsports
-- _Tranquilizer_, by Oneohtrix Point Never
 
 </details>
 
