@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Dancin' In The Streets_, by Rat Heart
 - _Anything Can Be a Hammer_, by bloodsports
 - _Tranquilizer_, by Oneohtrix Point Never
 - _Silhouettes of Disgust_, by Downfall Of Gaia
