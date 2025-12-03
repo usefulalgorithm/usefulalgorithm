@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Implosion_, by The Bug, Ghost Dubs
 - _Dancin' In The Streets_, by Rat Heart
+- _TIMESOFPERIL_, by Sleep Sinatra
 - _Anything Can Be a Hammer_, by bloodsports
-- _Tranquilizer_, by Oneohtrix Point Never
-- _Silhouettes of Disgust_, by Downfall Of Gaia
 
 </details>
 
@@ -27,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Supreme Blientele_, by Westside Gunn
 - _The Long Procession_, by Amia Venera Landscape
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
-- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
+- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _Tranquilizer_, by Oneohtrix Point Never
 - _THE BPM_, by Sudan Archives
 - _RINA_, by Rina Sawayama
