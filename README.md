@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Tranquilizer_, by Oneohtrix Point Never
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Implosion_, by The Bug, Ghost Dubs
 - _Dancin' In The Streets_, by Rat Heart
