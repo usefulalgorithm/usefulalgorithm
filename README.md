@@ -33,9 +33,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tranquilizer_, by Oneohtrix Point Never
 - _THE BPM_, by Sudan Archives
 - _RINA_, by Rina Sawayama
-- _Holy Wars... The Punishment Due_, by FAKE MUSIC
 - _馬_, by betcover!!
-- _Electric Chair_, by Cities Aviv
 
 </details>
 
