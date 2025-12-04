@@ -28,10 +28,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tranquilizer_, by Oneohtrix Point Never
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
-- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _THE BPM_, by Sudan Archives
 - _RINA_, by Rina Sawayama
 - _馬_, by betcover!!
+- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 
 </details>
 
