@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Tranquilizer_, by Oneohtrix Point Never
+- _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Implosion_, by The Bug, Ghost Dubs
 
 </details>
@@ -32,6 +32,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _馬_, by betcover!!
 - _THE BPM_, by Sudan Archives
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
+- _Dancin' In The Streets_, by Rat Heart
 
 </details>
 
