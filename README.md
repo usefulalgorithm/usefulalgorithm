@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Tranquilizer_, by Oneohtrix Point Never
 - _Implosion_, by The Bug, Ghost Dubs
 
@@ -38,7 +39,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 Just finished reading _Among the Thugs_, by Bill Buford ([link](https://hardcover.app/books/among-the-thugs)). It's a good book.
 
-Gotta finish 25 books before 2026-01-01. I've read 17 so far.
+Gotta finish 25 books before 2026-01-01. I've read 18 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
