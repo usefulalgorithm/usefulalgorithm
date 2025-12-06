@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Stardust_, by Danny Brown
 - _Tranquilizer_, by Oneohtrix Point Never
@@ -32,6 +33,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _RINA_, by Rina Sawayama
 - _馬_, by betcover!!
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
+- _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 
 </details>
 
