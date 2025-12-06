@@ -32,7 +32,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _RINA_, by Rina Sawayama
 - _馬_, by betcover!!
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
-- _Dancin' In The Streets_, by Rat Heart
 
 </details>
 
