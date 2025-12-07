@@ -26,8 +26,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Stardust_, by Danny Brown
-- _Forgetting Is Violent_, by Patrick Shiroishi
 - _Supreme Blientele_, by Westside Gunn
+- _Forgetting Is Violent_, by Patrick Shiroishi
 - _Tranquilizer_, by Oneohtrix Point Never
 - _The Long Procession_, by Amia Venera Landscape
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
