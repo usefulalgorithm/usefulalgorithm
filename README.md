@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Chiasma_, by Yosuke Yamashita Trio
 - _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _Tyed_, by Olly Steele
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
@@ -24,8 +25,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
-- _Stardust_, by Danny Brown
 - _Supreme Blientele_, by Westside Gunn
+- _Stardust_, by Danny Brown
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Tranquilizer_, by Oneohtrix Point Never
 - _The Long Procession_, by Amia Venera Landscape
@@ -33,6 +34,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _RINA_, by Rina Sawayama
 - _馬_, by betcover!!
+- _World Maker_, by Psychonaut
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 
