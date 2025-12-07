@@ -17,7 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Stardust_, by Danny Brown
 - _Tranquilizer_, by Oneohtrix Point Never
-- _Implosion_, by The Bug, Ghost Dubs
 
 </details>
 
