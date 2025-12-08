@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Stygian Bough Volume II_, by Bell Witch, Aerial Ruin
 - _Live Laugh Love_, by Earl Sweatshirt
 - _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _Chiasma_, by Yosuke Yamashita Trio
 - _Tyed_, by Olly Steele
-- _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 
 </details>
 
