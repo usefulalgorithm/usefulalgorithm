@@ -11,13 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Live Laugh Love_, by Earl Sweatshirt
 - _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _Chiasma_, by Yosuke Yamashita Trio
 - _Tyed_, by Olly Steele
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
-- _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
-- _Stardust_, by Danny Brown
-- _Tranquilizer_, by Oneohtrix Point Never
 
 </details>
 
