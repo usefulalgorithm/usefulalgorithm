@@ -33,6 +33,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _RINA_, by Rina Sawayama
+- _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _馬_, by betcover!!
 - _World Maker_, by Psychonaut
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
