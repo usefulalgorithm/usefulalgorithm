@@ -35,8 +35,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _World Maker_, by Psychonaut
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
-- _The Smashing Machine (Original Motion Picture Soundtrack)_, by Nala Sinephro
 - _Dancin' In The Streets_, by Rat Heart
+- _Implosion_, by The Bug, Ghost Dubs
 
 </details>
 
