@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Heavy Rocks (2011)_, by Boris
+- _Amplifier Worship_, by Boris
+- _Pink_, by Boris
 - _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _Stygian Bough Volume II_, by Bell Witch, Aerial Ruin
 - _Live Laugh Love_, by Earl Sweatshirt
@@ -35,7 +38,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Dancin' In The Streets_, by Rat Heart
 - _Implosion_, by The Bug, Ghost Dubs
-- _THE BPM_, by Sudan Archives
 
 </details>
 
