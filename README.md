@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _Stygian Bough Volume II_, by Bell Witch, Aerial Ruin
 - _Live Laugh Love_, by Earl Sweatshirt
-- _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _Chiasma_, by Yosuke Yamashita Trio
 - _Tyed_, by Olly Steele
 
