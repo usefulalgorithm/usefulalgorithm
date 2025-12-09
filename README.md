@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _Stygian Bough Volume II_, by Bell Witch, Aerial Ruin
 - _Live Laugh Love_, by Earl Sweatshirt
-- _Chiasma_, by Yosuke Yamashita Trio
 
 </details>
 
@@ -23,12 +22,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Supreme Blientele_, by Westside Gunn
-- _Stardust_, by Danny Brown
 - _HAYWARDxDÄLEK_, by dälek, Charles Hayward
+- _Stardust_, by Danny Brown
 - _Tranquilizer_, by Oneohtrix Point Never
 - _The Long Procession_, by Amia Venera Landscape
-- _Forgetting Is Violent_, by Patrick Shiroishi
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
+- _Forgetting Is Violent_, by Patrick Shiroishi
 - _RINA_, by Rina Sawayama
 - _馬_, by betcover!!
 - _World Maker_, by Psychonaut
