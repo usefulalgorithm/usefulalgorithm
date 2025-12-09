@@ -21,8 +21,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
-- _Supreme Blientele_, by Westside Gunn
 - _HAYWARDxDÄLEK_, by dälek, Charles Hayward
+- _Supreme Blientele_, by Westside Gunn
 - _Stardust_, by Danny Brown
 - _Tranquilizer_, by Oneohtrix Point Never
 - _The Long Procession_, by Amia Venera Landscape
