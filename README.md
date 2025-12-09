@@ -27,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Tranquilizer_, by Oneohtrix Point Never
 - _The Long Procession_, by Amia Venera Landscape
-- _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _HAYWARDxDÄLEK_, by dälek, Charles Hayward
+- _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _RINA_, by Rina Sawayama
 - _馬_, by betcover!!
 - _World Maker_, by Psychonaut
@@ -36,6 +36,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Dancin' In The Streets_, by Rat Heart
 - _Implosion_, by The Bug, Ghost Dubs
+- _THE BPM_, by Sudan Archives
 
 </details>
 
