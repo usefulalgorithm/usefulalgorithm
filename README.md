@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Implosion_, by The Bug, Ghost Dubs
 - _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _Heavy Rocks (2011)_, by Boris
 - _Amplifier Worship_, by Boris
 - _Pink_, by Boris
-- _Stygian Bough Volume II_, by Bell Witch, Aerial Ruin
-- _Live Laugh Love_, by Earl Sweatshirt
 
 </details>
 
@@ -33,11 +32,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _RINA_, by Rina Sawayama
 - _馬_, by betcover!!
+- _Implosion_, by The Bug, Ghost Dubs
 - _World Maker_, by Psychonaut
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Dancin' In The Streets_, by Rat Heart
-- _Implosion_, by The Bug, Ghost Dubs
 
 </details>
 
