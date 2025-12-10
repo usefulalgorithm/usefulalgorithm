@@ -30,9 +30,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Long Procession_, by Amia Venera Landscape
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _Forgetting Is Violent_, by Patrick Shiroishi
+- _Implosion_, by The Bug, Ghost Dubs
 - _RINA_, by Rina Sawayama
 - _馬_, by betcover!!
-- _Implosion_, by The Bug, Ghost Dubs
 - _World Maker_, by Psychonaut
 - _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
