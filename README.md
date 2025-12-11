@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _TIMESOFPERIL_, by Sleep Sinatra
 - _Implosion_, by The Bug, Ghost Dubs
 - _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _Heavy Rocks (2011)_, by Boris
