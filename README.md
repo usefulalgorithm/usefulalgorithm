@@ -35,7 +35,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _RINA_, by Rina Sawayama
 - _馬_, by betcover!!
 - _World Maker_, by Psychonaut
-- _Ghosted III_, by Oren Ambarchi, Johan Berthling, Andreas Werliin
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Dancin' In The Streets_, by Rat Heart
 
