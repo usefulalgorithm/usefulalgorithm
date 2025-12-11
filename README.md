@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _End of the Middle_, by Richard Dawson
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
+- _End of the Middle_, by Richard Dawson
 - _Implosion_, by The Bug, Ghost Dubs
 - _TIMESOFPERIL_, by Sleep Sinatra
 
