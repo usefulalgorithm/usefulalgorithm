@@ -34,7 +34,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _World Maker_, by Psychonaut
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Dancin' In The Streets_, by Rat Heart
-- _RINA_, by Rina Sawayama
 
 </details>
 
