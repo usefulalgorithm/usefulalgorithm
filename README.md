@@ -11,21 +11,21 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _End of the Middle_, by Richard Dawson
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _Implosion_, by The Bug, Ghost Dubs
 - _TIMESOFPERIL_, by Sleep Sinatra
-- _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _HAYWARDxDÄLEK_, by dälek, Charles Hayward
+- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Supreme Blientele_, by Westside Gunn
-- _Stardust_, by Danny Brown
 - _Tranquilizer_, by Oneohtrix Point Never
+- _Stardust_, by Danny Brown
 - _The Long Procession_, by Amia Venera Landscape
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _Forgetting Is Violent_, by Patrick Shiroishi
