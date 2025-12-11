@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Implosion_, by The Bug, Ghost Dubs
 - _TIMESOFPERIL_, by Sleep Sinatra
 - _HAYWARDxDÄLEK_, by dälek, Charles Hayward
-- _Heavy Rocks (2011)_, by Boris
 
 </details>
 
@@ -31,11 +30,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Implosion_, by The Bug, Ghost Dubs
-- _RINA_, by Rina Sawayama
 - _馬_, by betcover!!
 - _World Maker_, by Psychonaut
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Dancin' In The Streets_, by Rat Heart
+- _RINA_, by Rina Sawayama
 
 </details>
 
