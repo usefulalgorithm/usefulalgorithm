@@ -12,12 +12,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
-- _TIMESOFPERIL_, by Sleep Sinatra
 - _Implosion_, by The Bug, Ghost Dubs
+- _TIMESOFPERIL_, by Sleep Sinatra
 - _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _Heavy Rocks (2011)_, by Boris
-- _Amplifier Worship_, by Boris
-- _Pink_, by Boris
 
 </details>
 
