@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Frances the Mute_, by The Mars Volta
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
-- _End of the Middle_, by Richard Dawson
 - _Implosion_, by The Bug, Ghost Dubs
+- _End of the Middle_, by Richard Dawson
 - _TIMESOFPERIL_, by Sleep Sinatra
 
 </details>
@@ -28,8 +29,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Stardust_, by Danny Brown
 - _The Long Procession_, by Amia Venera Landscape
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
-- _Forgetting Is Violent_, by Patrick Shiroishi
 - _Implosion_, by The Bug, Ghost Dubs
+- _Forgetting Is Violent_, by Patrick Shiroishi
 - _馬_, by betcover!!
 - _World Maker_, by Psychonaut
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
