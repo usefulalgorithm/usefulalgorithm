@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _End of the Middle_, by Richard Dawson
 - _Frances the Mute_, by The Mars Volta
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
-- _Implosion_, by The Bug, Ghost Dubs
 
 </details>
 
