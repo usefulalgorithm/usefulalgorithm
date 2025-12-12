@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Desaceleradas_, by Debit
 - _End of the Middle_, by Richard Dawson
 - _Frances the Mute_, by The Mars Volta
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
