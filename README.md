@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Desaceleradas_, by Debit
 - _Peasant_, by Richard Dawson
 - _End of the Middle_, by Richard Dawson
-- _Desaceleradas_, by Debit
 
 </details>
 
