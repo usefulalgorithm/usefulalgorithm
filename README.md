@@ -37,6 +37,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Dancin' In The Streets_, by Rat Heart
 - _End of the Middle_, by Richard Dawson
 - _Things We Lost in the Fire_, by Low
+- _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 
 </details>
 
