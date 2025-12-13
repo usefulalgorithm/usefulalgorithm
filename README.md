@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Things We Lost in the Fire_, by Low
 - _Desaceleradas_, by Debit
+- _Things We Lost in the Fire_, by Low
 - _Peasant_, by Richard Dawson
 - _End of the Middle_, by Richard Dawson
 
@@ -35,6 +35,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Dancin' In The Streets_, by Rat Heart
 - _End of the Middle_, by Richard Dawson
+- _Things We Lost in the Fire_, by Low
 
 </details>
 
