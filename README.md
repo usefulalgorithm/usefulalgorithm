@@ -26,17 +26,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Supreme Blientele_, by Westside Gunn
 - _Tranquilizer_, by Oneohtrix Point Never
-- _The Long Procession_, by Amia Venera Landscape
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
-- _Stardust_, by Danny Brown
 - _Implosion_, by The Bug, Ghost Dubs
+- _Stardust_, by Danny Brown
+- _The Long Procession_, by Amia Venera Landscape
+- _Desaceleradas_, by Debit
 - _馬_, by betcover!!
 - _World Maker_, by Psychonaut
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Dancin' In The Streets_, by Rat Heart
-- _Desaceleradas_, by Debit
-- _End of the Middle_, by Richard Dawson
 - _Things We Lost in the Fire_, by Low
 
 </details>
