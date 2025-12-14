@@ -35,9 +35,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Dancin' In The Streets_, by Rat Heart
+- _Desaceleradas_, by Debit
 - _End of the Middle_, by Richard Dawson
 - _Things We Lost in the Fire_, by Low
-- _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 
 </details>
 
