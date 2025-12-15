@@ -21,8 +21,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
-- _Supreme Blientele_, by Westside Gunn
 - _Tranquilizer_, by Oneohtrix Point Never
+- _Supreme Blientele_, by Westside Gunn
 - _Desaceleradas_, by Debit
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _Implosion_, by The Bug, Ghost Dubs
