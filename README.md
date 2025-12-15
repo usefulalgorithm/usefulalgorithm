@@ -12,10 +12,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
-- _Desaceleradas_, by Debit
 - _Implosion_, by The Bug, Ghost Dubs
-- _Things We Lost in the Fire_, by Low
-- _Peasant_, by Richard Dawson
+- _Desaceleradas_, by Debit
 
 </details>
 
@@ -28,8 +26,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tranquilizer_, by Oneohtrix Point Never
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _Implosion_, by The Bug, Ghost Dubs
-- _Stardust_, by Danny Brown
 - _The Long Procession_, by Amia Venera Landscape
+- _Stardust_, by Danny Brown
+- _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _Desaceleradas_, by Debit
 - _馬_, by betcover!!
 - _World Maker_, by Psychonaut
