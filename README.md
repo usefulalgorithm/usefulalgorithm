@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Desaceleradas_, by Debit
+- _End of the Middle_, by Richard Dawson
 - _TIMESOFPERIL_, by Sleep Sinatra
 - _Municipal Dreams_, by Low End Activist
-- _Desaceleradas_, by Debit
 - _The Ultimate '80s Medley #2_, by Martin Miller
 
 </details>
@@ -25,7 +26,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Desaceleradas_, by Debit
 - _Tranquilizer_, by Oneohtrix Point Never
-- _Supreme Blientele_, by Westside Gunn
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _Implosion_, by The Bug, Ghost Dubs
 - _The Long Procession_, by Amia Venera Landscape
@@ -33,11 +33,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Stardust_, by Danny Brown
 - _TIMESOFPERIL_, by Sleep Sinatra
 - _馬_, by betcover!!
+- _Supreme Blientele_, by Westside Gunn
 - _World Maker_, by Psychonaut
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Dancin' In The Streets_, by Rat Heart
 - _Things We Lost in the Fire_, by Low
+- _End of the Middle_, by Richard Dawson
 
 </details>
 
