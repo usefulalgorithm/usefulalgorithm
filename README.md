@@ -33,8 +33,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Stardust_, by Danny Brown
 - _TIMESOFPERIL_, by Sleep Sinatra
 - _馬_, by betcover!!
-- _Supreme Blientele_, by Westside Gunn
 - _World Maker_, by Psychonaut
+- _Supreme Blientele_, by Westside Gunn
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Dancin' In The Streets_, by Rat Heart
