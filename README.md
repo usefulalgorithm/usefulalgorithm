@@ -23,9 +23,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _HAYWARDxDÄLEK_, by dälek, Charles Hayward
-- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Desaceleradas_, by Debit
 - _Tranquilizer_, by Oneohtrix Point Never
+- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _Implosion_, by The Bug, Ghost Dubs
 - _The Long Procession_, by Amia Venera Landscape
