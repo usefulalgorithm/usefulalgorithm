@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _TIMESOFPERIL_, by Sleep Sinatra
+- _Municipal Dreams_, by Low End Activist
 - _Desaceleradas_, by Debit
 - _The Ultimate '80s Medley #2_, by Martin Miller
-- _TIMESOFPERIL_, by Sleep Sinatra
 
 </details>
 
