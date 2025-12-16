@@ -22,9 +22,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
+- _Desaceleradas_, by Debit
 - _Tranquilizer_, by Oneohtrix Point Never
 - _Supreme Blientele_, by Westside Gunn
-- _Desaceleradas_, by Debit
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _Implosion_, by The Bug, Ghost Dubs
 - _The Long Procession_, by Amia Venera Landscape
@@ -36,6 +36,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Dancin' In The Streets_, by Rat Heart
+- _Things We Lost in the Fire_, by Low
 
 </details>
 
