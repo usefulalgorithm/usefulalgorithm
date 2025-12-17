@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _hooke’s law_, by keiyaA
 - _End of the Middle_, by Richard Dawson
+- _hooke’s law_, by keiyaA
 
 </details>
 
@@ -32,11 +32,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _馬_, by betcover!!
 - _End of the Middle_, by Richard Dawson
 - _World Maker_, by Psychonaut
+- _hooke’s law_, by keiyaA
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Dancin' In The Streets_, by Rat Heart
 - _Things We Lost in the Fire_, by Low
-- _hooke’s law_, by keiyaA
 
 </details>
 
