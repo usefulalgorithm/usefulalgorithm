@@ -13,9 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _hooke’s law_, by keiyaA
 - _Desaceleradas_, by Debit
-- _End of the Middle_, by Richard Dawson
-- _TIMESOFPERIL_, by Sleep Sinatra
-- _Municipal Dreams_, by Low End Activist
 
 </details>
 
