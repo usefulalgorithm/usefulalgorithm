@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _hooke’s law_, by keiyaA
 - _End of the Middle_, by Richard Dawson
-- _Desaceleradas_, by Debit
 
 </details>
 
@@ -37,6 +36,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Dancin' In The Streets_, by Rat Heart
 - _Things We Lost in the Fire_, by Low
+- _hooke’s law_, by keiyaA
 
 </details>
 
