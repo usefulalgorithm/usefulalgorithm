@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
+- _Stygian Bough Volume II_, by Bell Witch, Aerial Ruin
 - _End of the Middle_, by Richard Dawson
 - _hooke’s law_, by keiyaA
 
@@ -28,12 +30,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Long Procession_, by Amia Venera Landscape
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _Stardust_, by Danny Brown
+- _World Maker_, by Psychonaut
+- _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _TIMESOFPERIL_, by Sleep Sinatra
 - _馬_, by betcover!!
 - _End of the Middle_, by Richard Dawson
-- _World Maker_, by Psychonaut
 - _hooke’s law_, by keiyaA
-- _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Dancin' In The Streets_, by Rat Heart
 - _Things We Lost in the Fire_, by Low
