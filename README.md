@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _hooke’s law_, by keiyaA
 - _The Ultimate '80s Medley #2_, by Martin Miller
 - _Easy Lover_, by Martin Miller
-- _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Stygian Bough Volume II_, by Bell Witch, Aerial Ruin
 - _End of the Middle_, by Richard Dawson
 
