@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _hooke’s law_, by keiyaA
 - _The Ultimate '80s Medley #2_, by Martin Miller
 - _Easy Lover_, by Martin Miller
-- _hooke’s law_, by keiyaA
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _Stygian Bough Volume II_, by Bell Witch, Aerial Ruin
 - _End of the Middle_, by Richard Dawson
@@ -29,11 +29,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _Implosion_, by The Bug, Ghost Dubs
-- _The Long Procession_, by Amia Venera Landscape
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _Stardust_, by Danny Brown
+- _The Long Procession_, by Amia Venera Landscape
 - _World Maker_, by Psychonaut
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
+- _The Ultimate '80s Medley #2_, by Martin Miller
 - _TIMESOFPERIL_, by Sleep Sinatra
 - _馬_, by betcover!!
 - _End of the Middle_, by Richard Dawson
