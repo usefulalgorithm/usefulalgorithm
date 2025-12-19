@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Blue Nowhere_, by Between The Buried And Me
 - _hooke’s law_, by keiyaA
 - _The Great Misdirect_, by Between The Buried And Me
-- _The Blue Nowhere_, by Between The Buried And Me
 - _just like any other day (어느날) : background music for your mundane activities_, by Okkyung Lee
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
-- _The Ultimate '80s Medley #2_, by Martin Miller
 
 </details>
 
