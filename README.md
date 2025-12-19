@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _BIB on Audiotree Live_, by Bib, Audiotree
 - _The Blue Nowhere_, by Between The Buried And Me
 - _hooke’s law_, by keiyaA
 - _The Great Misdirect_, by Between The Buried And Me
