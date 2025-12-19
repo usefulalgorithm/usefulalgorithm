@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _hooke’s law_, by keiyaA
 - _The Great Misdirect_, by Between The Buried And Me
 - _just like any other day (어느날) : background music for your mundane activities_, by Okkyung Lee
-- _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 
 </details>
 
