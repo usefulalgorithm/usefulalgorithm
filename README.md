@@ -30,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Implosion_, by The Bug, Ghost Dubs
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
-- _Stardust_, by Danny Brown
 - _hooke’s law_, by keiyaA
+- _Stardust_, by Danny Brown
 - _World Maker_, by Psychonaut
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _The Ultimate '80s Medley #2_, by Martin Miller
