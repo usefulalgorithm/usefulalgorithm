@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Where Dancefloors Stand Still_, by DJ Sprinkles
 - _Hometown Girl_, by U.e., Ulla
 - _Pomegranates_, by Nicolas Jaar
 - _Collide_, by Leif
-- _Where Dancefloors Stand Still_, by DJ Sprinkles
 - _Half Life_, by ori lichtik
 
 </details>
