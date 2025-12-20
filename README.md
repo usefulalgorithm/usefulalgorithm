@@ -28,6 +28,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _Implosion_, by The Bug, Ghost Dubs
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
+- _Collide_, by Leif
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _hooke’s law_, by keiyaA
 - _Stardust_, by Danny Brown
@@ -36,6 +37,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Ultimate '80s Medley #2_, by Martin Miller
 - _TIMESOFPERIL_, by Sleep Sinatra
 - _End of the Middle_, by Richard Dawson
+- _Hometown Girl_, by U.e., Ulla
 - _Forgetting Is Violent_, by Patrick Shiroishi
 - _Dancin' In The Streets_, by Rat Heart
 
