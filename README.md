@@ -11,7 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _hooke’s law_, by keiyaA
+- _Dissent_, by Moritz Von Oswald Trio, Heinrich Kobberling, Laurel Halo
 - _Shebang_, by Oren Ambarchi
 - _A Living Room Hush_, by Jaga Jazzist
 - _Standards_, by Tortoise
@@ -37,20 +39,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Desaceleradas_, by Debit
 - _Tranquilizer_, by Oneohtrix Point Never
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
+- _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _hooke’s law_, by keiyaA
 - _Implosion_, by The Bug, Ghost Dubs
 - _Collide_, by Leif
-- _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
-- _Stardust_, by Danny Brown
 - _World Maker_, by Psychonaut
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _The Ultimate '80s Medley #2_, by Martin Miller
+- _Stardust_, by Danny Brown
 - _TIMESOFPERIL_, by Sleep Sinatra
 - _End of the Middle_, by Richard Dawson
 - _Hometown Girl_, by U.e., Ulla
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 - _Forgetting Is Violent_, by Patrick Shiroishi
-- _Dancin' In The Streets_, by Rat Heart
 
 </details>
 
