@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _hooke’s law_, by keiyaA
 - _Shebang_, by Oren Ambarchi
 - _A Living Room Hush_, by Jaga Jazzist
 - _Standards_, by Tortoise
@@ -20,7 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Doggystyle_, by Snoop Dogg
 - _從之前到現在_, by L.B.C.喇叭嘴愛裝熟
 - _CRIMSON_, by Akina Nakamori
-- _hooke’s law_, by keiyaA
 - _Untrue_, by Burial
 - _Where Dancefloors Stand Still_, by DJ Sprinkles
 - _Hometown Girl_, by U.e., Ulla
