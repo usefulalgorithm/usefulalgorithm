@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _馬_, by betcover!!
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _hooke’s law_, by keiyaA
 - _Dissent_, by Moritz Von Oswald Trio, Heinrich Kobberling, Laurel Halo
