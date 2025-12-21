@@ -11,6 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Chronic_, by Dr. Dre
+- _It's On (Dr. Dre) 187um Killa_, by Eazy-E
+- _Doggystyle_, by Snoop Dogg
+- _從之前到現在_, by L.B.C.喇叭嘴愛裝熟
+- _CRIMSON_, by Akina Nakamori
 - _hooke’s law_, by keiyaA
 - _Untrue_, by Burial
 - _Where Dancefloors Stand Still_, by DJ Sprinkles
