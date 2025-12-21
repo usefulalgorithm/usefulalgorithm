@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Shebang_, by Oren Ambarchi
 - _A Living Room Hush_, by Jaga Jazzist
 - _Standards_, by Tortoise
 - _TNT_, by Tortoise
