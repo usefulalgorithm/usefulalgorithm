@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _A Living Room Hush_, by Jaga Jazzist
+- _Standards_, by Tortoise
+- _TNT_, by Tortoise
 - _The Chronic_, by Dr. Dre
 - _It's On (Dr. Dre) 187um Killa_, by Eazy-E
 - _Doggystyle_, by Snoop Dogg
