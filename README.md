@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Selected Ambient Works Volume II_, by Aphex Twin
+- _Windowlicker_, by Aphex Twin
 - _馬_, by betcover!!
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _hooke’s law_, by keiyaA
