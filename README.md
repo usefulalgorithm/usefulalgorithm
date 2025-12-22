@@ -41,9 +41,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _Desaceleradas_, by Debit
 - _Tranquilizer_, by Oneohtrix Point Never
+- _hooke’s law_, by keiyaA
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
-- _hooke’s law_, by keiyaA
 - _Implosion_, by The Bug, Ghost Dubs
 - _Collide_, by Leif
 - _World Maker_, by Psychonaut
@@ -54,7 +54,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hometown Girl_, by U.e., Ulla
 - _Stardust_, by Danny Brown
 - _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
-- _Forgetting Is Violent_, by Patrick Shiroishi
 
 </details>
 
