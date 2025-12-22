@@ -11,11 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _hooke’s law_, by keiyaA
+- _Magnetism_, by Kali Malone, Drew McDowall
 - _Selected Ambient Works Volume II_, by Aphex Twin
 - _Windowlicker_, by Aphex Twin
 - _馬_, by betcover!!
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
-- _hooke’s law_, by keiyaA
 - _Dissent_, by Moritz Von Oswald Trio, Heinrich Kobberling, Laurel Halo
 - _Shebang_, by Oren Ambarchi
 - _A Living Room Hush_, by Jaga Jazzist
@@ -31,7 +32,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hometown Girl_, by U.e., Ulla
 - _Pomegranates_, by Nicolas Jaar
 - _Collide_, by Leif
-- _Half Life_, by ori lichtik
 
 </details>
 
