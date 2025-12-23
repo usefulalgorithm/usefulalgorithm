@@ -11,13 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Goodness_, by feeo
 - _Realistic IX_, by Belong
 - _Uhrijuhla_, by Uhrijuhla
 - _Raíces_, by SPINE
 - _Triola Im Fünftonraum (Remastered 2025)_, by Triola
 - _Trust_, by Sleeparchive
 - _GRIP_, by serpentwithfeet
-- _Goodness_, by feeo
 - _How You Been_, by SML
 - _hooke’s law_, by keiyaA
 - _Magnetism_, by Kali Malone, Drew McDowall
@@ -40,9 +40,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Implosion_, by The Bug, Ghost Dubs
 - _Collide_, by Leif
 - _World Maker_, by Psychonaut
-- _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _The Ultimate '80s Medley #2_, by Martin Miller
 - _TIMESOFPERIL_, by Sleep Sinatra
+- _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _End of the Middle_, by Richard Dawson
 - _Hometown Girl_, by U.e., Ulla
 - _Stardust_, by Danny Brown
