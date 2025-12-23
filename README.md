@@ -18,8 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Triola Im Fünftonraum (Remastered 2025)_, by Triola
 - _Trust_, by Sleeparchive
 - _GRIP_, by serpentwithfeet
-- _How You Been_, by SML
-- _hooke’s law_, by keiyaA
 
 </details>
 
