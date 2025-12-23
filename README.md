@@ -11,6 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Realistic IX_, by Belong
+- _Uhrijuhla_, by Uhrijuhla
+- _Raíces_, by SPINE
+- _Triola Im Fünftonraum (Remastered 2025)_, by Triola
+- _Trust_, by Sleeparchive
+- _GRIP_, by serpentwithfeet
 - _Goodness_, by feeo
 - _How You Been_, by SML
 - _hooke’s law_, by keiyaA
@@ -19,16 +25,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Windowlicker_, by Aphex Twin
 - _馬_, by betcover!!
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
-- _Dissent_, by Moritz Von Oswald Trio, Heinrich Kobberling, Laurel Halo
-- _Shebang_, by Oren Ambarchi
-- _A Living Room Hush_, by Jaga Jazzist
-- _Standards_, by Tortoise
-- _TNT_, by Tortoise
-- _The Chronic_, by Dr. Dre
-- _It's On (Dr. Dre) 187um Killa_, by Eazy-E
-- _Doggystyle_, by Snoop Dogg
-- _從之前到現在_, by L.B.C.喇叭嘴愛裝熟
-- _CRIMSON_, by Akina Nakamori
 
 </details>
 
@@ -50,7 +46,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _End of the Middle_, by Richard Dawson
 - _Hometown Girl_, by U.e., Ulla
 - _Stardust_, by Danny Brown
-- _Mercy_, by Armand Hammer, The Alchemist, billy woods, E L U C I D
 
 </details>
 
