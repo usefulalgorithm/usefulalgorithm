@@ -40,10 +40,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Collide_, by Leif
 - _The Ultimate '80s Medley #2_, by Martin Miller
 - _TIMESOFPERIL_, by Sleep Sinatra
-- _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 - _End of the Middle_, by Richard Dawson
 - _Hometown Girl_, by U.e., Ulla
-- _Stardust_, by Danny Brown
+- _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 
 </details>
 
