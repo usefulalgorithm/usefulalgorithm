@@ -22,8 +22,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _hooke’s law_, by keiyaA
 - _Magnetism_, by Kali Malone, Drew McDowall
 - _Selected Ambient Works Volume II_, by Aphex Twin
-- _Windowlicker_, by Aphex Twin
-- _馬_, by betcover!!
 
 </details>
 
