@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Goodness_, by feeo
+- _How You Been_, by SML
 - _hooke’s law_, by keiyaA
 - _Magnetism_, by Kali Malone, Drew McDowall
 - _Selected Ambient Works Volume II_, by Aphex Twin
@@ -27,11 +29,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Doggystyle_, by Snoop Dogg
 - _從之前到現在_, by L.B.C.喇叭嘴愛裝熟
 - _CRIMSON_, by Akina Nakamori
-- _Untrue_, by Burial
-- _Where Dancefloors Stand Still_, by DJ Sprinkles
-- _Hometown Girl_, by U.e., Ulla
-- _Pomegranates_, by Nicolas Jaar
-- _Collide_, by Leif
 
 </details>
 
