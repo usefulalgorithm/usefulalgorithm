@@ -20,8 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _GRIP_, by serpentwithfeet
 - _How You Been_, by SML
 - _hooke’s law_, by keiyaA
-- _Magnetism_, by Kali Malone, Drew McDowall
-- _Selected Ambient Works Volume II_, by Aphex Twin
 
 </details>
 
