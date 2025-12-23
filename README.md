@@ -24,7 +24,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Selected Ambient Works Volume II_, by Aphex Twin
 - _Windowlicker_, by Aphex Twin
 - _馬_, by betcover!!
-- _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 
 </details>
 
