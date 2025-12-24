@@ -32,8 +32,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _hooke’s law_, by keiyaA
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _Implosion_, by The Bug, Ghost Dubs
-- _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _Collide_, by Leif
+- _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _The Ultimate '80s Medley #2_, by Martin Miller
 - _TIMESOFPERIL_, by Sleep Sinatra
 - _End of the Middle_, by Richard Dawson
