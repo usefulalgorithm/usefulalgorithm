@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _First Love_, by Hikaru Utada
 - _hooke’s law_, by keiyaA
+- _First Love_, by Hikaru Utada
 - _Goodness_, by feeo
 - _Realistic IX_, by Belong
 - _Uhrijuhla_, by Uhrijuhla
