@@ -14,12 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _hooke’s law_, by keiyaA
 - _First Love_, by Hikaru Utada
 - _Goodness_, by feeo
-- _Realistic IX_, by Belong
-- _Uhrijuhla_, by Uhrijuhla
-- _Raíces_, by SPINE
-- _Triola Im Fünftonraum (Remastered 2025)_, by Triola
-- _Trust_, by Sleeparchive
-- _GRIP_, by serpentwithfeet
 
 </details>
 
