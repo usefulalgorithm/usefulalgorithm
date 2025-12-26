@@ -12,6 +12,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _hooke’s law_, by keiyaA
+- _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
+- _Air Ni Ni_, by Hakushi Hasegawa
 - _First Love_, by Hikaru Utada
 - _Goodness_, by feeo
 
