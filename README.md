@@ -11,11 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _hooke’s law_, by keiyaA
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
+- _hooke’s law_, by keiyaA
 - _Air Ni Ni_, by Hakushi Hasegawa
-- _First Love_, by Hikaru Utada
-- _Goodness_, by feeo
 
 </details>
 
@@ -23,17 +21,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _HAYWARDxDÄLEK_, by dälek, Charles Hayward
-- _Desaceleradas_, by Debit
 - _hooke’s law_, by keiyaA
-- _Tranquilizer_, by Oneohtrix Point Never
+- _Desaceleradas_, by Debit
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
+- _Tranquilizer_, by Oneohtrix Point Never
 - _Implosion_, by The Bug, Ghost Dubs
 - _Collide_, by Leif
 - _The Ultimate '80s Medley #2_, by Martin Miller
 - _TIMESOFPERIL_, by Sleep Sinatra
 - _End of the Middle_, by Richard Dawson
 - _Hometown Girl_, by U.e., Ulla
-- _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 
 </details>
 
