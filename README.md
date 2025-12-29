@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Decoys_, by No Sir
 - _45 Pounds_, by YHWH Nailgun
 - _Sonder_, by Small Crab
-- _Decoys_, by No Sir
 - _Luster_, by Maria Somerville
 
 </details>
