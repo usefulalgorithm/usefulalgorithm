@@ -13,8 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Luster_, by Maria Somerville
 - _Sonder_, by Small Crab
-- _45 Pounds_, by YHWH Nailgun
-- _Decoys_, by No Sir
 
 </details>
 
@@ -27,11 +25,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _Collide_, by Leif
 - _Implosion_, by The Bug, Ghost Dubs
+- _Luster_, by Maria Somerville
 - _Sonder_, by Small Crab
 - _Tranquilizer_, by Oneohtrix Point Never
 - _The Ultimate '80s Medley #2_, by Martin Miller
 - _TIMESOFPERIL_, by Sleep Sinatra
-- _Luster_, by Maria Somerville
 - _End of the Middle_, by Richard Dawson
 - _Hometown Girl_, by U.e., Ulla
 - _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
