@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _45 Pounds_, by YHWH Nailgun
 - _Luster_, by Maria Somerville
 - _Sonder_, by Small Crab
 
