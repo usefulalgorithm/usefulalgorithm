@@ -21,13 +21,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _HAYWARDxDÄLEK_, by dälek, Charles Hayward
+- _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _hooke’s law_, by keiyaA
 - _Desaceleradas_, by Debit
-- _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _Collide_, by Leif
-- _Implosion_, by The Bug, Ghost Dubs
 - _Luster_, by Maria Somerville
 - _Sonder_, by Small Crab
+- _Implosion_, by The Bug, Ghost Dubs
 - _Tranquilizer_, by Oneohtrix Point Never
 - _The Ultimate '80s Medley #2_, by Martin Miller
 - _TIMESOFPERIL_, by Sleep Sinatra
