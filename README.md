@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Decoys_, by No Sir
 - _2000XL : A Space Odyssey_, by Killer Kane
 - _45 Pounds_, by YHWH Nailgun
-- _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 
 </details>
 
@@ -28,10 +27,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Collide_, by Leif
 - _Luster_, by Maria Somerville
 - _Sonder_, by Small Crab
+- _Decoys_, by No Sir
 - _The Ultimate '80s Medley #2_, by Martin Miller
 - _Implosion_, by The Bug, Ghost Dubs
 - _TIMESOFPERIL_, by Sleep Sinatra
-- _Decoys_, by No Sir
 - _End of the Middle_, by Richard Dawson
 - _Hometown Girl_, by U.e., Ulla
 - _45 Pounds_, by YHWH Nailgun
