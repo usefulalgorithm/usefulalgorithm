@@ -39,9 +39,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _Among the Thugs_, by Bill Buford ([link](https://hardcover.app/books/among-the-thugs)). It's a good book.
+Just finished reading _I Want to Keep Smashing Myself Until I Am Whole_, by Elias Canetti ([link](https://hardcover.app/books/i-want-to-keep-smashing-myself-until-i-am-whole)). It's OK I guess.
 
-Gotta finish 25 books before 2026-01-01. I've read 18 so far.
+Gotta finish 25 books before 2026-01-01. I've read 19 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
