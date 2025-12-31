@@ -11,11 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _2000XL : A Space Odyssey_, by Killer Kane
 - _Decoys_, by No Sir
+- _2000XL : A Space Odyssey_, by Killer Kane
 - _45 Pounds_, by YHWH Nailgun
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
-- _Luster_, by Maria Somerville
 
 </details>
 
