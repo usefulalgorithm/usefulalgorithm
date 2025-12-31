@@ -25,8 +25,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _hooke’s law_, by keiyaA
 - _Desaceleradas_, by Debit
-- _Collide_, by Leif
 - _Luster_, by Maria Somerville
+- _Collide_, by Leif
 - _Sonder_, by Small Crab
 - _Decoys_, by No Sir
 - _The Ultimate '80s Medley #2_, by Martin Miller
@@ -34,8 +34,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _End of the Middle_, by Richard Dawson
 - _Hometown Girl_, by U.e., Ulla
 - _Implosion_, by The Bug, Ghost Dubs
-- _45 Pounds_, by YHWH Nailgun
-- _I Am a Spiritual Being Having a Human Experience_, by To Be Gentle
 
 </details>
 
