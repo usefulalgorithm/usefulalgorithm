@@ -33,7 +33,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Ultimate '80s Medley #2_, by Martin Miller
 - _End of the Middle_, by Richard Dawson
 - _Hometown Girl_, by U.e., Ulla
-- _Implosion_, by The Bug, Ghost Dubs
 
 </details>
 
