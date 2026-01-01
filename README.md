@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Luster_, by Maria Somerville
 - _Decoys_, by No Sir
+- _歪曲_, by Shing02
+- _Luster_, by Maria Somerville
 - _End of the Middle_, by Richard Dawson
 - _2000XL : A Space Odyssey_, by Killer Kane
 
