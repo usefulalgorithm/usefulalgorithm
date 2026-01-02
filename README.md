@@ -11,10 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _2000XL : A Space Odyssey_, by Killer Kane
 - _Sonder_, by Small Crab
-- _歪曲_, by Shing02
-- _Disarray_, by Palitra, Amor Satyr
+- _2000XL : A Space Odyssey_, by Killer Kane
 
 </details>
 
@@ -37,7 +35,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _I Want to Keep Smashing Myself Until I Am Whole_, by Elias Canetti ([link](https://hardcover.app/books/i-want-to-keep-smashing-myself-until-i-am-whole)). It's OK I guess.
+Just finished reading _Will and Testament_, by Vigdis Hjorth, Charlotte Barslund ([link](https://hardcover.app/books/will-and-testament)). It's a good book.
 
 Gotta finish 25 books before 2026-01-01. I've read 19 so far.
 
