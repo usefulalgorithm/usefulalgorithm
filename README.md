@@ -11,13 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _2000XL : A Space Odyssey_, by Killer Kane
 - _Sonder_, by Small Crab
 - _歪曲_, by Shing02
 - _Disarray_, by Palitra, Amor Satyr
 - _Decoys_, by No Sir
 - _Ten Sixty_, by Joey, Octoptic
 - _Luster_, by Maria Somerville
-- _End of the Middle_, by Richard Dawson
 
 </details>
 
