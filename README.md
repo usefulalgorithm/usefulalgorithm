@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Disarray_, by Palitra, Amor Satyr
 - _Decoys_, by No Sir
 - _Ten Sixty_, by Joey, Octoptic
 - _Luster_, by Maria Somerville
