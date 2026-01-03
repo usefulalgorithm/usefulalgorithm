@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Songs and Bodies_, by Piotr Kurek
+- _How You Been_, by SML
 - _400_, by Shing02
 - _Sonder_, by Small Crab
 - _Ten Sixty_, by Joey, Octoptic
