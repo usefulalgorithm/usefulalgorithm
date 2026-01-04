@@ -24,11 +24,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
-- _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _hooke’s law_, by keiyaA
 - _Desaceleradas_, by Debit
 - _Sonder_, by Small Crab
 - _Luster_, by Maria Somerville
+- _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _Decoys_, by No Sir
 - _Collide_, by Leif
 - _The Ultimate '80s Medley #2_, by Martin Miller
