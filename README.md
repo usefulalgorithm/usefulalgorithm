@@ -23,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
+- _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _hooke’s law_, by keiyaA
 - _Desaceleradas_, by Debit
 - _Sonder_, by Small Crab
@@ -39,13 +39,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _Will and Testament_, by Vigdis Hjorth, Charlotte Barslund ([link](https://hardcover.app/books/will-and-testament)). It's a good book.
+Just finished reading _Introduction to civil war_, by Tiqqun, Alexander R. Galloway, and friends ([link](https://hardcover.app/books/introduction-to-civil-war)). It's OK I guess.
 
-Gotta finish 25 books before 2026-01-01. I've read 19 so far.
+Gotta finish 25 books before 2027-01-01. I've read 2 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
 
+- _What Does Israel Fear from Palestine?_, by Raja Shehadeh ([link](https://hardcover.app/books/what-does-israel-fear-from-palestine))
 - _The Absence of Myth: Writings on Surrealism_, by Georges Bataille, Michael   Richardson ([link](https://hardcover.app/books/the-absence-of-myth-writings-on-surrealism))
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
