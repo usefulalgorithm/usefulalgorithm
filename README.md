@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Fobia_, by Aylu
+- _400_, by Shing02
 - _Ten Sixty_, by Joey, Octoptic
 - _2000XL : A Space Odyssey_, by Killer Kane
 - _Songs and Bodies_, by Piotr Kurek
