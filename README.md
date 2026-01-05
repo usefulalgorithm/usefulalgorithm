@@ -17,7 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Ten Sixty_, by Joey, Octoptic
 - _2000XL : A Space Odyssey_, by Killer Kane
 - _Songs and Bodies_, by Piotr Kurek
-- _How You Been_, by SML
 
 </details>
 
@@ -29,12 +28,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Desaceleradas_, by Debit
 - _Sonder_, by Small Crab
 - _Luster_, by Maria Somerville
-- _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _Decoys_, by No Sir
+- _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _Collide_, by Leif
 - _The Ultimate '80s Medley #2_, by Martin Miller
 - _End of the Middle_, by Richard Dawson
 - _Hometown Girl_, by U.e., Ulla
+- _45 Pounds_, by YHWH Nailgun
 
 </details>
 
