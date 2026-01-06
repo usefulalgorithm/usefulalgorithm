@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Ten Sixty_, by Joey, Octoptic
 - _Nocturne_, by Onmutu Mechanicks
 - _Decoys_, by No Sir
 - _Fobia_, by Aylu
 - _400_, by Shing02
-- _Ten Sixty_, by Joey, Octoptic
 - _2000XL : A Space Odyssey_, by Killer Kane
-- _Songs and Bodies_, by Piotr Kurek
 
 </details>
 
