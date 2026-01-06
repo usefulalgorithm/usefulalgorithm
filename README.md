@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Fobia_, by Aylu
 - _Ten Sixty_, by Joey, Octoptic
+- _Sysivalo_, by Ø, Mika Vainio
+- _Fobia_, by Aylu
 - _Nocturne_, by Onmutu Mechanicks
 - _Decoys_, by No Sir
 
