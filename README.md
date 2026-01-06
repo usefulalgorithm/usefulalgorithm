@@ -29,10 +29,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Sonder_, by Small Crab
 - _Decoys_, by No Sir
 - _Luster_, by Maria Somerville
-- _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _Collide_, by Leif
+- _HAYWARDxDÄLEK_, by dälek, Charles Hayward
 - _The Ultimate '80s Medley #2_, by Martin Miller
 - _End of the Middle_, by Richard Dawson
+- _Ten Sixty_, by Joey, Octoptic
 - _Hometown Girl_, by U.e., Ulla
 
 </details>
