@@ -17,7 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Ten Sixty_, by Joey, Octoptic
 - _Sysivalo_, by Ø, Mika Vainio
 - _Fobia_, by Aylu
-- _Nocturne_, by Onmutu Mechanicks
 
 </details>
 
@@ -26,10 +25,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _hooke’s law_, by keiyaA
+- _Luster_, by Maria Somerville
 - _Desaceleradas_, by Debit
 - _Sonder_, by Small Crab
 - _Decoys_, by No Sir
-- _Luster_, by Maria Somerville
 - _Collide_, by Leif
 - _In For a Dime_, by Joey
 - _Ten Sixty_, by Joey, Octoptic
