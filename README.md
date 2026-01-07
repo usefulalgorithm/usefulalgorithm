@@ -11,20 +11,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Ten Sixty_, by Joey, Octoptic
 - _Luster_, by Maria Somerville
 - _Songs and Bodies_, by Piotr Kurek
 - _hooke’s law_, by keiyaA
 - _Wolf_, by ori lichtik
-- _Ten Sixty_, by Joey, Octoptic
-- _Sysivalo_, by Ø, Mika Vainio
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _Luster_, by Maria Somerville
+- _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _hooke’s law_, by keiyaA
 - _Desaceleradas_, by Debit
 - _Sonder_, by Small Crab
