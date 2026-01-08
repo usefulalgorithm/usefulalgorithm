@@ -14,8 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Ten Sixty_, by Joey, Octoptic
 - _Luster_, by Maria Somerville
 - _Songs and Bodies_, by Piotr Kurek
-- _hooke’s law_, by keiyaA
-- _Wolf_, by ori lichtik
 
 </details>
 
