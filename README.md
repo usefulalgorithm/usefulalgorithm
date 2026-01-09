@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Piñata_, by Freddie Gibbs, Madlib
+- _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Bo Jackson_, by Boldy James, The Alchemist
 - _45 Pounds_, by YHWH Nailgun
@@ -28,10 +29,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Decoys_, by No Sir
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _Songs and Bodies_, by Piotr Kurek
+- _Piñata_, by Freddie Gibbs, Madlib
 - _Collide_, by Leif
 - _In For a Dime_, by Joey
 - _Ten Sixty_, by Joey, Octoptic
-- _Piñata_, by Freddie Gibbs, Madlib
 - _45 Pounds_, by YHWH Nailgun
 - _The Ultimate '80s Medley #2_, by Martin Miller
 - _Hometown Girl_, by U.e., Ulla
