@@ -11,10 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
+- _Bo Jackson_, by Boldy James, The Alchemist
 - _Piñata_, by Freddie Gibbs, Madlib
+- _45 Pounds_, by YHWH Nailgun
 - _Graduation_, by Kanye West
 - _Fobia_, by Aylu
-- _Songs and Bodies_, by Piotr Kurek
 
 </details>
 
@@ -34,6 +36,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Ultimate '80s Medley #2_, by Martin Miller
 - _End of the Middle_, by Richard Dawson
 - _Hometown Girl_, by U.e., Ulla
+- _Piñata_, by Freddie Gibbs, Madlib
 
 </details>
 
