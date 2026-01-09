@@ -24,10 +24,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Luster_, by Maria Somerville
 - _hooke’s law_, by keiyaA
+- _Piñata_, by Freddie Gibbs, Madlib
 - _Sonder_, by Small Crab
 - _Decoys_, by No Sir
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
-- _Piñata_, by Freddie Gibbs, Madlib
 - _Desaceleradas_, by Debit
 - _Songs and Bodies_, by Piotr Kurek
 - _Collide_, by Leif
