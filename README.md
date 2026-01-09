@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Graduation_, by Kanye West
 - _Fobia_, by Aylu
 - _Songs and Bodies_, by Piotr Kurek
-- _Ten Sixty_, by Joey, Octoptic
 
 </details>
 
