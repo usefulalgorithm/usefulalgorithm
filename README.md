@@ -22,14 +22,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
+- _Piñata_, by Freddie Gibbs, Madlib
 - _Luster_, by Maria Somerville
 - _hooke’s law_, by keiyaA
-- _Piñata_, by Freddie Gibbs, Madlib
 - _Sonder_, by Small Crab
 - _Decoys_, by No Sir
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
-- _Desaceleradas_, by Debit
 - _Songs and Bodies_, by Piotr Kurek
+- _Desaceleradas_, by Debit
 - _Collide_, by Leif
 - _In For a Dime_, by Joey
 - _Ten Sixty_, by Joey, Octoptic
