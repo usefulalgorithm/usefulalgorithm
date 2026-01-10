@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _DRUG$$$_, by Teller Bank$
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Bo Jackson_, by Boldy James, The Alchemist
-- _45 Pounds_, by YHWH Nailgun
 
 </details>
 
