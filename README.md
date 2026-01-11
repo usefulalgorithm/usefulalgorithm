@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Piñata_, by Freddie Gibbs, Madlib
 - _SCARING THE HOES_, by JPEGMAFIA, Danny Brown
+- _Songs and Bodies_, by Piotr Kurek
 - _DRUG$$$_, by Teller Bank$
+- _Piñata_, by Freddie Gibbs, Madlib
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
-- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 
 </details>
 
