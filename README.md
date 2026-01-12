@@ -11,11 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Piñata_, by Freddie Gibbs, Madlib
 - _Songs and Bodies_, by Piotr Kurek
 - _SCARING THE HOES_, by JPEGMAFIA, Danny Brown
 - _DRUG$$$_, by Teller Bank$
-- _Piñata_, by Freddie Gibbs, Madlib
-- _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 
 </details>
 
@@ -25,17 +24,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Luster_, by Maria Somerville
 - _hooke’s law_, by keiyaA
+- _Songs and Bodies_, by Piotr Kurek
 - _Sonder_, by Small Crab
 - _Decoys_, by No Sir
-- _Songs and Bodies_, by Piotr Kurek
-- _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _Collide_, by Leif
 - _In For a Dime_, by Joey
 - _Ten Sixty_, by Joey, Octoptic
 - _Desaceleradas_, by Debit
+- _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _45 Pounds_, by YHWH Nailgun
 - _The Ultimate '80s Medley #2_, by Martin Miller
-- _Hometown Girl_, by U.e., Ulla
 
 </details>
 
