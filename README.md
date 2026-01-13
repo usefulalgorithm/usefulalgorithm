@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Fobia_, by Aylu
 - _Songs and Bodies_, by Piotr Kurek
-- _SCARING THE HOES_, by JPEGMAFIA, Danny Brown
 
 </details>
 
