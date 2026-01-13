@@ -11,11 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Fobia_, by Aylu
+- _DRUG$$$_, by Teller Bank$
+- _SCRAM!_, by Domo Genesis, Graymatter
 - _Piñata_, by Freddie Gibbs, Madlib
+- _Fobia_, by Aylu
 - _Songs and Bodies_, by Piotr Kurek
 - _SCARING THE HOES_, by JPEGMAFIA, Danny Brown
-- _DRUG$$$_, by Teller Bank$
 
 </details>
 
