@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _SCRAM!_, by Domo Genesis, Graymatter
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Fobia_, by Aylu
-- _Songs and Bodies_, by Piotr Kurek
 
 </details>
 
