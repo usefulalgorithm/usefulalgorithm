@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _SCARING THE HOES_, by JPEGMAFIA, Danny Brown
+- _Decoys_, by No Sir
 - _Piñata_, by Freddie Gibbs, Madlib
 - _DRUG$$$_, by Teller Bank$
 
@@ -24,8 +25,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Luster_, by Maria Somerville
 - _hooke’s law_, by keiyaA
 - _Songs and Bodies_, by Piotr Kurek
-- _Sonder_, by Small Crab
 - _Decoys_, by No Sir
+- _Sonder_, by Small Crab
 - _Collide_, by Leif
 - _In For a Dime_, by Joey
 - _Ten Sixty_, by Joey, Octoptic
