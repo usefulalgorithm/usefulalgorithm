@@ -35,8 +35,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _Hometown Girl_, by U.e., Ulla
 - _How You Been_, by SML
-- _The Ultimate '80s Medley #2_, by Martin Miller
 - _Goodness_, by feeo
+- _2000XL : A Space Odyssey_, by Killer Kane
 
 </details>
 
