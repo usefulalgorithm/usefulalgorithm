@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _How You Been_, by SML
 - _Decoys_, by No Sir
 - _SCARING THE HOES_, by JPEGMAFIA, Danny Brown
-- _Piñata_, by Freddie Gibbs, Madlib
-- _DRUG$$$_, by Teller Bank$
 
 </details>
 
