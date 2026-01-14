@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Decoys_, by No Sir
-- _Fobia_, by Aylu
 - _How You Been_, by SML
+- _Fobia_, by Aylu
+- _Decoys_, by No Sir
 
 </details>
 
