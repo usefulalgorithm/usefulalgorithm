@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Fobia_, by Aylu
 - _How You Been_, by SML
 - _Decoys_, by No Sir
 - _SCARING THE HOES_, by JPEGMAFIA, Danny Brown
@@ -24,18 +25,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Luster_, by Maria Somerville
-- _hooke’s law_, by keiyaA
 - _Songs and Bodies_, by Piotr Kurek
 - _Decoys_, by No Sir
+- _hooke’s law_, by keiyaA
 - _Sonder_, by Small Crab
 - _Collide_, by Leif
 - _In For a Dime_, by Joey
 - _Ten Sixty_, by Joey, Octoptic
+- _Fobia_, by Aylu
 - _45 Pounds_, by YHWH Nailgun
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _Hometown Girl_, by U.e., Ulla
 - _The Ultimate '80s Medley #2_, by Martin Miller
-- _Fobia_, by Aylu
 
 </details>
 
