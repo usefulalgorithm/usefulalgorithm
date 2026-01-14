@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Songs and Bodies_, by Piotr Kurek
+- _Decoys_, by No Sir
 - _How You Been_, by SML
 - _Fobia_, by Aylu
-- _Decoys_, by No Sir
 
 </details>
 
@@ -22,18 +23,20 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Decoys_, by No Sir
-- _Luster_, by Maria Somerville
 - _Songs and Bodies_, by Piotr Kurek
+- _Luster_, by Maria Somerville
 - _Sonder_, by Small Crab
 - _Fobia_, by Aylu
-- _hooke’s law_, by keiyaA
 - _Collide_, by Leif
 - _In For a Dime_, by Joey
 - _Ten Sixty_, by Joey, Octoptic
+- _hooke’s law_, by keiyaA
 - _45 Pounds_, by YHWH Nailgun
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 - _Hometown Girl_, by U.e., Ulla
+- _How You Been_, by SML
 - _The Ultimate '80s Medley #2_, by Martin Miller
+- _Goodness_, by feeo
 
 </details>
 
