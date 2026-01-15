@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _How You Been_, by SML
 - _Songs and Bodies_, by Piotr Kurek
 - _Decoys_, by No Sir
-- _How You Been_, by SML
 - _Fobia_, by Aylu
 
 </details>
@@ -36,7 +36,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hometown Girl_, by U.e., Ulla
 - _How You Been_, by SML
 - _Goodness_, by feeo
-- _2000XL : A Space Odyssey_, by Killer Kane
 
 </details>
 
