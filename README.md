@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _SCRAM!_, by Domo Genesis, Graymatter
 - _How You Been_, by SML
-- _Songs and Bodies_, by Piotr Kurek
 
 </details>
 
