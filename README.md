@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _環響音_, by LOLOET
 - _Fobia_, by Aylu
 - _SCRAM!_, by Domo Genesis, Graymatter
 - _How You Been_, by SML
