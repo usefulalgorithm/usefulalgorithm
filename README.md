@@ -13,9 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _How You Been_, by SML
 - _環響音_, by LOLOET
-- _The Joy of Motion_, by Animals As Leaders
-- _Every Sound Has A Color In The Valley Of Night_, by Night Verses
-- _Fobia_, by Aylu
 
 </details>
 
@@ -26,9 +23,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Decoys_, by No Sir
 - _Songs and Bodies_, by Piotr Kurek
 - _Luster_, by Maria Somerville
+- _How You Been_, by SML
 - _Fobia_, by Aylu
 - _Sonder_, by Small Crab
-- _How You Been_, by SML
 - _Collide_, by Leif
 - _In For a Dime_, by Joey
 - _Ten Sixty_, by Joey, Octoptic
