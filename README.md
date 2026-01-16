@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Decoys_, by No Sir
 - _A River Dies of Thirst_, by Snotnoze Saleem
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _How You Been_, by SML
