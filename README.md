@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _How You Been_, by SML
-- _環響音_, by LOLOET
 
 </details>
 
