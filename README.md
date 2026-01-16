@@ -28,9 +28,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Luster_, by Maria Somerville
 - _Fobia_, by Aylu
 - _Sonder_, by Small Crab
-- _Collide_, by Leif
 - _In For a Dime_, by Joey
 - _Ten Sixty_, by Joey, Octoptic
+- _Collide_, by Leif
 - _hooke’s law_, by keiyaA
 - _45 Pounds_, by YHWH Nailgun
 
