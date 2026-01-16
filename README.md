@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _馬_, by betcover!!
+- _DRUG$$$_, by Teller Bank$
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Decoys_, by No Sir
 - _A River Dies of Thirst_, by Snotnoze Saleem
@@ -35,6 +37,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Collide_, by Leif
 - _hooke’s law_, by keiyaA
 - _45 Pounds_, by YHWH Nailgun
+- _馬_, by betcover!!
 
 </details>
 
