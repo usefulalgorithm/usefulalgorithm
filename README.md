@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Fobia_, by Aylu
 - _How You Been_, by SML
 
 </details>
@@ -20,8 +21,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Decoys_, by No Sir
-- _Songs and Bodies_, by Piotr Kurek
 - _How You Been_, by SML
+- _Songs and Bodies_, by Piotr Kurek
 - _Luster_, by Maria Somerville
 - _Fobia_, by Aylu
 - _Sonder_, by Small Crab
@@ -31,7 +32,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _hooke’s law_, by keiyaA
 - _45 Pounds_, by YHWH Nailgun
 - _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
-- _Hometown Girl_, by U.e., Ulla
 
 </details>
 
