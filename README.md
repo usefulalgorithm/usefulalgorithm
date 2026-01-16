@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _A River Dies of Thirst_, by Snotnoze Saleem
+- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _How You Been_, by SML
 - _Fobia_, by Aylu
 
@@ -31,7 +33,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Ten Sixty_, by Joey, Octoptic
 - _hooke’s law_, by keiyaA
 - _45 Pounds_, by YHWH Nailgun
-- _28 (Remaster 2025)_, by Tujiko Noriko, Aoki Takamasa
 
 </details>
 
