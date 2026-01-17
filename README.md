@@ -11,14 +11,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _TIMESOFPERIL_, by Sleep Sinatra
+- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
+- _Fobia_, by Aylu
+- _Piñata_, by Freddie Gibbs, Madlib
 - _馬_, by betcover!!
 - _DRUG$$$_, by Teller Bank$
-- _Piñata_, by Freddie Gibbs, Madlib
 - _Decoys_, by No Sir
 - _A River Dies of Thirst_, by Snotnoze Saleem
-- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _How You Been_, by SML
-- _Fobia_, by Aylu
 
 </details>
 
@@ -29,12 +30,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _How You Been_, by SML
 - _Decoys_, by No Sir
 - _Songs and Bodies_, by Piotr Kurek
-- _Luster_, by Maria Somerville
 - _Fobia_, by Aylu
+- _Luster_, by Maria Somerville
 - _Sonder_, by Small Crab
 - _In For a Dime_, by Joey
 - _Ten Sixty_, by Joey, Octoptic
-- _Collide_, by Leif
 - _hooke’s law_, by keiyaA
 - _45 Pounds_, by YHWH Nailgun
 - _馬_, by betcover!!
