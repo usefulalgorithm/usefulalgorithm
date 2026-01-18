@@ -18,7 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Fobia_, by Aylu
 - _Piñata_, by Freddie Gibbs, Madlib
 - _馬_, by betcover!!
-- _DRUG$$$_, by Teller Bank$
 
 </details>
 
