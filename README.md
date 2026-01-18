@@ -11,15 +11,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _TIMESOFPERIL_, by Sleep Sinatra
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
+- _How You Been_, by SML
+- _TIMESOFPERIL_, by Sleep Sinatra
 - _Fobia_, by Aylu
 - _Piñata_, by Freddie Gibbs, Madlib
 - _馬_, by betcover!!
 - _DRUG$$$_, by Teller Bank$
 - _Decoys_, by No Sir
 - _A River Dies of Thirst_, by Snotnoze Saleem
-- _How You Been_, by SML
 
 </details>
 
