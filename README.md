@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _DRUG$$$_, by Teller Bank$
+- _TIMESOFPERIL_, by Sleep Sinatra
 - _Decoys_, by No Sir
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _How You Been_, by SML
-- _TIMESOFPERIL_, by Sleep Sinatra
 - _Fobia_, by Aylu
-- _Piñata_, by Freddie Gibbs, Madlib
-- _馬_, by betcover!!
 
 </details>
 
@@ -25,8 +24,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Piñata_, by Freddie Gibbs, Madlib
-- _How You Been_, by SML
 - _Decoys_, by No Sir
+- _How You Been_, by SML
 - _Songs and Bodies_, by Piotr Kurek
 - _Fobia_, by Aylu
 - _Luster_, by Maria Somerville
