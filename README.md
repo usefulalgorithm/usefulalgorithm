@@ -12,9 +12,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
+- _Decoys_, by No Sir
 - _DRUG$$$_, by Teller Bank$
 - _TIMESOFPERIL_, by Sleep Sinatra
-- _Decoys_, by No Sir
 - _How You Been_, by SML
 
 </details>
@@ -31,9 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Sonder_, by Small Crab
 - _In For a Dime_, by Joey
 - _Ten Sixty_, by Joey, Octoptic
+- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _45 Pounds_, by YHWH Nailgun
-- _hooke’s law_, by keiyaA
-- _馬_, by betcover!!
 
 </details>
 
