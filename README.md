@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _DRUG$$$_, by Teller Bank$
 - _TIMESOFPERIL_, by Sleep Sinatra
 - _Decoys_, by No Sir
-- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _How You Been_, by SML
-- _Fobia_, by Aylu
 
 </details>
 
