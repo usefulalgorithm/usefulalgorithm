@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Decoys_, by No Sir
 - _DRUG$$$_, by Teller Bank$
 - _TIMESOFPERIL_, by Sleep Sinatra
-- _How You Been_, by SML
 
 </details>
 
@@ -29,9 +28,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Fobia_, by Aylu
 - _Luster_, by Maria Somerville
 - _Sonder_, by Small Crab
+- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _In For a Dime_, by Joey
 - _Ten Sixty_, by Joey, Octoptic
-- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _45 Pounds_, by YHWH Nailgun
 
 </details>
