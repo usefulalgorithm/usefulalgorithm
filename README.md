@@ -13,8 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Decoys_, by No Sir
-- _DRUG$$$_, by Teller Bank$
-- _TIMESOFPERIL_, by Sleep Sinatra
 
 </details>
 
