@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
-- _Decoys_, by No Sir
 
 </details>
 
