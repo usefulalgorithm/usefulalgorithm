@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Fobia_, by Aylu
 - _馬_, by betcover!!
 - _SCRAM!_, by Domo Genesis, Graymatter
 - _TIMESOFPERIL_, by Sleep Sinatra
