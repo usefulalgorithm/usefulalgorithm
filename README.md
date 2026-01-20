@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _SCRAM!_, by Domo Genesis, Graymatter
+- _TIMESOFPERIL_, by Sleep Sinatra
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 
 </details>
