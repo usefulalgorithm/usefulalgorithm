@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _Jana Horn_, by Jana Horn
 - _Fobia_, by Aylu
-- _Skate Bush_, by Skate Bush
-- _馬_, by betcover!!
 
 </details>
 
