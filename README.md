@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Jana Horn_, by Jana Horn
 - _Fobia_, by Aylu
+- _Jana Horn_, by Jana Horn
 - _Skate Bush_, by Skate Bush
 - _馬_, by betcover!!
 - _SCRAM!_, by Domo Genesis, Graymatter
