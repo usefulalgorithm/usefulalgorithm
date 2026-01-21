@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Fobia_, by Aylu
+- _African Skies_, by Kelan Phil Cohran & Legacy
 - _Jana Horn_, by Jana Horn
+- _Fobia_, by Aylu
 - _Skate Bush_, by Skate Bush
 - _馬_, by betcover!!
 
@@ -23,8 +24,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Decoys_, by No Sir
-- _How You Been_, by SML
 - _Fobia_, by Aylu
+- _How You Been_, by SML
 - _Songs and Bodies_, by Piotr Kurek
 - _Luster_, by Maria Somerville
 - _Sonder_, by Small Crab
