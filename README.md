@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Jana Horn_, by Jana Horn
 - _Skate Bush_, by Skate Bush
 - _馬_, by betcover!!
-- _SCRAM!_, by Domo Genesis, Graymatter
 
 </details>
 
