@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _2000XL : A Space Odyssey_, by Killer Kane
 - _Ten Sixty_, by Joey, Octoptic
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _Fobia_, by Aylu
-- _2000XL : A Space Odyssey_, by Killer Kane
 - _Neighborhoods_, by Ernest Hood
 - _Jana Horn_, by Jana Horn
 
