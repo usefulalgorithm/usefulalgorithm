@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Neighborhoods_, by Ernest Hood
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _Jana Horn_, by Jana Horn
 - _Fobia_, by Aylu
