@@ -23,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Decoys_, by No Sir
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Fobia_, by Aylu
-- _How You Been_, by SML
 - _Ten Sixty_, by Joey, Octoptic
+- _How You Been_, by SML
 - _In For a Dime_, by Joey
 - _Songs and Bodies_, by Piotr Kurek
 - _Luster_, by Maria Somerville
