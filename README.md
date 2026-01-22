@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Fobia_, by Aylu
 - _Essentials_, by Psychotropic
 - _Ten Sixty_, by Joey, Octoptic
 
@@ -24,8 +25,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Fobia_, by Aylu
 - _How You Been_, by SML
 - _Ten Sixty_, by Joey, Octoptic
-- _Songs and Bodies_, by Piotr Kurek
 - _In For a Dime_, by Joey
+- _Songs and Bodies_, by Piotr Kurek
 - _Luster_, by Maria Somerville
 - _Sonder_, by Small Crab
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
