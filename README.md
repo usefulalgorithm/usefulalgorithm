@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Decoys_, by No Sir
 - _Ten Sixty_, by Joey, Octoptic
+- _Decoys_, by No Sir
 - _2000XL : A Space Odyssey_, by Killer Kane
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _Fobia_, by Aylu
@@ -23,15 +23,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Piñata_, by Freddie Gibbs, Madlib
 - _Decoys_, by No Sir
+- _Piñata_, by Freddie Gibbs, Madlib
 - _Fobia_, by Aylu
 - _How You Been_, by SML
 - _Songs and Bodies_, by Piotr Kurek
 - _Luster_, by Maria Somerville
 - _Sonder_, by Small Crab
-- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _In For a Dime_, by Joey
+- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Ten Sixty_, by Joey, Octoptic
 - _45 Pounds_, by YHWH Nailgun
 
