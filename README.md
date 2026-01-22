@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Ten Sixty_, by Joey, Octoptic
-- _Decoys_, by No Sir
 
 </details>
 
@@ -23,8 +22,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Fobia_, by Aylu
 - _How You Been_, by SML
-- _Songs and Bodies_, by Piotr Kurek
 - _Ten Sixty_, by Joey, Octoptic
+- _Songs and Bodies_, by Piotr Kurek
 - _In For a Dime_, by Joey
 - _Luster_, by Maria Somerville
 - _Sonder_, by Small Crab
