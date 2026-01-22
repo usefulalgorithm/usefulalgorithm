@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Ten Sixty_, by Joey, Octoptic
 - _Decoys_, by No Sir
 - _2000XL : A Space Odyssey_, by Killer Kane
-- _African Skies_, by Kelan Phil Cohran & Legacy
 
 </details>
 
