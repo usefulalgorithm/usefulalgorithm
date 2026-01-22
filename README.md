@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Decoys_, by No Sir
 - _2000XL : A Space Odyssey_, by Killer Kane
 - _African Skies_, by Kelan Phil Cohran & Legacy
-- _Fobia_, by Aylu
-- _Neighborhoods_, by Ernest Hood
 
 </details>
 
@@ -29,11 +27,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _How You Been_, by SML
 - _Songs and Bodies_, by Piotr Kurek
 - _Luster_, by Maria Somerville
-- _Sonder_, by Small Crab
 - _In For a Dime_, by Joey
-- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Ten Sixty_, by Joey, Octoptic
-- _45 Pounds_, by YHWH Nailgun
+- _Sonder_, by Small Crab
+- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 
 </details>
 
