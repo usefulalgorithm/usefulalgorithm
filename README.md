@@ -17,7 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _Fobia_, by Aylu
 - _Neighborhoods_, by Ernest Hood
-- _Jana Horn_, by Jana Horn
 
 </details>
 
