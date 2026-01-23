@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _In the Earth Again_, by Chat Pile, Hayden Pedigo
 - _Ten Sixty_, by Joey, Octoptic
 - _Image 1983 - 1998_, by Susumu Yokota
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Sonder_, by Small Crab
-- _Rhythm Immortal_, by Carrier
 
 </details>
 
