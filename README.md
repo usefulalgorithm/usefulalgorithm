@@ -12,8 +12,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Ten Sixty_, by Joey, Octoptic
+- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
+- _Sonder_, by Small Crab
+- _Rhythm Immortal_, by Carrier
 - _Fobia_, by Aylu
-- _Essentials_, by Psychotropic
 
 </details>
 
