@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Aquemini_, by Outkast
 - _Fobia_, by Aylu
 - _Les Larmes d'Éros_, by Kousei, SILK丝, SILK絲
 - _Ten Sixty_, by Joey, Octoptic
@@ -22,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Fobia_, by Aylu
-- _Ten Sixty_, by Joey, Octoptic
 - _Decoys_, by No Sir
+- _Ten Sixty_, by Joey, Octoptic
 - _Piñata_, by Freddie Gibbs, Madlib
 - _In For a Dime_, by Joey
 - _How You Been_, by SML
@@ -36,14 +37,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _Introduction to civil war_, by Tiqqun, Alexander R. Galloway, and friends ([link](https://hardcover.app/books/introduction-to-civil-war)). It's OK I guess.
+Just finished reading _How to be a Nigerian_, by Peter Enahoro ([link](https://hardcover.app/books/how-to-be-a-nigerian)). AHHHH everyone should read this book
 
-Gotta finish 25 books before 2027-01-01. I've read 2 so far.
+Gotta finish 25 books before 2027-01-01. I've read 4 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
 
-- _What Does Israel Fear from Palestine?_, by Raja Shehadeh ([link](https://hardcover.app/books/what-does-israel-fear-from-palestine))
 - _The Absence of Myth: Writings on Surrealism_, by Georges Bataille, Michael   Richardson ([link](https://hardcover.app/books/the-absence-of-myth-writings-on-surrealism))
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
@@ -53,7 +53,7 @@ Gotta finish 25 books before 2027-01-01. I've read 2 so far.
 - _A Biography of Ordinary Man: On Authorities and Minorities_, by François Laruelle, Jessie Hock, and friends ([link](https://hardcover.app/books/a-biography-of-ordinary-man))
 - _A Short History of Decay_, by Emil M. Cioran, Richard Howard ([link](https://hardcover.app/books/a-short-history-of-decay))
 - _Anti-Oedipus_, by Gilles Deleuze, Félix Guattari ([link](https://hardcover.app/books/anti-oedipus))
-- _A Thousand Plateaus_, by Gilles Deleuze, Félix Guattari ([link](https://hardcover.app/books/a-thousand-plateaus))
+- _A Thousand Plateaus: Capitalism and Schizophrenia_, by Gilles Deleuze, Félix Guattari, and friends ([link](https://hardcover.app/books/a-thousand-plateaus))
 
 </details>
 
