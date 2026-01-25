@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Aquemini_, by Outkast
+- _Speakerboxxx/The Love Below_, by Outkast
 - _Fobia_, by Aylu
+- _Aquemini_, by Outkast
 - _Les Larmes d'Éros_, by Kousei, SILK丝, SILK絲
 - _Ten Sixty_, by Joey, Octoptic
 - _Sonder_, by Small Crab
