@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Fobia_, by Aylu
+- _Les Larmes d'Éros_, by Kousei, SILK丝, SILK絲
 - _Ten Sixty_, by Joey, Octoptic
 - _Sonder_, by Small Crab
-- _Fobia_, by Aylu
 
 </details>
 
@@ -21,8 +22,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Fobia_, by Aylu
-- _Decoys_, by No Sir
 - _Ten Sixty_, by Joey, Octoptic
+- _Decoys_, by No Sir
 - _Piñata_, by Freddie Gibbs, Madlib
 - _In For a Dime_, by Joey
 - _How You Been_, by SML
