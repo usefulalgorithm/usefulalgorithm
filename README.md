@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Ten Sixty_, by Joey, Octoptic
 - _Sonder_, by Small Crab
 - _Fobia_, by Aylu
-- _In the Earth Again_, by Chat Pile, Hayden Pedigo
 
 </details>
 
