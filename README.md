@@ -28,8 +28,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _In For a Dime_, by Joey
 - _How You Been_, by SML
 - _Songs and Bodies_, by Piotr Kurek
-- _Sonder_, by Small Crab
 - _Speakerboxxx/The Love Below_, by Outkast
+- _Sonder_, by Small Crab
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Luster_, by Maria Somerville
 
