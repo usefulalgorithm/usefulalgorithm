@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Aquemini_, by Outkast
 - _Les Larmes d'Éros_, by Kousei, SILK丝, SILK絲
 - _Ten Sixty_, by Joey, Octoptic
-- _Sonder_, by Small Crab
 
 </details>
 
@@ -31,10 +30,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _How You Been_, by SML
 - _Songs and Bodies_, by Piotr Kurek
 - _Sonder_, by Small Crab
+- _Speakerboxxx/The Love Below_, by Outkast
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Luster_, by Maria Somerville
-- _Speakerboxxx/The Love Below_, by Outkast
-- _45 Pounds_, by YHWH Nailgun
 
 </details>
 
