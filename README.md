@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Speakerboxxx/The Love Below_, by Outkast
 - _In the Earth Again_, by Chat Pile, Hayden Pedigo
 - _Fobia_, by Aylu
-- _Aquemini_, by Outkast
 
 </details>
 
