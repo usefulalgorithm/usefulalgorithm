@@ -12,10 +12,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Speakerboxxx/The Love Below_, by Outkast
+- _In the Earth Again_, by Chat Pile, Hayden Pedigo
 - _Fobia_, by Aylu
 - _Aquemini_, by Outkast
-- _Les Larmes d'Éros_, by Kousei, SILK丝, SILK絲
-- _Ten Sixty_, by Joey, Octoptic
 
 </details>
 
