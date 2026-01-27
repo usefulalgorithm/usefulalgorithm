@@ -11,10 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _DRUG$$$_, by Teller Bank$
 - _Speakerboxxx/The Love Below_, by Outkast
+- _DRUG$$$_, by Teller Bank$
 - _Sonder_, by Small Crab
-- _In the Earth Again_, by Chat Pile, Hayden Pedigo
 
 </details>
 
@@ -24,13 +23,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Fobia_, by Aylu
 - _Ten Sixty_, by Joey, Octoptic
 - _Piñata_, by Freddie Gibbs, Madlib
-- _Decoys_, by No Sir
 - _In For a Dime_, by Joey
+- _Decoys_, by No Sir
 - _Speakerboxxx/The Love Below_, by Outkast
 - _How You Been_, by SML
 - _Songs and Bodies_, by Piotr Kurek
 - _Sonder_, by Small Crab
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
+- _DRUG$$$_, by Teller Bank$
 - _Luster_, by Maria Somerville
 
 </details>
@@ -44,6 +44,7 @@ Gotta finish 25 books before 2027-01-01. I've read 4 so far.
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
 
+- _The Movement of the Free Spirit_, by Raoul Vaneigem, Randall Cherry, and friends ([link](https://hardcover.app/books/the-movement-of-the-free-spirit))
 - _The Absence of Myth: Writings on Surrealism_, by Georges Bataille, Michael   Richardson ([link](https://hardcover.app/books/the-absence-of-myth-writings-on-surrealism))
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
