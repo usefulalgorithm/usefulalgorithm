@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Luster_, by Maria Somerville
 - _Speakerboxxx/The Love Below_, by Outkast
 - _DRUG$$$_, by Teller Bank$
-- _Sonder_, by Small Crab
 
 </details>
 
@@ -30,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Songs and Bodies_, by Piotr Kurek
 - _Sonder_, by Small Crab
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
-- _DRUG$$$_, by Teller Bank$
 - _Luster_, by Maria Somerville
+- _DRUG$$$_, by Teller Bank$
 
 </details>
 
