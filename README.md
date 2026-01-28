@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
 - _Luster_, by Maria Somerville
 - _Speakerboxxx/The Love Below_, by Outkast
 - _DRUG$$$_, by Teller Bank$
