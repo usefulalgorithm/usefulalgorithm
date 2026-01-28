@@ -26,8 +26,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Piñata_, by Freddie Gibbs, Madlib
 - _In For a Dime_, by Joey
-- _Decoys_, by No Sir
 - _How You Been_, by SML
+- _Decoys_, by No Sir
 - _Songs and Bodies_, by Piotr Kurek
 - _Sonder_, by Small Crab
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
