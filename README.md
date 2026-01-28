@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Luster_, by Maria Somerville
 - _Speakerboxxx/The Love Below_, by Outkast
 - _The Night Green Side of It_, by R.A.P. Ferreira, Kenny Segal
-- _Luster_, by Maria Somerville
 - _DRUG$$$_, by Teller Bank$
 
 </details>
@@ -23,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Fobia_, by Aylu
 - _Ten Sixty_, by Joey, Octoptic
-- _Piñata_, by Freddie Gibbs, Madlib
 - _Speakerboxxx/The Love Below_, by Outkast
+- _Piñata_, by Freddie Gibbs, Madlib
 - _In For a Dime_, by Joey
 - _Decoys_, by No Sir
 - _How You Been_, by SML
