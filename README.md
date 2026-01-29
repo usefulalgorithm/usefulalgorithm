@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Ęęro : Eeşu_, by Adey Omotade
 - _Speakerboxxx/The Love Below_, by Outkast
+- _Ęęro : Eeşu_, by Adey Omotade
 - _Sonder_, by Small Crab
 - _DRUG$$$_, by Teller Bank$
 
