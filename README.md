@@ -22,8 +22,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Fobia_, by Aylu
-- _Ten Sixty_, by Joey, Octoptic
 - _Speakerboxxx/The Love Below_, by Outkast
+- _Ten Sixty_, by Joey, Octoptic
 - _Piñata_, by Freddie Gibbs, Madlib
 - _In For a Dime_, by Joey
 - _Sonder_, by Small Crab
