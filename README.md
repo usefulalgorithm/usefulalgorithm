@@ -24,8 +24,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Fobia_, by Aylu
 - _Speakerboxxx/The Love Below_, by Outkast
-- _Ten Sixty_, by Joey, Octoptic
 - _Piñata_, by Freddie Gibbs, Madlib
+- _Ten Sixty_, by Joey, Octoptic
 - _In For a Dime_, by Joey
 - _Sonder_, by Small Crab
 - _How You Been_, by SML
@@ -33,6 +33,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Songs and Bodies_, by Piotr Kurek
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _DRUG$$$_, by Teller Bank$
+- _Luster_, by Maria Somerville
 
 </details>
 
