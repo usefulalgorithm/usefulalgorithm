@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Luster_, by Maria Somerville
 - _Ęęro : Eeşu_, by Adey Omotade
-- _Sonder_, by Small Crab
 
 </details>
 
