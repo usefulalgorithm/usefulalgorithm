@@ -11,11 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Luster_, by Maria Somerville
 - _Speakerboxxx/The Love Below_, by Outkast
+- _Luster_, by Maria Somerville
 - _Ęęro : Eeşu_, by Adey Omotade
 - _Sonder_, by Small Crab
-- _DRUG$$$_, by Teller Bank$
 
 </details>
 
