@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _morning music_, by The Humble Bee
 - _Luster_, by Maria Somerville
 - _Rhythm Immortal_, by Carrier
 - _Speakerboxxx/The Love Below_, by Outkast
