@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Luster_, by Maria Somerville
 - _Rhythm Immortal_, by Carrier
 - _Speakerboxxx/The Love Below_, by Outkast
-- _Ęęro : Eeşu_, by Adey Omotade
 
 </details>
 
