@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Luster_, by Maria Somerville
 - _Rhythm Immortal_, by Carrier
 - _Speakerboxxx/The Love Below_, by Outkast
-- _Luster_, by Maria Somerville
 - _Ęęro : Eeşu_, by Adey Omotade
 
 </details>
