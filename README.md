@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Various Small Whistles and a Song_, by Lia Kohl
+- _Luster_, by Maria Somerville
 - _Through Global Frequency_, by Michel Banabila
 - _morning music_, by The Humble Bee
 
