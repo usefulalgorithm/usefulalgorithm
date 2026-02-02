@@ -11,10 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Cardamom & Laudanum_, by Mystic AM
 - _2000XL : A Space Odyssey_, by Killer Kane
 - _Various Small Whistles and a Song_, by Lia Kohl
-- _Luster_, by Maria Somerville
-- _Through Global Frequency_, by Michel Banabila
 
 </details>
 
