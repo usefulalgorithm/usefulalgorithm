@@ -26,9 +26,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Ten Sixty_, by Joey, Octoptic
 - _In For a Dime_, by Joey
-- _Decoys_, by No Sir
 - _How You Been_, by SML
 - _Sonder_, by Small Crab
+- _Decoys_, by No Sir
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Songs and Bodies_, by Piotr Kurek
 - _Luster_, by Maria Somerville
