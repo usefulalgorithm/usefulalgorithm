@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Speakerboxxx/The Love Below_, by Outkast
 - _Cardamom & Laudanum_, by Mystic AM
 - _Visitations from Enceladus_, by Cryptic Shift
 - _Through Global Frequency_, by Michel Banabila
@@ -22,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Fobia_, by Aylu
 - _Speakerboxxx/The Love Below_, by Outkast
+- _Fobia_, by Aylu
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Ten Sixty_, by Joey, Octoptic
 - _In For a Dime_, by Joey
