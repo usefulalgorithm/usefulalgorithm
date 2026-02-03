@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Visitations from Enceladus_, by Cryptic Shift
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Cardamom & Laudanum_, by Mystic AM
-- _Visitations from Enceladus_, by Cryptic Shift
 - _Through Global Frequency_, by Michel Banabila
 - _Various Small Whistles and a Song_, by Lia Kohl
 - _2000XL : A Space Odyssey_, by Killer Kane
