@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Cardamom & Laudanum_, by Mystic AM
 - _Through Global Frequency_, by Michel Banabila
-- _Various Small Whistles and a Song_, by Lia Kohl
-- _2000XL : A Space Odyssey_, by Killer Kane
 
 </details>
 
@@ -27,8 +25,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Fobia_, by Aylu
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Ten Sixty_, by Joey, Octoptic
-- _In For a Dime_, by Joey
 - _How You Been_, by SML
+- _In For a Dime_, by Joey
 - _Sonder_, by Small Crab
 - _Decoys_, by No Sir
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
