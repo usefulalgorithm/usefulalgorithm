@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Rhythm Immortal_, by Carrier
 - _Luster_, by Maria Somerville
 - _Post Purgatory_, by Scattered Purgatory
-- _Rhythm Immortal_, by Carrier
 - _Visitations from Enceladus_, by Cryptic Shift
 - _海の動物園_, by Masahiro Sugaya
-- _Speakerboxxx/The Love Below_, by Outkast
 
 </details>
 
