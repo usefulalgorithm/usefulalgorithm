@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _海の動物園_, by Masahiro Sugaya
+- _Rhythm Immortal_, by Carrier
 - _Visitations from Enceladus_, by Cryptic Shift
+- _海の動物園_, by Masahiro Sugaya
 - _Speakerboxxx/The Love Below_, by Outkast
-- _Cardamom & Laudanum_, by Mystic AM
 
 </details>
 
@@ -26,9 +26,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Ten Sixty_, by Joey, Octoptic
 - _How You Been_, by SML
-- _In For a Dime_, by Joey
 - _Sonder_, by Small Crab
 - _Decoys_, by No Sir
+- _In For a Dime_, by Joey
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Songs and Bodies_, by Piotr Kurek
 - _DRUG$$$_, by Teller Bank$
