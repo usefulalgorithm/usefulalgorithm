@@ -31,8 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Decoys_, by No Sir
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Songs and Bodies_, by Piotr Kurek
-- _Luster_, by Maria Somerville
 - _DRUG$$$_, by Teller Bank$
+- _Luster_, by Maria Somerville
 - _Through Global Frequency_, by Michel Banabila
 
 </details>
