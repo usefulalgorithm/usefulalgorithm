@@ -11,10 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Visitations from Enceladus_, by Cryptic Shift
+- _MUDY IN SQUALL_, by mudy on the 昨晩
+- _pavilion_, by mudy on the 昨晩
 - _Rhythm Immortal_, by Carrier
 - _Luster_, by Maria Somerville
 - _Post Purgatory_, by Scattered Purgatory
-- _Visitations from Enceladus_, by Cryptic Shift
 - _海の動物園_, by Masahiro Sugaya
 
 </details>
