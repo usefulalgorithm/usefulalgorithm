@@ -29,11 +29,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Fobia_, by Aylu
 - _Ten Sixty_, by Joey, Octoptic
-- _Piñata_, by Freddie Gibbs, Madlib
 - _How You Been_, by SML
 - _Sonder_, by Small Crab
 - _Decoys_, by No Sir
 - _In For a Dime_, by Joey
+- _Piñata_, by Freddie Gibbs, Madlib
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Songs and Bodies_, by Piotr Kurek
 - _DRUG$$$_, by Teller Bank$
