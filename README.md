@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Erotic Probiotic 2_, by Nourished by Time
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _海の動物園_, by Masahiro Sugaya
 - _Luster_, by Maria Somerville
