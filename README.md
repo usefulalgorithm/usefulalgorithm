@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _海の動物園_, by Masahiro Sugaya
 - _Luster_, by Maria Somerville
 - _Post Purgatory_, by Scattered Purgatory
 - _Rhythm Immortal_, by Carrier
-- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Visitations from Enceladus_, by Cryptic Shift
 - _MUDY IN SQUALL_, by mudy on the 昨晩
 - _pavilion_, by mudy on the 昨晩
