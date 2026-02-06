@@ -11,10 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Luster_, by Maria Somerville
+- _Speakerboxxx/The Love Below_, by Outkast
 - _Erotic Probiotic 2_, by Nourished by Time
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _海の動物園_, by Masahiro Sugaya
-- _Luster_, by Maria Somerville
 - _Post Purgatory_, by Scattered Purgatory
 - _Rhythm Immortal_, by Carrier
 - _Visitations from Enceladus_, by Cryptic Shift
