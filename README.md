@@ -62,7 +62,7 @@ Gotta finish 25 books before 2027-01-01. I've read 4 so far.
 - _K-punk_, by Mark Fisher ([link](https://hardcover.app/books/k-punk-2018))
 - _A Biography of Ordinary Man: On Authorities and Minorities_, by François Laruelle, Jessie Hock, and friends ([link](https://hardcover.app/books/a-biography-of-ordinary-man))
 - _A Short History of Decay_, by Emil M. Cioran, Richard Howard ([link](https://hardcover.app/books/a-short-history-of-decay))
-- _Anti-Oedipus_, by Gilles Deleuze, Félix Guattari ([link](https://hardcover.app/books/anti-oedipus))
+- _Anti-Oedipus: Capitalism and Schizophrenia_, by Gilles Deleuze, Félix Guattari, and friends ([link](https://hardcover.app/books/anti-oedipus))
 - _A Thousand Plateaus: Capitalism and Schizophrenia_, by Gilles Deleuze, Félix Guattari, and friends ([link](https://hardcover.app/books/a-thousand-plateaus))
 
 </details>
