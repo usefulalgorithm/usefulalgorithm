@@ -11,16 +11,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Luster_, by Maria Somerville
-- _Speakerboxxx/The Love Below_, by Outkast
-- _Erotic Probiotic 2_, by Nourished by Time
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
+- _Erotic Probiotic 2_, by Nourished by Time
+- _Speakerboxxx/The Love Below_, by Outkast
+- _Luster_, by Maria Somerville
 - _海の動物園_, by Masahiro Sugaya
 - _Post Purgatory_, by Scattered Purgatory
 - _Rhythm Immortal_, by Carrier
 - _Visitations from Enceladus_, by Cryptic Shift
 - _MUDY IN SQUALL_, by mudy on the 昨晩
-- _pavilion_, by mudy on the 昨晩
 
 </details>
 
