@@ -18,8 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _海の動物園_, by Masahiro Sugaya
 - _Post Purgatory_, by Scattered Purgatory
 - _Rhythm Immortal_, by Carrier
-- _Visitations from Enceladus_, by Cryptic Shift
-- _MUDY IN SQUALL_, by mudy on the 昨晩
 
 </details>
 
@@ -33,13 +31,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Sonder_, by Small Crab
 - _Decoys_, by No Sir
 - _In For a Dime_, by Joey
-- _Piñata_, by Freddie Gibbs, Madlib
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Songs and Bodies_, by Piotr Kurek
-- _DRUG$$$_, by Teller Bank$
 - _Luster_, by Maria Somerville
 - _Through Global Frequency_, by Michel Banabila
+- _DRUG$$$_, by Teller Bank$
 - _海の動物園_, by Masahiro Sugaya
+- _Piñata_, by Freddie Gibbs, Madlib
+- _SCRAM!_, by Domo Genesis, Graymatter
 
 </details>
 
