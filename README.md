@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Sonder_, by Small Crab
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Erotic Probiotic 2_, by Nourished by Time
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Luster_, by Maria Somerville
 - _海の動物園_, by Masahiro Sugaya
-- _Post Purgatory_, by Scattered Purgatory
 
 </details>
 
