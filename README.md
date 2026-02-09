@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Erotic Probiotic 2_, by Nourished by Time
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Luster_, by Maria Somerville
-- _海の動物園_, by Masahiro Sugaya
 
 </details>
 
