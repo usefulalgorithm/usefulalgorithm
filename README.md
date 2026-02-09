@@ -26,8 +26,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Fobia_, by Aylu
 - _Ten Sixty_, by Joey, Octoptic
-- _How You Been_, by SML
 - _Sonder_, by Small Crab
+- _How You Been_, by SML
 - _Decoys_, by No Sir
 - _In For a Dime_, by Joey
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
