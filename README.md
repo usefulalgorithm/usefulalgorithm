@@ -11,8 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Rhythm Immortal_, by Carrier
-- _Sonder_, by Small Crab
+- _Various Small Whistles and a Song_, by Lia Kohl
 
 </details>
 
@@ -21,8 +20,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Fobia_, by Aylu
-- _Ten Sixty_, by Joey, Octoptic
 - _Sonder_, by Small Crab
+- _Ten Sixty_, by Joey, Octoptic
 - _How You Been_, by SML
 - _Decoys_, by No Sir
 - _In For a Dime_, by Joey
@@ -33,7 +32,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Songs and Bodies_, by Piotr Kurek
 - _海の動物園_, by Masahiro Sugaya
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
-- _DRUG$$$_, by Teller Bank$
 
 </details>
 
