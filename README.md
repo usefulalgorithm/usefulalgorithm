@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Cutting the Throat of God_, by Ulcerate
 - _Various Small Whistles and a Song_, by Lia Kohl
 
 </details>
@@ -26,14 +27,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Decoys_, by No Sir
 - _In For a Dime_, by Joey
 - _Rhythm Immortal_, by Carrier
-- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Voting Line, Downtown Chicago_, by Lia Kohl
+- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
+- _Penny Whistle Seller, Guangzhou_, by Lia Kohl
+- _Various Small Whistles and a Song_, by Lia Kohl
 - _Luster_, by Maria Somerville
 - _Through Global Frequency_, by Michel Banabila
-- _Penny Whistle Seller, Guangzhou_, by Lia Kohl
-- _Songs and Bodies_, by Piotr Kurek
-- _海の動物園_, by Masahiro Sugaya
-- _Various Small Whistles and a Song_, by Lia Kohl
 
 </details>
 
