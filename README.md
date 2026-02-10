@@ -24,8 +24,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Sonder_, by Small Crab
 - _Ten Sixty_, by Joey, Octoptic
 - _How You Been_, by SML
-- _Decoys_, by No Sir
 - _In For a Dime_, by Joey
+- _Decoys_, by No Sir
 - _Rhythm Immortal_, by Carrier
 - _Voting Line, Downtown Chicago_, by Lia Kohl
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
