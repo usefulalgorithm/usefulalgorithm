@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Rhythm Immortal_, by Carrier
 - _Sonder_, by Small Crab
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Erotic Probiotic 2_, by Nourished by Time
@@ -30,6 +31,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Decoys_, by No Sir
 - _In For a Dime_, by Joey
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
+- _Rhythm Immortal_, by Carrier
 - _Luster_, by Maria Somerville
 - _Through Global Frequency_, by Michel Banabila
 - _DRUG$$$_, by Teller Bank$
