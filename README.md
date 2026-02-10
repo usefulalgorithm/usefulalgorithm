@@ -14,9 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Rhythm Immortal_, by Carrier
 - _Sonder_, by Small Crab
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
-- _Erotic Probiotic 2_, by Nourished by Time
-- _Speakerboxxx/The Love Below_, by Outkast
-- _Luster_, by Maria Somerville
 
 </details>
 
@@ -30,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _How You Been_, by SML
 - _Decoys_, by No Sir
 - _In For a Dime_, by Joey
-- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Rhythm Immortal_, by Carrier
+- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Luster_, by Maria Somerville
 - _Through Global Frequency_, by Michel Banabila
 - _DRUG$$$_, by Teller Bank$
