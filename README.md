@@ -11,8 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _In the Earth Again_, by Chat Pile, Hayden Pedigo
 - _Cutting the Throat of God_, by Ulcerate
+- _Sonder_, by Small Crab
+- _海の動物園_, by Masahiro Sugaya
+- _In the Earth Again_, by Chat Pile, Hayden Pedigo
 - _Various Small Whistles and a Song_, by Lia Kohl
 
 </details>
@@ -21,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Speakerboxxx/The Love Below_, by Outkast
-- _Fobia_, by Aylu
 - _Sonder_, by Small Crab
+- _Fobia_, by Aylu
 - _Ten Sixty_, by Joey, Octoptic
 - _How You Been_, by SML
 - _In For a Dime_, by Joey
@@ -31,6 +33,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Voting Line, Downtown Chicago_, by Lia Kohl
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Penny Whistle Seller, Guangzhou_, by Lia Kohl
+- _海の動物園_, by Masahiro Sugaya
 - _Various Small Whistles and a Song_, by Lia Kohl
 - _Luster_, by Maria Somerville
 - _Through Global Frequency_, by Michel Banabila
