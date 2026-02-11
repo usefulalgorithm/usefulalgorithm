@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Erotic Probiotic 2_, by Nourished by Time
 - _Cutting the Throat of God_, by Ulcerate
 - _Sonder_, by Small Crab
 - _海の動物園_, by Masahiro Sugaya
@@ -29,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _How You Been_, by SML
 - _In For a Dime_, by Joey
 - _Rhythm Immortal_, by Carrier
-- _Decoys_, by No Sir
 - _Voting Line, Downtown Chicago_, by Lia Kohl
+- _Decoys_, by No Sir
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Penny Whistle Seller, Guangzhou_, by Lia Kohl
 - _海の動物園_, by Masahiro Sugaya
