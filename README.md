@@ -28,8 +28,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Ten Sixty_, by Joey, Octoptic
 - _How You Been_, by SML
 - _In For a Dime_, by Joey
-- _Decoys_, by No Sir
 - _Rhythm Immortal_, by Carrier
+- _Decoys_, by No Sir
 - _Voting Line, Downtown Chicago_, by Lia Kohl
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Penny Whistle Seller, Guangzhou_, by Lia Kohl
