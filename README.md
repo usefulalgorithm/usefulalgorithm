@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Erotic Probiotic 2_, by Nourished by Time
 - _Cutting the Throat of God_, by Ulcerate
+- _Erotic Probiotic 2_, by Nourished by Time
 - _Sonder_, by Small Crab
 - _海の動物園_, by Masahiro Sugaya
 - _In the Earth Again_, by Chat Pile, Hayden Pedigo
