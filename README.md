@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _冀西南林路行_, by 万能青年旅店
 - _Cutting the Throat of God_, by Ulcerate
 - _Erotic Probiotic 2_, by Nourished by Time
 - _Sonder_, by Small Crab
@@ -28,8 +29,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Fobia_, by Aylu
 - _Ten Sixty_, by Joey, Octoptic
 - _In For a Dime_, by Joey
-- _How You Been_, by SML
 - _Rhythm Immortal_, by Carrier
+- _How You Been_, by SML
 - _Voting Line, Downtown Chicago_, by Lia Kohl
 - _Decoys_, by No Sir
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
