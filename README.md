@@ -11,11 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Sonder_, by Small Crab
-- _I'll Call You Later_, by Xterea
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
-- _冀西南林路行_, by 万能青年旅店
-- _Cutting the Throat of God_, by Ulcerate
+- _I'll Call You Later_, by Xterea
+- _Sonder_, by Small Crab
 
 </details>
 
@@ -31,13 +29,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Voting Line, Downtown Chicago_, by Lia Kohl
 - _Decoys_, by No Sir
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
+- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Penny Whistle Seller, Guangzhou_, by Lia Kohl
 - _海の動物園_, by Masahiro Sugaya
 - _Various Small Whistles and a Song_, by Lia Kohl
-- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Luster_, by Maria Somerville
 - _Through Global Frequency_, by Michel Banabila
-- _How You Been_, by SML
 
 </details>
 
