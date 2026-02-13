@@ -11,13 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _I'll Call You Later_, by Xterea
+- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _冀西南林路行_, by 万能青年旅店
 - _Cutting the Throat of God_, by Ulcerate
 - _Erotic Probiotic 2_, by Nourished by Time
 - _Sonder_, by Small Crab
 - _海の動物園_, by Masahiro Sugaya
 - _In the Earth Again_, by Chat Pile, Hayden Pedigo
-- _Various Small Whistles and a Song_, by Lia Kohl
 
 </details>
 
@@ -26,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Sonder_, by Small Crab
-- _Fobia_, by Aylu
 - _Ten Sixty_, by Joey, Octoptic
+- _Fobia_, by Aylu
 - _In For a Dime_, by Joey
 - _Rhythm Immortal_, by Carrier
 - _How You Been_, by SML
@@ -37,6 +38,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Penny Whistle Seller, Guangzhou_, by Lia Kohl
 - _海の動物園_, by Masahiro Sugaya
 - _Various Small Whistles and a Song_, by Lia Kohl
+- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Luster_, by Maria Somerville
 - _Through Global Frequency_, by Michel Banabila
 
