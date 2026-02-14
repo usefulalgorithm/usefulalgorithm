@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Visitations from Enceladus_, by Cryptic Shift
+- _morning music_, by The Humble Bee
 - _I'll Call You Later_, by Xterea
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Sonder_, by Small Crab
