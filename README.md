@@ -30,16 +30,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Rhythm Immortal_, by Carrier
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Voting Line, Downtown Chicago_, by Lia Kohl
-- _Decoys_, by No Sir
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Penny Whistle Seller, Guangzhou_, by Lia Kohl
+- _Decoys_, by No Sir
 - _海の動物園_, by Masahiro Sugaya
 - _Various Small Whistles and a Song_, by Lia Kohl
+- _I'll Call You Later_, by Xterea
 - _Luster_, by Maria Somerville
 - _Through Global Frequency_, by Michel Banabila
-- _I'll Call You Later_, by Xterea
 - _Visitations from Enceladus_, by Cryptic Shift
-- _In the Earth Again_, by Chat Pile, Hayden Pedigo
 
 </details>
 
