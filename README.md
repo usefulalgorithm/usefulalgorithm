@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Speakerboxxx/The Love Below_, by Outkast
 - _冀西南林路行_, by 万能青年旅店
 - _I'll Call You Later_, by Xterea
 - _Visitations from Enceladus_, by Cryptic Shift
