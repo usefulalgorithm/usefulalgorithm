@@ -11,13 +11,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Speakerboxxx/The Love Below_, by Outkast
+- _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
+- _海の動物園_, by Masahiro Sugaya
+- _Sonder_, by Small Crab
 - _冀西南林路行_, by 万能青年旅店
+- _Speakerboxxx/The Love Below_, by Outkast
 - _I'll Call You Later_, by Xterea
 - _Visitations from Enceladus_, by Cryptic Shift
 - _morning music_, by The Humble Bee
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
-- _Sonder_, by Small Crab
 
 </details>
 
@@ -32,10 +34,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Rhythm Immortal_, by Carrier
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Voting Line, Downtown Chicago_, by Lia Kohl
+- _海の動物園_, by Masahiro Sugaya
 - _Penny Whistle Seller, Guangzhou_, by Lia Kohl
 - _Decoys_, by No Sir
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
-- _海の動物園_, by Masahiro Sugaya
 - _Various Small Whistles and a Song_, by Lia Kohl
 - _I'll Call You Later_, by Xterea
 - _Luster_, by Maria Somerville
