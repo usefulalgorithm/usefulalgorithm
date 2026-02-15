@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
+- _African Skies_, by Kelan Phil Cohran & Legacy
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _海の動物園_, by Masahiro Sugaya
 - _Sonder_, by Small Crab
