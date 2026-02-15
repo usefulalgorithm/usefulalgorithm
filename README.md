@@ -19,7 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _I'll Call You Later_, by Xterea
 - _Visitations from Enceladus_, by Cryptic Shift
 - _morning music_, by The Humble Bee
-- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 
 </details>
 
@@ -36,12 +35,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Voting Line, Downtown Chicago_, by Lia Kohl
 - _海の動物園_, by Masahiro Sugaya
 - _Penny Whistle Seller, Guangzhou_, by Lia Kohl
+- _Through Global Frequency_, by Michel Banabila
 - _Decoys_, by No Sir
-- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Various Small Whistles and a Song_, by Lia Kohl
 - _I'll Call You Later_, by Xterea
 - _Luster_, by Maria Somerville
-- _Through Global Frequency_, by Michel Banabila
+- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Visitations from Enceladus_, by Cryptic Shift
 
 </details>
