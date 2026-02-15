@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Melodic Blue_, by Baby Keem
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
