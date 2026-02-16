@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Speakerboxxx/The Love Below_, by Outkast
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _Changes in Air_, by Kara-Lis Coverdale
 - _Romeo's Fall_, by EXLRUTH
