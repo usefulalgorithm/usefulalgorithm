@@ -18,7 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Melodic Blue_, by Baby Keem
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
-- _海の動物園_, by Masahiro Sugaya
 
 </details>
 
