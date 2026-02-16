@@ -11,14 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _African Skies_, by Kelan Phil Cohran & Legacy
+- _Romeo's Fall_, by EXLRUTH
+- _Natural Selection_, by Florian Hecker
+- _The Fall-Off_, by J. Cole
 - _The Melodic Blue_, by Baby Keem
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
-- _African Skies_, by Kelan Phil Cohran & Legacy
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _海の動物園_, by Masahiro Sugaya
-- _Sonder_, by Small Crab
-- _冀西南林路行_, by 万能青年旅店
-- _Speakerboxxx/The Love Below_, by Outkast
 
 </details>
 
