@@ -29,9 +29,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Sonder_, by Small Crab
 - _Ten Sixty_, by Joey, Octoptic
-- _Fobia_, by Aylu
 - _In For a Dime_, by Joey
 - _Rhythm Immortal_, by Carrier
+- _Fobia_, by Aylu
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Voting Line, Downtown Chicago_, by Lia Kohl
 - _海の動物園_, by Masahiro Sugaya
