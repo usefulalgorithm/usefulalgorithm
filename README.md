@@ -20,7 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Fall-Off_, by J. Cole
 - _The Melodic Blue_, by Baby Keem
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
-- _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 
 </details>
 
@@ -29,21 +28,22 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Sonder_, by Small Crab
-- _Ten Sixty_, by Joey, Octoptic
 - _Rhythm Immortal_, by Carrier
 - _Fobia_, by Aylu
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Voting Line, Downtown Chicago_, by Lia Kohl
 - _海の動物園_, by Masahiro Sugaya
+- _Ten Sixty_, by Joey, Octoptic
 - _Penny Whistle Seller, Guangzhou_, by Lia Kohl
 - _Through Global Frequency_, by Michel Banabila
-- _In For a Dime_, by Joey
 - _Various Small Whistles and a Song_, by Lia Kohl
 - _I'll Call You Later_, by Xterea
 - _Luster_, by Maria Somerville
 - _Visitations from Enceladus_, by Cryptic Shift
+- _In For a Dime_, by Joey
 - _In the Earth Again_, by Chat Pile, Hayden Pedigo
 - _Cutting the Throat of God_, by Ulcerate
+- _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 
 </details>
 
