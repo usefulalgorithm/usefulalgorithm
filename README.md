@@ -18,8 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Romeo's Fall_, by EXLRUTH
 - _Natural Selection_, by Florian Hecker
 - _The Fall-Off_, by J. Cole
-- _The Melodic Blue_, by Baby Keem
-- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 
 </details>
 
