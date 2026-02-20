@@ -15,9 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Changes in Air_, by Kara-Lis Coverdale
 - _Speakerboxxx/The Love Below_, by Outkast
 - _African Skies_, by Kelan Phil Cohran & Legacy
-- _Romeo's Fall_, by EXLRUTH
-- _Natural Selection_, by Florian Hecker
-- _The Fall-Off_, by J. Cole
 
 </details>
 
