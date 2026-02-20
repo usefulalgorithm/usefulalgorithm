@@ -32,13 +32,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Various Small Whistles and a Song_, by Lia Kohl
 - _I'll Call You Later_, by Xterea
 - _Luster_, by Maria Somerville
-- _Ten Sixty_, by Joey, Octoptic
 - _Fobia_, by Aylu
 - _Visitations from Enceladus_, by Cryptic Shift
 - _In the Earth Again_, by Chat Pile, Hayden Pedigo
 - _Cutting the Throat of God_, by Ulcerate
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
-- _In For a Dime_, by Joey
+- _Ten Sixty_, by Joey, Octoptic
 
 </details>
 
