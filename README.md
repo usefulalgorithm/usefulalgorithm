@@ -11,10 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Dancin' In The Streets_, by Rat Heart
 - _Speakerboxxx/The Love Below_, by Outkast
+- _Dancin' In The Streets_, by Rat Heart
 - _URGH_, by Mandy, Indiana
-- _Changes in Air_, by Kara-Lis Coverdale
 
 </details>
 
@@ -36,7 +35,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cutting the Throat of God_, by Ulcerate
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _URGH_, by Mandy, Indiana
-- _Fobia_, by Aylu
 
 </details>
 
