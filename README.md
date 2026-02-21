@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Piñata_, by Freddie Gibbs, Madlib
 - _Speakerboxxx/The Love Below_, by Outkast
+- _Piñata_, by Freddie Gibbs, Madlib
 - _Dancin' In The Streets_, by Rat Heart
 - _URGH_, by Mandy, Indiana
 
