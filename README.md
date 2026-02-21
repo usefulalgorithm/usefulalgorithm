@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Dancin' In The Streets_, by Rat Heart
+- _Speakerboxxx/The Love Below_, by Outkast
 - _URGH_, by Mandy, Indiana
 - _Changes in Air_, by Kara-Lis Coverdale
-- _Speakerboxxx/The Love Below_, by Outkast
-- _African Skies_, by Kelan Phil Cohran & Legacy
 
 </details>
 
