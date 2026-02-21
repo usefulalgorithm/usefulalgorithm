@@ -35,8 +35,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Visitations from Enceladus_, by Cryptic Shift
 - _Cutting the Throat of God_, by Ulcerate
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
-- _Fobia_, by Aylu
 - _URGH_, by Mandy, Indiana
+- _Fobia_, by Aylu
 
 </details>
 
