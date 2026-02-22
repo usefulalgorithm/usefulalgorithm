@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _African Skies_, by Kelan Phil Cohran & Legacy
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Dancin' In The Streets_, by Rat Heart
