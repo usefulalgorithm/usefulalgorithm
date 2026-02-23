@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Changes in Air_, by Kara-Lis Coverdale
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _Speakerboxxx/The Love Below_, by Outkast
@@ -39,6 +40,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _URGH_, by Mandy, Indiana
+- _Changes in Air_, by Kara-Lis Coverdale
 
 </details>
 
