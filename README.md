@@ -11,21 +11,21 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _URGH_, by Mandy, Indiana
 - _Changes in Air_, by Kara-Lis Coverdale
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Dancin' In The Streets_, by Rat Heart
-- _URGH_, by Mandy, Indiana
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Speakerboxxx/The Love Below_, by Outkast
 - _Sonder_, by Small Crab
+- _Speakerboxxx/The Love Below_, by Outkast
 - _Rhythm Immortal_, by Carrier
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Voting Line, Downtown Chicago_, by Lia Kohl
@@ -35,12 +35,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Various Small Whistles and a Song_, by Lia Kohl
 - _I'll Call You Later_, by Xterea
 - _Luster_, by Maria Somerville
+- _URGH_, by Mandy, Indiana
 - _Visitations from Enceladus_, by Cryptic Shift
 - _Cutting the Throat of God_, by Ulcerate
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _Changes in Air_, by Kara-Lis Coverdale
 - _African Skies_, by Kelan Phil Cohran & Legacy
-- _URGH_, by Mandy, Indiana
 
 </details>
 
