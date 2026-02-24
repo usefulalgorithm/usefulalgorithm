@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _URGH_, by Mandy, Indiana
 - _Changes in Air_, by Kara-Lis Coverdale
+- _URGH_, by Mandy, Indiana
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Piñata_, by Freddie Gibbs, Madlib
-- _Dancin' In The Streets_, by Rat Heart
 
 </details>
 
@@ -36,10 +35,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _I'll Call You Later_, by Xterea
 - _Luster_, by Maria Somerville
 - _URGH_, by Mandy, Indiana
+- _Changes in Air_, by Kara-Lis Coverdale
 - _Visitations from Enceladus_, by Cryptic Shift
 - _Cutting the Throat of God_, by Ulcerate
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
-- _Changes in Air_, by Kara-Lis Coverdale
 - _African Skies_, by Kelan Phil Cohran & Legacy
 
 </details>
