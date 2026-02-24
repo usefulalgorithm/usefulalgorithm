@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Changes in Air_, by Kara-Lis Coverdale
 - _URGH_, by Mandy, Indiana
-- _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 
 </details>
 
@@ -24,9 +23,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Rhythm Immortal_, by Carrier
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
+- _Changes in Air_, by Kara-Lis Coverdale
 - _Voting Line, Downtown Chicago_, by Lia Kohl
 - _海の動物園_, by Masahiro Sugaya
-- _Changes in Air_, by Kara-Lis Coverdale
 - _Penny Whistle Seller, Guangzhou_, by Lia Kohl
 - _Through Global Frequency_, by Michel Banabila
 - _Various Small Whistles and a Song_, by Lia Kohl
