@@ -14,9 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Changes in Air_, by Kara-Lis Coverdale
 - _URGH_, by Mandy, Indiana
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
-- _African Skies_, by Kelan Phil Cohran & Legacy
-- _Speakerboxxx/The Love Below_, by Outkast
-- _Piñata_, by Freddie Gibbs, Madlib
 
 </details>
 
@@ -31,11 +28,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _海の動物園_, by Masahiro Sugaya
 - _Penny Whistle Seller, Guangzhou_, by Lia Kohl
 - _Through Global Frequency_, by Michel Banabila
+- _Changes in Air_, by Kara-Lis Coverdale
 - _Various Small Whistles and a Song_, by Lia Kohl
 - _I'll Call You Later_, by Xterea
 - _Luster_, by Maria Somerville
 - _URGH_, by Mandy, Indiana
-- _Changes in Air_, by Kara-Lis Coverdale
 - _Visitations from Enceladus_, by Cryptic Shift
 - _Cutting the Throat of God_, by Ulcerate
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
