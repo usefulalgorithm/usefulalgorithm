@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Cutting the Throat of God_, by Ulcerate
+- _African Skies_, by Kelan Phil Cohran & Legacy
 - _Changes in Air_, by Kara-Lis Coverdale
 - _URGH_, by Mandy, Indiana
 
