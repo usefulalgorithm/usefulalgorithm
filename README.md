@@ -20,8 +20,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Sonder_, by Small Crab
 - _Changes in Air_, by Kara-Lis Coverdale
+- _Sonder_, by Small Crab
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Rhythm Immortal_, by Carrier
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
