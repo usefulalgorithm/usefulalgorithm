@@ -11,15 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Changes in Air_, by Kara-Lis Coverdale
 - _House featuring John Cale_, by Charli xcx, John Cale
 - _Natural Selection_, by Florian Hecker
 - _Showbiz!_, by MIKE
-- _Changes in Air_, by Kara-Lis Coverdale
 - _Showbiz! (Deluxe)_, by MIKE
 - _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
 - _我又沒有做錯事_, by MassMan
-- _Cutting the Throat of God_, by Ulcerate
-- _African Skies_, by Kelan Phil Cohran & Legacy
 
 </details>
 
@@ -27,9 +25,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Changes in Air_, by Kara-Lis Coverdale
-- _Sonder_, by Small Crab
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Rhythm Immortal_, by Carrier
+- _Sonder_, by Small Crab
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Voting Line, Downtown Chicago_, by Lia Kohl
 - _Cutting the Throat of God_, by Ulcerate
@@ -40,9 +38,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _I'll Call You Later_, by Xterea
 - _URGH_, by Mandy, Indiana
 - _African Skies_, by Kelan Phil Cohran & Legacy
-- _Luster_, by Maria Somerville
 - _Visitations from Enceladus_, by Cryptic Shift
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
+- _Luster_, by Maria Somerville
 
 </details>
 
