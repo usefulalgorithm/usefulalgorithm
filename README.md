@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _URGH_, by Mandy, Indiana
 - _Showbiz!_, by MIKE
 - _Showbiz! (Deluxe)_, by MIKE
 - _Changes in Air_, by Kara-Lis Coverdale
 - _House featuring John Cale_, by Charli xcx, John Cale
 - _Natural Selection_, by Florian Hecker
-- _Hostile Engineering_, by Lt Headtrip, Steel Tipped Dove
-- _我又沒有做錯事_, by MassMan
 
 </details>
 
@@ -34,9 +33,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _海の動物園_, by Masahiro Sugaya
 - _Penny Whistle Seller, Guangzhou_, by Lia Kohl
 - _Through Global Frequency_, by Michel Banabila
+- _URGH_, by Mandy, Indiana
 - _Various Small Whistles and a Song_, by Lia Kohl
 - _I'll Call You Later_, by Xterea
-- _URGH_, by Mandy, Indiana
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _Visitations from Enceladus_, by Cryptic Shift
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
