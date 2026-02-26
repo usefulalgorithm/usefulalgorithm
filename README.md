@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _House featuring John Cale_, by Charli xcx, John Cale
 - _Natural Selection_, by Florian Hecker
 - _Showbiz!_, by MIKE
 - _Changes in Air_, by Kara-Lis Coverdale
