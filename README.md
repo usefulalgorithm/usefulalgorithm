@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Infant_, by John T. Gast
 - _URGH_, by Mandy, Indiana
 - _Showbiz!_, by MIKE
 - _Showbiz! (Deluxe)_, by MIKE
@@ -24,13 +25,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Changes in Air_, by Kara-Lis Coverdale
-- _Speakerboxxx/The Love Below_, by Outkast
 - _Rhythm Immortal_, by Carrier
 - _Sonder_, by Small Crab
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Voting Line, Downtown Chicago_, by Lia Kohl
 - _Cutting the Throat of God_, by Ulcerate
 - _海の動物園_, by Masahiro Sugaya
+- _Speakerboxxx/The Love Below_, by Outkast
 - _Penny Whistle Seller, Guangzhou_, by Lia Kohl
 - _Through Global Frequency_, by Michel Banabila
 - _URGH_, by Mandy, Indiana
