@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Infant_, by John T. Gast
 - _Critical Thinking_, by Manic Street Preachers
 - _GENERATION TERRORISTS_, by Manic Street Preachers
-- _Infant_, by John T. Gast
 - _URGH_, by Mandy, Indiana
 - _Showbiz!_, by MIKE
 - _Showbiz! (Deluxe)_, by MIKE
