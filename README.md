@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Showbiz!_, by MIKE
 - _Infant_, by John T. Gast
 - _Critical Thinking_, by Manic Street Preachers
 - _GENERATION TERRORISTS_, by Manic Street Preachers
 - _URGH_, by Mandy, Indiana
-- _Showbiz!_, by MIKE
 - _Showbiz! (Deluxe)_, by MIKE
 - _Changes in Air_, by Kara-Lis Coverdale
 - _House featuring John Cale_, by Charli xcx, John Cale
