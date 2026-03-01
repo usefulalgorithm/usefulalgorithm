@@ -40,7 +40,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _Visitations from Enceladus_, by Cryptic Shift
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
-- _Through Global Frequency_, by Michel Banabila
 
 </details>
 
