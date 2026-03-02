@@ -30,13 +30,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Cutting the Throat of God_, by Ulcerate
 - _海の動物園_, by Masahiro Sugaya
-- _Voting Line, Downtown Chicago_, by Lia Kohl
 - _Rhythm Immortal_, by Carrier
 - _Speakerboxxx/The Love Below_, by Outkast
-- _Penny Whistle Seller, Guangzhou_, by Lia Kohl
 - _URGH_, by Mandy, Indiana
-- _Various Small Whistles and a Song_, by Lia Kohl
 - _I'll Call You Later_, by Xterea
+- _Penny Whistle Seller, Guangzhou_, by Lia Kohl
+- _Voting Line, Downtown Chicago_, by Lia Kohl
+- _Various Small Whistles and a Song_, by Lia Kohl
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _Visitations from Enceladus_, by Cryptic Shift
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
