@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Eiger_, by Aara
 - _Cutting the Throat of God_, by Ulcerate
 - _Momoko_, by Momoko Gill
 
@@ -23,9 +24,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cutting the Throat of God_, by Ulcerate
 - _Sonder_, by Small Crab
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
-- _海の動物園_, by Masahiro Sugaya
 - _Rhythm Immortal_, by Carrier
 - _URGH_, by Mandy, Indiana
+- _海の動物園_, by Masahiro Sugaya
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Voting Line, Downtown Chicago_, by Lia Kohl
 - _I'll Call You Later_, by Xterea
