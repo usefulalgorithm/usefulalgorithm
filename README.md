@@ -17,8 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Infant_, by John T. Gast
 - _Critical Thinking_, by Manic Street Preachers
 - _GENERATION TERRORISTS_, by Manic Street Preachers
-- _URGH_, by Mandy, Indiana
-- _Changes in Air_, by Kara-Lis Coverdale
 
 </details>
 
@@ -33,11 +31,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Rhythm Immortal_, by Carrier
 - _Speakerboxxx/The Love Below_, by Outkast
 - _URGH_, by Mandy, Indiana
-- _I'll Call You Later_, by Xterea
-- _Penny Whistle Seller, Guangzhou_, by Lia Kohl
 - _Voting Line, Downtown Chicago_, by Lia Kohl
-- _Various Small Whistles and a Song_, by Lia Kohl
+- _I'll Call You Later_, by Xterea
 - _African Skies_, by Kelan Phil Cohran & Legacy
+- _Various Small Whistles and a Song_, by Lia Kohl
+- _Penny Whistle Seller, Guangzhou_, by Lia Kohl
 - _Visitations from Enceladus_, by Cryptic Shift
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 
