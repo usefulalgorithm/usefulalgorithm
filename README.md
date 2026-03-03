@@ -13,10 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Momoko_, by Momoko Gill
 - _Showbiz!_, by MIKE
-- _Showbiz! (Deluxe)_, by MIKE
-- _Infant_, by John T. Gast
-- _Critical Thinking_, by Manic Street Preachers
-- _GENERATION TERRORISTS_, by Manic Street Preachers
 
 </details>
 
@@ -38,6 +34,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Penny Whistle Seller, Guangzhou_, by Lia Kohl
 - _Visitations from Enceladus_, by Cryptic Shift
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
+- _Momoko_, by Momoko Gill
 
 </details>
 
