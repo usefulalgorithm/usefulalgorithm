@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Eiger_, by Aara
+- _Kin_, by KMRU
 - _Cutting the Throat of God_, by Ulcerate
+- _Eiger_, by Aara
 - _Momoko_, by Momoko Gill
 
 </details>
