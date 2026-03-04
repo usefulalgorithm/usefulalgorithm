@@ -37,6 +37,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _海の動物園_, by Masahiro Sugaya
 - _Kin_, by KMRU
+- _Showbiz! (Deluxe)_, by MIKE
 
 </details>
 
