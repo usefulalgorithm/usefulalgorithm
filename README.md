@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Showbiz!_, by MIKE
+- _Showbiz! (Deluxe)_, by MIKE
 - _Kin_, by KMRU
 - _Momoko_, by Momoko Gill
 
@@ -24,8 +26,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Momoko_, by Momoko Gill
 - _Sonder_, by Small Crab
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
-- _Rhythm Immortal_, by Carrier
 - _URGH_, by Mandy, Indiana
+- _Rhythm Immortal_, by Carrier
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Voting Line, Downtown Chicago_, by Lia Kohl
 - _I'll Call You Later_, by Xterea
@@ -34,6 +36,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Penny Whistle Seller, Guangzhou_, by Lia Kohl
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _海の動物園_, by Masahiro Sugaya
+- _Kin_, by KMRU
 
 </details>
 
