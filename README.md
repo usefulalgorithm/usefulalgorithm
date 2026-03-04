@@ -16,9 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _DISCOMBOBULATED_, by Hen Ogledd
 - _Ca$ino_, by Baby Keem
 - _Keepsake_, by Ana Roxanne
-- _Lights_, by Xylitol
-- _White Feather Hawk Tail Deer Hunter_, by Lana Del Rey
-- _Hush_, by Cobrah
 
 </details>
 
