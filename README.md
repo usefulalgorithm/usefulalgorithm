@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Hush_, by Cobrah
 - _Kin_, by KMRU
 - _Cutting the Throat of God_, by Ulcerate
 - _Eiger_, by Aara
@@ -36,7 +37,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Momoko_, by Momoko Gill
 - _Penny Whistle Seller, Guangzhou_, by Lia Kohl
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
-- _Visitations from Enceladus_, by Cryptic Shift
 
 </details>
 
