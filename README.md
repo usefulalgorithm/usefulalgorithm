@@ -13,9 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Kin_, by KMRU
 - _Momoko_, by Momoko Gill
-- _DISCOMBOBULATED_, by Hen Ogledd
-- _Ca$ino_, by Baby Keem
-- _Keepsake_, by Ana Roxanne
 
 </details>
 
