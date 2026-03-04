@@ -12,13 +12,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Momoko_, by Momoko Gill
+- _Kin_, by KMRU
 - _DISCOMBOBULATED_, by Hen Ogledd
 - _Ca$ino_, by Baby Keem
 - _Keepsake_, by Ana Roxanne
 - _Lights_, by Xylitol
 - _White Feather Hawk Tail Deer Hunter_, by Lana Del Rey
 - _Hush_, by Cobrah
-- _Kin_, by KMRU
 - _Cutting the Throat of God_, by Ulcerate
 - _Eiger_, by Aara
 
@@ -33,15 +33,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Rhythm Immortal_, by Carrier
 - _URGH_, by Mandy, Indiana
+- _Momoko_, by Momoko Gill
 - _Speakerboxxx/The Love Below_, by Outkast
-- _海の動物園_, by Masahiro Sugaya
 - _Voting Line, Downtown Chicago_, by Lia Kohl
 - _I'll Call You Later_, by Xterea
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _Various Small Whistles and a Song_, by Lia Kohl
-- _Momoko_, by Momoko Gill
 - _Penny Whistle Seller, Guangzhou_, by Lia Kohl
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
+- _海の動物園_, by Masahiro Sugaya
 
 </details>
 
