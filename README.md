@@ -19,8 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Lights_, by Xylitol
 - _White Feather Hawk Tail Deer Hunter_, by Lana Del Rey
 - _Hush_, by Cobrah
-- _Cutting the Throat of God_, by Ulcerate
-- _Eiger_, by Aara
 
 </details>
 
