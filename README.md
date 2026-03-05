@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Cutting the Throat of God_, by Ulcerate
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Momoko_, by Momoko Gill
 - _Chocolate Starfish And The Hot Dog Flavored Water_, by Limp Bizkit
@@ -40,7 +41,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Kin_, by KMRU
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _Showbiz! (Deluxe)_, by MIKE
-- _海の動物園_, by Masahiro Sugaya
 
 </details>
 
