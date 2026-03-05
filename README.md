@@ -24,9 +24,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Changes in Air_, by Kara-Lis Coverdale
 - _Cutting the Throat of God_, by Ulcerate
+- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Momoko_, by Momoko Gill
 - _Sonder_, by Small Crab
-- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _URGH_, by Mandy, Indiana
 - _Rhythm Immortal_, by Carrier
 - _Voting Line, Downtown Chicago_, by Lia Kohl
@@ -35,10 +35,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Various Small Whistles and a Song_, by Lia Kohl
 - _Penny Whistle Seller, Guangzhou_, by Lia Kohl
 - _Speakerboxxx/The Love Below_, by Outkast
+- _Kin_, by KMRU
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _Showbiz! (Deluxe)_, by MIKE
 - _海の動物園_, by Masahiro Sugaya
-- _Kin_, by KMRU
 
 </details>
 
