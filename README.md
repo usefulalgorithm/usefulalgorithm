@@ -11,10 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
+- _Kin_, by KMRU
+- _URGH_, by Mandy, Indiana
 - _Showbiz!_, by MIKE
 - _Showbiz! (Deluxe)_, by MIKE
-- _Kin_, by KMRU
-- _Momoko_, by Momoko Gill
 
 </details>
 
