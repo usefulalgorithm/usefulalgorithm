@@ -31,6 +31,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Momoko_, by Momoko Gill
 - _Sonder_, by Small Crab
 - _URGH_, by Mandy, Indiana
+- _Kin_, by KMRU
 - _Voting Line, Downtown Chicago_, by Lia Kohl
 - _I'll Call You Later_, by Xterea
 - _African Skies_, by Kelan Phil Cohran & Legacy
@@ -38,7 +39,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Penny Whistle Seller, Guangzhou_, by Lia Kohl
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Rhythm Immortal_, by Carrier
-- _Kin_, by KMRU
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _Showbiz! (Deluxe)_, by MIKE
 
