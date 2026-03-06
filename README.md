@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Kin_, by KMRU
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Momoko_, by Momoko Gill
-- _Kin_, by KMRU
 - _Cutting the Throat of God_, by Ulcerate
 - _Chocolate Starfish And The Hot Dog Flavored Water_, by Limp Bizkit
-- _URGH_, by Mandy, Indiana
 
 </details>
 
