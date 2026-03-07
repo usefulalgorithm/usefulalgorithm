@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Momoko_, by Momoko Gill
 - _Cutting the Throat of God_, by Ulcerate
-- _Chocolate Starfish And The Hot Dog Flavored Water_, by Limp Bizkit
 
 </details>
 
