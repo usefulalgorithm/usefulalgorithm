@@ -11,6 +11,21 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Street Druid_, by Ben Vince
+- _Endless Motion_, by Siu Mata, Croixrouge
+- _Let Us Clap_, by Lamisi
+- _Autechre Guitar_, by Shane Parish
+- _Sexistential (Arca’s Take)_, by Robyn, Arca
+- _Til The Day I'm Gone_, by Finding Ways, Sebastian Rochford
+- _DIRTY TECH_, by Kim Gordon
+- _Numerology_, by My New Band Believe
+- _K2 Central_, by Squarepusher
+- _the apple tree under the sea_, by hemlocke springs
+- _URGH_, by Mandy, Indiana
+- _Euphoria Bound_, by Shackleton
+- _DISCOMBOBULATED_, by Hen Ogledd
+- _Keepsake_, by Ana Roxanne
+- _Lights_, by Xylitol
 - _Cutting the Throat of God_, by Ulcerate
 - _Kin_, by KMRU
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
