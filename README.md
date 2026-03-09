@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Cutting the Throat of God_, by Ulcerate
 - _Crown and Country_, by Crown and Country
 - _Wuthering Heights_, by Charli xcx
 - _Street Druid_, by Ben Vince
@@ -28,7 +29,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _DISCOMBOBULATED_, by Hen Ogledd
 - _Keepsake_, by Ana Roxanne
 - _Lights_, by Xylitol
-- _Cutting the Throat of God_, by Ulcerate
 - _Kin_, by KMRU
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Momoko_, by Momoko Gill
@@ -41,10 +41,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Changes in Air_, by Kara-Lis Coverdale
 - _Cutting the Throat of God_, by Ulcerate
 - _Momoko_, by Momoko Gill
-- _Sonder_, by Small Crab
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Kin_, by KMRU
 - _URGH_, by Mandy, Indiana
+- _Sonder_, by Small Crab
 - _Voting Line, Downtown Chicago_, by Lia Kohl
 - _I'll Call You Later_, by Xterea
 - _African Skies_, by Kelan Phil Cohran & Legacy
