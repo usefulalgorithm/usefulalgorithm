@@ -41,8 +41,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Changes in Air_, by Kara-Lis Coverdale
 - _Cutting the Throat of God_, by Ulcerate
 - _Momoko_, by Momoko Gill
-- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Sonder_, by Small Crab
+- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Kin_, by KMRU
 - _URGH_, by Mandy, Indiana
 - _Voting Line, Downtown Chicago_, by Lia Kohl
