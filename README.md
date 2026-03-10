@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Love Is Not Enough_, by Converge
+- _Strata, Act (Joy Contemporary)*_, by Pat Thomas, XT
 - _Autechre Guitar_, by Shane Parish
 - _K2 Central_, by Squarepusher
 - _URGH_, by Mandy, Indiana
@@ -31,7 +33,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Keepsake_, by Ana Roxanne
 - _Lights_, by Xylitol
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
-- _Momoko_, by Momoko Gill
 
 </details>
 
@@ -46,13 +47,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _URGH_, by Mandy, Indiana
 - _I'll Call You Later_, by Xterea
 - _African Skies_, by Kelan Phil Cohran & Legacy
-- _Various Small Whistles and a Song_, by Lia Kohl
-- _Voting Line, Downtown Chicago_, by Lia Kohl
-- _Penny Whistle Seller, Guangzhou_, by Lia Kohl
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Showbiz! (Deluxe)_, by MIKE
 - _Sonder_, by Small Crab
+- _Showbiz!_, by MIKE
+- _冀西南林路行_, by 万能青年旅店
+- _Wuthering Heights_, by Charli xcx
 
 </details>
 
