@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Kin_, by KMRU
 - _Cutting the Throat of God_, by Ulcerate
 - _Crown and Country_, by Crown and Country
 - _Wuthering Heights_, by Charli xcx
@@ -29,7 +30,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _DISCOMBOBULATED_, by Hen Ogledd
 - _Keepsake_, by Ana Roxanne
 - _Lights_, by Xylitol
-- _Kin_, by KMRU
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Momoko_, by Momoko Gill
 
