@@ -20,8 +20,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Changes in Air_, by Kara-Lis Coverdale
 - _Momoko_, by Momoko Gill
-- _Cutting the Throat of God_, by Ulcerate
 - _Kin_, by KMRU
+- _Cutting the Throat of God_, by Ulcerate
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _URGH_, by Mandy, Indiana
 - _I'll Call You Later_, by Xterea
@@ -31,8 +31,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Showbiz! (Deluxe)_, by MIKE
 - _Anemones_, by Xylitol
 - _Showbiz!_, by MIKE
-- _冀西南林路行_, by 万能青年旅店
-- _Sonder_, by Small Crab
 
 </details>
 
