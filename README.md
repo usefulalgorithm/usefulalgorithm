@@ -24,14 +24,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Street Druid_, by Ben Vince
 - _Endless Motion_, by Siu Mata, Croixrouge
 - _Let Us Clap_, by Lamisi
-- _Sexistential (Arca’s Take)_, by Robyn, Arca
-- _Til The Day I'm Gone_, by Finding Ways, Sebastian Rochford
-- _DIRTY TECH_, by Kim Gordon
-- _Numerology_, by My New Band Believe
-- _the apple tree under the sea_, by hemlocke springs
-- _Euphoria Bound_, by Shackleton
-- _DISCOMBOBULATED_, by Hen Ogledd
-- _Keepsake_, by Ana Roxanne
 
 </details>
 
@@ -39,8 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Changes in Air_, by Kara-Lis Coverdale
-- _Cutting the Throat of God_, by Ulcerate
 - _Momoko_, by Momoko Gill
+- _Cutting the Throat of God_, by Ulcerate
 - _Kin_, by KMRU
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _URGH_, by Mandy, Indiana
@@ -49,9 +41,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Showbiz! (Deluxe)_, by MIKE
-- _Sonder_, by Small Crab
 - _Showbiz!_, by MIKE
 - _冀西南林路行_, by 万能青年旅店
+- _Sonder_, by Small Crab
 - _Wuthering Heights_, by Charli xcx
 
 </details>
