@@ -32,7 +32,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _DISCOMBOBULATED_, by Hen Ogledd
 - _Keepsake_, by Ana Roxanne
 - _Lights_, by Xylitol
-- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 
 </details>
 
@@ -59,14 +58,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _How to be a Nigerian_, by Peter Enahoro ([link](https://hardcover.app/books/how-to-be-a-nigerian)). AHHHH everyone should read this book
+Just finished reading _The Movement of the Free Spirit_, by Raoul Vaneigem, Randall Cherry, and friends ([link](https://hardcover.app/books/the-movement-of-the-free-spirit)). It's OK I guess.
 
-Gotta finish 25 books before 2027-01-01. I've read 4 so far.
+Gotta finish 25 books before 2027-01-01. I've read 6 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
 
-- _The Movement of the Free Spirit_, by Raoul Vaneigem, Randall Cherry, and friends ([link](https://hardcover.app/books/the-movement-of-the-free-spirit))
 - _The Absence of Myth: Writings on Surrealism_, by Georges Bataille, Michael   Richardson ([link](https://hardcover.app/books/the-absence-of-myth-writings-on-surrealism))
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
