@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Anemones_, by Xylitol
 - _Love Is Not Enough_, by Converge
 - _Strata, Act (Joy Contemporary)*_, by Pat Thomas, XT
 - _Autechre Guitar_, by Shane Parish
@@ -31,7 +32,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Euphoria Bound_, by Shackleton
 - _DISCOMBOBULATED_, by Hen Ogledd
 - _Keepsake_, by Ana Roxanne
-- _Lights_, by Xylitol
 
 </details>
 
