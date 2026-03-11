@@ -18,12 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _K2 Central_, by Squarepusher
 - _URGH_, by Mandy, Indiana
 - _Kin_, by KMRU
-- _Cutting the Throat of God_, by Ulcerate
-- _Crown and Country_, by Crown and Country
-- _Wuthering Heights_, by Charli xcx
-- _Street Druid_, by Ben Vince
-- _Endless Motion_, by Siu Mata, Croixrouge
-- _Let Us Clap_, by Lamisi
 
 </details>
 
