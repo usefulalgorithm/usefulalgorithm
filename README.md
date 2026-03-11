@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Anemones_, by Xylitol
-- _Love Is Not Enough_, by Converge
 
 </details>
 
@@ -30,10 +29,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Showbiz! (Deluxe)_, by MIKE
+- _Anemones_, by Xylitol
 - _Showbiz!_, by MIKE
 - _冀西南林路行_, by 万能青年旅店
 - _Sonder_, by Small Crab
-- _Anemones_, by Xylitol
 
 </details>
 
