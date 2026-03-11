@@ -13,11 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Anemones_, by Xylitol
 - _Love Is Not Enough_, by Converge
-- _Strata, Act (Joy Contemporary)*_, by Pat Thomas, XT
-- _Autechre Guitar_, by Shane Parish
-- _K2 Central_, by Squarepusher
-- _URGH_, by Mandy, Indiana
-- _Kin_, by KMRU
 
 </details>
 
