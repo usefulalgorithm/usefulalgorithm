@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Spirits_, by Gil Scott-Heron
 - _Anemones_, by Xylitol
 - _KAK_, by KAKUHAN
 
