@@ -24,8 +24,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Kin_, by KMRU
 - _Cutting the Throat of God_, by Ulcerate
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
-- _URGH_, by Mandy, Indiana
 - _Anemones_, by Xylitol
+- _URGH_, by Mandy, Indiana
 - _I'll Call You Later_, by Xterea
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
