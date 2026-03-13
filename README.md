@@ -27,13 +27,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cutting the Throat of God_, by Ulcerate
 - _Anemones_, by Xylitol
 - _URGH_, by Mandy, Indiana
-- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _Speakerboxxx/The Love Below_, by Outkast
+- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _Showbiz! (Deluxe)_, by MIKE
 - _Spirits_, by Gil Scott-Heron
 - _Showbiz!_, by MIKE
+- _New Heights_, by Defeat The Giant
 
 </details>
 
