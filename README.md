@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _KAK_, by KAKUHAN
 - _New Heights_, by Defeat The Giant
-- _Spirits_, by Gil Scott-Heron
 - _Speakerboxxx/The Love Below_, by Outkast
+- _Spirits_, by Gil Scott-Heron
 - _GhettoMusick_, by Outkast
 
 </details>
