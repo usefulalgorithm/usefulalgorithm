@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Speakerboxxx/The Love Below_, by Outkast
 - _Spirits_, by Gil Scott-Heron
+- _GhettoMusick_, by Outkast
 - _Anemones_, by Xylitol
-- _KAK_, by KAKUHAN
 
 </details>
 
