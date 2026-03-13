@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _New Heights_, by Defeat The Giant
 - _Spirits_, by Gil Scott-Heron
 - _Speakerboxxx/The Love Below_, by Outkast
 - _GhettoMusick_, by Outkast
-- _Anemones_, by Xylitol
 
 </details>
 
@@ -25,16 +25,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Momoko_, by Momoko Gill
 - _Kin_, by KMRU
 - _Cutting the Throat of God_, by Ulcerate
-- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Anemones_, by Xylitol
 - _URGH_, by Mandy, Indiana
-- _I'll Call You Later_, by Xterea
+- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _African Skies_, by Kelan Phil Cohran & Legacy
-- _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _Speakerboxxx/The Love Below_, by Outkast
+- _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _Showbiz! (Deluxe)_, by MIKE
-- _Showbiz!_, by MIKE
 - _Spirits_, by Gil Scott-Heron
+- _Showbiz!_, by MIKE
 
 </details>
 
