@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Speakerboxxx/The Love Below_, by Outkast
 - _Anemones_, by Xylitol
 - _PLAY ME_, by Kim Gordon
 - _Spirits_, by Gil Scott-Heron
@@ -27,8 +28,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Anemones_, by Xylitol
 - _Kin_, by KMRU
 - _Cutting the Throat of God_, by Ulcerate
-- _URGH_, by Mandy, Indiana
 - _Speakerboxxx/The Love Below_, by Outkast
+- _URGH_, by Mandy, Indiana
 - _New Heights_, by Defeat The Giant
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _Spirits_, by Gil Scott-Heron
