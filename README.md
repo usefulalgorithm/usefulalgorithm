@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Spirits_, by Gil Scott-Heron
 - _PLAY ME_, by Kim Gordon
+- _Spirits_, by Gil Scott-Heron
 - _New Heights_, by Defeat The Giant
 - _KAK_, by KAKUHAN
 - _Speakerboxxx/The Love Below_, by Outkast
@@ -31,9 +31,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Speakerboxxx/The Love Below_, by Outkast
 - _New Heights_, by Defeat The Giant
 - _African Skies_, by Kelan Phil Cohran & Legacy
+- _Spirits_, by Gil Scott-Heron
 - _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _Showbiz! (Deluxe)_, by MIKE
-- _Spirits_, by Gil Scott-Heron
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Showbiz!_, by MIKE
 
