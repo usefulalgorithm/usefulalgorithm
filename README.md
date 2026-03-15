@@ -33,7 +33,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _New Heights_, by Defeat The Giant
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _Spirits_, by Gil Scott-Heron
-- _Soul vs. Math_, by Napoleon Da Legend, Dub Sonata
 - _Showbiz! (Deluxe)_, by MIKE
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Showbiz!_, by MIKE
