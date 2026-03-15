@@ -26,9 +26,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Changes in Air_, by Kara-Lis Coverdale
 - _Momoko_, by Momoko Gill
 - _Anemones_, by Xylitol
+- _Speakerboxxx/The Love Below_, by Outkast
 - _Kin_, by KMRU
 - _Cutting the Throat of God_, by Ulcerate
-- _Speakerboxxx/The Love Below_, by Outkast
 - _URGH_, by Mandy, Indiana
 - _New Heights_, by Defeat The Giant
 - _African Skies_, by Kelan Phil Cohran & Legacy
