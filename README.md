@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Speakerboxxx/The Love Below_, by Outkast
 - _Anemones_, by Xylitol
+- _Speakerboxxx/The Love Below_, by Outkast
 - _PLAY ME_, by Kim Gordon
 - _Spirits_, by Gil Scott-Heron
 - _New Heights_, by Defeat The Giant
-- _KAK_, by KAKUHAN
 
 </details>
 
@@ -24,16 +23,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Changes in Air_, by Kara-Lis Coverdale
-- _Momoko_, by Momoko Gill
 - _Anemones_, by Xylitol
+- _Momoko_, by Momoko Gill
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Kin_, by KMRU
 - _Cutting the Throat of God_, by Ulcerate
 - _URGH_, by Mandy, Indiana
 - _New Heights_, by Defeat The Giant
-- _African Skies_, by Kelan Phil Cohran & Legacy
 - _Spirits_, by Gil Scott-Heron
 - _Showbiz! (Deluxe)_, by MIKE
+- _African Skies_, by Kelan Phil Cohran & Legacy
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Showbiz!_, by MIKE
 
