@@ -14,8 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Anemones_, by Xylitol
 - _Speakerboxxx/The Love Below_, by Outkast
 - _PLAY ME_, by Kim Gordon
-- _Spirits_, by Gil Scott-Heron
-- _New Heights_, by Defeat The Giant
 
 </details>
 
@@ -32,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _New Heights_, by Defeat The Giant
 - _Spirits_, by Gil Scott-Heron
 - _Showbiz! (Deluxe)_, by MIKE
-- _African Skies_, by Kelan Phil Cohran & Legacy
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
+- _African Skies_, by Kelan Phil Cohran & Legacy
 - _Showbiz!_, by MIKE
 
 </details>
