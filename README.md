@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Anemones_, by Xylitol
 - _KAK_, by KAKUHAN
-- _Speakerboxxx/The Love Below_, by Outkast
 
 </details>
 
