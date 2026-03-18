@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _KAK_, by KAKUHAN
 - _Anemones_, by Xylitol
 - _Speakerboxxx/The Love Below_, by Outkast
-- _PLAY ME_, by Kim Gordon
 
 </details>
 
@@ -30,6 +29,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _URGH_, by Mandy, Indiana
 - _New Heights_, by Defeat The Giant
 - _Spirits_, by Gil Scott-Heron
+- _KAK_, by KAKUHAN
 - _Showbiz! (Deluxe)_, by MIKE
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _African Skies_, by Kelan Phil Cohran & Legacy
