@@ -26,8 +26,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Kin_, by KMRU
 - _Cutting the Throat of God_, by Ulcerate
-- _URGH_, by Mandy, Indiana
 - _New Heights_, by Defeat The Giant
+- _URGH_, by Mandy, Indiana
 - _Spirits_, by Gil Scott-Heron
 - _KAK_, by KAKUHAN
 - _Showbiz! (Deluxe)_, by MIKE
