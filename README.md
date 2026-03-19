@@ -23,10 +23,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Changes in Air_, by Kara-Lis Coverdale
 - _Anemones_, by Xylitol
 - _Momoko_, by Momoko Gill
+- _New Heights_, by Defeat The Giant
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Kin_, by KMRU
 - _Cutting the Throat of God_, by Ulcerate
-- _New Heights_, by Defeat The Giant
 - _URGH_, by Mandy, Indiana
 - _Spirits_, by Gil Scott-Heron
 - _KAK_, by KAKUHAN
