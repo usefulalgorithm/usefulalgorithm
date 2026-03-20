@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Blumenfantasie_, by Xylitol
 - _Anemones_, by Xylitol
 - _New Heights_, by Defeat The Giant
 - _KAK_, by KAKUHAN
