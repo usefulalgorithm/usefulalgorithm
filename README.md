@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Sidera_, by Miserere Luminis
 - _Kin_, by KMRU
 - _Blumenfantasie_, by Xylitol
-- _Anemones_, by Xylitol
 
 </details>
 
