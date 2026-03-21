@@ -29,11 +29,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cutting the Throat of God_, by Ulcerate
 - _Spirits_, by Gil Scott-Heron
 - _KAK_, by KAKUHAN
-- _URGH_, by Mandy, Indiana
 - _Showbiz! (Deluxe)_, by MIKE
+- _URGH_, by Mandy, Indiana
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _African Skies_, by Kelan Phil Cohran & Legacy
 - _Showbiz!_, by MIKE
+- _Sidera_, by Miserere Luminis
 
 </details>
 
