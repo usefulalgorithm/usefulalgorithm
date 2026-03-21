@@ -30,11 +30,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Spirits_, by Gil Scott-Heron
 - _KAK_, by KAKUHAN
 - _Showbiz! (Deluxe)_, by MIKE
-- _URGH_, by Mandy, Indiana
+- _Sidera_, by Miserere Luminis
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _African Skies_, by Kelan Phil Cohran & Legacy
+- _URGH_, by Mandy, Indiana
 - _Showbiz!_, by MIKE
-- _Sidera_, by Miserere Luminis
 
 </details>
 
