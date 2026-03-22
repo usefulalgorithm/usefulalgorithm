@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Sidera_, by Miserere Luminis
 - _An Undying Love for a Burning World_, by Neurosis
+- _Sidera_, by Miserere Luminis
 - _Kin_, by KMRU
 - _Blumenfantasie_, by Xylitol
 
@@ -27,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _New Heights_, by Defeat The Giant
 - _Kin_, by KMRU
 - _Cutting the Throat of God_, by Ulcerate
-- _Spirits_, by Gil Scott-Heron
 - _Sidera_, by Miserere Luminis
+- _Spirits_, by Gil Scott-Heron
 - _Speakerboxxx/The Love Below_, by Outkast
 - _KAK_, by KAKUHAN
 - _Showbiz! (Deluxe)_, by MIKE
