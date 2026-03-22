@@ -33,7 +33,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _KAK_, by KAKUHAN
 - _Showbiz! (Deluxe)_, by MIKE
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
-- _Chromophoria (Xylitol Remix)_, by Sculpture, Xylitol
+- _Blumenfantasie_, by Xylitol
 - _URGH_, by Mandy, Indiana
 - _Showbiz!_, by MIKE
 
