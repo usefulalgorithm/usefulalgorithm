@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Sidera_, by Miserere Luminis
+- _An Undying Love for a Burning World_, by Neurosis
 - _Kin_, by KMRU
 - _Blumenfantasie_, by Xylitol
 
@@ -24,17 +25,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Anemones_, by Xylitol
 - _Momoko_, by Momoko Gill
 - _New Heights_, by Defeat The Giant
-- _Speakerboxxx/The Love Below_, by Outkast
 - _Kin_, by KMRU
 - _Cutting the Throat of God_, by Ulcerate
 - _Spirits_, by Gil Scott-Heron
+- _Sidera_, by Miserere Luminis
+- _Speakerboxxx/The Love Below_, by Outkast
 - _KAK_, by KAKUHAN
 - _Showbiz! (Deluxe)_, by MIKE
-- _Sidera_, by Miserere Luminis
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
-- _African Skies_, by Kelan Phil Cohran & Legacy
 - _URGH_, by Mandy, Indiana
 - _Showbiz!_, by MIKE
+- _African Skies_, by Kelan Phil Cohran & Legacy
 
 </details>
 
