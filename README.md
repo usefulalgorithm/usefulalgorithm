@@ -24,8 +24,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Changes in Air_, by Kara-Lis Coverdale
 - _Anemones_, by Xylitol
 - _Momoko_, by Momoko Gill
-- _New Heights_, by Defeat The Giant
 - _Kin_, by KMRU
+- _New Heights_, by Defeat The Giant
 - _Cutting the Throat of God_, by Ulcerate
 - _Sidera_, by Miserere Luminis
 - _Spirits_, by Gil Scott-Heron
