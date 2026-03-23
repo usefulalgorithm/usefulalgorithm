@@ -11,8 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Kin_, by KMRU
 - _Blumenfantasie_, by Xylitol
+- _Übercode Œuvre_, by Panzerballett
+- _Regressions_, by Cleric
+- _Kin_, by KMRU
 - _An Undying Love for a Burning World_, by Neurosis
 - _Sidera_, by Miserere Luminis
 
