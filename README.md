@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _we've been after each other_, by cropscropscrops, Vaygrnt
+- _Speakerboxxx/The Love Below_, by Outkast
 - _K2 Central_, by Squarepusher
 - _Blumenfantasie_, by Xylitol
 - _An Undying Love for a Burning World_, by Neurosis
