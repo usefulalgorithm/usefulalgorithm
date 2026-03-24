@@ -18,7 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Blumenfantasie_, by Xylitol
 - _Übercode Œuvre_, by Panzerballett
 - _Regressions_, by Cleric
-- _Sidera_, by Miserere Luminis
 
 </details>
 
