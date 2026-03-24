@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Blumenfantasie_, by Xylitol
 - _The Great Misdirect (2019 Remix / Remaster)_, by Between The Buried And Me
 - _Kin_, by KMRU
 - _Dysnomia_, by Dawn of Midi
@@ -18,7 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _we've been after each other_, by cropscropscrops, Vaygrnt
 - _Speakerboxxx/The Love Below_, by Outkast
 - _K2 Central_, by Squarepusher
-- _Blumenfantasie_, by Xylitol
 - _An Undying Love for a Burning World_, by Neurosis
 - _Overspace & Supertime_, by Cryptic Shift
 - _Vault Sessions 2_, by Felica Williams, Larry Heard, Mr. Fingers
