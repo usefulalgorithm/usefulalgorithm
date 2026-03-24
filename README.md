@@ -25,8 +25,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Changes in Air_, by Kara-Lis Coverdale
 - _Anemones_, by Xylitol
+- _Changes in Air_, by Kara-Lis Coverdale
 - _Momoko_, by Momoko Gill
 - _Kin_, by KMRU
 - _New Heights_, by Defeat The Giant
@@ -38,9 +38,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Blumenfantasie_, by Xylitol
 - _Showbiz! (Deluxe)_, by MIKE
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
-- _URGH_, by Mandy, Indiana
 - _Showbiz!_, by MIKE
-- _Blumenfantasie_, by Xylitol
 
 </details>
 
