@@ -11,13 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _An Undying Love for a Burning World_, by Neurosis
 - _Kin_, by KMRU
 - _Overspace & Supertime_, by Cryptic Shift
 - _Vault Sessions 2_, by Felica Williams, Larry Heard, Mr. Fingers
 - _Blumenfantasie_, by Xylitol
 - _Übercode Œuvre_, by Panzerballett
 - _Regressions_, by Cleric
-- _An Undying Love for a Burning World_, by Neurosis
 - _Sidera_, by Miserere Luminis
 
 </details>
