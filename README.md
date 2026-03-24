@@ -37,6 +37,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Blumenfantasie_, by Xylitol
 - _Showbiz! (Deluxe)_, by MIKE
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
+- _An Undying Love for a Burning World_, by Neurosis
 - _Showbiz!_, by MIKE
 
 </details>
