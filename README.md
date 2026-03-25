@@ -22,8 +22,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _An Undying Love for a Burning World_, by Neurosis
 - _Overspace & Supertime_, by Cryptic Shift
 - _Vault Sessions 2_, by Felica Williams, Larry Heard, Mr. Fingers
-- _Übercode Œuvre_, by Panzerballett
-- _Regressions_, by Cleric
 
 </details>
 
@@ -44,7 +42,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Showbiz! (Deluxe)_, by MIKE
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _An Undying Love for a Burning World_, by Neurosis
-- _Showbiz!_, by MIKE
 
 </details>
 
