@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _An Undying Love for a Burning World_, by Neurosis
 - _Kin_, by KMRU
 - _we've been after each other_, by cropscropscrops, Vaygrnt
-- _Terra_, by Drum & Lace
 
 </details>
 
@@ -27,13 +27,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Blumenfantasie_, by Xylitol
 - _Sidera_, by Miserere Luminis
 - _Speakerboxxx/The Love Below_, by Outkast
-- _Changes in Air_, by Kara-Lis Coverdale
 - _KAK_, by KAKUHAN
 - _Spirits_, by Gil Scott-Heron
+- _Changes in Air_, by Kara-Lis Coverdale
 - _Showbiz! (Deluxe)_, by MIKE
 - _Cutting the Throat of God_, by Ulcerate
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _An Undying Love for a Burning World_, by Neurosis
+- _Showbiz!_, by MIKE
 
 </details>
 
