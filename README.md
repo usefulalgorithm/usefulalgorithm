@@ -11,15 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Kin_, by KMRU
 - _we've been after each other_, by cropscropscrops, Vaygrnt
 - _Terra_, by Drum & Lace
 - _Blumenfantasie_, by Xylitol
 - _The Great Misdirect (2019 Remix / Remaster)_, by Between The Buried And Me
-- _Kin_, by KMRU
-- _Dysnomia_, by Dawn of Midi
-- _Speakerboxxx/The Love Below_, by Outkast
-- _K2 Central_, by Squarepusher
-- _An Undying Love for a Burning World_, by Neurosis
 
 </details>
 
@@ -30,8 +26,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Kin_, by KMRU
 - _Momoko_, by Momoko Gill
 - _New Heights_, by Defeat The Giant
-- _Changes in Air_, by Kara-Lis Coverdale
 - _Blumenfantasie_, by Xylitol
+- _Changes in Air_, by Kara-Lis Coverdale
 - _Sidera_, by Miserere Luminis
 - _Speakerboxxx/The Love Below_, by Outkast
 - _KAK_, by KAKUHAN
