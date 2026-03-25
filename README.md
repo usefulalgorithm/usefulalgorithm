@@ -29,12 +29,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Speakerboxxx/The Love Below_, by Outkast
 - _KAK_, by KAKUHAN
 - _Spirits_, by Gil Scott-Heron
-- _Changes in Air_, by Kara-Lis Coverdale
-- _Showbiz! (Deluxe)_, by MIKE
 - _Cutting the Throat of God_, by Ulcerate
-- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
+- _Changes in Air_, by Kara-Lis Coverdale
 - _An Undying Love for a Burning World_, by Neurosis
-- _Showbiz!_, by MIKE
+- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
+- _Showbiz! (Deluxe)_, by MIKE
 
 </details>
 
