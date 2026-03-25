@@ -14,22 +14,20 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Kin_, by KMRU
 - _we've been after each other_, by cropscropscrops, Vaygrnt
 - _Terra_, by Drum & Lace
-- _Blumenfantasie_, by Xylitol
-- _The Great Misdirect (2019 Remix / Remaster)_, by Between The Buried And Me
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Anemones_, by Xylitol
 - _Kin_, by KMRU
+- _Anemones_, by Xylitol
 - _Momoko_, by Momoko Gill
 - _New Heights_, by Defeat The Giant
 - _Blumenfantasie_, by Xylitol
-- _Changes in Air_, by Kara-Lis Coverdale
 - _Sidera_, by Miserere Luminis
 - _Speakerboxxx/The Love Below_, by Outkast
+- _Changes in Air_, by Kara-Lis Coverdale
 - _KAK_, by KAKUHAN
 - _Spirits_, by Gil Scott-Heron
 - _Showbiz! (Deluxe)_, by MIKE
