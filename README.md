@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Kesto (234.48:4)_, by Pan Sonic
 - _An Undying Love for a Burning World_, by Neurosis
 - _Kin_, by KMRU
 - _we've been after each other_, by cropscropscrops, Vaygrnt
