@@ -18,7 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Kesto (234.48:4)_, by Pan Sonic
 - _An Undying Love for a Burning World_, by Neurosis
 - _Kin_, by KMRU
-- _we've been after each other_, by cropscropscrops, Vaygrnt
 
 </details>
 
@@ -30,14 +29,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Momoko_, by Momoko Gill
 - _New Heights_, by Defeat The Giant
 - _Blumenfantasie_, by Xylitol
+- _KAK_, by KAKUHAN
 - _Sidera_, by Miserere Luminis
 - _Speakerboxxx/The Love Below_, by Outkast
-- _KAK_, by KAKUHAN
 - _Spirits_, by Gil Scott-Heron
 - _Cutting the Throat of God_, by Ulcerate
 - _An Undying Love for a Burning World_, by Neurosis
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
-- _Showbiz! (Deluxe)_, by MIKE
 
 </details>
 
