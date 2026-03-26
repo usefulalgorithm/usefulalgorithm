@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Blumenfantasie_, by Xylitol
 - _Kesto (234.48:4)_, by Pan Sonic
 - _An Undying Love for a Burning World_, by Neurosis
 - _Kin_, by KMRU
@@ -31,9 +32,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _KAK_, by KAKUHAN
 - _Spirits_, by Gil Scott-Heron
 - _Cutting the Throat of God_, by Ulcerate
-- _Changes in Air_, by Kara-Lis Coverdale
 - _An Undying Love for a Burning World_, by Neurosis
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
+- _Changes in Air_, by Kara-Lis Coverdale
 - _Showbiz! (Deluxe)_, by MIKE
 
 </details>
