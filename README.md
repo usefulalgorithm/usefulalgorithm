@@ -34,7 +34,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cutting the Throat of God_, by Ulcerate
 - _An Undying Love for a Burning World_, by Neurosis
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
-- _Changes in Air_, by Kara-Lis Coverdale
 - _Showbiz! (Deluxe)_, by MIKE
 
 </details>
