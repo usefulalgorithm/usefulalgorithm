@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Station_, by Russian Circles
+- _Enter_, by Russian Circles
 - _Gravitoni_, by Pan Sonic
 - _KAK_, by KAKUHAN
 - _The Thinking Of The World Began Pounding In Our Ears The Moment We Hit Shore_, by The Thinking Of The World Began Pounding In Our Ears The Moment We Hit Shore, Florian T M Zeisig, More Eaze
