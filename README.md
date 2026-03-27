@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Kin_, by KMRU
 - _Memorial_, by Russian Circles
 - _Station_, by Russian Circles
 - _Enter_, by Russian Circles
@@ -19,8 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Thinking Of The World Began Pounding In Our Ears The Moment We Hit Shore_, by The Thinking Of The World Began Pounding In Our Ears The Moment We Hit Shore, Florian T M Zeisig, More Eaze
 - _Blumenfantasie_, by Xylitol
 - _Kesto (234.48:4)_, by Pan Sonic
-- _An Undying Love for a Burning World_, by Neurosis
-- _Kin_, by KMRU
 
 </details>
 
