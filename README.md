@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Kin_, by KMRU
 - _Memorial_, by Russian Circles
+- _Kin_, by KMRU
 - _Station_, by Russian Circles
 - _Enter_, by Russian Circles
 - _Gravitoni_, by Pan Sonic
