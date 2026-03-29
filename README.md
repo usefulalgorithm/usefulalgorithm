@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _SISTER_, by Frost Children
 - _Blumenfantasie_, by Xylitol
 - _Repercussions_, by KAKUHAN, Adam Golebiewski
 - _KAK_, by KAKUHAN
