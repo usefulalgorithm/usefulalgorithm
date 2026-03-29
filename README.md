@@ -11,14 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Repercussions_, by KAKUHAN, Adam Golebiewski
+- _Blumenfantasie_, by Xylitol
 - _KAK_, by KAKUHAN
 - _Vessel of Emptiness_, by hiatus间断平衡
 - _Laputa (2025 Remastered)_, by Susumu Yokota
 - _Station_, by Russian Circles
-- _Repercussions_, by KAKUHAN, Adam Golebiewski
 - _Kin_, by KMRU
 - _Memorial_, by Russian Circles
-- _Enter_, by Russian Circles
 
 </details>
 
@@ -28,8 +28,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Kin_, by KMRU
 - _Anemones_, by Xylitol
 - _Momoko_, by Momoko Gill
-- _New Heights_, by Defeat The Giant
 - _Blumenfantasie_, by Xylitol
+- _New Heights_, by Defeat The Giant
 - _KAK_, by KAKUHAN
 - _Sidera_, by Miserere Luminis
 - _Speakerboxxx/The Love Below_, by Outkast
