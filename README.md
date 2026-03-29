@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Repercussions_, by KAKUHAN, Adam Golebiewski
 - _Blumenfantasie_, by Xylitol
+- _Repercussions_, by KAKUHAN, Adam Golebiewski
 - _KAK_, by KAKUHAN
 - _Vessel of Emptiness_, by hiatus间断平衡
 - _Laputa (2025 Remastered)_, by Susumu Yokota
