@@ -11,8 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _SISTER_, by Frost Children
+- _An Undying Love for a Burning World_, by Neurosis
 - _Blumenfantasie_, by Xylitol
+- _Welcome to Sky Valley_, by Kyuss
+- _SISTER_, by Frost Children
 - _Repercussions_, by KAKUHAN, Adam Golebiewski
 - _KAK_, by KAKUHAN
 - _Vessel of Emptiness_, by hiatus间断平衡
