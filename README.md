@@ -12,17 +12,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _An Undying Love for a Burning World_, by Neurosis
+- _Welcome to Sky Valley_, by Kyuss
 - _Finally We Are No One_, by múm
 - _Cutting the Throat of God_, by Ulcerate
 - _Blumenfantasie_, by Xylitol
-- _Welcome to Sky Valley_, by Kyuss
 - _SISTER_, by Frost Children
 - _Repercussions_, by KAKUHAN, Adam Golebiewski
-- _KAK_, by KAKUHAN
-- _Vessel of Emptiness_, by hiatus间断平衡
-- _Laputa (2025 Remastered)_, by Susumu Yokota
-- _Station_, by Russian Circles
-- _Kin_, by KMRU
 
 </details>
 
