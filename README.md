@@ -17,7 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cutting the Throat of God_, by Ulcerate
 - _Blumenfantasie_, by Xylitol
 - _SISTER_, by Frost Children
-- _Repercussions_, by KAKUHAN, Adam Golebiewski
 
 </details>
 
