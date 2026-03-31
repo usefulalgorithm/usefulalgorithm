@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _An Undying Love for a Burning World_, by Neurosis
 - _Finally We Are No One_, by múm
 - _Cutting the Throat of God_, by Ulcerate
-- _An Undying Love for a Burning World_, by Neurosis
 - _Blumenfantasie_, by Xylitol
 - _Welcome to Sky Valley_, by Kyuss
 - _SISTER_, by Frost Children
