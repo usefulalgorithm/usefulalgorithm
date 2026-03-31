@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Finally We Are No One_, by múm
 - _Cutting the Throat of God_, by Ulcerate
 - _Blumenfantasie_, by Xylitol
-- _SISTER_, by Frost Children
 
 </details>
 
@@ -28,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Blumenfantasie_, by Xylitol
 - _New Heights_, by Defeat The Giant
 - _KAK_, by KAKUHAN
-- _Momoko_, by Momoko Gill
 - _An Undying Love for a Burning World_, by Neurosis
+- _Momoko_, by Momoko Gill
 - _Sidera_, by Miserere Luminis
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Spirits_, by Gil Scott-Heron
