@@ -27,14 +27,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Kin_, by KMRU
 - _Anemones_, by Xylitol
 - _Blumenfantasie_, by Xylitol
-- _Momoko_, by Momoko Gill
 - _New Heights_, by Defeat The Giant
 - _KAK_, by KAKUHAN
+- _Momoko_, by Momoko Gill
+- _An Undying Love for a Burning World_, by Neurosis
 - _Sidera_, by Miserere Luminis
 - _Speakerboxxx/The Love Below_, by Outkast
-- _Cutting the Throat of God_, by Ulcerate
-- _An Undying Love for a Burning World_, by Neurosis
 - _Spirits_, by Gil Scott-Heron
+- _Cutting the Throat of God_, by Ulcerate
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 
 </details>
