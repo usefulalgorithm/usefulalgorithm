@@ -11,10 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _An Undying Love for a Burning World_, by Neurosis
 - _Trying Times_, by James Blake
 - _The Mountain_, by Gorillaz
-- _An Undying Love for a Burning World_, by Neurosis
-- _Welcome to Sky Valley_, by Kyuss
 
 </details>
 
@@ -24,16 +23,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Kin_, by KMRU
 - _Anemones_, by Xylitol
 - _Blumenfantasie_, by Xylitol
-- _New Heights_, by Defeat The Giant
 - _An Undying Love for a Burning World_, by Neurosis
+- _New Heights_, by Defeat The Giant
 - _KAK_, by KAKUHAN
 - _Momoko_, by Momoko Gill
 - _Sidera_, by Miserere Luminis
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Spirits_, by Gil Scott-Heron
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
-- _Cutting the Throat of God_, by Ulcerate
 - _Trying Times_, by James Blake
+- _Cutting the Throat of God_, by Ulcerate
 
 </details>
 
