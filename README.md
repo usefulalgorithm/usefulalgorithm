@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Mountain_, by Gorillaz
 - _An Undying Love for a Burning World_, by Neurosis
 - _Welcome to Sky Valley_, by Kyuss
-- _Finally We Are No One_, by múm
-- _Cutting the Throat of God_, by Ulcerate
 
 </details>
 
@@ -35,6 +33,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Spirits_, by Gil Scott-Heron
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Cutting the Throat of God_, by Ulcerate
+- _Trying Times_, by James Blake
 
 </details>
 
