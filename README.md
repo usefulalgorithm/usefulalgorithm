@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Revocation (Deluxe Version)_, by Revocation
 - _Libres antes del final_, by Colleen
 - _James Blake_, by James Blake
 - _An Undying Love for a Burning World_, by Neurosis
 - _Trying Times_, by James Blake
-- _The Mountain_, by Gorillaz
 
 </details>
 
