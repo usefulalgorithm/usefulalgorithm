@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Libres antes del final_, by Colleen
 - _James Blake_, by James Blake
 - _An Undying Love for a Burning World_, by Neurosis
 - _Trying Times_, by James Blake
