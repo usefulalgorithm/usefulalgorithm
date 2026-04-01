@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _James Blake_, by James Blake
 - _An Undying Love for a Burning World_, by Neurosis
 - _Trying Times_, by James Blake
 - _The Mountain_, by Gorillaz
@@ -20,13 +21,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Kin_, by KMRU
 - _Anemones_, by Xylitol
+- _Kin_, by KMRU
 - _Blumenfantasie_, by Xylitol
 - _An Undying Love for a Burning World_, by Neurosis
 - _New Heights_, by Defeat The Giant
 - _KAK_, by KAKUHAN
-- _Momoko_, by Momoko Gill
 - _Sidera_, by Miserere Luminis
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Spirits_, by Gil Scott-Heron
