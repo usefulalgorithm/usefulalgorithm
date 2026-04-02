@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Revocation (Deluxe Version)_, by Revocation
 - _Libres antes del final_, by Colleen
+- _Revocation (Deluxe Version)_, by Revocation
+- _Cutting the Throat of God_, by Ulcerate
 - _James Blake_, by James Blake
 - _An Undying Love for a Burning World_, by Neurosis
 - _Trying Times_, by James Blake
@@ -31,10 +32,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Sidera_, by Miserere Luminis
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Spirits_, by Gil Scott-Heron
-- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Trying Times_, by James Blake
+- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Cutting the Throat of God_, by Ulcerate
-- _Overspace & Supertime_, by Cryptic Shift
+- _Revocation (Deluxe Version)_, by Revocation
 
 </details>
 
