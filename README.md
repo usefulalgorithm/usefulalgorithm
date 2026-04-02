@@ -11,14 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _L'inéluctable pulsation du temps_, by Delphine Dora
+- _Revocation (Deluxe Version)_, by Revocation
+- _New Gods, New Masters_, by Revocation
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Libres antes del final_, by Colleen
-- _Revocation (Deluxe Version)_, by Revocation
 - _Cutting the Throat of God_, by Ulcerate
-- _James Blake_, by James Blake
-- _An Undying Love for a Burning World_, by Neurosis
-- _Trying Times_, by James Blake
 
 </details>
 
