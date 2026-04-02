@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
+- _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Libres antes del final_, by Colleen
 - _Revocation (Deluxe Version)_, by Revocation
 - _Cutting the Throat of God_, by Ulcerate
