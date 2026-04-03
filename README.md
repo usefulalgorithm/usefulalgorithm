@@ -11,13 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Revocation (Deluxe Version)_, by Revocation
 - _New Gods, New Masters_, by Revocation
-- _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
-- _Some of Us Stay, Some of Us Go_, by Atomiste
-- _Cutting the Throat of God_, by Ulcerate
 
 </details>
 
@@ -32,11 +30,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _KAK_, by KAKUHAN
 - _Sidera_, by Miserere Luminis
 - _Speakerboxxx/The Love Below_, by Outkast
+- _Libres antes del final_, by Colleen
 - _Spirits_, by Gil Scott-Heron
 - _Revocation (Deluxe Version)_, by Revocation
 - _Trying Times_, by James Blake
-- _Libres antes del final_, by Colleen
-- _Cutting the Throat of God_, by Ulcerate
 - _James Blake_, by James Blake
 
 </details>
