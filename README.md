@@ -23,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Anemones_, by Xylitol
-- _Kin_, by KMRU
 - _Blumenfantasie_, by Xylitol
+- _Kin_, by KMRU
 - _An Undying Love for a Burning World_, by Neurosis
 - _New Heights_, by Defeat The Giant
 - _KAK_, by KAKUHAN
