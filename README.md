@@ -11,11 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Vessel of Emptiness_, by hiatus间断平衡
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _L'inéluctable pulsation du temps_, by Delphine Dora
-- _Revocation (Deluxe Version)_, by Revocation
-- _New Gods, New Masters_, by Revocation
 
 </details>
 
@@ -30,6 +29,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _KAK_, by KAKUHAN
 - _Sidera_, by Miserere Luminis
 - _Speakerboxxx/The Love Below_, by Outkast
+- _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _Spirits_, by Gil Scott-Heron
 - _Revocation (Deluxe Version)_, by Revocation
