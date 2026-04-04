@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Lands_, by Quiet Husband
 - _Vessel of Emptiness_, by hiatus间断平衡
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
-- _Libres antes del final_, by Colleen
 
 </details>
 
@@ -39,9 +39,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _The Movement of the Free Spirit_, by Raoul Vaneigem, Randall Cherry, and friends ([link](https://hardcover.app/books/the-movement-of-the-free-spirit)). It's OK I guess.
+Just finished reading _Anarchy and Insurrection_, by Alfredo M. Bonanno ([link](https://hardcover.app/books/anarchy-and-insurrection)). It's a good book.
 
-Gotta finish 25 books before 2027-01-01. I've read 6 so far.
+Gotta finish 25 books before 2027-01-01. I've read 7 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
