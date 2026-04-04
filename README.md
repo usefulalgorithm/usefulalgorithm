@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Lands_, by Quiet Husband
 - _Vessel of Emptiness_, by hiatus间断平衡
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
