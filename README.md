@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Vessel of Emptiness_, by hiatus间断平衡
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
-- _L'inéluctable pulsation du temps_, by Delphine Dora
 
 </details>
 
