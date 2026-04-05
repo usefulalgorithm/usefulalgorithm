@@ -12,8 +12,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _L'inéluctable pulsation du temps_, by Delphine Dora
+- _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
+- _Whatever the Weather II_, by Whatever The Weather
+- _Immanuel Wilkins Quartet: Live at the Village Vanguard Vol. 1_, by Immanuel Wilkins
+- _Themes for Dreams_, by Resavoir
 - _Lands_, by Quiet Husband
-- _Vessel of Emptiness_, by hiatus间断平衡
 
 </details>
 
@@ -32,6 +35,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Libres antes del final_, by Colleen
 - _Spirits_, by Gil Scott-Heron
 - _Revocation (Deluxe Version)_, by Revocation
+- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Trying Times_, by James Blake
 - _James Blake_, by James Blake
 
