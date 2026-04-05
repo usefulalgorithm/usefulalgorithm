@@ -11,15 +11,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Epitaph_, by Necrophagist
+- _Whatever the Weather II_, by Whatever The Weather
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Revocation (Deluxe Version)_, by Revocation
+- _Epitaph_, by Necrophagist
 - _amor.ecstasy.amnesia_, by Diego Andlovin
 - _sentence structure in the country_, by More Eaze
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
-- _Whatever the Weather II_, by Whatever The Weather
 
 </details>
 
@@ -31,6 +31,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Kin_, by KMRU
 - _An Undying Love for a Burning World_, by Neurosis
 - _New Heights_, by Defeat The Giant
+- _Revocation (Deluxe Version)_, by Revocation
 - _KAK_, by KAKUHAN
 - _Sidera_, by Miserere Luminis
 - _Speakerboxxx/The Love Below_, by Outkast
@@ -38,7 +39,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _Spirits_, by Gil Scott-Heron
-- _Revocation (Deluxe Version)_, by Revocation
+- _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Trying Times_, by James Blake
 
 </details>
