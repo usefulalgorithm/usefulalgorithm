@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Whatever the Weather II_, by Whatever The Weather
@@ -19,7 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Revocation (Deluxe Version)_, by Revocation
 - _amor.ecstasy.amnesia_, by Diego Andlovin
 - _sentence structure in the country_, by More Eaze
-- _L'inéluctable pulsation du temps_, by Delphine Dora
 
 </details>
 
