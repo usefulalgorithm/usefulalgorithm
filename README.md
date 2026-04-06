@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Whatever the Weather II_, by Whatever The Weather
 - _Epitaph_, by Necrophagist
