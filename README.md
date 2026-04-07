@@ -15,9 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Some of Us Stay, Some of Us Go_, by Atomiste
-- _Epitaph_, by Necrophagist
-- _Teratogenesis (Deluxe Edition)_, by Revocation
-- _Revocation (Deluxe Version)_, by Revocation
 
 </details>
 
