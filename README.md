@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
+- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Whatever the Weather II_, by Whatever The Weather
 - _Epitaph_, by Necrophagist
@@ -28,8 +28,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Anemones_, by Xylitol
 - _Blumenfantasie_, by Xylitol
-- _Kin_, by KMRU
 - _An Undying Love for a Burning World_, by Neurosis
+- _Kin_, by KMRU
 - _New Heights_, by Defeat The Giant
 - _Revocation (Deluxe Version)_, by Revocation
 - _KAK_, by KAKUHAN
