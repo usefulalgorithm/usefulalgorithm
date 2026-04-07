@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Themes for Dreams_, by Resavoir
 - _Whatever the Weather II_, by Whatever The Weather
 
 </details>
@@ -26,9 +27,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Revocation (Deluxe Version)_, by Revocation
 - _KAK_, by KAKUHAN
 - _L'inéluctable pulsation du temps_, by Delphine Dora
+- _Whatever the Weather II_, by Whatever The Weather
 - _Sidera_, by Miserere Luminis
 - _Speakerboxxx/The Love Below_, by Outkast
-- _Whatever the Weather II_, by Whatever The Weather
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
