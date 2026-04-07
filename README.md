@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Whatever the Weather II_, by Whatever The Weather
-- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 
 </details>
 
@@ -29,11 +28,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Sidera_, by Miserere Luminis
 - _Speakerboxxx/The Love Below_, by Outkast
+- _Whatever the Weather II_, by Whatever The Weather
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _Spirits_, by Gil Scott-Heron
-- _Whatever the Weather II_, by Whatever The Weather
 - _Trying Times_, by James Blake
 
 </details>
