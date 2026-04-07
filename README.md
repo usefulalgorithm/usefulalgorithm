@@ -11,15 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Whatever the Weather II_, by Whatever The Weather
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Some of Us Stay, Some of Us Go_, by Atomiste
-- _Whatever the Weather II_, by Whatever The Weather
 - _Epitaph_, by Necrophagist
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Revocation (Deluxe Version)_, by Revocation
-- _amor.ecstasy.amnesia_, by Diego Andlovin
-- _sentence structure in the country_, by More Eaze
 
 </details>
 
@@ -40,6 +38,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _Spirits_, by Gil Scott-Heron
+- _Whatever the Weather II_, by Whatever The Weather
 - _Trying Times_, by James Blake
 
 </details>
