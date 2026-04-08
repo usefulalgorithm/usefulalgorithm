@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Themes for Dreams_, by Resavoir
 
 </details>
@@ -32,8 +33,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
-- _Spirits_, by Gil Scott-Heron
 - _Themes for Dreams_, by Resavoir
+- _Spirits_, by Gil Scott-Heron
+- _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Trying Times_, by James Blake
 
 </details>
