@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Themes for Dreams_, by Resavoir
-- _Whatever the Weather II_, by Whatever The Weather
 
 </details>
 
@@ -34,6 +33,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _Spirits_, by Gil Scott-Heron
+- _Themes for Dreams_, by Resavoir
 - _Trying Times_, by James Blake
 
 </details>
