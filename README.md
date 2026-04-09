@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Whatever the Weather II_, by Whatever The Weather
 - _Overspace & Supertime_, by Cryptic Shift
 - _Cutting the Throat of God_, by Ulcerate
 - _Touch_, by Tortoise
-- _Whatever the Weather II_, by Whatever The Weather
 - _Revocation (Deluxe Version)_, by Revocation
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Themes for Dreams_, by Resavoir
@@ -39,7 +39,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
-- _Spirits_, by Gil Scott-Heron
+- _Overspace & Supertime_, by Cryptic Shift
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Trying Times_, by James Blake
 
