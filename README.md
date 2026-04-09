@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Cutting the Throat of God_, by Ulcerate
 - _Touch_, by Tortoise
 - _Whatever the Weather II_, by Whatever The Weather
 - _Overspace & Supertime_, by Cryptic Shift
