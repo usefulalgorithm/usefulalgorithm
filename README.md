@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Touch_, by Tortoise
+- _Whatever the Weather II_, by Whatever The Weather
 - _Overspace & Supertime_, by Cryptic Shift
 - _Revocation (Deluxe Version)_, by Revocation
 - _Some of Us Stay, Some of Us Go_, by Atomiste
@@ -23,13 +25,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Blumenfantasie_, by Xylitol
 - _An Undying Love for a Burning World_, by Neurosis
-- _Anemones_, by Xylitol
 - _Kin_, by KMRU
 - _Revocation (Deluxe Version)_, by Revocation
 - _New Heights_, by Defeat The Giant
+- _Anemones_, by Xylitol
+- _Whatever the Weather II_, by Whatever The Weather
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _KAK_, by KAKUHAN
-- _Whatever the Weather II_, by Whatever The Weather
 - _Sidera_, by Miserere Luminis
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Teratogenesis (Deluxe Edition)_, by Revocation
