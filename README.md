@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Overspace & Supertime_, by Cryptic Shift
 - _Cutting the Throat of God_, by Ulcerate
 - _Touch_, by Tortoise
 - _Whatever the Weather II_, by Whatever The Weather
-- _Overspace & Supertime_, by Cryptic Shift
 - _Revocation (Deluxe Version)_, by Revocation
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Themes for Dreams_, by Resavoir
