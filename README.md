@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Overspace & Supertime_, by Cryptic Shift
+- _Revocation (Deluxe Version)_, by Revocation
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Themes for Dreams_, by Resavoir
 
@@ -19,14 +21,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Anemones_, by Xylitol
 - _Blumenfantasie_, by Xylitol
 - _An Undying Love for a Burning World_, by Neurosis
+- _Anemones_, by Xylitol
 - _Kin_, by KMRU
-- _New Heights_, by Defeat The Giant
 - _Revocation (Deluxe Version)_, by Revocation
-- _KAK_, by KAKUHAN
+- _New Heights_, by Defeat The Giant
 - _L'inéluctable pulsation du temps_, by Delphine Dora
+- _KAK_, by KAKUHAN
 - _Whatever the Weather II_, by Whatever The Weather
 - _Sidera_, by Miserere Luminis
 - _Speakerboxxx/The Love Below_, by Outkast
