@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Cutting the Throat of God_, by Ulcerate
 - _Overspace & Supertime_, by Cryptic Shift
 - _New Heights_, by Defeat The Giant
 - _Spun From 5 To 7_, by Defeat The Giant
 - _Whatever the Weather II_, by Whatever The Weather
-- _Cutting the Throat of God_, by Ulcerate
 - _Touch_, by Tortoise
-- _Revocation (Deluxe Version)_, by Revocation
 
 </details>
 
