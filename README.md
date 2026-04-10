@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Whatever the Weather II_, by Whatever The Weather
 - _Overspace & Supertime_, by Cryptic Shift
+- _Whatever the Weather II_, by Whatever The Weather
 - _Cutting the Throat of God_, by Ulcerate
 - _Touch_, by Tortoise
 - _Revocation (Deluxe Version)_, by Revocation
@@ -34,11 +34,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _KAK_, by KAKUHAN
 - _Sidera_, by Miserere Luminis
-- _Speakerboxxx/The Love Below_, by Outkast
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
+- _Speakerboxxx/The Love Below_, by Outkast
 - _Overspace & Supertime_, by Cryptic Shift
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Trying Times_, by James Blake
