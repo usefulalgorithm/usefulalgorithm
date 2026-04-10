@@ -36,11 +36,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Sidera_, by Miserere Luminis
 - _Overspace & Supertime_, by Cryptic Shift
-- _New Heights_, by Defeat The Giant
 - _KAK_, by KAKUHAN
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
+- _New Heights_, by Defeat The Giant
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Trying Times_, by James Blake
