@@ -27,16 +27,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Blumenfantasie_, by Xylitol
 - _An Undying Love for a Burning World_, by Neurosis
+- _Whatever the Weather II_, by Whatever The Weather
 - _Kin_, by KMRU
 - _Revocation (Deluxe Version)_, by Revocation
-- _Whatever the Weather II_, by Whatever The Weather
-- _New Heights_, by Defeat The Giant
 - _Anemones_, by Xylitol
 - _L'inéluctable pulsation du temps_, by Delphine Dora
-- _KAK_, by KAKUHAN
+- _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Sidera_, by Miserere Luminis
 - _Overspace & Supertime_, by Cryptic Shift
-- _Teratogenesis (Deluxe Edition)_, by Revocation
+- _New Heights_, by Defeat The Giant
+- _KAK_, by KAKUHAN
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
