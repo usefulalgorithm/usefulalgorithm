@@ -11,11 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Whatever the Weather II_, by Whatever The Weather
+- _Traced in Air_, by Cynic
+- _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Cutting the Throat of God_, by Ulcerate
 - _Overspace & Supertime_, by Cryptic Shift
 - _New Heights_, by Defeat The Giant
 - _Spun From 5 To 7_, by Defeat The Giant
-- _Whatever the Weather II_, by Whatever The Weather
 - _Touch_, by Tortoise
 
 </details>
@@ -26,9 +28,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Blumenfantasie_, by Xylitol
 - _An Undying Love for a Burning World_, by Neurosis
 - _Kin_, by KMRU
-- _New Heights_, by Defeat The Giant
 - _Revocation (Deluxe Version)_, by Revocation
 - _Whatever the Weather II_, by Whatever The Weather
+- _New Heights_, by Defeat The Giant
 - _Anemones_, by Xylitol
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _KAK_, by KAKUHAN
@@ -41,6 +43,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Trying Times_, by James Blake
+- _Cutting the Throat of God_, by Ulcerate
 
 </details>
 
