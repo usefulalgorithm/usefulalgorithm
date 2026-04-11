@@ -11,15 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Traced in Air_, by Cynic
 - _Overspace & Supertime_, by Cryptic Shift
 - _144 Pulsations of Light_, by Ethernet
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Whatever the Weather II_, by Whatever The Weather
-- _Traced in Air_, by Cynic
 - _Cutting the Throat of God_, by Ulcerate
 - _New Heights_, by Defeat The Giant
 - _Spun From 5 To 7_, by Defeat The Giant
-- _Touch_, by Tortoise
 
 </details>
 
