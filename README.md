@@ -31,9 +31,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Whatever the Weather II_, by Whatever The Weather
 - _Kin_, by KMRU
 - _Revocation (Deluxe Version)_, by Revocation
-- _Anemones_, by Xylitol
-- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Teratogenesis (Deluxe Edition)_, by Revocation
+- _L'inéluctable pulsation du temps_, by Delphine Dora
+- _Anemones_, by Xylitol
 - _Sidera_, by Miserere Luminis
 - _Overspace & Supertime_, by Cryptic Shift
 - _KAK_, by KAKUHAN
