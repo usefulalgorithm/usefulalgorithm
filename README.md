@@ -40,9 +40,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
 - _New Heights_, by Defeat The Giant
-- _Speakerboxxx/The Love Below_, by Outkast
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Trying Times_, by James Blake
+- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Cutting the Throat of God_, by Ulcerate
 
 </details>
