@@ -12,9 +12,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _144 Pulsations of Light_, by Ethernet
+- _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Whatever the Weather II_, by Whatever The Weather
 - _Traced in Air_, by Cynic
-- _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Cutting the Throat of God_, by Ulcerate
 - _Overspace & Supertime_, by Cryptic Shift
 - _New Heights_, by Defeat The Giant
