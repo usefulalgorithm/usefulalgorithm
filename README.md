@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Traced in Air_, by Cynic
 - _144 Pulsations of Light_, by Ethernet
+- _Traced in Air_, by Cynic
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Overspace & Supertime_, by Cryptic Shift
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Whatever the Weather II_, by Whatever The Weather
-- _Cutting the Throat of God_, by Ulcerate
 
 </details>
 
