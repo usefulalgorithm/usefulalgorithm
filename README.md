@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _144 Pulsations of Light_, by Ethernet
+- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Traced in Air_, by Cynic
 - _Overspace & Supertime_, by Cryptic Shift
 - _Teratogenesis (Deluxe Edition)_, by Revocation
@@ -39,10 +40,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
+- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _New Heights_, by Defeat The Giant
+- _144 Pulsations of Light_, by Ethernet
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Trying Times_, by James Blake
-- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Cutting the Throat of God_, by Ulcerate
 
 </details>
