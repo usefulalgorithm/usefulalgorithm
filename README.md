@@ -18,7 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Whatever the Weather II_, by Whatever The Weather
 - _Cutting the Throat of God_, by Ulcerate
-- _New Heights_, by Defeat The Giant
 
 </details>
 
@@ -32,8 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Revocation (Deluxe Version)_, by Revocation
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _L'inéluctable pulsation du temps_, by Delphine Dora
-- _Anemones_, by Xylitol
 - _Sidera_, by Miserere Luminis
+- _Anemones_, by Xylitol
 - _Overspace & Supertime_, by Cryptic Shift
 - _KAK_, by KAKUHAN
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
