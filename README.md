@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Traced in Air_, by Cynic
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Overspace & Supertime_, by Cryptic Shift
-- _Teratogenesis (Deluxe Edition)_, by Revocation
-- _Whatever the Weather II_, by Whatever The Weather
 
 </details>
 
