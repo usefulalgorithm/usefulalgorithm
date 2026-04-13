@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _144 Pulsations of Light_, by Ethernet
 - _Traced in Air_, by Cynic
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
-- _Overspace & Supertime_, by Cryptic Shift
 
 </details>
 
