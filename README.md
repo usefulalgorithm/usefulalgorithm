@@ -27,20 +27,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Kin_, by KMRU
 - _Revocation (Deluxe Version)_, by Revocation
 - _Teratogenesis (Deluxe Edition)_, by Revocation
-- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _144 Pulsations of Light_, by Ethernet
+- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Sidera_, by Miserere Luminis
 - _Overspace & Supertime_, by Cryptic Shift
 - _KAK_, by KAKUHAN
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
-- _Anemones_, by Xylitol
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _New Heights_, by Defeat The Giant
+- _Anemones_, by Xylitol
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Trying Times_, by James Blake
-- _Cutting the Throat of God_, by Ulcerate
 
 </details>
 
