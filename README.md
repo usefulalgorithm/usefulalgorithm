@@ -36,7 +36,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Themes for Dreams_, by Resavoir
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _New Heights_, by Defeat The Giant
-- _Anemones_, by Xylitol
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Trying Times_, by James Blake
 
