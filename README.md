@@ -11,29 +11,30 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
+- _太陽之子_, by Jay Chou
 - _144 Pulsations of Light_, by Ethernet
-- _Traced in Air_, by Cynic
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
+- _144 Pulsations of Light_, by Ethernet
 - _Blumenfantasie_, by Xylitol
 - _An Undying Love for a Burning World_, by Neurosis
-- _144 Pulsations of Light_, by Ethernet
 - _Whatever the Weather II_, by Whatever The Weather
 - _Kin_, by KMRU
 - _Revocation (Deluxe Version)_, by Revocation
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Sidera_, by Miserere Luminis
+- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Overspace & Supertime_, by Cryptic Shift
 - _KAK_, by KAKUHAN
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
-- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _New Heights_, by Defeat The Giant
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Trying Times_, by James Blake
