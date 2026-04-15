@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Whatever the Weather II_, by Whatever The Weather
+- _L'inéluctable pulsation du temps_, by Delphine Dora
+- _An Undying Love for a Burning World_, by Neurosis
 - _Overspace & Supertime_, by Cryptic Shift
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _太陽之子_, by Jay Chou
@@ -22,8 +25,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _144 Pulsations of Light_, by Ethernet
-- _Blumenfantasie_, by Xylitol
 - _An Undying Love for a Burning World_, by Neurosis
+- _Blumenfantasie_, by Xylitol
 - _Whatever the Weather II_, by Whatever The Weather
 - _Kin_, by KMRU
 - _Revocation (Deluxe Version)_, by Revocation
