@@ -26,21 +26,21 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _144 Pulsations of Light_, by Ethernet
 - _An Undying Love for a Burning World_, by Neurosis
-- _Blumenfantasie_, by Xylitol
 - _Whatever the Weather II_, by Whatever The Weather
+- _Blumenfantasie_, by Xylitol
 - _Kin_, by KMRU
 - _Revocation (Deluxe Version)_, by Revocation
 - _Teratogenesis (Deluxe Edition)_, by Revocation
-- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _L'inéluctable pulsation du temps_, by Delphine Dora
+- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Overspace & Supertime_, by Cryptic Shift
 - _Sidera_, by Miserere Luminis
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
-- _New Heights_, by Defeat The Giant
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Trying Times_, by James Blake
+- _New Heights_, by Defeat The Giant
 - _KAK_, by KAKUHAN
 
 </details>
