@@ -41,7 +41,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Kammerkonzert_, by Squarepusher
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Trying Times_, by James Blake
-- _New Heights_, by Defeat The Giant
 
 </details>
 
