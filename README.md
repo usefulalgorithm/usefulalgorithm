@@ -18,8 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _An Undying Love for a Burning World_, by Neurosis
 - _Overspace & Supertime_, by Cryptic Shift
-- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
-- _太陽之子_, by Jay Chou
 
 </details>
 
@@ -44,7 +42,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Trying Times_, by James Blake
 - _New Heights_, by Defeat The Giant
-- _KAK_, by KAKUHAN
 
 </details>
 
