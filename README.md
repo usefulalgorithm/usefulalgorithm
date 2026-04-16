@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Intarsia_, by Visible Cloaks
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _The New Sound_, by Geordie Greep
 - _Kammerkonzert_, by Squarepusher
