@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Dos Moons (Full Moon)_, by Dos Monos
+- _The New Sound_, by Geordie Greep
 - _Kammerkonzert_, by Squarepusher
 - _Whatever the Weather II_, by Whatever The Weather
 - _L'inéluctable pulsation du temps_, by Delphine Dora
@@ -18,7 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Overspace & Supertime_, by Cryptic Shift
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _太陽之子_, by Jay Chou
-- _144 Pulsations of Light_, by Ethernet
 
 </details>
 
