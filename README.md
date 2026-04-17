@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _Intarsia_, by Visible Cloaks
 - _The New Sound_, by Geordie Greep
-- _Kammerkonzert_, by Squarepusher
 
 </details>
 
@@ -24,13 +23,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _144 Pulsations of Light_, by Ethernet
 - _An Undying Love for a Burning World_, by Neurosis
 - _Whatever the Weather II_, by Whatever The Weather
-- _Blumenfantasie_, by Xylitol
 - _Kin_, by KMRU
 - _Revocation (Deluxe Version)_, by Revocation
 - _Teratogenesis (Deluxe Edition)_, by Revocation
+- _Blumenfantasie_, by Xylitol
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Overspace & Supertime_, by Cryptic Shift
+- _Dos Moons (Full Moon)_, by Dos Monos
 - _Sidera_, by Miserere Luminis
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
