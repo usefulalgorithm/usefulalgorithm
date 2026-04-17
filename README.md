@@ -11,13 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Intarsia_, by Visible Cloaks
 - _Dos Moons (Full Moon)_, by Dos Monos
+- _Intarsia_, by Visible Cloaks
 - _The New Sound_, by Geordie Greep
 - _Kammerkonzert_, by Squarepusher
 - _Whatever the Weather II_, by Whatever The Weather
-- _L'inéluctable pulsation du temps_, by Delphine Dora
-- _An Undying Love for a Burning World_, by Neurosis
 
 </details>
 
