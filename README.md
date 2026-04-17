@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Intarsia_, by Visible Cloaks
 - _The New Sound_, by Geordie Greep
 - _Kammerkonzert_, by Squarepusher
-- _Whatever the Weather II_, by Whatever The Weather
 
 </details>
 
