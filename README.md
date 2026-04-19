@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _bmbmbm (Dos Monos Remix)_, by black midi
 - _Overspace & Supertime_, by Cryptic Shift
 - _333_, by the hatch
-- _bmbmbm (Dos Monos Remix)_, by black midi
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
 - _Lands_, by Quiet Husband
 - _Dos Moons (Full Moon)_, by Dos Monos
