@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Overspace & Supertime_, by Cryptic Shift
 - _333_, by the hatch
 - _bmbmbm (Dos Monos Remix)_, by black midi
 - _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
