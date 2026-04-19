@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Schlagenheim_, by black midi
 - _bmbmbm (Dos Monos Remix)_, by black midi
 - _Overspace & Supertime_, by Cryptic Shift
 - _333_, by the hatch
@@ -31,9 +32,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Kin_, by KMRU
 - _L'inéluctable pulsation du temps_, by Delphine Dora
-- _Blumenfantasie_, by Xylitol
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Dos Moons (Full Moon)_, by Dos Monos
+- _Blumenfantasie_, by Xylitol
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Overspace & Supertime_, by Cryptic Shift
 - _Libres antes del final_, by Colleen
