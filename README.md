@@ -11,9 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _333_, by the hatch
+- _bmbmbm (Dos Monos Remix)_, by black midi
+- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
+- _Lands_, by Quiet Husband
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _Intarsia_, by Visible Cloaks
-- _The New Sound_, by Geordie Greep
 
 </details>
 
@@ -21,8 +24,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _144 Pulsations of Light_, by Ethernet
-- _An Undying Love for a Burning World_, by Neurosis
 - _Whatever the Weather II_, by Whatever The Weather
+- _An Undying Love for a Burning World_, by Neurosis
 - _Revocation (Deluxe Version)_, by Revocation
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Kin_, by KMRU
@@ -30,14 +33,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Blumenfantasie_, by Xylitol
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Dos Moons (Full Moon)_, by Dos Monos
-- _Overspace & Supertime_, by Cryptic Shift
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
+- _Overspace & Supertime_, by Cryptic Shift
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
 - _Kammerkonzert_, by Squarepusher
+- _Lands_, by Quiet Husband
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Trying Times_, by James Blake
-- _Cutting the Throat of God_, by Ulcerate
 
 </details>
 
