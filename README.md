@@ -11,11 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Pain to Power_, by Maruja
+- _Mira Lunet_, by Katia Krow
+- _Kammerkonzert_, by Squarepusher
 - _Provoke_, by Lasse Marhaug
 - _333_, by the hatch
 - _Schlagenheim_, by black midi
 - _Dos Moons (Full Moon)_, by Dos Monos
-- _Kammerkonzert_, by Squarepusher
 - _bmbmbm (Dos Monos Remix)_, by black midi
 - _Overspace & Supertime_, by Cryptic Shift
 
@@ -26,11 +28,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _144 Pulsations of Light_, by Ethernet
 - _Whatever the Weather II_, by Whatever The Weather
-- _An Undying Love for a Burning World_, by Neurosis
 - _Revocation (Deluxe Version)_, by Revocation
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Dos Moons (Full Moon)_, by Dos Monos
+- _An Undying Love for a Burning World_, by Neurosis
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Kin_, by KMRU
 - _Kammerkonzert_, by Squarepusher
