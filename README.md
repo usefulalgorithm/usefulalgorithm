@@ -18,8 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _333_, by the hatch
 - _Schlagenheim_, by black midi
 - _Dos Moons (Full Moon)_, by Dos Monos
-- _bmbmbm (Dos Monos Remix)_, by black midi
-- _Overspace & Supertime_, by Cryptic Shift
 
 </details>
 
@@ -35,15 +33,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _An Undying Love for a Burning World_, by Neurosis
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Kin_, by KMRU
-- _Kammerkonzert_, by Squarepusher
-- _Blumenfantasie_, by Xylitol
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
 - _Overspace & Supertime_, by Cryptic Shift
 - _Lands_, by Quiet Husband
 - _Some of Us Stay, Some of Us Go_, by Atomiste
+- _Blumenfantasie_, by Xylitol
 - _Trying Times_, by James Blake
+- _Kammerkonzert_, by Squarepusher
+- _Cutting the Throat of God_, by Ulcerate
 
 </details>
 
