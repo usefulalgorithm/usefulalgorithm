@@ -11,14 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Provoke_, by Lasse Marhaug
 - _333_, by the hatch
 - _Schlagenheim_, by black midi
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _Kammerkonzert_, by Squarepusher
 - _bmbmbm (Dos Monos Remix)_, by black midi
 - _Overspace & Supertime_, by Cryptic Shift
-- _How to Win At Solitaire (Deluxe Edition)_, by Sophia Stel
-- _Lands_, by Quiet Husband
 
 </details>
 
