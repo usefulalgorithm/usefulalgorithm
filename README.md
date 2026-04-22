@@ -28,18 +28,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Dos Moons (Full Moon)_, by Dos Monos
-- _An Undying Love for a Burning World_, by Neurosis
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
-- _Kin_, by KMRU
+- _An Undying Love for a Burning World_, by Neurosis
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
+- _Kin_, by KMRU
 - _Overspace & Supertime_, by Cryptic Shift
 - _Lands_, by Quiet Husband
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Trying Times_, by James Blake
 - _Kammerkonzert_, by Squarepusher
-- _Cutting the Throat of God_, by Ulcerate
+- _James Blake_, by James Blake
 
 </details>
 
