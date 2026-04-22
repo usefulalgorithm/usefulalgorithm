@@ -16,8 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Kammerkonzert_, by Squarepusher
 - _Provoke_, by Lasse Marhaug
 - _333_, by the hatch
-- _Schlagenheim_, by black midi
-- _Dos Moons (Full Moon)_, by Dos Monos
 
 </details>
 
@@ -39,7 +37,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Overspace & Supertime_, by Cryptic Shift
 - _Lands_, by Quiet Husband
 - _Some of Us Stay, Some of Us Go_, by Atomiste
-- _Blumenfantasie_, by Xylitol
 - _Trying Times_, by James Blake
 - _Kammerkonzert_, by Squarepusher
 - _Cutting the Throat of God_, by Ulcerate
