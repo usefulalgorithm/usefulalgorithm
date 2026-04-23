@@ -11,8 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Pain to Power_, by Maruja
 - _II_, by Paperclip Minimiser
+- _Dos Moons (Full Moon)_, by Dos Monos
+- _Hellfire_, by black midi
+- _Pain to Power_, by Maruja
 - _The New Sound_, by Geordie Greep
 
 </details>
@@ -32,12 +34,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
 - _Kin_, by KMRU
+- _Pain to Power_, by Maruja
 - _Overspace & Supertime_, by Cryptic Shift
 - _Lands_, by Quiet Husband
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Trying Times_, by James Blake
 - _Kammerkonzert_, by Squarepusher
-- _Pain to Power_, by Maruja
 - _James Blake_, by James Blake
 
 </details>
