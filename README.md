@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _II_, by Paperclip Minimiser
+- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _Hellfire_, by black midi
 - _Pain to Power_, by Maruja
-- _The New Sound_, by Geordie Greep
 
 </details>
 
