@@ -25,8 +25,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _144 Pulsations of Light_, by Ethernet
 - _Whatever the Weather II_, by Whatever The Weather
-- _Revocation (Deluxe Version)_, by Revocation
 - _L'inéluctable pulsation du temps_, by Delphine Dora
+- _Revocation (Deluxe Version)_, by Revocation
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
@@ -41,7 +41,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Trying Times_, by James Blake
 - _Kammerkonzert_, by Squarepusher
-- _James Blake_, by James Blake
 
 </details>
 
