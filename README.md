@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _II_, by Paperclip Minimiser
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _Hellfire_, by black midi
@@ -25,8 +26,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _144 Pulsations of Light_, by Ethernet
 - _Whatever the Weather II_, by Whatever The Weather
 - _Revocation (Deluxe Version)_, by Revocation
-- _Teratogenesis (Deluxe Edition)_, by Revocation
 - _L'inéluctable pulsation du temps_, by Delphine Dora
+- _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _An Undying Love for a Burning World_, by Neurosis
