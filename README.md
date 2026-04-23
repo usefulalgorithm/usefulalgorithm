@@ -11,11 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _II_, by Paperclip Minimiser
+- _The New Sound_, by Geordie Greep
 - _Pain to Power_, by Maruja
 - _Mira Lunet_, by Katia Krow
 - _Kammerkonzert_, by Squarepusher
 - _Provoke_, by Lasse Marhaug
-- _333_, by the hatch
 
 </details>
 
@@ -39,6 +40,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Some of Us Stay, Some of Us Go_, by Atomiste
 - _Trying Times_, by James Blake
 - _Kammerkonzert_, by Squarepusher
+- _Pain to Power_, by Maruja
 - _James Blake_, by James Blake
 
 </details>
