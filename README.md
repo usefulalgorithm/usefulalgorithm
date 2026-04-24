@@ -11,20 +11,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Pain to Power_, by Maruja
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _II_, by Paperclip Minimiser
-- _Dos Moons (Full Moon)_, by Dos Monos
-- _Hellfire_, by black midi
+- _Pain to Power_, by Maruja
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
+- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _144 Pulsations of Light_, by Ethernet
 - _Whatever the Weather II_, by Whatever The Weather
-- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Revocation (Deluxe Version)_, by Revocation
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Dos Moons (Full Moon)_, by Dos Monos
