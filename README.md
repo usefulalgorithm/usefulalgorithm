@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _II_, by Paperclip Minimiser
+- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Pain to Power_, by Maruja
 
 </details>
@@ -29,6 +29,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _An Undying Love for a Burning World_, by Neurosis
 - _Pain to Power_, by Maruja
+- _II_, by Paperclip Minimiser
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
@@ -36,7 +37,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Overspace & Supertime_, by Cryptic Shift
 - _Lands_, by Quiet Husband
 - _Some of Us Stay, Some of Us Go_, by Atomiste
-- _II_, by Paperclip Minimiser
 - _Trying Times_, by James Blake
 - _Kammerkonzert_, by Squarepusher
 
