@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _II_, by Paperclip Minimiser
+- _Pain to Power_, by Maruja
 - _L'inéluctable pulsation du temps_, by Delphine Dora
+- _II_, by Paperclip Minimiser
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _Hellfire_, by black midi
-- _Pain to Power_, by Maruja
 
 </details>
 
@@ -30,11 +30,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _An Undying Love for a Burning World_, by Neurosis
+- _Pain to Power_, by Maruja
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
 - _Kin_, by KMRU
-- _Pain to Power_, by Maruja
 - _Overspace & Supertime_, by Cryptic Shift
 - _Lands_, by Quiet Husband
 - _Some of Us Stay, Some of Us Go_, by Atomiste
