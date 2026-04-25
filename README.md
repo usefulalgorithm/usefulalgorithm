@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cutting the Throat of God_, by Ulcerate
 - _Critical Thinking_, by Manic Street Preachers
 - _Dos Moons (Full Moon)_, by Dos Monos
-- _Pain to Power_, by Maruja
 
 </details>
 
@@ -28,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Whatever the Weather II_, by Whatever The Weather
 - _Revocation (Deluxe Version)_, by Revocation
 - _Teratogenesis (Deluxe Edition)_, by Revocation
-- _Dos Moons (Full Moon)_, by Dos Monos
 - _II_, by Paperclip Minimiser
+- _Dos Moons (Full Moon)_, by Dos Monos
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _An Undying Love for a Burning World_, by Neurosis
 - _Pain to Power_, by Maruja
