@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _L'inéluctable pulsation du temps_, by Delphine Dora
-- _Critical Thinking_, by Manic Street Preachers
-- _Cutting the Throat of God_, by Ulcerate
-- _Dos Moons (Full Moon)_, by Dos Monos
 - _II_, by Paperclip Minimiser
+- _L'inéluctable pulsation du temps_, by Delphine Dora
+- _Cutting the Throat of God_, by Ulcerate
+- _Critical Thinking_, by Manic Street Preachers
+- _Dos Moons (Full Moon)_, by Dos Monos
 - _Pain to Power_, by Maruja
 
 </details>
@@ -36,7 +36,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
-- _Kin_, by KMRU
 - _Overspace & Supertime_, by Cryptic Shift
 - _Lands_, by Quiet Husband
 - _Some of Us Stay, Some of Us Go_, by Atomiste
