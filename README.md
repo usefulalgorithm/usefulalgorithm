@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Pain to Power_, by Maruja
+- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _TIGRAY FUNK_, by Sideshow
-- _Kammerkonzert_, by Squarepusher
 
 </details>
 
