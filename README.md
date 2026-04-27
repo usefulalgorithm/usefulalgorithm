@@ -11,13 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _TIGRAY FUNK_, by Sideshow
+- _Kammerkonzert_, by Squarepusher
 - _L'inéluctable pulsation du temps_, by Delphine Dora
+- _TIGRAY FUNK_, by Sideshow
 - _Pain to Power_, by Maruja
 - _II_, by Paperclip Minimiser
-- _Cutting the Throat of God_, by Ulcerate
-- _Critical Thinking_, by Manic Street Preachers
-- _Dos Moons (Full Moon)_, by Dos Monos
 
 </details>
 
