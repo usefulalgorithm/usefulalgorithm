@@ -11,11 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Kammerkonzert_, by Squarepusher
-- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _TIGRAY FUNK_, by Sideshow
-- _Pain to Power_, by Maruja
-- _II_, by Paperclip Minimiser
+- _Kammerkonzert_, by Squarepusher
 
 </details>
 
@@ -33,9 +30,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _An Undying Love for a Burning World_, by Neurosis
 - _Pain to Power_, by Maruja
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
+- _Kammerkonzert_, by Squarepusher
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
-- _Kammerkonzert_, by Squarepusher
 - _Overspace & Supertime_, by Cryptic Shift
 - _Lands_, by Quiet Husband
 - _Some of Us Stay, Some of Us Go_, by Atomiste
