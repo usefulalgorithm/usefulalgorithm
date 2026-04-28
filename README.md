@@ -32,7 +32,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Kammerkonzert_, by Squarepusher
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
-- _An Undying Love for a Burning World_, by Neurosis
 - _Overspace & Supertime_, by Cryptic Shift
 - _Lands_, by Quiet Husband
 - _Some of Us Stay, Some of Us Go_, by Atomiste
