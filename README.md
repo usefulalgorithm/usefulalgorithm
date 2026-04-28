@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _EVEN COLDER SPRING_, by Cities Aviv
 - _we've been after each other_, by cropscropscrops, Vaygrnt
 - _Pain to Power_, by Maruja
 - _Pray for Paris_, by Westside Gunn
@@ -32,11 +33,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Pain to Power_, by Maruja
-- _An Undying Love for a Burning World_, by Neurosis
 - _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Kammerkonzert_, by Squarepusher
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
+- _An Undying Love for a Burning World_, by Neurosis
 - _Overspace & Supertime_, by Cryptic Shift
 - _Lands_, by Quiet Husband
 - _Some of Us Stay, Some of Us Go_, by Atomiste
