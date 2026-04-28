@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _DARKLIGHT_, by Stickerbush, heavensouls
 - _EVEN COLDER SPRING_, by Cities Aviv
-- _we've been after each other_, by cropscropscrops, Vaygrnt
 
 </details>
 
