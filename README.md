@@ -13,11 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _we've been after each other_, by cropscropscrops, Vaygrnt
-- _Pain to Power_, by Maruja
-- _Pray for Paris_, by Westside Gunn
-- _Kammerkonzert_, by Squarepusher
-- _L'inéluctable pulsation du temps_, by Delphine Dora
-- _TIGRAY FUNK_, by Sideshow
 
 </details>
 
