@@ -11,8 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Kammerkonzert_, by Squarepusher
+- _we've been after each other_, by cropscropscrops, Vaygrnt
 - _Pain to Power_, by Maruja
+- _Pray for Paris_, by Westside Gunn
+- _Kammerkonzert_, by Squarepusher
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _TIGRAY FUNK_, by Sideshow
 
@@ -22,8 +24,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _L'inéluctable pulsation du temps_, by Delphine Dora
-- _144 Pulsations of Light_, by Ethernet
 - _Whatever the Weather II_, by Whatever The Weather
+- _144 Pulsations of Light_, by Ethernet
 - _Revocation (Deluxe Version)_, by Revocation
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _II_, by Paperclip Minimiser
