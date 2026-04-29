@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _DARKLIGHT_, by Stickerbush, heavensouls
 - _EVEN COLDER SPRING_, by Cities Aviv
+- _DARKLIGHT_, by Stickerbush, heavensouls
 
 </details>
 
@@ -33,9 +33,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
 - _Overspace & Supertime_, by Cryptic Shift
+- _EVEN COLDER SPRING_, by Cities Aviv
 - _Lands_, by Quiet Husband
 - _Some of Us Stay, Some of Us Go_, by Atomiste
-- _Trying Times_, by James Blake
 
 </details>
 
