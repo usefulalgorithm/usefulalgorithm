@@ -11,11 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Kammerkonzert_, by Squarepusher
-- _L'inéluctable pulsation du temps_, by Delphine Dora
-- _TIGRAY FUNK_, by Sideshow
-- _DARKLIGHT_, by Stickerbush, heavensouls
 - _EVEN COLDER SPRING_, by Cities Aviv
+- _Kammerkonzert_, by Squarepusher
 
 </details>
 
@@ -31,12 +28,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Pain to Power_, by Maruja
-- _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Kammerkonzert_, by Squarepusher
+- _EVEN COLDER SPRING_, by Cities Aviv
+- _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _Libres antes del final_, by Colleen
 - _Themes for Dreams_, by Resavoir
 - _Overspace & Supertime_, by Cryptic Shift
-- _EVEN COLDER SPRING_, by Cities Aviv
 - _TIGRAY FUNK_, by Sideshow
 - _Lands_, by Quiet Husband
 - _Some of Us Stay, Some of Us Go_, by Atomiste
