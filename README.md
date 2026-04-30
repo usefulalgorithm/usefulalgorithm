@@ -25,9 +25,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Whatever the Weather II_, by Whatever The Weather
 - _144 Pulsations of Light_, by Ethernet
+- _EVEN COLDER SPRING_, by Cities Aviv
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _II_, by Paperclip Minimiser
-- _EVEN COLDER SPRING_, by Cities Aviv
 - _Kammerkonzert_, by Squarepusher
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
@@ -35,7 +35,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Themes for Dreams_, by Resavoir
 - _Revocation (Deluxe Version)_, by Revocation
 - _TIGRAY FUNK_, by Sideshow
-- _Lands_, by Quiet Husband
 
 </details>
 
