@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _EVEN COLDER SPRING_, by Cities Aviv
+- _TIGRAY FUNK_, by Sideshow
 
 </details>
 
@@ -21,19 +22,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Whatever the Weather II_, by Whatever The Weather
 - _144 Pulsations of Light_, by Ethernet
-- _Revocation (Deluxe Version)_, by Revocation
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _II_, by Paperclip Minimiser
 - _Dos Moons (Full Moon)_, by Dos Monos
-- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _EVEN COLDER SPRING_, by Cities Aviv
+- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Pain to Power_, by Maruja
 - _Kammerkonzert_, by Squarepusher
-- _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
-- _Libres antes del final_, by Colleen
+- _Revocation (Deluxe Version)_, by Revocation
 - _Themes for Dreams_, by Resavoir
-- _Overspace & Supertime_, by Cryptic Shift
+- _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _TIGRAY FUNK_, by Sideshow
+- _Lands_, by Quiet Husband
+- _Some of Us Stay, Some of Us Go_, by Atomiste
 
 </details>
 
