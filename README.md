@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Deliverance_, by Opeth
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Kammerkonzert_, by Squarepusher
