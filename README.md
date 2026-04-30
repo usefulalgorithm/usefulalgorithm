@@ -11,7 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Kammerkonzert_, by Squarepusher
 - _EVEN COLDER SPRING_, by Cities Aviv
+- _Capture/Release_, by Elder
 - _TIGRAY FUNK_, by Sideshow
 
 </details>
@@ -27,14 +29,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
-- _Pain to Power_, by Maruja
 - _Kammerkonzert_, by Squarepusher
+- _Pain to Power_, by Maruja
 - _Revocation (Deluxe Version)_, by Revocation
 - _Themes for Dreams_, by Resavoir
-- _Seeing Is Forgetting_, by Elori Saxl, Henry Solomon
 - _TIGRAY FUNK_, by Sideshow
 - _Lands_, by Quiet Husband
-- _Some of Us Stay, Some of Us Go_, by Atomiste
 
 </details>
 
