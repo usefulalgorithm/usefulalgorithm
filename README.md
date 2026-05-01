@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Pain to Power_, by Maruja
+- _Geneva_, by Russian Circles
 - _II_, by Paperclip Minimiser
 - _Deliverance_, by Opeth
 - _EVEN COLDER SPRING_, by Cities Aviv
