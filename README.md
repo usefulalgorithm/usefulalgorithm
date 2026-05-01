@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Whatever the Weather II_, by Whatever The Weather
+- _Memorial_, by Russian Circles
 - _Pain to Power_, by Maruja
 - _Geneva_, by Russian Circles
 - _II_, by Paperclip Minimiser
@@ -18,7 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Kammerkonzert_, by Squarepusher
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 
 </details>
 
