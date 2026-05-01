@@ -11,15 +11,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Keep Honking I'm About To Fucking Kill Myself_, by My Wife's An Angel
+- _Deliverance_, by Opeth
+- _Pain to Power_, by Maruja
+- _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _Whatever the Weather II_, by Whatever The Weather
 - _Memorial_, by Russian Circles
-- _Pain to Power_, by Maruja
 - _Geneva_, by Russian Circles
 - _II_, by Paperclip Minimiser
-- _Deliverance_, by Opeth
 - _EVEN COLDER SPRING_, by Cities Aviv
-- _L'inéluctable pulsation du temps_, by Delphine Dora
-- _Kammerkonzert_, by Squarepusher
 
 </details>
 
@@ -37,6 +37,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Pain to Power_, by Maruja
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Themes for Dreams_, by Resavoir
+- _Deliverance_, by Opeth
 - _Revocation (Deluxe Version)_, by Revocation
 
 </details>
