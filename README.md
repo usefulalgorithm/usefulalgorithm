@@ -11,17 +11,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
+- _Keep Honking I'm About To Fucking Kill Myself_, by My Wife's An Angel
+- _UN MUSEMENT ROCK_, by うえじまはると
 - _Seismo_, by upsammy, Valentina Magaletti
 - _Pain to Power_, by Maruja
 - _Station_, by Russian Circles
 - _Whatever the Weather II_, by Whatever The Weather
 - _Deliverance_, by Opeth
-- _Keep Honking I'm About To Fucking Kill Myself_, by My Wife's An Angel
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _Memorial_, by Russian Circles
 - _Geneva_, by Russian Circles
 - _II_, by Paperclip Minimiser
-- _EVEN COLDER SPRING_, by Cities Aviv
 
 </details>
 
@@ -34,9 +35,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _II_, by Paperclip Minimiser
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _Teratogenesis (Deluxe Edition)_, by Revocation
+- _Pain to Power_, by Maruja
 - _Kammerkonzert_, by Squarepusher
 - _Dos Moons (Full Moon)_, by Dos Monos
-- _Pain to Power_, by Maruja
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Deliverance_, by Opeth
 - _Themes for Dreams_, by Resavoir
