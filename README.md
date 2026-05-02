@@ -11,11 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Keep Honking I'm About To Fucking Kill Myself_, by My Wife's An Angel
+- _Seismo_, by upsammy, Valentina Magaletti
+- _Whatever the Weather II_, by Whatever The Weather
 - _Deliverance_, by Opeth
+- _Keep Honking I'm About To Fucking Kill Myself_, by My Wife's An Angel
 - _Pain to Power_, by Maruja
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
-- _Whatever the Weather II_, by Whatever The Weather
 - _Memorial_, by Russian Circles
 - _Geneva_, by Russian Circles
 - _II_, by Paperclip Minimiser
