@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Station_, by Russian Circles
 - _Seismo_, by upsammy, Valentina Magaletti
 - _Whatever the Weather II_, by Whatever The Weather
 - _Deliverance_, by Opeth
