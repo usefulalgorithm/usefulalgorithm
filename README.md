@@ -37,8 +37,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _Pain to Power_, by Maruja
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
-- _Themes for Dreams_, by Resavoir
 - _Deliverance_, by Opeth
+- _Themes for Dreams_, by Resavoir
 - _Revocation (Deluxe Version)_, by Revocation
 
 </details>
