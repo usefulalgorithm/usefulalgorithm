@@ -13,6 +13,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _The Red Album_, by Baroness
+- _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _Keep Honking I'm About To Fucking Kill Myself_, by My Wife's An Angel
 - _UN MUSEMENT ROCK_, by うえじまはると
 - _Seismo_, by upsammy, Valentina Magaletti
@@ -20,7 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Station_, by Russian Circles
 - _Whatever the Weather II_, by Whatever The Weather
 - _Deliverance_, by Opeth
-- _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _Memorial_, by Russian Circles
 - _Geneva_, by Russian Circles
 - _II_, by Paperclip Minimiser
@@ -40,9 +40,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Deliverance_, by Opeth
+- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Themes for Dreams_, by Resavoir
 - _TIGRAY FUNK_, by Sideshow
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
+- _The Red Album_, by Baroness
 
 </details>
 
