@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Red Album_, by Baroness
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Keep Honking I'm About To Fucking Kill Myself_, by My Wife's An Angel
 - _UN MUSEMENT ROCK_, by うえじまはると
