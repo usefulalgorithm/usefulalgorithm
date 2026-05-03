@@ -41,8 +41,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Deliverance_, by Opeth
-- _Themes for Dreams_, by Resavoir
 - _Revocation (Deluxe Version)_, by Revocation
+- _Themes for Dreams_, by Resavoir
+- _TIGRAY FUNK_, by Sideshow
 
 </details>
 
