@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _And Where Is The Heart? I've Searched My Entire Home_, by Fire-Toolz
+- _Peel (Loidis Remix)_, by james K, Loidis
 - _Our Hyper_, by HYPER GAL
 - _Trying Not to Have a Thought_, by Algernon Cadwallader
 - _TIGRAY FUNK_, by Sideshow
