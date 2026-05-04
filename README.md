@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _TIGRAY FUNK_, by Sideshow
+- _Trying Not to Have a Thought_, by Algernon Cadwallader
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
+- _TIGRAY FUNK_, by Sideshow
 - _The Red Album_, by Baroness
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _Keep Honking I'm About To Fucking Kill Myself_, by My Wife's An Angel
@@ -20,8 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Seismo_, by upsammy, Valentina Magaletti
 - _Pain to Power_, by Maruja
 - _Station_, by Russian Circles
-- _Whatever the Weather II_, by Whatever The Weather
-- _Deliverance_, by Opeth
 
 </details>
 
