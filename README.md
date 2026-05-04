@@ -11,16 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Our Hyper_, by HYPER GAL
 - _Trying Not to Have a Thought_, by Algernon Cadwallader
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _TIGRAY FUNK_, by Sideshow
+- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _The Red Album_, by Baroness
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
-- _Keep Honking I'm About To Fucking Kill Myself_, by My Wife's An Angel
-- _UN MUSEMENT ROCK_, by うえじまはると
-- _Seismo_, by upsammy, Valentina Magaletti
-- _Pain to Power_, by Maruja
-- _Station_, by Russian Circles
 
 </details>
 
@@ -35,8 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Pain to Power_, by Maruja
 - _Kammerkonzert_, by Squarepusher
 - _Dos Moons (Full Moon)_, by Dos Monos
-- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _Deliverance_, by Opeth
+- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _TIGRAY FUNK_, by Sideshow
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Themes for Dreams_, by Resavoir
