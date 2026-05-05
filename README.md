@@ -11,17 +11,22 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Pain to Power_, by Maruja
 - _Lateralus_, by TOOL
-- _The Red Album_, by Baroness
+- _Salix_, by Loula Yorke, Charlotte Jolly
+- _My New Band Believe_, by My New Band Believe
+- _Wendy Eisenberg_, by Wendy Eisenberg
+- _Heat of Ritual_, by Mere of Light
 - _idea 1_, by Kelela
+- _Deliverance_, by Opeth
+- _Seismo_, by upsammy, Valentina Magaletti
+- _Pain to Power_, by Maruja
+- _The Red Album_, by Baroness
 - _And Where Is The Heart? I've Searched My Entire Home_, by Fire-Toolz
 - _Peel (Loidis Remix)_, by james K, Loidis
 - _Our Hyper_, by HYPER GAL
 - _Trying Not to Have a Thought_, by Algernon Cadwallader
 - _TIGRAY FUNK_, by Sideshow
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
-- _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 
 </details>
 
@@ -31,17 +36,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _144 Pulsations of Light_, by Ethernet
 - _II_, by Paperclip Minimiser
-- _EVEN COLDER SPRING_, by Cities Aviv
 - _Pain to Power_, by Maruja
+- _EVEN COLDER SPRING_, by Cities Aviv
 - _Kammerkonzert_, by Squarepusher
 - _Dos Moons (Full Moon)_, by Dos Monos
-- _Whatever the Weather II_, by Whatever The Weather
 - _Deliverance_, by Opeth
+- _The Red Album_, by Baroness
+- _Whatever the Weather II_, by Whatever The Weather
 - _TIGRAY FUNK_, by Sideshow
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
-- _Themes for Dreams_, by Resavoir
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
-- _The Red Album_, by Baroness
+- _Lateralus_, by TOOL
 
 </details>
 
