@@ -30,16 +30,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _144 Pulsations of Light_, by Ethernet
 - _II_, by Paperclip Minimiser
-- _Whatever the Weather II_, by Whatever The Weather
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _Pain to Power_, by Maruja
 - _Kammerkonzert_, by Squarepusher
 - _Dos Moons (Full Moon)_, by Dos Monos
+- _Whatever the Weather II_, by Whatever The Weather
 - _Deliverance_, by Opeth
-- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _TIGRAY FUNK_, by Sideshow
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Themes for Dreams_, by Resavoir
+- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 - _The Red Album_, by Baroness
 
 </details>
