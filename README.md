@@ -11,7 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Pain to Power_, by Maruja
 - _Lateralus_, by TOOL
+- _The Red Album_, by Baroness
 - _idea 1_, by Kelela
 - _And Where Is The Heart? I've Searched My Entire Home_, by Fire-Toolz
 - _Peel (Loidis Remix)_, by james K, Loidis
@@ -19,7 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Trying Not to Have a Thought_, by Algernon Cadwallader
 - _TIGRAY FUNK_, by Sideshow
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
-- _The Red Album_, by Baroness
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 
 </details>
