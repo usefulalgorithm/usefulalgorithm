@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Diamond Eyes_, by Deftones
+- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
+- _Cutting the Throat of God_, by Ulcerate
 - _Lateralus_, by TOOL
 - _Salix_, by Loula Yorke, Charlotte Jolly
 - _My New Band Believe_, by My New Band Believe
@@ -26,7 +29,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Our Hyper_, by HYPER GAL
 - _Trying Not to Have a Thought_, by Algernon Cadwallader
 - _TIGRAY FUNK_, by Sideshow
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 
 </details>
 
@@ -43,10 +45,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Deliverance_, by Opeth
 - _The Red Album_, by Baroness
 - _Whatever the Weather II_, by Whatever The Weather
-- _TIGRAY FUNK_, by Sideshow
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
-- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
+- _TIGRAY FUNK_, by Sideshow
 - _Lateralus_, by TOOL
+- _Diamond Eyes_, by Deftones
+- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 
 </details>
 
