@@ -23,7 +23,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _idea 1_, by Kelela
 - _Deliverance_, by Opeth
 - _Pain to Power_, by Maruja
-- _The Red Album_, by Baroness
 
 </details>
 
@@ -37,11 +36,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _Kammerkonzert_, by Squarepusher
 - _Dos Moons (Full Moon)_, by Dos Monos
+- _Diamond Eyes_, by Deftones
 - _Deliverance_, by Opeth
 - _The Red Album_, by Baroness
-- _Whatever the Weather II_, by Whatever The Weather
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
-- _Diamond Eyes_, by Deftones
 - _TIGRAY FUNK_, by Sideshow
 - _Lateralus_, by TOOL
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
