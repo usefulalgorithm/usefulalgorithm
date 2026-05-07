@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Diamond Eyes_, by Deftones
+- _Seismo_, by upsammy, Valentina Magaletti
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Cutting the Throat of God_, by Ulcerate
 - _Lateralus_, by TOOL
@@ -21,14 +22,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Heat of Ritual_, by Mere of Light
 - _idea 1_, by Kelela
 - _Deliverance_, by Opeth
-- _Seismo_, by upsammy, Valentina Magaletti
 - _Pain to Power_, by Maruja
 - _The Red Album_, by Baroness
-- _And Where Is The Heart? I've Searched My Entire Home_, by Fire-Toolz
-- _Peel (Loidis Remix)_, by james K, Loidis
-- _Our Hyper_, by HYPER GAL
-- _Trying Not to Have a Thought_, by Algernon Cadwallader
-- _TIGRAY FUNK_, by Sideshow
 
 </details>
 
@@ -46,9 +41,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Red Album_, by Baroness
 - _Whatever the Weather II_, by Whatever The Weather
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
+- _Diamond Eyes_, by Deftones
 - _TIGRAY FUNK_, by Sideshow
 - _Lateralus_, by TOOL
-- _Diamond Eyes_, by Deftones
 - _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 
 </details>
