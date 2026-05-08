@@ -11,18 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _Diamond Eyes_, by Deftones
 - _Seismo_, by upsammy, Valentina Magaletti
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Cutting the Throat of God_, by Ulcerate
 - _Lateralus_, by TOOL
 - _Salix_, by Loula Yorke, Charlotte Jolly
-- _My New Band Believe_, by My New Band Believe
-- _Wendy Eisenberg_, by Wendy Eisenberg
-- _Heat of Ritual_, by Mere of Light
-- _idea 1_, by Kelela
-- _Deliverance_, by Opeth
-- _Pain to Power_, by Maruja
 
 </details>
 
@@ -34,9 +29,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _II_, by Paperclip Minimiser
 - _Pain to Power_, by Maruja
 - _EVEN COLDER SPRING_, by Cities Aviv
+- _Diamond Eyes_, by Deftones
 - _Kammerkonzert_, by Squarepusher
 - _Dos Moons (Full Moon)_, by Dos Monos
-- _Diamond Eyes_, by Deftones
 - _Deliverance_, by Opeth
 - _The Red Album_, by Baroness
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
