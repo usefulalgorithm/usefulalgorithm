@@ -11,13 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _Diamond Eyes_, by Deftones
+- _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _Seismo_, by upsammy, Valentina Magaletti
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
-- _Cutting the Throat of God_, by Ulcerate
-- _Lateralus_, by TOOL
-- _Salix_, by Loula Yorke, Charlotte Jolly
 
 </details>
 
@@ -25,11 +22,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _L'inéluctable pulsation du temps_, by Delphine Dora
-- _144 Pulsations of Light_, by Ethernet
 - _II_, by Paperclip Minimiser
+- _144 Pulsations of Light_, by Ethernet
+- _Diamond Eyes_, by Deftones
 - _Pain to Power_, by Maruja
 - _EVEN COLDER SPRING_, by Cities Aviv
-- _Diamond Eyes_, by Deftones
 - _Kammerkonzert_, by Squarepusher
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _Deliverance_, by Opeth
