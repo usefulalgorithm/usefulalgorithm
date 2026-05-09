@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _DARKLIGHT_, by Stickerbush, heavensouls
+- _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _Seismo_, by upsammy, Valentina Magaletti
 - _Diamond Eyes_, by Deftones
-- _My Ghosts Go Ghost_, by By Storm, Injury Reserve
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 
 </details>
 
