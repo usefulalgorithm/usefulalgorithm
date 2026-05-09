@@ -23,10 +23,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _II_, by Paperclip Minimiser
-- _144 Pulsations of Light_, by Ethernet
 - _Diamond Eyes_, by Deftones
 - _Pain to Power_, by Maruja
 - _EVEN COLDER SPRING_, by Cities Aviv
+- _144 Pulsations of Light_, by Ethernet
 - _Kammerkonzert_, by Squarepusher
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _Deliverance_, by Opeth
