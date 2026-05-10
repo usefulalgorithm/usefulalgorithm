@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Pink_, by Boris
+- _Party Trick_, by Assembly
 - _DARKLIGHT_, by Stickerbush, heavensouls
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _Seismo_, by upsammy, Valentina Magaletti
@@ -26,15 +28,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Diamond Eyes_, by Deftones
 - _Pain to Power_, by Maruja
 - _EVEN COLDER SPRING_, by Cities Aviv
-- _144 Pulsations of Light_, by Ethernet
 - _Kammerkonzert_, by Squarepusher
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _Deliverance_, by Opeth
+- _144 Pulsations of Light_, by Ethernet
 - _The Red Album_, by Baroness
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _TIGRAY FUNK_, by Sideshow
 - _Lateralus_, by TOOL
-- _Music for Intersecting Planes_, by Kali Malone, Leila Bordreuil
 
 </details>
 
