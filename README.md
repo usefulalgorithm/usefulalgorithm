@@ -11,11 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Seismo_, by upsammy, Valentina Magaletti
+- _Welcome to Sky Valley_, by Kyuss
+- _Amplifier Worship_, by Boris
 - _Pink_, by Boris
 - _Party Trick_, by Assembly
 - _DARKLIGHT_, by Stickerbush, heavensouls
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
-- _Seismo_, by upsammy, Valentina Magaletti
 - _Diamond Eyes_, by Deftones
 
 </details>
@@ -31,11 +33,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Kammerkonzert_, by Squarepusher
 - _Dos Moons (Full Moon)_, by Dos Monos
 - _Deliverance_, by Opeth
-- _144 Pulsations of Light_, by Ethernet
 - _The Red Album_, by Baroness
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _TIGRAY FUNK_, by Sideshow
 - _Lateralus_, by TOOL
+- _144 Pulsations of Light_, by Ethernet
+- _Seismo_, by upsammy, Valentina Magaletti
 
 </details>
 
