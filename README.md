@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Pain to Power_, by Maruja
+- _尋找周杰倫EP_, by Jay Chou
 - _OTONOMA_, by Midori Hirano
 - _葉惠美_, by Jay Chou
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
