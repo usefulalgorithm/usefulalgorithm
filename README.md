@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Eureka 378-B / Brain of the Firm_, by Horse Lords
+- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Party Trick_, by Assembly
 - _Seismo_, by upsammy, Valentina Magaletti
 - _OTONOMA_, by Midori Hirano
@@ -26,11 +28,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Diamond Eyes_, by Deftones
 - _EVEN COLDER SPRING_, by Cities Aviv
-- _Kammerkonzert_, by Squarepusher
 - _Dos Moons (Full Moon)_, by Dos Monos
+- _Kammerkonzert_, by Squarepusher
 - _Deliverance_, by Opeth
-- _The Red Album_, by Baroness
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
+- _The Red Album_, by Baroness
 - _Seismo_, by upsammy, Valentina Magaletti
 - _TIGRAY FUNK_, by Sideshow
 - _Lateralus_, by TOOL
