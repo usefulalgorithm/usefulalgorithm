@@ -14,7 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _OTONOMA_, by Midori Hirano
 - _Seismo_, by upsammy, Valentina Magaletti
 - _Pain to Power_, by Maruja
-- _尋找周杰倫EP_, by Jay Chou
 
 </details>
 
