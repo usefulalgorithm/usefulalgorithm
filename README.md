@@ -11,17 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Seismo_, by upsammy, Valentina Magaletti
 - _Pain to Power_, by Maruja
 - _OTONOMA_, by Midori Hirano
 - _尋找周杰倫EP_, by Jay Chou
 - _葉惠美_, by Jay Chou
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
-- _Seismo_, by upsammy, Valentina Magaletti
-- _Welcome to Sky Valley_, by Kyuss
-- _Amplifier Worship_, by Boris
-- _Pink_, by Boris
-- _Party Trick_, by Assembly
-- _DARKLIGHT_, by Stickerbush, heavensouls
 
 </details>
 
