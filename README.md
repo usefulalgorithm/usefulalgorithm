@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _OTONOMA_, by Midori Hirano
+- _Party Trick_, by Assembly
 - _Seismo_, by upsammy, Valentina Magaletti
+- _OTONOMA_, by Midori Hirano
 - _Pain to Power_, by Maruja
 
 </details>
@@ -21,8 +22,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Pain to Power_, by Maruja
-- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _II_, by Paperclip Minimiser
+- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Diamond Eyes_, by Deftones
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _Kammerkonzert_, by Squarepusher
@@ -30,8 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Deliverance_, by Opeth
 - _The Red Album_, by Baroness
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
-- _TIGRAY FUNK_, by Sideshow
 - _Seismo_, by upsammy, Valentina Magaletti
+- _TIGRAY FUNK_, by Sideshow
 - _Lateralus_, by TOOL
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 
