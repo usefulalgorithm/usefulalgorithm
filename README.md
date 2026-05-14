@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Whatever the Weather II_, by Whatever The Weather
+- _Themes for Dreams_, by Resavoir
 - _Eureka 378-B / Brain of the Firm_, by Horse Lords
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Party Trick_, by Assembly
@@ -29,11 +30,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Diamond Eyes_, by Deftones
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _Dos Moons (Full Moon)_, by Dos Monos
-- _Kammerkonzert_, by Squarepusher
 - _Deliverance_, by Opeth
+- _Kammerkonzert_, by Squarepusher
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
-- _The Red Album_, by Baroness
 - _Seismo_, by upsammy, Valentina Magaletti
+- _The Red Album_, by Baroness
 - _TIGRAY FUNK_, by Sideshow
 - _Lateralus_, by TOOL
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
