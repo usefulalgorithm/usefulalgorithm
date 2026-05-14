@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Whatever the Weather II_, by Whatever The Weather
 - _Eureka 378-B / Brain of the Firm_, by Horse Lords
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Party Trick_, by Assembly
 - _Seismo_, by upsammy, Valentina Magaletti
 - _OTONOMA_, by Midori Hirano
-- _Pain to Power_, by Maruja
 
 </details>
 
