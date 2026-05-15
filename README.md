@@ -11,12 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
+- _Lateralus_, by TOOL
 - _LXVE 業放草 [[DELUXE EDITION] (Remaster)]_, by Jinmenusagi
 - _Whatever the Weather II_, by Whatever The Weather
 - _Themes for Dreams_, by Resavoir
 - _Eureka 378-B / Brain of the Firm_, by Horse Lords
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
-- _Party Trick_, by Assembly
 
 </details>
 
@@ -32,10 +33,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Deliverance_, by Opeth
 - _Kammerkonzert_, by Squarepusher
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
+- _Lateralus_, by TOOL
 - _Seismo_, by upsammy, Valentina Magaletti
 - _The Red Album_, by Baroness
 - _TIGRAY FUNK_, by Sideshow
-- _Lateralus_, by TOOL
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 
 </details>
