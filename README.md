@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Damnation_, by Opeth
+- _+3_, by Samba Jean-Baptiste
 - _Themes for Dreams_, by Resavoir
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Seismo_, by upsammy, Valentina Magaletti
