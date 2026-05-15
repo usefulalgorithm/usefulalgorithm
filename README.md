@@ -11,13 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Themes for Dreams_, by Resavoir
+- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
+- _Seismo_, by upsammy, Valentina Magaletti
+- _Larderello_, by Dos Monos
+- _LXVE 業放草 [[DELUXE EDITION] (Remaster)]_, by Jinmenusagi
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Lateralus_, by TOOL
-- _LXVE 業放草 [[DELUXE EDITION] (Remaster)]_, by Jinmenusagi
-- _Whatever the Weather II_, by Whatever The Weather
-- _Themes for Dreams_, by Resavoir
-- _Eureka 378-B / Brain of the Firm_, by Horse Lords
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 
 </details>
 
@@ -29,14 +29,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Diamond Eyes_, by Deftones
 - _EVEN COLDER SPRING_, by Cities Aviv
-- _Dos Moons (Full Moon)_, by Dos Monos
 - _Deliverance_, by Opeth
 - _Kammerkonzert_, by Squarepusher
+- _Seismo_, by upsammy, Valentina Magaletti
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Lateralus_, by TOOL
-- _Seismo_, by upsammy, Valentina Magaletti
 - _The Red Album_, by Baroness
 - _TIGRAY FUNK_, by Sideshow
+- _Themes for Dreams_, by Resavoir
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 
 </details>
