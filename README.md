@@ -30,11 +30,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Diamond Eyes_, by Deftones
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _Deliverance_, by Opeth
+- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Kammerkonzert_, by Squarepusher
 - _Seismo_, by upsammy, Valentina Magaletti
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
-- _Lateralus_, by TOOL
 - _Themes for Dreams_, by Resavoir
+- _Lateralus_, by TOOL
 - _The Red Album_, by Baroness
 - _TIGRAY FUNK_, by Sideshow
 - _OTONOMA_, by Midori Hirano
