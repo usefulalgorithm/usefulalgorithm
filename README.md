@@ -11,15 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Themes for Dreams_, by Resavoir
+- _OTONOMA_, by Midori Hirano
+- _Whatever the Weather II_, by Whatever The Weather
+- _Deliverance_, by Opeth
 - _Damnation_, by Opeth
 - _+3_, by Samba Jean-Baptiste
-- _Themes for Dreams_, by Resavoir
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Seismo_, by upsammy, Valentina Magaletti
-- _Larderello_, by Dos Monos
-- _LXVE 業放草 [[DELUXE EDITION] (Remaster)]_, by Jinmenusagi
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
-- _Lateralus_, by TOOL
 
 </details>
 
@@ -38,6 +37,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Lateralus_, by TOOL
 - _The Red Album_, by Baroness
 - _TIGRAY FUNK_, by Sideshow
+- _OTONOMA_, by Midori Hirano
+- _Whatever the Weather II_, by Whatever The Weather
 - _Themes for Dreams_, by Resavoir
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 
