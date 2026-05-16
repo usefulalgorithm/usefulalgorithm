@@ -36,10 +36,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Lateralus_, by TOOL
 - _The Red Album_, by Baroness
+- _Themes for Dreams_, by Resavoir
 - _TIGRAY FUNK_, by Sideshow
 - _OTONOMA_, by Midori Hirano
 - _Whatever the Weather II_, by Whatever The Weather
-- _Themes for Dreams_, by Resavoir
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 
 </details>
