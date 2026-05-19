@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Themes for Dreams_, by Resavoir
 - _EVEN COLDER SPRING_, by Cities Aviv
-- _Deliverance_, by Opeth
 
 </details>
 
@@ -24,9 +23,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _II_, by Paperclip Minimiser
 - _L'inéluctable pulsation du temps_, by Delphine Dora
+- _Themes for Dreams_, by Resavoir
 - _Diamond Eyes_, by Deftones
 - _Deliverance_, by Opeth
-- _Themes for Dreams_, by Resavoir
 - _Seismo_, by upsammy, Valentina Magaletti
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Lateralus_, by TOOL
