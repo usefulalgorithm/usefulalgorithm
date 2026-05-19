@@ -11,21 +11,20 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Themes for Dreams_, by Resavoir
 - _Whatever the Weather II_, by Whatever The Weather
 - _OTONOMA_, by Midori Hirano
-- _Themes for Dreams_, by Resavoir
-- _EVEN COLDER SPRING_, by Cities Aviv
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Pain to Power_, by Maruja
 - _EVEN COLDER SPRING_, by Cities Aviv
+- _Pain to Power_, by Maruja
 - _II_, by Paperclip Minimiser
-- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Themes for Dreams_, by Resavoir
+- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Diamond Eyes_, by Deftones
 - _Deliverance_, by Opeth
 - _Seismo_, by upsammy, Valentina Magaletti
