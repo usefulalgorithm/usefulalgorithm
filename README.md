@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _595_, by Karate
 - _Themes for Dreams_, by Resavoir
 - _Whatever the Weather II_, by Whatever The Weather
 - _OTONOMA_, by Midori Hirano
