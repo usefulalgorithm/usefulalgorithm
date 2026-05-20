@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _All Worlds_, by Lust For Youth, Croatian Amor
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
-- _EVEN COLDER SPRING_, by Cities Aviv
+- _595_, by Karate
 
 </details>
 
@@ -22,9 +22,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _II_, by Paperclip Minimiser
-- _Pain to Power_, by Maruja
 - _Themes for Dreams_, by Resavoir
 - _L'inéluctable pulsation du temps_, by Delphine Dora
+- _Pain to Power_, by Maruja
 - _Diamond Eyes_, by Deftones
 - _Deliverance_, by Opeth
 - _Seismo_, by upsammy, Valentina Magaletti
@@ -35,6 +35,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The Red Album_, by Baroness
 - _Whatever the Weather II_, by Whatever The Weather
 - _TIGRAY FUNK_, by Sideshow
+- _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 
 </details>
 
