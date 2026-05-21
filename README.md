@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Warm Shadows_, by Memotone
+- _EVEN COLDER SPRING_, by Cities Aviv
+- _10,000 Days_, by TOOL
 - _595_, by Karate
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _Damnation_, by Opeth
@@ -23,13 +26,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _Themes for Dreams_, by Resavoir
-- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Diamond Eyes_, by Deftones
 - _Deliverance_, by Opeth
+- _L'inéluctable pulsation du temps_, by Delphine Dora
 - _II_, by Paperclip Minimiser
 - _Pain to Power_, by Maruja
-- _Seismo_, by upsammy, Valentina Magaletti
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
+- _Seismo_, by upsammy, Valentina Magaletti
 - _Lateralus_, by TOOL
 - _OTONOMA_, by Midori Hirano
 - _Kammerkonzert_, by Squarepusher
