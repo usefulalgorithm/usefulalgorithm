@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _595_, by Karate
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _Damnation_, by Opeth
 - _All Worlds_, by Lust For Youth, Croatian Amor
-- _595_, by Karate
 
 </details>
 
@@ -22,11 +22,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _EVEN COLDER SPRING_, by Cities Aviv
-- _II_, by Paperclip Minimiser
 - _Themes for Dreams_, by Resavoir
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _Diamond Eyes_, by Deftones
 - _Deliverance_, by Opeth
+- _II_, by Paperclip Minimiser
 - _Pain to Power_, by Maruja
 - _Seismo_, by upsammy, Valentina Magaletti
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
