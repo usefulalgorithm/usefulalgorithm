@@ -11,10 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Vooid (2025)_, by VOOID
+- _rain music_, by Duval Timothy, Carlos Niño
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
-- _Warm Shadows_, by Memotone
-- _Themes for Dreams_, by Resavoir
+- _Vooid (2025)_, by VOOID
 
 </details>
 
@@ -29,13 +28,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Seismo_, by upsammy, Valentina Magaletti
 - _Pain to Power_, by Maruja
 - _L'inéluctable pulsation du temps_, by Delphine Dora
-- _II_, by Paperclip Minimiser
 - _Lateralus_, by TOOL
 - _OTONOMA_, by Midori Hirano
 - _Kammerkonzert_, by Squarepusher
 - _The Red Album_, by Baroness
 - _Whatever the Weather II_, by Whatever The Weather
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
+- _II_, by Paperclip Minimiser
 - _TIGRAY FUNK_, by Sideshow
 - _Damnation_, by Opeth
 - _All Worlds_, by Lust For Youth, Croatian Amor
