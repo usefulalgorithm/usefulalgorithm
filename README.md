@@ -11,16 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _EXPERIMENTAL RAP_, by JPEGMAFIA
+- _Warm Shadows_, by Memotone
 - _Themes for Dreams_, by Resavoir
 - _Vooid (2025)_, by VOOID
 - _Infant_, by John T. Gast
-- _Warm Shadows_, by Memotone
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _10,000 Days_, by TOOL
 - _595_, by Karate
-- _My Ghosts Go Ghost_, by By Storm, Injury Reserve
-- _Damnation_, by Opeth
-- _All Worlds_, by Lust For Youth, Croatian Amor
 
 </details>
 
