@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Themes for Dreams_, by Resavoir
+- _Vooid (2025)_, by VOOID
+- _Infant_, by John T. Gast
 - _Warm Shadows_, by Memotone
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _10,000 Days_, by TOOL
@@ -29,10 +32,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Diamond Eyes_, by Deftones
 - _Deliverance_, by Opeth
 - _L'inéluctable pulsation du temps_, by Delphine Dora
-- _II_, by Paperclip Minimiser
-- _Pain to Power_, by Maruja
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Seismo_, by upsammy, Valentina Magaletti
+- _II_, by Paperclip Minimiser
+- _Pain to Power_, by Maruja
 - _Lateralus_, by TOOL
 - _OTONOMA_, by Midori Hirano
 - _Kammerkonzert_, by Squarepusher
@@ -41,6 +44,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _TIGRAY FUNK_, by Sideshow
 - _Damnation_, by Opeth
+- _All Worlds_, by Lust For Youth, Croatian Amor
 
 </details>
 
