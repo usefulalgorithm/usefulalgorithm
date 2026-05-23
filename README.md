@@ -11,6 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _All Worlds_, by Lust For Youth, Croatian Amor
+- _Blue Flame_, by Croatian Amor
+- _All Worlds (Deluxe)_, by Lust For Youth, Croatian Amor
+- _Now You Exist_, by The Field
 - _rain music_, by Duval Timothy, Carlos Niño
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _Vooid (2025)_, by VOOID
@@ -35,9 +39,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Whatever the Weather II_, by Whatever The Weather
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _II_, by Paperclip Minimiser
+- _All Worlds_, by Lust For Youth, Croatian Amor
 - _TIGRAY FUNK_, by Sideshow
 - _Damnation_, by Opeth
-- _All Worlds_, by Lust For Youth, Croatian Amor
 
 </details>
 
