@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _595_, by Karate
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _Blue Flame_, by Croatian Amor
 - _All Worlds (Deluxe)_, by Lust For Youth, Croatian Amor
@@ -32,15 +33,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Seismo_, by upsammy, Valentina Magaletti
 - _Pain to Power_, by Maruja
 - _L'inéluctable pulsation du temps_, by Delphine Dora
+- _All Worlds_, by Lust For Youth, Croatian Amor
 - _Lateralus_, by TOOL
 - _OTONOMA_, by Midori Hirano
 - _Kammerkonzert_, by Squarepusher
 - _The Red Album_, by Baroness
 - _Whatever the Weather II_, by Whatever The Weather
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
-- _II_, by Paperclip Minimiser
-- _All Worlds_, by Lust For Youth, Croatian Amor
 - _TIGRAY FUNK_, by Sideshow
+- _595_, by Karate
 - _Damnation_, by Opeth
 
 </details>
