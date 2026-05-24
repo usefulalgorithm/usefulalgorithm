@@ -11,13 +11,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
+- _冀西南林路行_, by 万能青年旅店
 - _Vooid (2025)_, by VOOID
+- _595_, by Karate
+- _Teratogenesis (Deluxe Edition)_, by Revocation
+- _Revocation (Deluxe Version)_, by Revocation
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Warm Shadows_, by Memotone
-- _595_, by Karate
-- _All Worlds_, by Lust For Youth, Croatian Amor
 
 </details>
 
@@ -32,6 +34,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Seismo_, by upsammy, Valentina Magaletti
 - _Pain to Power_, by Maruja
 - _L'inéluctable pulsation du temps_, by Delphine Dora
+- _595_, by Karate
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _Lateralus_, by TOOL
@@ -41,7 +44,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Whatever the Weather II_, by Whatever The Weather
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _TIGRAY FUNK_, by Sideshow
-- _595_, by Karate
 - _Damnation_, by Opeth
 
 </details>
