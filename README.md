@@ -11,14 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
+- _Vooid (2025)_, by VOOID
+- _EXPERIMENTAL RAP_, by JPEGMAFIA
+- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
+- _Warm Shadows_, by Memotone
 - _595_, by Karate
 - _All Worlds_, by Lust For Youth, Croatian Amor
-- _Blue Flame_, by Croatian Amor
-- _All Worlds (Deluxe)_, by Lust For Youth, Croatian Amor
-- _Now You Exist_, by The Field
-- _rain music_, by Duval Timothy, Carlos Niño
-- _EXPERIMENTAL RAP_, by JPEGMAFIA
-- _Vooid (2025)_, by VOOID
 
 </details>
 
@@ -34,6 +33,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Pain to Power_, by Maruja
 - _L'inéluctable pulsation du temps_, by Delphine Dora
 - _All Worlds_, by Lust For Youth, Croatian Amor
+- _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _Lateralus_, by TOOL
 - _OTONOMA_, by Midori Hirano
 - _Kammerkonzert_, by Squarepusher
