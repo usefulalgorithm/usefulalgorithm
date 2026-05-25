@@ -11,16 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _EXPERIMENTAL RAP_, by JPEGMAFIA
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _the beatniks couldn't save the world_, by i.o
+- _Warm Shadows_, by Memotone
+- _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _595_, by Karate
 - _冀西南林路行_, by 万能青年旅店
 - _Vooid (2025)_, by VOOID
-- _Teratogenesis (Deluxe Edition)_, by Revocation
-- _Revocation (Deluxe Version)_, by Revocation
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
-- _Warm Shadows_, by Memotone
 
 </details>
 
@@ -39,12 +36,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _Lateralus_, by TOOL
 - _OTONOMA_, by Midori Hirano
-- _Kammerkonzert_, by Squarepusher
 - _The Red Album_, by Baroness
 - _Whatever the Weather II_, by Whatever The Weather
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
-- _L'inéluctable pulsation du temps_, by Delphine Dora
+- _Warm Shadows_, by Memotone
 - _Damnation_, by Opeth
+- _Kammerkonzert_, by Squarepusher
 
 </details>
 
