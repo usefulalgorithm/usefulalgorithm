@@ -30,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Deliverance_, by Opeth
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Seismo_, by upsammy, Valentina Magaletti
-- _Pain to Power_, by Maruja
 - _595_, by Karate
+- _Pain to Power_, by Maruja
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _Lateralus_, by TOOL
