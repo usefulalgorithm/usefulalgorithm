@@ -11,13 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
-- _the beatniks couldn't save the world_, by i.o
 - _Warm Shadows_, by Memotone
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
-- _595_, by Karate
-- _冀西南林路行_, by 万能青年旅店
-- _Vooid (2025)_, by VOOID
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
+- _the beatniks couldn't save the world_, by i.o
 
 </details>
 
@@ -32,14 +29,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Seismo_, by upsammy, Valentina Magaletti
 - _595_, by Karate
 - _Pain to Power_, by Maruja
+- _Warm Shadows_, by Memotone
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _Lateralus_, by TOOL
 - _OTONOMA_, by Midori Hirano
 - _The Red Album_, by Baroness
-- _Whatever the Weather II_, by Whatever The Weather
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
-- _Warm Shadows_, by Memotone
+- _Whatever the Weather II_, by Whatever The Weather
 - _Damnation_, by Opeth
 - _Kammerkonzert_, by Squarepusher
 
