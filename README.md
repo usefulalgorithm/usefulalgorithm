@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Warm Shadows_, by Memotone
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _the beatniks couldn't save the world_, by i.o
 
 </details>
@@ -21,8 +21,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _EVEN COLDER SPRING_, by Cities Aviv
 - _Themes for Dreams_, by Resavoir
+- _EVEN COLDER SPRING_, by Cities Aviv
 - _Diamond Eyes_, by Deftones
 - _Deliverance_, by Opeth
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
@@ -38,7 +38,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _Whatever the Weather II_, by Whatever The Weather
 - _Damnation_, by Opeth
-- _Kammerkonzert_, by Squarepusher
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
 
 </details>
 
