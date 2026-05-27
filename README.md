@@ -11,10 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Warm Shadows_, by Memotone
-- _EXPERIMENTAL RAP_, by JPEGMAFIA
-- _the beatniks couldn't save the world_, by i.o
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
 
 </details>
 
@@ -25,12 +23,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Diamond Eyes_, by Deftones
 - _Deliverance_, by Opeth
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
-- _EVEN COLDER SPRING_, by Cities Aviv
+- _Warm Shadows_, by Memotone
 - _Seismo_, by upsammy, Valentina Magaletti
+- _EVEN COLDER SPRING_, by Cities Aviv
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _595_, by Karate
 - _Pain to Power_, by Maruja
-- _Warm Shadows_, by Memotone
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _Lateralus_, by TOOL
@@ -39,6 +37,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _Whatever the Weather II_, by Whatever The Weather
 - _Damnation_, by Opeth
+- _Vooid (2025)_, by VOOID
 
 </details>
 
