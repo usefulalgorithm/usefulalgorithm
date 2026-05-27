@@ -22,9 +22,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Themes for Dreams_, by Resavoir
-- _EVEN COLDER SPRING_, by Cities Aviv
 - _Diamond Eyes_, by Deftones
 - _Deliverance_, by Opeth
+- _EVEN COLDER SPRING_, by Cities Aviv
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Seismo_, by upsammy, Valentina Magaletti
 - _595_, by Karate
@@ -34,11 +34,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _Lateralus_, by TOOL
 - _OTONOMA_, by Midori Hirano
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _The Red Album_, by Baroness
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _Whatever the Weather II_, by Whatever The Weather
 - _Damnation_, by Opeth
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
+- _Kammerkonzert_, by Squarepusher
 
 </details>
 
