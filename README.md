@@ -11,8 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Warm Shadows_, by Memotone
+- _No You_, by No You, Davy Kehoe, Suzanne Kraft
+- _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
+- _Warm Shadows_, by Memotone
 
 </details>
 
