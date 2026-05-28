@@ -11,10 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
+- _Themes for Dreams_, by Resavoir
 - _No You_, by No You, Davy Kehoe, Suzanne Kraft
+- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
-- _Warm Shadows_, by Memotone
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
 
 </details>
 
@@ -24,12 +25,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Themes for Dreams_, by Resavoir
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Diamond Eyes_, by Deftones
-- _Deliverance_, by Opeth
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
+- _Deliverance_, by Opeth
 - _Warm Shadows_, by Memotone
 - _Seismo_, by upsammy, Valentina Magaletti
 - _595_, by Karate
-- _EVEN COLDER SPRING_, by Cities Aviv
 - _Pain to Power_, by Maruja
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
@@ -39,6 +39,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _Whatever the Weather II_, by Whatever The Weather
 - _Damnation_, by Opeth
+- _EVEN COLDER SPRING_, by Cities Aviv
 - _Vooid (2025)_, by VOOID
 
 </details>
