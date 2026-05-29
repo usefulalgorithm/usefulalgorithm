@@ -30,17 +30,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Warm Shadows_, by Memotone
 - _Seismo_, by upsammy, Valentina Magaletti
 - _595_, by Karate
-- _Deliverance_, by Opeth
-- _Pain to Power_, by Maruja
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _Lateralus_, by TOOL
 - _OTONOMA_, by Midori Hirano
 - _The Red Album_, by Baroness
+- _Deliverance_, by Opeth
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _Whatever the Weather II_, by Whatever The Weather
 - _Damnation_, by Opeth
 - _EVEN COLDER SPRING_, by Cities Aviv
+- _Pain to Power_, by Maruja
 - _Vooid (2025)_, by VOOID
 
 </details>
