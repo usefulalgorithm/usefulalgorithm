@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Not All Who Wander Are Lost_, by shinetiac
 - _Themes for Dreams_, by Resavoir
@@ -35,13 +36,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Lateralus_, by TOOL
 - _OTONOMA_, by Midori Hirano
 - _The Red Album_, by Baroness
-- _Deliverance_, by Opeth
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
-- _Whatever the Weather II_, by Whatever The Weather
+- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Damnation_, by Opeth
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _Pain to Power_, by Maruja
 - _Vooid (2025)_, by VOOID
+- _Whatever the Weather II_, by Whatever The Weather
 
 </details>
 
