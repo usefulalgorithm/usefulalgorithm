@@ -11,13 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Moon Pix_, by Cat Power
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Not All Who Wander Are Lost_, by shinetiac
 - _Themes for Dreams_, by Resavoir
 - _No You_, by No You, Davy Kehoe, Suzanne Kraft
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
-- _EXPERIMENTAL RAP_, by JPEGMAFIA
 
 </details>
 
