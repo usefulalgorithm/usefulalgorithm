@@ -29,8 +29,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Diamond Eyes_, by Deftones
 - _Warm Shadows_, by Memotone
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Seismo_, by upsammy, Valentina Magaletti
+- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _595_, by Karate
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
