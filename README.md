@@ -11,13 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Warm Shadows_, by Memotone
+- _Infant_, by John T. Gast
+- _Picture Music_, by Picture Music
 - _Moon Pix_, by Cat Power
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Not All Who Wander Are Lost_, by shinetiac
 - _Themes for Dreams_, by Resavoir
-- _No You_, by No You, Davy Kehoe, Suzanne Kraft
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 
 </details>
 
@@ -27,22 +28,21 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Themes for Dreams_, by Resavoir
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Diamond Eyes_, by Deftones
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Warm Shadows_, by Memotone
+- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Seismo_, by upsammy, Valentina Magaletti
 - _595_, by Karate
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _Lateralus_, by TOOL
 - _OTONOMA_, by Midori Hirano
-- _The Red Album_, by Baroness
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Damnation_, by Opeth
 - _EVEN COLDER SPRING_, by Cities Aviv
-- _Pain to Power_, by Maruja
 - _Vooid (2025)_, by VOOID
 - _Whatever the Weather II_, by Whatever The Weather
+- _Pain to Power_, by Maruja
 - _Moon Pix_, by Cat Power
 
 </details>
