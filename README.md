@@ -54,6 +54,7 @@ Gotta finish 25 books before 2027-01-01. I've read 7 so far.
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
 
+- _Tlooth_, by Harry Mathews ([link](https://hardcover.app/books/tlooth))
 - _The Absence of Myth: Writings on Surrealism_, by Georges Bataille, Michael   Richardson ([link](https://hardcover.app/books/the-absence-of-myth-writings-on-surrealism))
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
