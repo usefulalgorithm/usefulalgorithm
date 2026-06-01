@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Not All Who Wander Are Lost_, by shinetiac
 - _rain music_, by Duval Timothy, Carlos Niño
 - _Warm Shadows_, by Memotone
 - _Infant_, by John T. Gast
 - _Picture Music_, by Picture Music
 - _Moon Pix_, by Cat Power
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
 
 </details>
 
