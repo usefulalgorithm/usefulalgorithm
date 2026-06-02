@@ -35,10 +35,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Damnation_, by Opeth
 - _EVEN COLDER SPRING_, by Cities Aviv
-- _Lateralus_, by TOOL
 - _Vooid (2025)_, by VOOID
 - _Whatever the Weather II_, by Whatever The Weather
-- _Pain to Power_, by Maruja
 - _Moon Pix_, by Cat Power
 
 </details>
