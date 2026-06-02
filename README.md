@@ -11,20 +11,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Not All Who Wander Are Lost_, by shinetiac
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _rain music_, by Duval Timothy, Carlos Niño
-- _Warm Shadows_, by Memotone
-- _Infant_, by John T. Gast
-- _Picture Music_, by Picture Music
-- _Moon Pix_, by Cat Power
+- _Viper_, by Martyn
+- _Not All Who Wander Are Lost_, by shinetiac
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Themes for Dreams_, by Resavoir
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
+- _Themes for Dreams_, by Resavoir
 - _Diamond Eyes_, by Deftones
 - _Warm Shadows_, by Memotone
 - _Seismo_, by upsammy, Valentina Magaletti
@@ -32,12 +30,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _595_, by Karate
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
-- _Lateralus_, by TOOL
 - _OTONOMA_, by Midori Hirano
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Damnation_, by Opeth
 - _EVEN COLDER SPRING_, by Cities Aviv
+- _Lateralus_, by TOOL
 - _Vooid (2025)_, by VOOID
 - _Whatever the Weather II_, by Whatever The Weather
 - _Pain to Power_, by Maruja
