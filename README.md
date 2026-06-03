@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _meet the grahams_, by Kendrick Lamar
