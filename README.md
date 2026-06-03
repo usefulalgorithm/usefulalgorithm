@@ -11,11 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
+- _rain music_, by Duval Timothy, Carlos Niño
+- _Sceaduhelm_, by Crippled Black Phoenix
+- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _meet the grahams_, by Kendrick Lamar
-- _rain music_, by Duval Timothy, Carlos Niño
 
 </details>
 
@@ -37,6 +38,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Damnation_, by Opeth
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _Vooid (2025)_, by VOOID
+- _rain music_, by Duval Timothy, Carlos Niño
 - _Whatever the Weather II_, by Whatever The Weather
 - _Moon Pix_, by Cat Power
 
