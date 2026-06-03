@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
+- _meet the grahams_, by Kendrick Lamar
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _rain music_, by Duval Timothy, Carlos Niño
 - _Viper_, by Martyn
@@ -23,16 +25,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Themes for Dreams_, by Resavoir
-- _Diamond Eyes_, by Deftones
 - _Warm Shadows_, by Memotone
 - _Seismo_, by upsammy, Valentina Magaletti
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _595_, by Karate
+- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
+- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
+- _Diamond Eyes_, by Deftones
 - _OTONOMA_, by Midori Hirano
 - _My Ghosts Go Ghost_, by By Storm, Injury Reserve
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Damnation_, by Opeth
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _Vooid (2025)_, by VOOID
