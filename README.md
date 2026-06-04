@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Piñata (Deluxe Edition)_, by Freddie Gibbs, Madlib
-- _rain music_, by Duval Timothy, Carlos Niño
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _Piñata (Deluxe Edition)_, by Freddie Gibbs, Madlib
+- _rain music_, by Duval Timothy, Carlos Niño
 - _MUTT (REMIX)_, by Leon Thomas, Freddie Gibbs
 - _Flight Risqué_, by Jenevieve, Freddie Gibbs, SALIMATA
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
