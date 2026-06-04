@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _rain music_, by Duval Timothy, Carlos Niño
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
+- _rain music_, by Duval Timothy, Carlos Niño
 - _Sceaduhelm_, by Crippled Black Phoenix
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
