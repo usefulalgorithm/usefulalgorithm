@@ -11,13 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Inferno_, by Boards of Canada
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Liquid Swords_, by GZA
 - _Aquemini_, by Outkast
 - _You Only Die 1nce (Deluxe)_, by Freddie Gibbs
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _rain music_, by Duval Timothy, Carlos Niño
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 
 </details>
 
