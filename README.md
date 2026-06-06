@@ -11,13 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _rain music_, by Duval Timothy, Carlos Niño
 - _Inferno_, by Boards of Canada
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Liquid Swords_, by GZA
 - _Aquemini_, by Outkast
 - _You Only Die 1nce (Deluxe)_, by Freddie Gibbs
 - _EVEN COLDER SPRING_, by Cities Aviv
-- _rain music_, by Duval Timothy, Carlos Niño
 
 </details>
 
@@ -29,17 +29,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Warm Shadows_, by Memotone
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _595_, by Karate
+- _rain music_, by Duval Timothy, Carlos Niño
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
-- _rain music_, by Duval Timothy, Carlos Niño
-- _Seismo_, by upsammy, Valentina Magaletti
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _OTONOMA_, by Midori Hirano
+- _Seismo_, by upsammy, Valentina Magaletti
 - _Damnation_, by Opeth
 - _Vooid (2025)_, by VOOID
-- _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _My Ghosts Go Ghost_, by By Storm, Injury Reserve
 - _Whatever the Weather II_, by Whatever The Weather
 - _Moon Pix_, by Cat Power
 
