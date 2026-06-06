@@ -11,14 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _You Can't Kill God With Bullets_, by Conway the Machine
-- _Inferno_, by Boards of Canada
 - _rain music_, by Duval Timothy, Carlos Niño
+- _You Can't Kill God With Bullets_, by Conway the Machine
+- _Flight Risqué_, by Jenevieve, Freddie Gibbs, SALIMATA
+- _Inferno_, by Boards of Canada
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Liquid Swords_, by GZA
 - _Aquemini_, by Outkast
-- _You Only Die 1nce (Deluxe)_, by Freddie Gibbs
-- _EVEN COLDER SPRING_, by Cities Aviv
 
 </details>
 
