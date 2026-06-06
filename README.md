@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _rain music_, by Duval Timothy, Carlos Niño
 - _You Can't Kill God With Bullets_, by Conway the Machine
+- _Preludes #1_, by Garland
+- _rain music_, by Duval Timothy, Carlos Niño
+- _You Only Die 1nce (Deluxe)_, by Freddie Gibbs
 - _Flight Risqué_, by Jenevieve, Freddie Gibbs, SALIMATA
 - _Inferno_, by Boards of Canada
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
-- _Liquid Swords_, by GZA
-- _Aquemini_, by Outkast
 
 </details>
 
@@ -27,8 +26,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Themes for Dreams_, by Resavoir
 - _Warm Shadows_, by Memotone
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _rain music_, by Duval Timothy, Carlos Niño
+- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _595_, by Karate
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
