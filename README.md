@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Whatever the Weather II_, by Whatever The Weather
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _Preludes #1_, by Garland
 - _rain music_, by Duval Timothy, Carlos Niño
 - _You Only Die 1nce (Deluxe)_, by Freddie Gibbs
-- _Flight Risqué_, by Jenevieve, Freddie Gibbs, SALIMATA
-- _Inferno_, by Boards of Canada
 
 </details>
 
@@ -34,12 +33,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _OTONOMA_, by Midori Hirano
+- _Whatever the Weather II_, by Whatever The Weather
 - _Seismo_, by upsammy, Valentina Magaletti
 - _Damnation_, by Opeth
 - _Vooid (2025)_, by VOOID
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _My Ghosts Go Ghost_, by By Storm, Injury Reserve
-- _Whatever the Weather II_, by Whatever The Weather
 - _Moon Pix_, by Cat Power
 
 </details>
