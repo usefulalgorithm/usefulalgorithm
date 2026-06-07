@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Whatever the Weather II_, by Whatever The Weather
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _Preludes #1_, by Garland
@@ -29,11 +30,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _595_, by Karate
 - _All Worlds_, by Lust For Youth, Croatian Amor
+- _Whatever the Weather II_, by Whatever The Weather
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _OTONOMA_, by Midori Hirano
-- _Whatever the Weather II_, by Whatever The Weather
 - _Seismo_, by upsammy, Valentina Magaletti
 - _Damnation_, by Opeth
 - _Vooid (2025)_, by VOOID
