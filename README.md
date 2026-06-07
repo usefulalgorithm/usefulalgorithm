@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Whatever the Weather II_, by Whatever The Weather
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _Preludes #1_, by Garland
-- _rain music_, by Duval Timothy, Carlos Niño
-- _You Only Die 1nce (Deluxe)_, by Freddie Gibbs
 
 </details>
 
