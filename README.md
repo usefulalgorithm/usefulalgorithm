@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Infant_, by John T. Gast
 - _Inferno_, by Boards of Canada
 - _Full Serpent_, by Dialect
 
@@ -35,7 +36,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Vooid (2025)_, by VOOID
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Ev'ry Portal Past_, by Dialect
-- _Seismo_, by upsammy, Valentina Magaletti
 - _Moon Pix_, by Cat Power
 
 </details>
