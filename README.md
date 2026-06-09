@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _No You_, by No You, Davy Kehoe, Suzanne Kraft
 - _rain music_, by Duval Timothy, Carlos Niño
 - _Full Serpent_, by Dialect
 - _Body of Work_, by Edward Skeletrix
@@ -43,14 +44,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _Anarchy and Insurrection_, by Alfredo M. Bonanno ([link](https://hardcover.app/books/anarchy-and-insurrection)). It's a good book.
+Just finished reading _Tlooth_, by Harry Mathews ([link](https://hardcover.app/books/tlooth)). It's just meh.
 
-Gotta finish 25 books before 2027-01-01. I've read 7 so far.
+Gotta finish 25 books before 2027-01-01. I've read 8 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
 
-- _Tlooth_, by Harry Mathews ([link](https://hardcover.app/books/tlooth))
 - _The Absence of Myth: Writings on Surrealism_, by Georges Bataille, Michael   Richardson ([link](https://hardcover.app/books/the-absence-of-myth-writings-on-surrealism))
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
