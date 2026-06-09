@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Inferno_, by Boards of Canada
 - _Infant_, by John T. Gast
-- _Full Serpent_, by Dialect
 
 </details>
 
