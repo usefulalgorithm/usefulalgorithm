@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _rain music_, by Duval Timothy, Carlos Niño
 - _No You_, by No You, Davy Kehoe, Suzanne Kraft
 - _FLYGOD_, by Westside Gunn
-- _rain music_, by Duval Timothy, Carlos Niño
 - _Full Serpent_, by Dialect
 - _Body of Work_, by Edward Skeletrix
 
@@ -24,8 +24,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Themes for Dreams_, by Resavoir
-- _Warm Shadows_, by Memotone
 - _rain music_, by Duval Timothy, Carlos Niño
+- _Warm Shadows_, by Memotone
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _595_, by Karate
 - _All Worlds_, by Lust For Youth, Croatian Amor
@@ -39,7 +39,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Full Serpent_, by Dialect
 - _Earth Angels of the Bone Age_, by Dialect
-- _Moon Pix_, by Cat Power
 
 </details>
 
