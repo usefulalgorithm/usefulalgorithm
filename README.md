@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Reject 2_, by Conway the Machine
 - _rain music_, by Duval Timothy, Carlos Niño
+- _Body of Work_, by Edward Skeletrix
 - _No You_, by No You, Davy Kehoe, Suzanne Kraft
 - _FLYGOD_, by Westside Gunn
-- _Full Serpent_, by Dialect
-- _Body of Work_, by Edward Skeletrix
 
 </details>
 
@@ -37,8 +37,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Damnation_, by Opeth
 - _Vooid (2025)_, by VOOID
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _Full Serpent_, by Dialect
-- _Earth Angels of the Bone Age_, by Dialect
+- _Body of Work_, by Edward Skeletrix
 
 </details>
 
