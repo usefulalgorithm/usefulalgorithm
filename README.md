@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _No You_, by No You, Davy Kehoe, Suzanne Kraft
+- _FLYGOD_, by Westside Gunn
 - _rain music_, by Duval Timothy, Carlos Niño
 - _Full Serpent_, by Dialect
 - _Body of Work_, by Edward Skeletrix
