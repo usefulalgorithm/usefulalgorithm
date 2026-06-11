@@ -11,11 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _TIGRAY FUNK_, by Sideshow
 - _rain music_, by Duval Timothy, Carlos Niño
-- _Body of Work_, by Edward Skeletrix
-- _Diamond Eyes_, by Deftones
-- _White Pony_, by Deftones
 
 </details>
 
@@ -26,10 +24,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _rain music_, by Duval Timothy, Carlos Niño
 - _Themes for Dreams_, by Resavoir
 - _Warm Shadows_, by Memotone
+- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _595_, by Karate
 - _All Worlds_, by Lust For Youth, Croatian Amor
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _EVEN COLDER SPRING_, by Cities Aviv
 - _Body of Work_, by Edward Skeletrix
@@ -38,6 +36,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Vooid (2025)_, by VOOID
 - _Whatever the Weather II_, by Whatever The Weather
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _the beatniks couldn't save the world_, by i.o
 
 </details>
 
