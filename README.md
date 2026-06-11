@@ -11,15 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _TIGRAY FUNK_, by Sideshow
+- _rain music_, by Duval Timothy, Carlos Niño
+- _Body of Work_, by Edward Skeletrix
 - _Diamond Eyes_, by Deftones
 - _White Pony_, by Deftones
-- _Body of Work_, by Edward Skeletrix
-- _FLYGOD_, by Westside Gunn
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
-- _G.O.A.T_, by Conway the Machine, Daringer
-- _Da Cypher_, by Conway the Machine
-- _Reject 2_, by Conway the Machine
-- _rain music_, by Duval Timothy, Carlos Niño
 
 </details>
 
@@ -27,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
-- _Themes for Dreams_, by Resavoir
 - _rain music_, by Duval Timothy, Carlos Niño
+- _Themes for Dreams_, by Resavoir
 - _Warm Shadows_, by Memotone
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _595_, by Karate
@@ -36,11 +32,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _EVEN COLDER SPRING_, by Cities Aviv
-- _Whatever the Weather II_, by Whatever The Weather
 - _Body of Work_, by Edward Skeletrix
 - _Ev'ry Portal Past_, by Dialect
 - _Damnation_, by Opeth
 - _Vooid (2025)_, by VOOID
+- _Whatever the Weather II_, by Whatever The Weather
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 
 </details>
