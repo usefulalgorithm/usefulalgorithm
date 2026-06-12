@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Speakerboxxx/The Love Below_, by Outkast
+- _Descend Into Depravity_, by Dying Fetus
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _TIGRAY FUNK_, by Sideshow
 - _rain music_, by Duval Timothy, Carlos Niño
