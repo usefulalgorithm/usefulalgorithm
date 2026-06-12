@@ -11,11 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _the beatniks couldn't save the world_, by i.o
+- _rain music_, by Duval Timothy, Carlos Niño
+- _FLYGOD_, by Westside Gunn
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Descend Into Depravity_, by Dying Fetus
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _TIGRAY FUNK_, by Sideshow
-- _rain music_, by Duval Timothy, Carlos Niño
 
 </details>
 
@@ -24,11 +26,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _rain music_, by Duval Timothy, Carlos Niño
-- _Themes for Dreams_, by Resavoir
 - _Warm Shadows_, by Memotone
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
+- _Themes for Dreams_, by Resavoir
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _595_, by Karate
+- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _EVEN COLDER SPRING_, by Cities Aviv
@@ -38,7 +40,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Vooid (2025)_, by VOOID
 - _Whatever the Weather II_, by Whatever The Weather
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _the beatniks couldn't save the world_, by i.o
 
 </details>
 
