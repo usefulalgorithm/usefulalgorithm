@@ -37,7 +37,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Body of Work_, by Edward Skeletrix
 - _the beatniks couldn't save the world_, by i.o
 - _Ev'ry Portal Past_, by Dialect
-- _Damnation_, by Opeth
 - _Vooid (2025)_, by VOOID
 - _Whatever the Weather II_, by Whatever The Weather
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
