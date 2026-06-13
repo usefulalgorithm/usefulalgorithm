@@ -12,10 +12,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _You Can't Kill God With Bullets_, by Conway the Machine
+- _黒斑の侵蝕_, by Heaven In Her Arms
 - _Hum of Hurt_, by Converge
 - _When Does This Place Become Our Scene_, by Hammok
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
-- _Inferno_, by Boards of Canada
 
 </details>
 
@@ -39,6 +39,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Inferno_, by Boards of Canada
 - _When Does This Place Become Our Scene_, by Hammok
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _Full Serpent_, by Dialect
 
 </details>
 
