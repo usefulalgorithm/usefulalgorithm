@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _You Can't Kill God With Bullets_, by Conway the Machine
 - _Hum of Hurt_, by Converge
 - _When Does This Place Become Our Scene_, by Hammok
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Inferno_, by Boards of Canada
-- _Without References / Cindy van Acker (Ricardo Villalobos Variations)_, by Ricardo Villalobos, goat (JP)
 
 </details>
 
