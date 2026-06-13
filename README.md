@@ -11,13 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Inferno_, by Boards of Canada
+- _Without References / Cindy van Acker (Ricardo Villalobos Variations)_, by Ricardo Villalobos, goat (JP)
+- _Descend Into Depravity_, by Dying Fetus
 - _When Does This Place Become Our Scene_, by Hammok
 - _the beatniks couldn't save the world_, by i.o
 - _rain music_, by Duval Timothy, Carlos Niño
 - _FLYGOD_, by Westside Gunn
-- _Speakerboxxx/The Love Below_, by Outkast
-- _Descend Into Depravity_, by Dying Fetus
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 
 </details>
 
