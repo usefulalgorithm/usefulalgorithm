@@ -35,11 +35,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Body of Work_, by Edward Skeletrix
 - _the beatniks couldn't save the world_, by i.o
 - _Ev'ry Portal Past_, by Dialect
+- _You Can't Kill God With Bullets_, by Conway the Machine
 - _Vooid (2025)_, by VOOID
 - _Inferno_, by Boards of Canada
 - _When Does This Place Become Our Scene_, by Hammok
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _Full Serpent_, by Dialect
 
 </details>
 
