@@ -14,8 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Body of Work_, by Edward Skeletrix
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _When Does This Place Become Our Scene_, by Hammok
-- _You Can't Kill God With Bullets_, by Conway the Machine
-- _黒斑の侵蝕_, by Heaven In Her Arms
 
 </details>
 
@@ -45,9 +43,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _Tlooth_, by Harry Mathews ([link](https://hardcover.app/books/tlooth)). It's just meh.
+Just finished reading _No Windmills in Basra_, by Diaa Jubaili, Chip Rossetti ([link](https://hardcover.app/books/no-windmills-in-basra)). It's a good book.
 
-Gotta finish 25 books before 2027-01-01. I've read 8 so far.
+Gotta finish 25 books before 2027-01-01. I've read 9 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
