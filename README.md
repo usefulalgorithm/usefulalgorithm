@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Body of Work_, by Edward Skeletrix
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
+- _When Does This Place Become Our Scene_, by Hammok
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _黒斑の侵蝕_, by Heaven In Her Arms
-- _Hum of Hurt_, by Converge
-- _When Does This Place Become Our Scene_, by Hammok
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 
 </details>
 
@@ -30,15 +30,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _595_, by Karate
 - _All Worlds_, by Lust For Youth, Croatian Amor
+- _Body of Work_, by Edward Skeletrix
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _EVEN COLDER SPRING_, by Cities Aviv
-- _Body of Work_, by Edward Skeletrix
+- _When Does This Place Become Our Scene_, by Hammok
 - _the beatniks couldn't save the world_, by i.o
 - _Ev'ry Portal Past_, by Dialect
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _Vooid (2025)_, by VOOID
 - _Inferno_, by Boards of Canada
-- _When Does This Place Become Our Scene_, by Hammok
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 
 </details>
