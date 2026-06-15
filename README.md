@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
+- _Hum of Hurt_, by Converge
+- _Blow (2026 Remaster)_, by Swallow
 - _Inferno_, by Boards of Canada
-- _Body of Work_, by Edward Skeletrix
+- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 
 </details>
 
@@ -24,19 +25,22 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _rain music_, by Duval Timothy, Carlos Niño
 - _Warm Shadows_, by Memotone
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
-- _Themes for Dreams_, by Resavoir
 - _Body of Work_, by Edward Skeletrix
 - _595_, by Karate
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
+- _Themes for Dreams_, by Resavoir
 - _Inferno_, by Boards of Canada
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _When Does This Place Become Our Scene_, by Hammok
 - _the beatniks couldn't save the world_, by i.o
 - _Ev'ry Portal Past_, by Dialect
+- _Hum of Hurt_, by Converge
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _Vooid (2025)_, by VOOID
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _Full Serpent_, by Dialect
+- _Earth Angels of the Bone Age_, by Dialect
 
 </details>
 
