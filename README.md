@@ -43,7 +43,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _the beatniks couldn't save the world_, by i.o
 - _Ev'ry Portal Past_, by Dialect
 - _Vooid (2025)_, by VOOID
-- _Themes for Dreams_, by Resavoir
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Full Serpent_, by Dialect
 - _Earth Angels of the Bone Age_, by Dialect
