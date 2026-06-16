@@ -11,14 +11,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
-- _When Does This Place Become Our Scene_, by Hammok
 - _Hum of Hurt_, by Converge
-- _ROADRUNNER: NEW LIGHT, NEW MACHINE PLUS PACK_, by BROCKHAMPTON
-- _Glued to the TV_, by LA Timpa
-- _Blow (2026 Remaster)_, by Swallow
-- _Inferno_, by Boards of Canada
+- _Diamond Eyes_, by Deftones
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
+- _FLYGOD_, by Westside Gunn
+- _Body of Work_, by Edward Skeletrix
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
+- _ROADRUNNER: NEW LIGHT, NEW MACHINE PLUS PACK_, by BROCKHAMPTON
+- _You Can't Kill God With Bullets_, by Conway the Machine
+- _When Does This Place Become Our Scene_, by Hammok
+- _Glued to the TV_, by LA Timpa
 
 </details>
 
@@ -34,14 +36,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _When Does This Place Become Our Scene_, by Hammok
-- _Themes for Dreams_, by Resavoir
 - _Inferno_, by Boards of Canada
 - _Hum of Hurt_, by Converge
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
+- _You Can't Kill God With Bullets_, by Conway the Machine
 - _the beatniks couldn't save the world_, by i.o
 - _Ev'ry Portal Past_, by Dialect
-- _You Can't Kill God With Bullets_, by Conway the Machine
 - _Vooid (2025)_, by VOOID
+- _Themes for Dreams_, by Resavoir
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Full Serpent_, by Dialect
 - _Earth Angels of the Bone Age_, by Dialect
