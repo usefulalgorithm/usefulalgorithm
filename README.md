@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Lateralus_, by TOOL
+- _When Does This Place Become Our Scene_, by Hammok
+- _10,000 Days_, by TOOL
 - _Hum of Hurt_, by Converge
 - _Diamond Eyes_, by Deftones
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
@@ -19,8 +22,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE PLUS PACK_, by BROCKHAMPTON
 - _You Can't Kill God With Bullets_, by Conway the Machine
-- _When Does This Place Become Our Scene_, by Hammok
-- _Glued to the TV_, by LA Timpa
 
 </details>
 
@@ -32,10 +33,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Warm Shadows_, by Memotone
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Body of Work_, by Edward Skeletrix
+- _When Does This Place Become Our Scene_, by Hammok
 - _Hum of Hurt_, by Converge
 - _All Worlds_, by Lust For Youth, Croatian Amor
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
-- _When Does This Place Become Our Scene_, by Hammok
 - _595_, by Karate
 - _Inferno_, by Boards of Canada
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
