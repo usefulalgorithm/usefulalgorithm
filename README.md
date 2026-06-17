@@ -11,13 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Hum of Hurt_, by Converge
 - _Glued to the TV_, by LA Timpa
 - _YOUR NOT AN AMERICAN_, by Chino Amobi
 - _Body of Work_, by Edward Skeletrix
 - _Lateralus_, by TOOL
 - _When Does This Place Become Our Scene_, by Hammok
 - _10,000 Days_, by TOOL
-- _Hum of Hurt_, by Converge
 - _Diamond Eyes_, by Deftones
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _FLYGOD_, by Westside Gunn
@@ -32,9 +32,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _rain music_, by Duval Timothy, Carlos Niño
 - _Warm Shadows_, by Memotone
 - _Body of Work_, by Edward Skeletrix
+- _Hum of Hurt_, by Converge
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _When Does This Place Become Our Scene_, by Hammok
-- _Hum of Hurt_, by Converge
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Inferno_, by Boards of Canada
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
