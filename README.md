@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Glued to the TV_, by LA Timpa
+- _YOUR NOT AN AMERICAN_, by Chino Amobi
+- _Body of Work_, by Edward Skeletrix
 - _Lateralus_, by TOOL
 - _When Does This Place Become Our Scene_, by Hammok
 - _10,000 Days_, by TOOL
@@ -18,10 +21,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Diamond Eyes_, by Deftones
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _FLYGOD_, by Westside Gunn
-- _Body of Work_, by Edward Skeletrix
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
-- _ROADRUNNER: NEW LIGHT, NEW MACHINE PLUS PACK_, by BROCKHAMPTON
-- _You Can't Kill God With Bullets_, by Conway the Machine
 
 </details>
 
@@ -31,22 +31,22 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _rain music_, by Duval Timothy, Carlos Niño
 - _Warm Shadows_, by Memotone
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Body of Work_, by Edward Skeletrix
+- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _When Does This Place Become Our Scene_, by Hammok
 - _Hum of Hurt_, by Converge
-- _All Worlds_, by Lust For Youth, Croatian Amor
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
-- _595_, by Karate
 - _Inferno_, by Boards of Canada
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _You Can't Kill God With Bullets_, by Conway the Machine
+- _595_, by Karate
 - _the beatniks couldn't save the world_, by i.o
 - _Ev'ry Portal Past_, by Dialect
 - _Vooid (2025)_, by VOOID
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Full Serpent_, by Dialect
 - _Earth Angels of the Bone Age_, by Dialect
+- _Moon Pix_, by Cat Power
 
 </details>
 
