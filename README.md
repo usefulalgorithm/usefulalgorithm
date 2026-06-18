@@ -16,9 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _You Can't Kill God With Bullets_, by Conway the Machine
-- _ROADRUNNER: NEW LIGHT, NEW MACHINE PLUS PACK_, by BROCKHAMPTON
-- _Glued to the TV_, by LA Timpa
-- _For Love of Grace & the Hereafter_, by Iceage
 
 </details>
 
@@ -33,12 +30,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hum of Hurt_, by Converge
 - _When Does This Place Become Our Scene_, by Hammok
 - _You Can't Kill God With Bullets_, by Conway the Machine
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _Inferno_, by Boards of Canada
 - _EXPERIMENTAL RAP_, by JPEGMAFIA
+- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _the beatniks couldn't save the world_, by i.o
 - _Ev'ry Portal Past_, by Dialect
+- _FLYGOD_, by Westside Gunn
 - _Vooid (2025)_, by VOOID
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Full Serpent_, by Dialect
