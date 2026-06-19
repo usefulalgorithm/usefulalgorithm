@@ -11,11 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Warm Shadows_, by Memotone
+- _Themes for Dreams_, by Resavoir
+- _UNRELATED_, by Sam Gendel, Sam Wilkes
+- _Vila_, by Fabiano do Nascimento, Vittor Santos e Orquestra
 - _Potpourri_, by Debit
 - _FLYGOD_, by Westside Gunn
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
-- _You Can't Kill God With Bullets_, by Conway the Machine
 
 </details>
 
@@ -37,7 +38,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _the beatniks couldn't save the world_, by i.o
 - _Ev'ry Portal Past_, by Dialect
 - _FLYGOD_, by Westside Gunn
-- _Vooid (2025)_, by VOOID
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Full Serpent_, by Dialect
 - _Earth Angels of the Bone Age_, by Dialect
