@@ -11,12 +11,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Line That Shapes the Coast of Us_, by Chalk Hands
+- _Leaves Turn Inside You_, by Unwound
+- _For Love of Grace & the Hereafter_, by Iceage
+- _Repetition_, by Unwound
+- _Enth_, by Arovane, Taylor Deupree
+- _six_, by Louis Carnell, KMRU
 - _Warm Shadows_, by Memotone
 - _Themes for Dreams_, by Resavoir
+- _Potpourri_, by Debit
 - _UNRELATED_, by Sam Gendel, Sam Wilkes
 - _Vila_, by Fabiano do Nascimento, Vittor Santos e Orquestra
-- _Potpourri_, by Debit
-- _FLYGOD_, by Westside Gunn
 
 </details>
 
@@ -33,7 +38,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _Inferno_, by Boards of Canada
-- _EXPERIMENTAL RAP_, by JPEGMAFIA
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _the beatniks couldn't save the world_, by i.o
 - _Ev'ry Portal Past_, by Dialect
