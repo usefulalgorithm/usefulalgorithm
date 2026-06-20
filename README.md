@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Leave Another Day_, by Milan W.
 - _The Line That Shapes the Coast of Us_, by Chalk Hands
 - _Leaves Turn Inside You_, by Unwound
 - _For Love of Grace & the Hereafter_, by Iceage
@@ -21,7 +22,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Themes for Dreams_, by Resavoir
 - _Potpourri_, by Debit
 - _UNRELATED_, by Sam Gendel, Sam Wilkes
-- _Vila_, by Fabiano do Nascimento, Vittor Santos e Orquestra
 
 </details>
 
