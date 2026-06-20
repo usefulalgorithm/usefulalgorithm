@@ -16,12 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Leaves Turn Inside You_, by Unwound
 - _For Love of Grace & the Hereafter_, by Iceage
 - _Repetition_, by Unwound
-- _Enth_, by Arovane, Taylor Deupree
-- _six_, by Louis Carnell, KMRU
-- _Warm Shadows_, by Memotone
-- _Themes for Dreams_, by Resavoir
-- _Potpourri_, by Debit
-- _UNRELATED_, by Sam Gendel, Sam Wilkes
 
 </details>
 
