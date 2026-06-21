@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Hum of Hurt_, by Converge
 - _Potpourri_, by Debit
 - _Leave Another Day_, by Milan W.
 - _For Love of Grace & the Hereafter_, by Iceage
@@ -24,9 +25,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _rain music_, by Duval Timothy, Carlos Niño
 - _Body of Work_, by Edward Skeletrix
+- _Hum of Hurt_, by Converge
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Warm Shadows_, by Memotone
-- _Hum of Hurt_, by Converge
 - _When Does This Place Become Our Scene_, by Hammok
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
