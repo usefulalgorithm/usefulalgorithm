@@ -11,11 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Potpourri_, by Debit
 - _Leave Another Day_, by Milan W.
-- _The Line That Shapes the Coast of Us_, by Chalk Hands
-- _Leaves Turn Inside You_, by Unwound
 - _For Love of Grace & the Hereafter_, by Iceage
-- _Repetition_, by Unwound
+- _Leaves Turn Inside You_, by Unwound
 
 </details>
 
@@ -24,19 +23,22 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _rain music_, by Duval Timothy, Carlos Niño
-- _Warm Shadows_, by Memotone
 - _Body of Work_, by Edward Skeletrix
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
+- _Warm Shadows_, by Memotone
 - _Hum of Hurt_, by Converge
 - _When Does This Place Become Our Scene_, by Hammok
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _Inferno_, by Boards of Canada
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
-- _the beatniks couldn't save the world_, by i.o
+- _Leave Another Day_, by Milan W.
 - _Ev'ry Portal Past_, by Dialect
 - _FLYGOD_, by Westside Gunn
+- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _the beatniks couldn't save the world_, by i.o
+- _For Love of Grace & the Hereafter_, by Iceage
+- _Potpourri_, by Debit
 - _Full Serpent_, by Dialect
 - _Earth Angels of the Bone Age_, by Dialect
 - _Moon Pix_, by Cat Power
