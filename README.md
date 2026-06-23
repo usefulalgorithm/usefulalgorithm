@@ -11,12 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Inferno_, by Boards of Canada
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
+- _You Can't Kill God With Bullets_, by Conway the Machine
 - _The Line That Shapes the Coast of Us_, by Chalk Hands
-- _Hum of Hurt_, by Converge
-- _Potpourri_, by Debit
-- _Leave Another Day_, by Milan W.
-- _For Love of Grace & the Hereafter_, by Iceage
-- _Leaves Turn Inside You_, by Unwound
 
 </details>
 
@@ -28,10 +26,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hum of Hurt_, by Converge
 - _Body of Work_, by Edward Skeletrix
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
-- _When Does This Place Become Our Scene_, by Hammok
 - _You Can't Kill God With Bullets_, by Conway the Machine
-- _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
+- _When Does This Place Become Our Scene_, by Hammok
 - _Inferno_, by Boards of Canada
+- _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _Warm Shadows_, by Memotone
 - _Leave Another Day_, by Milan W.
 - _Ev'ry Portal Past_, by Dialect
