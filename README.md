@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _Inferno_, by Boards of Canada
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _You Can't Kill God With Bullets_, by Conway the Machine
@@ -26,10 +27,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hum of Hurt_, by Converge
 - _Body of Work_, by Edward Skeletrix
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
+- _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _When Does This Place Become Our Scene_, by Hammok
 - _Inferno_, by Boards of Canada
-- _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _Warm Shadows_, by Memotone
 - _Leave Another Day_, by Milan W.
 - _Ev'ry Portal Past_, by Dialect
