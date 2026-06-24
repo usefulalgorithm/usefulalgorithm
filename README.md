@@ -14,8 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _Inferno_, by Boards of Canada
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
-- _You Can't Kill God With Bullets_, by Conway the Machine
-- _The Line That Shapes the Coast of Us_, by Chalk Hands
 
 </details>
 
