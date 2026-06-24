@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Warm Shadows_, by Memotone
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _Inferno_, by Boards of Canada
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
 
 </details>
 
@@ -33,10 +33,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Leave Another Day_, by Milan W.
 - _Ev'ry Portal Past_, by Dialect
 - _Potpourri_, by Debit
+- _For Love of Grace & the Hereafter_, by Iceage
 - _FLYGOD_, by Westside Gunn
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _For Love of Grace & the Hereafter_, by Iceage
 - _Full Serpent_, by Dialect
 - _Earth Angels of the Bone Age_, by Dialect
 - _Moon Pix_, by Cat Power
