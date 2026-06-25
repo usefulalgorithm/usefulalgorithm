@@ -11,9 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Warm Shadows_, by Memotone
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
-- _Inferno_, by Boards of Canada
+- _Warm Shadows_, by Memotone
 
 </details>
 
