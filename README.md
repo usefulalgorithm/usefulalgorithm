@@ -11,8 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _You Can't Kill God With Bullets_, by Conway the Machine
+- _Body of Work_, by Edward Skeletrix
+- _ROADRUNNER: NEW LIGHT, NEW MACHINE PLUS PACK_, by BROCKHAMPTON
+- _Hum of Hurt_, by Converge
+- _Inferno_, by Boards of Canada
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
-- _Potpourri_, by Debit
 
 </details>
 
@@ -23,23 +27,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _rain music_, by Duval Timothy, Carlos Niño
 - _Hum of Hurt_, by Converge
 - _Body of Work_, by Edward Skeletrix
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
-- _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
-- _You Can't Kill God With Bullets_, by Conway the Machine
-- _When Does This Place Become Our Scene_, by Hammok
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
+- _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
+- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
+- _You Can't Kill God With Bullets_, by Conway the Machine
 - _Inferno_, by Boards of Canada
+- _When Does This Place Become Our Scene_, by Hammok
 - _Potpourri_, by Debit
 - _Leave Another Day_, by Milan W.
 - _Ev'ry Portal Past_, by Dialect
 - _For Love of Grace & the Hereafter_, by Iceage
 - _FLYGOD_, by Westside Gunn
 - _Warm Shadows_, by Memotone
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _Full Serpent_, by Dialect
-- _Earth Angels of the Bone Age_, by Dialect
-- _Moon Pix_, by Cat Power
 
 </details>
 
