@@ -12,7 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
-- _Warm Shadows_, by Memotone
+- _Potpourri_, by Debit
 
 </details>
 
@@ -27,13 +27,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _When Does This Place Become Our Scene_, by Hammok
+- _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _Inferno_, by Boards of Canada
-- _Warm Shadows_, by Memotone
+- _Potpourri_, by Debit
 - _Leave Another Day_, by Milan W.
 - _Ev'ry Portal Past_, by Dialect
-- _Potpourri_, by Debit
 - _For Love of Grace & the Hereafter_, by Iceage
 - _FLYGOD_, by Westside Gunn
+- _Warm Shadows_, by Memotone
 - _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Full Serpent_, by Dialect
