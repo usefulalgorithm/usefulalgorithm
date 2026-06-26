@@ -25,9 +25,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _rain music_, by Duval Timothy, Carlos Niño
+- _Body of Work_, by Edward Skeletrix
 - _Hum of Hurt_, by Converge
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
-- _Body of Work_, by Edward Skeletrix
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
