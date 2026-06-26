@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Body of Work_, by Edward Skeletrix
+- _Inferno_, by Boards of Canada
 - _You Can't Kill God With Bullets_, by Conway the Machine
+- _Body of Work_, by Edward Skeletrix
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE PLUS PACK_, by BROCKHAMPTON
 - _Hum of Hurt_, by Converge
-- _Inferno_, by Boards of Canada
 
 </details>
 
