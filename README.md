@@ -30,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _You Can't Kill God With Bullets_, by Conway the Machine
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Inferno_, by Boards of Canada
+- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _When Does This Place Become Our Scene_, by Hammok
 - _Potpourri_, by Debit
 - _Leave Another Day_, by Milan W.
