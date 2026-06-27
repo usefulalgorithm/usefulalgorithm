@@ -31,14 +31,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _Inferno_, by Boards of Canada
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _When Does This Place Become Our Scene_, by Hammok
 - _Potpourri_, by Debit
+- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Leave Another Day_, by Milan W.
 - _Ev'ry Portal Past_, by Dialect
 - _For Love of Grace & the Hereafter_, by Iceage
 - _FLYGOD_, by Westside Gunn
 - _Warm Shadows_, by Memotone
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 
 </details>
 
