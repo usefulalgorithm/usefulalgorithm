@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Warm Shadows_, by Memotone
+- _Potpourri_, by Debit
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _Inferno_, by Boards of Canada
 - _You Can't Kill God With Bullets_, by Conway the Machine
