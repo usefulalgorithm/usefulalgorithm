@@ -33,8 +33,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _Inferno_, by Boards of Canada
-- _When Does This Place Become Our Scene_, by Hammok
 - _Potpourri_, by Debit
+- _When Does This Place Become Our Scene_, by Hammok
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Leave Another Day_, by Milan W.
 - _Ev'ry Portal Past_, by Dialect
