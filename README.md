@@ -12,21 +12,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Warm Shadows_, by Memotone
-- _Potpourri_, by Debit
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Here In the Valley_, by helllhound, Nailah Hunter
+- _Potpourri_, by Debit
 - _Inferno_, by Boards of Canada
 - _You Can't Kill God With Bullets_, by Conway the Machine
-- _Body of Work_, by Edward Skeletrix
-- _Demand to Be Taken to Heaven Alive!_, by Horse Lords
-- _ROADRUNNER: NEW LIGHT, NEW MACHINE PLUS PACK_, by BROCKHAMPTON
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _rain music_, by Duval Timothy, Carlos Niño
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
+- _rain music_, by Duval Timothy, Carlos Niño
 - _Body of Work_, by Edward Skeletrix
 - _Hum of Hurt_, by Converge
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
@@ -36,11 +34,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Potpourri_, by Debit
 - _When Does This Place Become Our Scene_, by Hammok
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
+- _Warm Shadows_, by Memotone
 - _Leave Another Day_, by Milan W.
 - _Ev'ry Portal Past_, by Dialect
 - _For Love of Grace & the Hereafter_, by Iceage
 - _FLYGOD_, by Westside Gunn
-- _Warm Shadows_, by Memotone
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 
 </details>
