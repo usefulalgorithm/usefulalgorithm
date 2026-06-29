@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Hum of Hurt_, by Converge
 - _Warm Shadows_, by Memotone
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _Potpourri_, by Debit
 - _Inferno_, by Boards of Canada
-- _You Can't Kill God With Bullets_, by Conway the Machine
 
 </details>
 
@@ -33,8 +33,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Inferno_, by Boards of Canada
 - _Potpourri_, by Debit
 - _When Does This Place Become Our Scene_, by Hammok
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Warm Shadows_, by Memotone
+- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Leave Another Day_, by Milan W.
 - _Ev'ry Portal Past_, by Dialect
 - _For Love of Grace & the Hereafter_, by Iceage
