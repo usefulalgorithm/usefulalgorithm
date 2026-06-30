@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _For Love of Grace & the Hereafter_, by Iceage
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Warm Shadows_, by Memotone
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 
 </details>
 
@@ -33,9 +33,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Potpourri_, by Debit
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _When Does This Place Become Our Scene_, by Hammok
+- _For Love of Grace & the Hereafter_, by Iceage
 - _Leave Another Day_, by Milan W.
 - _Ev'ry Portal Past_, by Dialect
-- _For Love of Grace & the Hereafter_, by Iceage
 - _FLYGOD_, by Westside Gunn
 
 </details>
