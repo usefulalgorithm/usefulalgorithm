@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The weathervane is my body_, by Truck Violence
 - _Kinshasa In Action_, by KINACT
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Body of Work_, by Edward Skeletrix
-- _The weathervane is my body_, by Truck Violence
 
 </details>
 
