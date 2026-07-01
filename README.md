@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Kinshasa In Action_, by KINACT
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
-- _The weathervane is my body_, by Truck Violence
 - _Body of Work_, by Edward Skeletrix
-- _For Love of Grace & the Hereafter_, by Iceage
+- _The weathervane is my body_, by Truck Violence
 
 </details>
 
@@ -23,9 +23,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Warm Shadows_, by Memotone
 - _Hum of Hurt_, by Converge
+- _Body of Work_, by Edward Skeletrix
 - _rain music_, by Duval Timothy, Carlos Niño
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
-- _Body of Work_, by Edward Skeletrix
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _You Can't Kill God With Bullets_, by Conway the Machine
@@ -37,7 +37,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Leave Another Day_, by Milan W.
 - _Ev'ry Portal Past_, by Dialect
 - _FLYGOD_, by Westside Gunn
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 
 </details>
 
