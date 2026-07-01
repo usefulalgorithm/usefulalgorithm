@@ -11,19 +11,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The weathervane is my body_, by Truck Violence
+- _Body of Work_, by Edward Skeletrix
 - _For Love of Grace & the Hereafter_, by Iceage
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
-- _Warm Shadows_, by Memotone
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Warm Shadows_, by Memotone
 - _Hum of Hurt_, by Converge
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _rain music_, by Duval Timothy, Carlos Niño
 - _Body of Work_, by Edward Skeletrix
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
@@ -31,12 +30,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _Inferno_, by Boards of Canada
 - _Potpourri_, by Debit
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
-- _When Does This Place Become Our Scene_, by Hammok
 - _For Love of Grace & the Hereafter_, by Iceage
+- _When Does This Place Become Our Scene_, by Hammok
+- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Leave Another Day_, by Milan W.
 - _Ev'ry Portal Past_, by Dialect
 - _FLYGOD_, by Westside Gunn
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 
 </details>
 
