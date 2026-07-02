@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tsunami Sea_, by Spiritbox
 - _Resting in Aspic_, by Listening Mirror
 - _The weathervane is my body_, by Truck Violence
-- _Kinshasa In Action_, by KINACT
 
 </details>
 
