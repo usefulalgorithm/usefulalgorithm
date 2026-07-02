@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Tsunami Sea_, by Spiritbox
 - _Resting in Aspic_, by Listening Mirror
