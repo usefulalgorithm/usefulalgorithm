@@ -34,6 +34,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _For Love of Grace & the Hereafter_, by Iceage
 - _When Does This Place Become Our Scene_, by Hammok
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
+- _The weathervane is my body_, by Truck Violence
 - _Leave Another Day_, by Milan W.
 - _Ev'ry Portal Past_, by Dialect
 - _FLYGOD_, by Westside Gunn
