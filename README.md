@@ -11,18 +11,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Tsunami Sea_, by Spiritbox
+- _Resting in Aspic_, by Listening Mirror
 - _The weathervane is my body_, by Truck Violence
 - _Kinshasa In Action_, by KINACT
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
-- _Body of Work_, by Edward Skeletrix
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Warm Shadows_, by Memotone
 - _Hum of Hurt_, by Converge
+- _Warm Shadows_, by Memotone
 - _Body of Work_, by Edward Skeletrix
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _rain music_, by Duval Timothy, Carlos Niño
