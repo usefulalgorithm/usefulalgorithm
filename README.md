@@ -11,20 +11,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Body of Work_, by Edward Skeletrix
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Tsunami Sea_, by Spiritbox
-- _Resting in Aspic_, by Listening Mirror
-- _The weathervane is my body_, by Truck Violence
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
+- _Body of Work_, by Edward Skeletrix
 - _Hum of Hurt_, by Converge
 - _Warm Shadows_, by Memotone
-- _Body of Work_, by Edward Skeletrix
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _rain music_, by Duval Timothy, Carlos Niño
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
