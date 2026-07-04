@@ -28,8 +28,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Warm Shadows_, by Memotone
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
-- _rain music_, by Duval Timothy, Carlos Niño
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
+- _rain music_, by Duval Timothy, Carlos Niño
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _Potpourri_, by Debit
 - _For Love of Grace & the Hereafter_, by Iceage
