@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _歪曲_, by Shing02
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Windowlicker_, by Aphex Twin
@@ -26,14 +27,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hum of Hurt_, by Converge
 - _Warm Shadows_, by Memotone
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
-- _rain music_, by Duval Timothy, Carlos Niño
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
+- _rain music_, by Duval Timothy, Carlos Niño
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _You Can't Kill God With Bullets_, by Conway the Machine
-- _Inferno_, by Boards of Canada
 - _Potpourri_, by Debit
 - _For Love of Grace & the Hereafter_, by Iceage
 - _When Does This Place Become Our Scene_, by Hammok
+- _Inferno_, by Boards of Canada
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _The weathervane is my body_, by Truck Violence
 - _Leave Another Day_, by Milan W.
