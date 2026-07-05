@@ -11,9 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _歪曲_, by Shing02
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
-- _歪曲_, by Shing02
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Windowlicker_, by Aphex Twin
 - _Body of Work_, by Edward Skeletrix
