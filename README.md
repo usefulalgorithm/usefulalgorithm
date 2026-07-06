@@ -11,13 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _歪曲_, by Shing02
+- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
+- _Blackbox Life Recorder 21f_, by Aphex Twin
+- _Ventolin_, by Aphex Twin
 - _Richard D. James Album_, by Aphex Twin
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
-- _You Can't Kill God With Bullets_, by Conway the Machine
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
-- _歪曲_, by Shing02
 
 </details>
 
@@ -30,12 +31,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
+- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _rain music_, by Duval Timothy, Carlos Niño
 - _Potpourri_, by Debit
 - _For Love of Grace & the Hereafter_, by Iceage
 - _When Does This Place Become Our Scene_, by Hammok
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
+- _歪曲_, by Shing02
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Inferno_, by Boards of Canada
 - _The weathervane is my body_, by Truck Violence
