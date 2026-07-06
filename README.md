@@ -11,10 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Richard D. James Album_, by Aphex Twin
+- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _歪曲_, by Shing02
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 
 </details>
 
@@ -33,11 +36,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _For Love of Grace & the Hereafter_, by Iceage
 - _When Does This Place Become Our Scene_, by Hammok
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Inferno_, by Boards of Canada
 - _The weathervane is my body_, by Truck Violence
 - _Leave Another Day_, by Milan W.
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _FLYGOD_, by Westside Gunn
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 
 </details>
 
