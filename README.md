@@ -11,12 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _歪曲_, by Shing02
+- _You Can't Kill God With Bullets_, by Conway the Machine
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
+- _歪曲_, by Shing02
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
-- _Windowlicker_, by Aphex Twin
-- _Body of Work_, by Edward Skeletrix
 
 </details>
 
@@ -25,20 +23,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Body of Work_, by Edward Skeletrix
 - _Hum of Hurt_, by Converge
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Warm Shadows_, by Memotone
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
+- _You Can't Kill God With Bullets_, by Conway the Machine
 - _rain music_, by Duval Timothy, Carlos Niño
 - _Potpourri_, by Debit
 - _For Love of Grace & the Hereafter_, by Iceage
-- _You Can't Kill God With Bullets_, by Conway the Machine
 - _When Does This Place Become Our Scene_, by Hammok
-- _Inferno_, by Boards of Canada
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
+- _Inferno_, by Boards of Canada
 - _The weathervane is my body_, by Truck Violence
 - _Leave Another Day_, by Milan W.
-- _Ev'ry Portal Past_, by Dialect
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _FLYGOD_, by Westside Gunn
 
