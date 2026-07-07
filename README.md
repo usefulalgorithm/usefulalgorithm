@@ -11,14 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _歪曲_, by Shing02
+- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
+- _歪曲_, by Shing02
 - _Blackbox Life Recorder 21f_, by Aphex Twin
 - _Ventolin_, by Aphex Twin
 - _Richard D. James Album_, by Aphex Twin
-- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 
 </details>
 
