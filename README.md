@@ -12,9 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
-- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
-- _歪曲_, by Shing02
+- _life of mu_, by mu tate
 
 </details>
 
@@ -22,18 +20,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Hum of Hurt_, by Converge
-- _Warm Shadows_, by Memotone
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
+- _Warm Shadows_, by Memotone
 - _Body of Work_, by Edward Skeletrix
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
-- _rain music_, by Duval Timothy, Carlos Niño
 - _Potpourri_, by Debit
 - _For Love of Grace & the Hereafter_, by Iceage
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _When Does This Place Become Our Scene_, by Hammok
+- _rain music_, by Duval Timothy, Carlos Niño
 - _歪曲_, by Shing02
 - _Inferno_, by Boards of Canada
 - _The weathervane is my body_, by Truck Violence
