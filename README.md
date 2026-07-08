@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _WHACK'S MUSEUM_, by Tierra Whack
 - _life of mu_, by mu tate
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
