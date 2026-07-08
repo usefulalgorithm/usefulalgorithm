@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _life of mu_, by mu tate
+- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 
 </details>
@@ -39,6 +39,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Leave Another Day_, by Milan W.
 - _FLYGOD_, by Westside Gunn
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 
 </details>
 
