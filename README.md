@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Infinite Black Inside_, by Ibrahim Alfa Jnr
 - _YOUR NOT AN AMERICAN_, by Chino Amobi
 - _400_, by Shing02
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
@@ -29,12 +30,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Body of Work_, by Edward Skeletrix
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Potpourri_, by Debit
 - _For Love of Grace & the Hereafter_, by Iceage
 - _歪曲_, by Shing02
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _When Does This Place Become Our Scene_, by Hammok
+- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Inferno_, by Boards of Canada
 - _The weathervane is my body_, by Truck Violence
 - _Leave Another Day_, by Milan W.
