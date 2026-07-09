@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
-- _Please_, by DJ Plead
-- _WHACK'S MUSEUM_, by Tierra Whack
-- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
-- _life of mu_, by mu tate
+- _YOUR NOT AN AMERICAN_, by Chino Amobi
+- _400_, by Shing02
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
+- _WHACK'S MUSEUM_, by Tierra Whack
+- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 
 </details>
 
@@ -26,21 +25,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hum of Hurt_, by Converge
 - _Warm Shadows_, by Memotone
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Body of Work_, by Edward Skeletrix
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Potpourri_, by Debit
 - _For Love of Grace & the Hereafter_, by Iceage
+- _歪曲_, by Shing02
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _When Does This Place Become Our Scene_, by Hammok
-- _歪曲_, by Shing02
 - _Inferno_, by Boards of Canada
 - _The weathervane is my body_, by Truck Violence
 - _Leave Another Day_, by Milan W.
-- _rain music_, by Duval Timothy, Carlos Niño
-- _FLYGOD_, by Westside Gunn
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 
