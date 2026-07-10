@@ -11,10 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
+- _Blow (2026 Remaster)_, by Swallow
 - _Here In the Valley_, by helllhound, Nailah Hunter
-- _No You_, by No You, Davy Kehoe, Suzanne Kraft
-- _Please_, by DJ Plead
-- _Infinite Black Inside_, by Ibrahim Alfa Jnr
 
 </details>
 
@@ -34,12 +33,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _When Does This Place Become Our Scene_, by Hammok
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
+- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
+- _Here In the Valley_, by helllhound, Nailah Hunter
 - _Inferno_, by Boards of Canada
 - _The weathervane is my body_, by Truck Violence
 - _Leave Another Day_, by Milan W.
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
-- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
-- _Here In the Valley_, by helllhound, Nailah Hunter
 
 </details>
 
