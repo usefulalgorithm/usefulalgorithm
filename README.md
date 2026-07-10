@@ -15,10 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _No You_, by No You, Davy Kehoe, Suzanne Kraft
 - _Please_, by DJ Plead
 - _Infinite Black Inside_, by Ibrahim Alfa Jnr
-- _YOUR NOT AN AMERICAN_, by Chino Amobi
-- _400_, by Shing02
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
-- _WHACK'S MUSEUM_, by Tierra Whack
 
 </details>
 
@@ -43,6 +39,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Leave Another Day_, by Milan W.
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
+- _Here In the Valley_, by helllhound, Nailah Hunter
 
 </details>
 
