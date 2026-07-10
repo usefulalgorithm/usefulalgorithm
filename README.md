@@ -11,12 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Here In the Valley_, by helllhound, Nailah Hunter
+- _No You_, by No You, Davy Kehoe, Suzanne Kraft
+- _Please_, by DJ Plead
 - _Infinite Black Inside_, by Ibrahim Alfa Jnr
 - _YOUR NOT AN AMERICAN_, by Chino Amobi
 - _400_, by Shing02
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _WHACK'S MUSEUM_, by Tierra Whack
-- _I Guess U Had To Be There_, by E L U C I D, Sebb Bash
 
 </details>
 
