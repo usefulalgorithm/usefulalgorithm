@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Infinite Black Inside_, by Ibrahim Alfa Jnr
+- _Please_, by DJ Plead
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Blow (2026 Remaster)_, by Swallow
 - _Here In the Valley_, by helllhound, Nailah Hunter
@@ -31,9 +33,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _For Love of Grace & the Hereafter_, by Iceage
 - _歪曲_, by Shing02
 - _You Can't Kill God With Bullets_, by Conway the Machine
+- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _When Does This Place Become Our Scene_, by Hammok
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
-- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _Inferno_, by Boards of Canada
 - _The weathervane is my body_, by Truck Violence
