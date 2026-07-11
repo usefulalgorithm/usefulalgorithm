@@ -11,12 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _WHACK'S MUSEUM_, by Tierra Whack
+- _idea 1_, by Kelela
+- _new avatar_, by Kelela
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
+- _WHACK'S MUSEUM_, by Tierra Whack
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _Infinite Black Inside_, by Ibrahim Alfa Jnr
 - _Please_, by DJ Plead
-- _Blow (2026 Remaster)_, by Swallow
 
 </details>
 
@@ -36,11 +37,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _Here In the Valley_, by helllhound, Nailah Hunter
-- _When Does This Place Become Our Scene_, by Hammok
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 - _Inferno_, by Boards of Canada
 - _The weathervane is my body_, by Truck Violence
 - _Leave Another Day_, by Milan W.
+- _WHACK'S MUSEUM_, by Tierra Whack
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 
 </details>
