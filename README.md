@@ -11,13 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _idea 1_, by Kelela
+- _outta time_, by Kelela, A. K. Paul
 - _new avatar_, by Kelela
+- _idea 1_, by Kelela
+- _linknb_, by Kelela
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _WHACK'S MUSEUM_, by Tierra Whack
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _Infinite Black Inside_, by Ibrahim Alfa Jnr
-- _Please_, by DJ Plead
 
 </details>
 
@@ -31,30 +32,31 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Body of Work_, by Edward Skeletrix
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
+- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Potpourri_, by Debit
 - _For Love of Grace & the Hereafter_, by Iceage
 - _歪曲_, by Shing02
-- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
-- _Inferno_, by Boards of Canada
 - _The weathervane is my body_, by Truck Violence
 - _Leave Another Day_, by Milan W.
 - _WHACK'S MUSEUM_, by Tierra Whack
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Inferno_, by Boards of Canada
 
 </details>
 
 ## 📚
 
-Just finished reading _No Windmills in Basra_, by Diaa Jubaili, Chip Rossetti ([link](https://hardcover.app/books/no-windmills-in-basra)). It's a good book.
+Just finished reading _Dictee_, by Theresa Hak Kyung Cha ([link](https://hardcover.app/books/dictee-1982)). It's a good book.
 
-Gotta finish 25 books before 2027-01-01. I've read 9 so far.
+Gotta finish 25 books before 2027-01-01. I've read 10 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
 
+- _Essays Two_, by Lydia Davis ([link](https://hardcover.app/books/essays-two))
 - _The Absence of Myth: Writings on Surrealism_, by Georges Bataille, Michael   Richardson ([link](https://hardcover.app/books/the-absence-of-myth-writings-on-surrealism))
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
