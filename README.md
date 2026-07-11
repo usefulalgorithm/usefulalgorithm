@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _new avatar_, by Kelela
 - _idea 1_, by Kelela
 - _linknb_, by Kelela
 - _outta time_, by Kelela, A. K. Paul
-- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
-- _WHACK'S MUSEUM_, by Tierra Whack
 
 </details>
 
