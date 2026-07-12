@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Warped Speed_, by Cars Get Crushed
 - _...Beginning of the End_, by Portrayal of Guilt
 - _new avatar_, by Kelela
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _idea 1_, by Kelela
 - _linknb_, by Kelela
-- _outta time_, by Kelela, A. K. Paul
 
 </details>
 
