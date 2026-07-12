@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _new avatar_, by Kelela
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _idea 1_, by Kelela
 - _linknb_, by Kelela
 - _outta time_, by Kelela, A. K. Paul
@@ -23,12 +23,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Warm Shadows_, by Memotone
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Hum of Hurt_, by Converge
-- _Body of Work_, by Edward Skeletrix
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
+- _Body of Work_, by Edward Skeletrix
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Potpourri_, by Debit
 - _For Love of Grace & the Hereafter_, by Iceage
