@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _...Beginning of the End_, by Portrayal of Guilt
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _new avatar_, by Kelela
+- _...Beginning of the End_, by Portrayal of Guilt
 - _Warped Speed_, by Cars Get Crushed
 
 </details>
@@ -32,13 +33,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _For Love of Grace & the Hereafter_, by Iceage
 - _歪曲_, by Shing02
 - _Here In the Valley_, by helllhound, Nailah Hunter
+- _new avatar_, by Kelela
 - _You Can't Kill God With Bullets_, by Conway the Machine
 - _The weathervane is my body_, by Truck Violence
 - _Leave Another Day_, by Milan W.
 - _WHACK'S MUSEUM_, by Tierra Whack
-- _new avatar_, by Kelela
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
-- _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
 
 </details>
 
