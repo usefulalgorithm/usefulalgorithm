@@ -11,12 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Warped Speed_, by Cars Get Crushed
 - _...Beginning of the End_, by Portrayal of Guilt
 - _new avatar_, by Kelela
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
-- _idea 1_, by Kelela
-- _linknb_, by Kelela
+- _Warped Speed_, by Cars Get Crushed
 
 </details>
 
@@ -39,9 +36,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The weathervane is my body_, by Truck Violence
 - _Leave Another Day_, by Milan W.
 - _WHACK'S MUSEUM_, by Tierra Whack
+- _new avatar_, by Kelela
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _REDSTAR WU & THE WORLDWIDE SCOURGE_, by Genesis Owusu
-- _Inferno_, by Boards of Canada
 
 </details>
 
