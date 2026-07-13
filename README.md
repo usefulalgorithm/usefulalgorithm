@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _MIXTAPE PLUTO_, by Future
+- _...Beginning of the End_, by Portrayal of Guilt
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _new avatar_, by Kelela
-- _...Beginning of the End_, by Portrayal of Guilt
 
 </details>
 
