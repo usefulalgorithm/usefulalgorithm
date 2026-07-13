@@ -14,15 +14,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _new avatar_, by Kelela
 - _...Beginning of the End_, by Portrayal of Guilt
-- _Warped Speed_, by Cars Get Crushed
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Warm Shadows_, by Memotone
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
+- _Warm Shadows_, by Memotone
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Hum of Hurt_, by Converge
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
