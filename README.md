@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _new avatar_, by Kelela
 - _Nightbringers_, by The Black Dahlia Murder
 - _Nocturnal_, by The Black Dahlia Murder
 - _Warped Speed_, by Cars Get Crushed
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
-- _MIXTAPE PLUTO_, by Future
 
 </details>
 
@@ -31,17 +31,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Body of Work_, by Edward Skeletrix
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Potpourri_, by Debit
-- _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _For Love of Grace & the Hereafter_, by Iceage
 - _歪曲_, by Shing02
-- _Here In the Valley_, by helllhound, Nailah Hunter
 - _new avatar_, by Kelela
-- _You Can't Kill God With Bullets_, by Conway the Machine
+- _Here In the Valley_, by helllhound, Nailah Hunter
+- _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
+- _Nightbringers_, by The Black Dahlia Murder
 - _The weathervane is my body_, by Truck Violence
 - _Leave Another Day_, by Milan W.
 - _WHACK'S MUSEUM_, by Tierra Whack
-- _Nightbringers_, by The Black Dahlia Murder
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _You Can't Kill God With Bullets_, by Conway the Machine
 
 </details>
 
