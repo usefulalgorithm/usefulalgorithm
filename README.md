@@ -12,10 +12,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Nightbringers_, by The Black Dahlia Murder
+- _Nocturnal_, by The Black Dahlia Murder
+- _Warped Speed_, by Cars Get Crushed
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _MIXTAPE PLUTO_, by Future
-- _new avatar_, by Kelela
 
 </details>
 
@@ -39,6 +40,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _The weathervane is my body_, by Truck Violence
 - _Leave Another Day_, by Milan W.
 - _WHACK'S MUSEUM_, by Tierra Whack
+- _Nightbringers_, by The Black Dahlia Murder
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 
 </details>
