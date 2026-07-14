@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _new avatar_, by Kelela
 - _Nightbringers_, by The Black Dahlia Murder
 - _Nocturnal_, by The Black Dahlia Murder
 - _Warped Speed_, by Cars Get Crushed
 - _...Beginning of the End_, by Portrayal of Guilt
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 
 </details>
 
