@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _MIXTAPE PLUTO_, by Future
+- _Nightbringers_, by The Black Dahlia Murder
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
+- _MIXTAPE PLUTO_, by Future
 - _new avatar_, by Kelela
 
 </details>
@@ -24,12 +25,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Warm Shadows_, by Memotone
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
-- _Hum of Hurt_, by Converge
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
-- _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
+- _Hum of Hurt_, by Converge
 - _Body of Work_, by Edward Skeletrix
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Potpourri_, by Debit
+- _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _For Love of Grace & the Hereafter_, by Iceage
 - _歪曲_, by Shing02
 - _Here In the Valley_, by helllhound, Nailah Hunter
