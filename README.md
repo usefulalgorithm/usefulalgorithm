@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Nightbringers_, by The Black Dahlia Murder
 - _new avatar_, by Kelela
 - _...Beginning of the End_, by Portrayal of Guilt
@@ -27,10 +28,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
-- _Hum of Hurt_, by Converge
 - _Potpourri_, by Debit
 - _For Love of Grace & the Hereafter_, by Iceage
 - _歪曲_, by Shing02
+- _Hum of Hurt_, by Converge
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
 - _Body of Work_, by Edward Skeletrix
