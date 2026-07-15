@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _new avatar_, by Kelela
 - _...Beginning of the End_, by Portrayal of Guilt
 - _All The Cages Holding Us Will One Day Turn To Dust_, by Snag
 - _Nightbringers_, by The Black Dahlia Murder
@@ -34,6 +35,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Body of Work_, by Edward Skeletrix
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
+- _...Beginning of the End_, by Portrayal of Guilt
 - _The weathervane is my body_, by Truck Violence
 - _Leave Another Day_, by Milan W.
 - _WHACK'S MUSEUM_, by Tierra Whack
