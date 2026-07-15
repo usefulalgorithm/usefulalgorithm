@@ -11,11 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _...Beginning of the End_, by Portrayal of Guilt
 - _All The Cages Holding Us Will One Day Turn To Dust_, by Snag
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
-- _new avatar_, by Kelela
 - _Nightbringers_, by The Black Dahlia Murder
-- _Nocturnal_, by The Black Dahlia Murder
 
 </details>
 
@@ -27,6 +25,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _new avatar_, by Kelela
+- _Nightbringers_, by The Black Dahlia Murder
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Hum of Hurt_, by Converge
 - _Potpourri_, by Debit
@@ -35,7 +34,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Body of Work_, by Edward Skeletrix
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
-- _Nightbringers_, by The Black Dahlia Murder
 - _The weathervane is my body_, by Truck Violence
 - _Leave Another Day_, by Milan W.
 - _WHACK'S MUSEUM_, by Tierra Whack
