@@ -23,9 +23,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Warm Shadows_, by Memotone
+- _new avatar_, by Kelela
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
-- _new avatar_, by Kelela
 - _Nightbringers_, by The Black Dahlia Murder
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Hum of Hurt_, by Converge
