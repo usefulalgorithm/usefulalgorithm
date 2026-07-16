@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _As We Suffer From Memory & Imagination_, by Nuvolascura
 - _riften_, by Lord Snow
+- _As We Suffer From Memory & Imagination_, by Nuvolascura
 - _Cutting the Throat of God_, by Ulcerate
 - _new avatar_, by Kelela
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
