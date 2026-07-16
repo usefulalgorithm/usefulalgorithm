@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _new avatar_, by Kelela
 - _riften_, by Lord Snow
 - _As We Suffer From Memory & Imagination_, by Nuvolascura
-- _Cutting the Throat of God_, by Ulcerate
 
 </details>
 
