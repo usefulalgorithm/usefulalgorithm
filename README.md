@@ -11,12 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _new avatar_, by Kelela
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Nowhere Speaks_, by Emptiness
 - _Nightbringers_, by The Black Dahlia Murder
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 
 </details>
 
