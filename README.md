@@ -11,11 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _...Beginning of the End_, by Portrayal of Guilt
 - _Nowhere Speaks_, by Emptiness
 - _Nightbringers_, by The Black Dahlia Murder
+- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
-- _new avatar_, by Kelela
-- _...Beginning of the End_, by Portrayal of Guilt
 
 </details>
 
@@ -24,24 +25,22 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Warm Shadows_, by Memotone
-- _new avatar_, by Kelela
 - _Nightbringers_, by The Black Dahlia Murder
+- _new avatar_, by Kelela
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
+- _...Beginning of the End_, by Portrayal of Guilt
 - _Potpourri_, by Debit
 - _歪曲_, by Shing02
 - _Hum of Hurt_, by Converge
 - _Here In the Valley_, by helllhound, Nailah Hunter
-- _ROADRUNNER: NEW LIGHT, NEW MACHINE_, by BROCKHAMPTON
-- _For Love of Grace & the Hereafter_, by Iceage
 - _Body of Work_, by Edward Skeletrix
-- _...Beginning of the End_, by Portrayal of Guilt
+- _For Love of Grace & the Hereafter_, by Iceage
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _The weathervane is my body_, by Truck Violence
 - _Leave Another Day_, by Milan W.
 - _WHACK'S MUSEUM_, by Tierra Whack
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
-- _You Can't Kill God With Bullets_, by Conway the Machine
 
 </details>
 
