@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _new avatar_, by Kelela
+- _MUDY IN SQUALL_, by mudy on the 昨晩
 - _riften_, by Lord Snow
 - _Bborn Again_, by PPP, Piezo, DJ Plead, DJ Python
-- _new avatar_, by Kelela
-- _As We Suffer From Memory & Imagination_, by Nuvolascura
 
 </details>
 
