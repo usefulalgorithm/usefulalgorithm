@@ -12,8 +12,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
+- _How This All Ends_, by Nuvolascura
 - _As We Suffer From Memory & Imagination_, by Nuvolascura
-- _new avatar_, by Kelela
 
 </details>
 
@@ -32,11 +32,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hum of Hurt_, by Converge
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _Body of Work_, by Edward Skeletrix
-- _For Love of Grace & the Hereafter_, by Iceage
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _The weathervane is my body_, by Truck Violence
 - _Potpourri_, by Debit
 - _WHACK'S MUSEUM_, by Tierra Whack
+- _For Love of Grace & the Hereafter_, by Iceage
 
 </details>
 
