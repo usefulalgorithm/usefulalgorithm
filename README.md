@@ -11,33 +11,31 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
+- _As We Suffer From Memory & Imagination_, by Nuvolascura
 - _new avatar_, by Kelela
-- _MUDY IN SQUALL_, by mudy on the 昨晩
-- _riften_, by Lord Snow
-- _Bborn Again_, by PPP, Piezo, DJ Plead, DJ Python
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _new avatar_, by Kelela
-- _Warm Shadows_, by Memotone
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Nightbringers_, by The Black Dahlia Murder
+- _Warm Shadows_, by Memotone
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _...Beginning of the End_, by Portrayal of Guilt
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _歪曲_, by Shing02
 - _Hum of Hurt_, by Converge
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _Body of Work_, by Edward Skeletrix
-- _Potpourri_, by Debit
 - _For Love of Grace & the Hereafter_, by Iceage
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _The weathervane is my body_, by Truck Violence
-- _Leave Another Day_, by Milan W.
+- _Potpourri_, by Debit
 - _WHACK'S MUSEUM_, by Tierra Whack
 
 </details>
