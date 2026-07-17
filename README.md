@@ -20,8 +20,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _new avatar_, by Kelela
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
+- _new avatar_, by Kelela
 - _Nightbringers_, by The Black Dahlia Murder
 - _Warm Shadows_, by Memotone
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
