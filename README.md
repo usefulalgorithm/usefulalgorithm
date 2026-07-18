@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _new avatar_, by Kelela
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _How This All Ends_, by Nuvolascura
@@ -25,8 +26,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _new avatar_, by Kelela
 - _Nightbringers_, by The Black Dahlia Murder
 - _Warm Shadows_, by Memotone
-- _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
+- _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _歪曲_, by Shing02
