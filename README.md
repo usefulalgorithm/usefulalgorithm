@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _new avatar_, by Kelela
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _How This All Ends_, by Nuvolascura
 - _As We Suffer From Memory & Imagination_, by Nuvolascura
@@ -33,8 +34,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _歪曲_, by Shing02
 - _Hum of Hurt_, by Converge
 - _Here In the Valley_, by helllhound, Nailah Hunter
-- _Body of Work_, by Edward Skeletrix
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Body of Work_, by Edward Skeletrix
 - _The weathervane is my body_, by Truck Violence
 - _Potpourri_, by Debit
 - _WHACK'S MUSEUM_, by Tierra Whack
