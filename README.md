@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _rain music_, by Duval Timothy, Carlos Niño
 - _new avatar_, by Kelela
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
