@@ -18,8 +18,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _rain music_, by Duval Timothy, Carlos Niño
-- _new avatar_, by Kelela
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 
 </details>
 
@@ -35,10 +33,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _歪曲_, by Shing02
-- _Hum of Hurt_, by Converge
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Body of Work_, by Edward Skeletrix
+- _Hum of Hurt_, by Converge
 - _The weathervane is my body_, by Truck Violence
 - _WHACK'S MUSEUM_, by Tierra Whack
 
