@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _life of mu_, by mu tate
+- _...Beginning of the End_, by Portrayal of Guilt
+- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _rain music_, by Duval Timothy, Carlos Niño
 - _new avatar_, by Kelela
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
-- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
-- _How This All Ends_, by Nuvolascura
-- _As We Suffer From Memory & Imagination_, by Nuvolascura
 
 </details>
 
