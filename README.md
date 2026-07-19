@@ -12,6 +12,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _life of mu_, by mu tate
+- _Bborn Again_, by PPP, Piezo, DJ Plead, DJ Python
+- _Tollbooth / Linkletter_, by Linkletter, Tollbooth
+- _Teratogenesis (Deluxe Edition)_, by Revocation
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _rain music_, by Duval Timothy, Carlos Niño
@@ -37,9 +40,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Body of Work_, by Edward Skeletrix
 - _The weathervane is my body_, by Truck Violence
-- _Potpourri_, by Debit
 - _WHACK'S MUSEUM_, by Tierra Whack
-- _For Love of Grace & the Hereafter_, by Iceage
 
 </details>
 
