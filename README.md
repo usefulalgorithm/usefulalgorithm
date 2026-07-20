@@ -12,7 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _life of mu_, by mu tate
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
+- _Body of Work_, by Edward Skeletrix
 
 </details>
 
@@ -28,11 +28,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _歪曲_, by Shing02
+- _Body of Work_, by Edward Skeletrix
+- _life of mu_, by mu tate
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
-- _Body of Work_, by Edward Skeletrix
 - _Hum of Hurt_, by Converge
-- _life of mu_, by mu tate
 - _The weathervane is my body_, by Truck Violence
 - _WHACK'S MUSEUM_, by Tierra Whack
 
