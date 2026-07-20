@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Glued to the TV_, by LA Timpa
+- _Monopoly of Mistakes_, by Lolina
 - _life of mu_, by mu tate
 - _Body of Work_, by Edward Skeletrix
 
