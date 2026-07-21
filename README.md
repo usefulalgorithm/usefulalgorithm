@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _new avatar_, by Kelela
 - _Body of Work_, by Edward Skeletrix
 - _Monopoly of Mistakes_, by Lolina
 - _Glued to the TV_, by LA Timpa
@@ -29,10 +30,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Body of Work_, by Edward Skeletrix
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _歪曲_, by Shing02
 - _life of mu_, by mu tate
 - _Here In the Valley_, by helllhound, Nailah Hunter
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Hum of Hurt_, by Converge
 - _The weathervane is my body_, by Truck Violence
