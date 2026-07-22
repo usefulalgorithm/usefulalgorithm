@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Body of Work_, by Edward Skeletrix
 - _new avatar_, by Kelela
