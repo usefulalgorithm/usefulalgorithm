@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
+- _Body of Work_, by Edward Skeletrix
 - _new avatar_, by Kelela
 - _Glued to the TV_, by LA Timpa
-- _Body of Work_, by Edward Skeletrix
 
 </details>
 
@@ -25,13 +26,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Nightbringers_, by The Black Dahlia Murder
 - _Warm Shadows_, by Memotone
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
-- _...Beginning of the End_, by Portrayal of Guilt
 - _Body of Work_, by Edward Skeletrix
+- _...Beginning of the End_, by Portrayal of Guilt
 - _歪曲_, by Shing02
-- _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _life of mu_, by mu tate
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Hum of Hurt_, by Converge
 - _The weathervane is my body_, by Truck Violence
