@@ -11,25 +11,24 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Glued to the TV_, by LA Timpa
 - _new avatar_, by Kelela
 - _Body of Work_, by Edward Skeletrix
 - _Monopoly of Mistakes_, by Lolina
-- _Glued to the TV_, by LA Timpa
-- _life of mu_, by mu tate
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _new avatar_, by Kelela
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Nightbringers_, by The Black Dahlia Murder
 - _Warm Shadows_, by Memotone
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
-- _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Body of Work_, by Edward Skeletrix
+- _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _歪曲_, by Shing02
 - _life of mu_, by mu tate
 - _Here In the Valley_, by helllhound, Nailah Hunter
