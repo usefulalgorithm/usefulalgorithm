@@ -11,10 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Glued to the TV_, by LA Timpa
 - _new avatar_, by Kelela
+- _Glued to the TV_, by LA Timpa
 - _Body of Work_, by Edward Skeletrix
-- _Monopoly of Mistakes_, by Lolina
 
 </details>
 
@@ -28,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Body of Work_, by Edward Skeletrix
-- _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _歪曲_, by Shing02
+- _Demand to Be Taken to Heaven Alive!_, by Horse Lords
 - _life of mu_, by mu tate
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
