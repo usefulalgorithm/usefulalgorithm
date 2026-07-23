@@ -34,10 +34,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
-- _Hum of Hurt_, by Converge
 - _The weathervane is my body_, by Truck Violence
 - _WHACK'S MUSEUM_, by Tierra Whack
 - _Teratogenesis (Deluxe Edition)_, by Revocation
+- _Hum of Hurt_, by Converge
 
 </details>
 
