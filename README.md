@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Body of Work_, by Edward Skeletrix
-- _new avatar_, by Kelela
 
 </details>
 
@@ -27,8 +26,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Nightbringers_, by The Black Dahlia Murder
 - _Warm Shadows_, by Memotone
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
-- _Body of Work_, by Edward Skeletrix
 - _...Beginning of the End_, by Portrayal of Guilt
+- _Body of Work_, by Edward Skeletrix
 - _歪曲_, by Shing02
 - _life of mu_, by mu tate
 - _Here In the Valley_, by helllhound, Nailah Hunter
