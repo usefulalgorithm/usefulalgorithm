@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
+- _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Melt My Eyez See Your Future_, by Denzel Curry
+- _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Origins_, by Foul Play
 - _Hacer Extraño_, by Dentadura
 - _Glued to the TV_, by LA Timpa
@@ -40,15 +41,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hacer Extraño_, by Dentadura
 - _The weathervane is my body_, by Truck Violence
 - _WHACK'S MUSEUM_, by Tierra Whack
+- _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 
 </details>
 
 ## 📚
 
-Just finished reading _Dictee_, by Theresa Hak Kyung Cha ([link](https://hardcover.app/books/dictee-1982)). It's a good book.
+Just finished reading _The Hearing Test_, by Eliza Barry Callahan ([link](https://hardcover.app/books/the-hearing-test)). It's a good book.
 
-Gotta finish 25 books before 2027-01-01. I've read 10 so far.
+Gotta finish 25 books before 2027-01-01. I've read 14 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
