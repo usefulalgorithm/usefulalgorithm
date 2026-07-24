@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Hacer Extraño_, by Dentadura
+- _Glued to the TV_, by LA Timpa
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Body of Work_, by Edward Skeletrix
