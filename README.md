@@ -11,10 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Glued to the TV_, by LA Timpa
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
-- _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
+- _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
+- _Melt My Eyez See Your Future_, by Denzel Curry
+- _Origins_, by Foul Play
 - _Hacer Extraño_, by Dentadura
+- _Glued to the TV_, by LA Timpa
+- _Entertainment System_, by Manonmars, O$VMV$M
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 
 </details>
 
@@ -27,17 +30,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Warm Shadows_, by Memotone
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _...Beginning of the End_, by Portrayal of Guilt
-- _Body of Work_, by Edward Skeletrix
 - _歪曲_, by Shing02
 - _life of mu_, by mu tate
 - _Here In the Valley_, by helllhound, Nailah Hunter
+- _Body of Work_, by Edward Skeletrix
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Glued to the TV_, by LA Timpa
+- _Hacer Extraño_, by Dentadura
 - _The weathervane is my body_, by Truck Violence
 - _WHACK'S MUSEUM_, by Tierra Whack
 - _Teratogenesis (Deluxe Edition)_, by Revocation
-- _Hum of Hurt_, by Converge
 
 </details>
 
