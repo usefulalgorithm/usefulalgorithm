@@ -11,15 +11,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _Frances the Mute_, by The Mars Volta
+- _living proof_, by lemon bread
+- _riften_, by Lord Snow
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Nightbringers_, by The Black Dahlia Murder
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Entertainment System_, by Manonmars, O$VMV$M
 - _Origins_, by Foul Play
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Melt My Eyez See Your Future_, by Denzel Curry
-- _Hacer Extraño_, by Dentadura
-- _Glued to the TV_, by LA Timpa
 
 </details>
 
@@ -31,21 +32,21 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Nightbringers_, by The Black Dahlia Murder
 - _Warm Shadows_, by Memotone
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
-- _...Beginning of the End_, by Portrayal of Guilt
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _...Beginning of the End_, by Portrayal of Guilt
+- _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _歪曲_, by Shing02
 - _life of mu_, by mu tate
-- _Here In the Valley_, by helllhound, Nailah Hunter
-- _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Body of Work_, by Edward Skeletrix
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Here In the Valley_, by helllhound, Nailah Hunter
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Glued to the TV_, by LA Timpa
 - _Hacer Extraño_, by Dentadura
 - _The weathervane is my body_, by Truck Violence
+- _Melt My Eyez See Your Future_, by Denzel Curry
 - _WHACK'S MUSEUM_, by Tierra Whack
 - _Teratogenesis (Deluxe Edition)_, by Revocation
-- _Melt My Eyez See Your Future_, by Denzel Curry
 
 </details>
 
