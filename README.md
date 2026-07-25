@@ -11,12 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
+- _Nightbringers_, by The Black Dahlia Murder
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Entertainment System_, by Manonmars, O$VMV$M
 - _Origins_, by Foul Play
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Melt My Eyez See Your Future_, by Denzel Curry
-- _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Hacer Extraño_, by Dentadura
 - _Glued to the TV_, by LA Timpa
 
@@ -35,13 +36,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _歪曲_, by Shing02
 - _life of mu_, by mu tate
 - _Here In the Valley_, by helllhound, Nailah Hunter
+- _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Body of Work_, by Edward Skeletrix
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Glued to the TV_, by LA Timpa
 - _Hacer Extraño_, by Dentadura
 - _The weathervane is my body_, by Truck Violence
-- _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _WHACK'S MUSEUM_, by Tierra Whack
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 - _Melt My Eyez See Your Future_, by Denzel Curry
