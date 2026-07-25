@@ -11,14 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Entertainment System_, by Manonmars, O$VMV$M
+- _Origins_, by Foul Play
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
-- _Origins_, by Foul Play
 - _Hacer Extraño_, by Dentadura
 - _Glued to the TV_, by LA Timpa
-- _Entertainment System_, by Manonmars, O$VMV$M
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 
 </details>
 
@@ -40,9 +39,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Glued to the TV_, by LA Timpa
 - _Hacer Extraño_, by Dentadura
 - _The weathervane is my body_, by Truck Violence
-- _WHACK'S MUSEUM_, by Tierra Whack
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
+- _WHACK'S MUSEUM_, by Tierra Whack
 - _Teratogenesis (Deluxe Edition)_, by Revocation
+- _Melt My Eyez See Your Future_, by Denzel Curry
 
 </details>
 
