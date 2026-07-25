@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Entertainment System_, by Manonmars, O$VMV$M
 - _Origins_, by Foul Play
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
@@ -30,6 +31,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Warm Shadows_, by Memotone
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _...Beginning of the End_, by Portrayal of Guilt
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _歪曲_, by Shing02
 - _life of mu_, by mu tate
 - _Here In the Valley_, by helllhound, Nailah Hunter
