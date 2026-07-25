@@ -11,8 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _Hacer Extraño_, by Dentadura
 - _Frances the Mute_, by The Mars Volta
+- _Piñata_, by Freddie Gibbs, Madlib
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _living proof_, by lemon bread
 - _riften_, by Lord Snow
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
@@ -20,7 +22,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Entertainment System_, by Manonmars, O$VMV$M
 - _Origins_, by Foul Play
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
-- _Melt My Eyez See Your Future_, by Denzel Curry
 
 </details>
 
@@ -30,9 +31,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _new avatar_, by Kelela
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Nightbringers_, by The Black Dahlia Murder
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Warm Shadows_, by Memotone
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _歪曲_, by Shing02
