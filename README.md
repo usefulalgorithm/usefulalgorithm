@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Monopoly of Mistakes_, by Lolina
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
@@ -22,7 +23,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _living proof_, by lemon bread
 - _riften_, by Lord Snow
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
-- _Nightbringers_, by The Black Dahlia Murder
 
 </details>
 
