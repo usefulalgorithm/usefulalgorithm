@@ -11,12 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Monopoly of Mistakes_, by Lolina
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Hacer Extraño_, by Dentadura
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Frances the Mute_, by The Mars Volta
 - _Piñata_, by Freddie Gibbs, Madlib
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _living proof_, by lemon bread
 - _riften_, by Lord Snow
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
@@ -36,15 +38,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _歪曲_, by Shing02
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _life of mu_, by mu tate
 - _Body of Work_, by Edward Skeletrix
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Hacer Extraño_, by Dentadura
+- _Melt My Eyez See Your Future_, by Denzel Curry
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Glued to the TV_, by LA Timpa
 - _The weathervane is my body_, by Truck Violence
-- _Melt My Eyez See Your Future_, by Denzel Curry
 - _WHACK'S MUSEUM_, by Tierra Whack
 - _Teratogenesis (Deluxe Edition)_, by Revocation
 
