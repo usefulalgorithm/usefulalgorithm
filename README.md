@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Hacer Extraño_, by Dentadura
+- _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Frances the Mute_, by The Mars Volta
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
@@ -20,8 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Nightbringers_, by The Black Dahlia Murder
 - _Entertainment System_, by Manonmars, O$VMV$M
-- _Origins_, by Foul Play
-- _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 
 </details>
 
