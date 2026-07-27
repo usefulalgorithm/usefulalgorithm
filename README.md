@@ -12,17 +12,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
+- _Piñata_, by Freddie Gibbs, Madlib
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Monopoly of Mistakes_, by Lolina
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Hacer Extraño_, by Dentadura
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Frances the Mute_, by The Mars Volta
-- _Piñata_, by Freddie Gibbs, Madlib
-- _living proof_, by lemon bread
-- _riften_, by Lord Snow
-- _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 
 </details>
 
@@ -33,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Nightbringers_, by The Black Dahlia Murder
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _Warm Shadows_, by Memotone
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
+- _Warm Shadows_, by Memotone
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _歪曲_, by Shing02
@@ -46,9 +43,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Glued to the TV_, by LA Timpa
+- _Piñata_, by Freddie Gibbs, Madlib
 - _The weathervane is my body_, by Truck Violence
 - _WHACK'S MUSEUM_, by Tierra Whack
-- _Teratogenesis (Deluxe Edition)_, by Revocation
 
 </details>
 
