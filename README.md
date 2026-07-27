@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
+- _Morning Light_, by Locust
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
@@ -19,7 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Hacer Extraño_, by Dentadura
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
-- _Frances the Mute_, by The Mars Volta
 
 </details>
 
@@ -31,8 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Nightbringers_, by The Black Dahlia Murder
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
-- _Warm Shadows_, by Memotone
 - _...Beginning of the End_, by Portrayal of Guilt
+- _Warm Shadows_, by Memotone
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _歪曲_, by Shing02
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
