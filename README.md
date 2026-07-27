@@ -17,9 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Monopoly of Mistakes_, by Lolina
-- _Melt My Eyez See Your Future_, by Denzel Curry
-- _Hacer Extraño_, by Dentadura
-- _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 
 </details>
 
