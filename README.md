@@ -14,9 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Morning Light_, by Locust
 - _Hacer Extraño_, by Dentadura
 - _Monopoly of Mistakes_, by Lolina
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
-- _The Thinking Of The World Began Pounding In Our Ears The Moment We Hit Shore_, by The Thinking Of The World Began Pounding In Our Ears The Moment We Hit Shore, Florian T M Zeisig, More Eaze
-- _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 
 </details>
 
@@ -37,11 +34,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Body of Work_, by Edward Skeletrix
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Here In the Valley_, by helllhound, Nailah Hunter
-- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _Glued to the TV_, by LA Timpa
 - _Piñata_, by Freddie Gibbs, Madlib
 - _The weathervane is my body_, by Truck Violence
-- _Warm Shadows_, by Memotone
+- _Musique pour 3 femmes enceintes_, by Marc Leclair
 - _WHACK'S MUSEUM_, by Tierra Whack
 
 </details>
