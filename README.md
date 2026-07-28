@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
+- _Entertainment System_, by Manonmars, O$VMV$M
 - _Morning Light_, by Locust
+- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
@@ -29,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _...Beginning of the End_, by Portrayal of Guilt
-- _Warm Shadows_, by Memotone
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
+- _Warm Shadows_, by Memotone
 - _歪曲_, by Shing02
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _life of mu_, by mu tate
