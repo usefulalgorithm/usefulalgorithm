@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Morning Light_, by Locust
 - _Hacer Extraño_, by Dentadura
 - _Monopoly of Mistakes_, by Lolina
@@ -22,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _new avatar_, by Kelela
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
-- _Nightbringers_, by The Black Dahlia Murder
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _Nightbringers_, by The Black Dahlia Murder
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Hacer Extraño_, by Dentadura
 - _...Beginning of the End_, by Portrayal of Guilt
