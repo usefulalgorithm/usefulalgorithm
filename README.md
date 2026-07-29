@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Emotional Junglist_, by Nia Archives
 - _Hacer Extraño_, by Dentadura
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Morning Light_, by Locust
@@ -25,21 +26,21 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Nightbringers_, by The Black Dahlia Murder
-- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Hacer Extraño_, by Dentadura
+- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _歪曲_, by Shing02
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _life of mu_, by mu tate
-- _Body of Work_, by Edward Skeletrix
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _Glued to the TV_, by LA Timpa
+- _Body of Work_, by Edward Skeletrix
 - _Morning Light_, by Locust
 - _Piñata_, by Freddie Gibbs, Madlib
-- _The weathervane is my body_, by Truck Violence
 - _Musique pour 3 femmes enceintes_, by Marc Leclair
+- _WHACK'S MUSEUM_, by Tierra Whack
 
 </details>
 
