@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Emotional Junglist_, by Nia Archives
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 
 </details>
 
