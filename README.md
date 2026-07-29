@@ -11,11 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Emotional Junglist_, by Nia Archives
 - _Hacer Extraño_, by Dentadura
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Morning Light_, by Locust
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 
 </details>
 
