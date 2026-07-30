@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The Great Misdirect (2019 Remix / Remaster)_, by Between The Buried And Me
 - _Morning Light_, by Locust
 - _Hacer Extraño_, by Dentadura
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
