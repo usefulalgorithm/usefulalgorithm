@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Secret Love (Deluxe Edition)_, by Dry Cleaning
+- _Morning Light_, by Locust
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _Morning Light_, by Locust
-- _The Great Misdirect (2019 Remix / Remaster)_, by Between The Buried And Me
 
 </details>
 
@@ -34,8 +34,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _life of mu_, by mu tate
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Here In the Valley_, by helllhound, Nailah Hunter
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Glued to the TV_, by LA Timpa
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Secret Love_, by Dry Cleaning
 - _Piñata_, by Freddie Gibbs, Madlib
 
 </details>
