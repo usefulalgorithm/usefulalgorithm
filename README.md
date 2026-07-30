@@ -14,9 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Morning Light_, by Locust
 - _The Great Misdirect (2019 Remix / Remaster)_, by Between The Buried And Me
 - _Hacer Extraño_, by Dentadura
-- _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _Emotional Junglist_, by Nia Archives
 
 </details>
 
@@ -28,18 +25,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Nightbringers_, by The Black Dahlia Murder
 - _Hacer Extraño_, by Dentadura
-- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Morning Light_, by Locust
+- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _歪曲_, by Shing02
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _life of mu_, by mu tate
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _Glued to the TV_, by LA Timpa
 - _Piñata_, by Freddie Gibbs, Madlib
-- _WHACK'S MUSEUM_, by Tierra Whack
 
 </details>
 
