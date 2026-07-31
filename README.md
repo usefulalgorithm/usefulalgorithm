@@ -11,11 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Morning Light_, by Locust
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Lupe Fiasco's The Cool_, by Lupe Fiasco
-- _Morning Light_, by Locust
 - _Emotional Junglist_, by Nia Archives
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 
 </details>
 
@@ -25,8 +24,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _new avatar_, by Kelela
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _Nightbringers_, by The Black Dahlia Murder
 - _Morning Light_, by Locust
+- _Nightbringers_, by The Black Dahlia Murder
 - _Hacer Extraño_, by Dentadura
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _...Beginning of the End_, by Portrayal of Guilt
