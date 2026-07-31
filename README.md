@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Morning Light_, by Locust
+- _Emotional Junglist_, by Nia Archives
+- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 
 </details>
 
