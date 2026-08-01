@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _lazim alshams - لازم الشمس_, by nabeel - نبيل
+- _Emotional Junglist_, by Nia Archives
 - _Empros_, by Russian Circles
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Tetsuo & Youth_, by Lupe Fiasco
@@ -38,6 +40,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _Secret Love_, by Dry Cleaning
 - _Piñata_, by Freddie Gibbs, Madlib
+- _Emotional Junglist_, by Nia Archives
 
 </details>
 
