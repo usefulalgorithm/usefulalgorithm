@@ -31,10 +31,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Nightbringers_, by The Black Dahlia Murder
 - _Hacer Extraño_, by Dentadura
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
+- _Tetsuo & Youth_, by Lupe Fiasco
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Glued to the TV_, by LA Timpa
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
-- _Tetsuo & Youth_, by Lupe Fiasco
 - _life of mu_, by mu tate
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Here In the Valley_, by helllhound, Nailah Hunter
