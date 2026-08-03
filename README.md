@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Glued to the TV_, by LA Timpa
 - _Days Gone_, by Fayzz
 - _Morning Light_, by Locust
 - _Tetsuo & Youth_, by Lupe Fiasco
-- _Glued to the TV_, by LA Timpa
 - _lazim alshams - لازم الشمس_, by nabeel - نبيل
 - _Emotional Junglist_, by Nia Archives
 - _Empros_, by Russian Circles
