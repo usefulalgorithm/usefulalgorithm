@@ -12,13 +12,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Glued to the TV_, by LA Timpa
+- _Tetsuo & Youth_, by Lupe Fiasco
 - _Days Gone_, by Fayzz
 - _Morning Light_, by Locust
-- _Tetsuo & Youth_, by Lupe Fiasco
 - _lazim alshams - لازم الشمس_, by nabeel - نبيل
 - _Emotional Junglist_, by Nia Archives
 - _Empros_, by Russian Circles
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 
 </details>
 
