@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Emotional Junglist_, by Nia Archives
+- _Give U Space_, by K Wata
 - _Swerved_, by Nueen
+- _Emotional Junglist_, by Nia Archives
 - _Untitled_, by Ezmeralda
 - _Superwave EP_, by Low End Activist
 - _Hibiscus EP_, by Carré
-- _Glued to the TV_, by LA Timpa
 
 </details>
 
@@ -36,9 +36,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _life of mu_, by mu tate
 - _Emotional Junglist_, by Nia Archives
+- _Secret Love_, by Dry Cleaning
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Here In the Valley_, by helllhound, Nailah Hunter
-- _Secret Love_, by Dry Cleaning
 - _Piñata_, by Freddie Gibbs, Madlib
 
 </details>
