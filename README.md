@@ -11,12 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Give U Space_, by K Wata
+- _Morning Light_, by Locust
+- _Frances the Mute_, by The Mars Volta
+- _馬_, by betcover!!
 - _Swerved_, by Nueen
+- _Give U Space_, by K Wata
 - _Emotional Junglist_, by Nia Archives
 - _Untitled_, by Ezmeralda
 - _Superwave EP_, by Low End Activist
-- _Hibiscus EP_, by Carré
 
 </details>
 
