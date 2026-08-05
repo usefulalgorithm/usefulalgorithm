@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Swerved_, by Nueen
 - _Glued to the TV_, by LA Timpa
 - _Superwave EP_, by Low End Activist
 - _Morning Light_, by Locust
@@ -18,10 +19,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Frances the Mute_, by The Mars Volta
 - _馬_, by betcover!!
-- _Swerved_, by Nueen
 - _Give U Space_, by K Wata
 - _Emotional Junglist_, by Nia Archives
-- _Untitled_, by Ezmeralda
 
 </details>
 
@@ -35,9 +34,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Nightbringers_, by The Black Dahlia Murder
 - _Hacer Extraño_, by Dentadura
 - _Tetsuo & Youth_, by Lupe Fiasco
+- _Glued to the TV_, by LA Timpa
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
-- _Glued to the TV_, by LA Timpa
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Secret Love_, by Dry Cleaning
 - _Emotional Junglist_, by Nia Archives
