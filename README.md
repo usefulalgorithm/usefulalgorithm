@@ -17,10 +17,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Morning Light_, by Locust
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Tetsuo & Youth_, by Lupe Fiasco
-- _Frances the Mute_, by The Mars Volta
-- _馬_, by betcover!!
-- _Give U Space_, by K Wata
-- _Emotional Junglist_, by Nia Archives
 
 </details>
 
@@ -36,13 +32,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Glued to the TV_, by LA Timpa
 - _...Beginning of the End_, by Portrayal of Guilt
-- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Secret Love_, by Dry Cleaning
+- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Emotional Junglist_, by Nia Archives
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Here In the Valley_, by helllhound, Nailah Hunter
-- _life of mu_, by mu tate
 - _Piñata_, by Freddie Gibbs, Madlib
 
 </details>
