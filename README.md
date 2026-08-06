@@ -11,11 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Tetsuo & Youth_, by Lupe Fiasco
+- _Emotional Junglist_, by Nia Archives
+- _Nightbringers_, by The Black Dahlia Murder
 - _Dancin' In The Streets_, by Rat Heart
 - _Morning Light_, by Locust
-- _Nightbringers_, by The Black Dahlia Murder
 - _Swerved_, by Nueen
-- _Glued to the TV_, by LA Timpa
 
 </details>
 
@@ -25,16 +26,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _new avatar_, by Kelela
 - _Morning Light_, by Locust
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Nightbringers_, by The Black Dahlia Murder
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Hacer Extraño_, by Dentadura
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Glued to the TV_, by LA Timpa
 - _...Beginning of the End_, by Portrayal of Guilt
+- _Emotional Junglist_, by Nia Archives
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Secret Love_, by Dry Cleaning
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
-- _Emotional Junglist_, by Nia Archives
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Here In the Valley_, by helllhound, Nailah Hunter
 - _Piñata_, by Freddie Gibbs, Madlib
