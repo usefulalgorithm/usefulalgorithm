@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Dancin' In The Streets_, by Rat Heart
+- _Morning Light_, by Locust
+- _Nightbringers_, by The Black Dahlia Murder
 - _Swerved_, by Nueen
 - _Glued to the TV_, by LA Timpa
-- _Superwave EP_, by Low End Activist
-- _Morning Light_, by Locust
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
-- _Tetsuo & Youth_, by Lupe Fiasco
 
 </details>
 
