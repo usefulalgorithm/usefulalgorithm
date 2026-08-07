@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Swerved_, by Nueen
 - _Nightbringers_, by The Black Dahlia Murder
 - _Superwave EP_, by Low End Activist
 - _Weevil in Disguise_, by Celestaphone
@@ -19,7 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Emotional Junglist_, by Nia Archives
 - _Time Heals Everything_, by Blu & Exile, Blu, Exile
 - _TSOD_, by Blu, Exile, Blu & Exile
-- _Swerved_, by Nueen
 
 </details>
 
