@@ -37,11 +37,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Emotional Junglist_, by Nia Archives
 - _Secret Love_, by Dry Cleaning
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
-- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Swerved_, by Nueen
+- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Piñata_, by Freddie Gibbs, Madlib
-- _Here In the Valley_, by helllhound, Nailah Hunter
+- _Superwave EP_, by Low End Activist
 
 </details>
 
