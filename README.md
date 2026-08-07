@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Emotional Junglist_, by Nia Archives
 - _Time Heals Everything_, by Blu & Exile, Blu, Exile
