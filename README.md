@@ -40,8 +40,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Swerved_, by Nueen
-- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Piñata_, by Freddie Gibbs, Madlib
+- _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Superwave EP_, by Low End Activist
 
 </details>
