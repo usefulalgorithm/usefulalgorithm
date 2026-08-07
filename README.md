@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Swerved_, by Nueen
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Emotional Junglist_, by Nia Archives
 - _Nightbringers_, by The Black Dahlia Murder
 - _Dancin' In The Streets_, by Rat Heart
 - _Morning Light_, by Locust
-- _Swerved_, by Nueen
 
 </details>
 
@@ -25,9 +25,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _new avatar_, by Kelela
 - _Morning Light_, by Locust
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Nightbringers_, by The Black Dahlia Murder
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Hacer Extraño_, by Dentadura
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Glued to the TV_, by LA Timpa
