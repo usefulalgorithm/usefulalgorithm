@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Swerved_, by Nueen
-- _Tetsuo & Youth_, by Lupe Fiasco
+- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Emotional Junglist_, by Nia Archives
-- _Nightbringers_, by The Black Dahlia Murder
-- _Dancin' In The Streets_, by Rat Heart
-- _Morning Light_, by Locust
+- _Time Heals Everything_, by Blu & Exile, Blu, Exile
+- _TSOD_, by Blu, Exile, Blu & Exile
+- _Swerved_, by Nueen
 
 </details>
 
@@ -28,17 +27,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Nightbringers_, by The Black Dahlia Murder
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
-- _Hacer Extraño_, by Dentadura
 - _Tetsuo & Youth_, by Lupe Fiasco
+- _Hacer Extraño_, by Dentadura
 - _Glued to the TV_, by LA Timpa
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Emotional Junglist_, by Nia Archives
-- _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Secret Love_, by Dry Cleaning
+- _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Tragic Magic_, by Julianna Barwick, Mary Lattimore
 - _Melt My Eyez See Your Future_, by Denzel Curry
-- _Here In the Valley_, by helllhound, Nailah Hunter
+- _Swerved_, by Nueen
 - _Piñata_, by Freddie Gibbs, Madlib
+- _Here In the Valley_, by helllhound, Nailah Hunter
 
 </details>
 
