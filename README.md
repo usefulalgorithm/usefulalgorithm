@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Melodies International presents Ariwa Sounds_, by Mad Professor
+- _Wap Konn Jòj!_, by Mach-Hommy
 - _Nightbringers_, by The Black Dahlia Murder
 - _Swerved_, by Nueen
 - _Superwave EP_, by Low End Activist
@@ -19,7 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Emotional Junglist_, by Nia Archives
 - _Time Heals Everything_, by Blu & Exile, Blu, Exile
-- _TSOD_, by Blu, Exile, Blu & Exile
 
 </details>
 
