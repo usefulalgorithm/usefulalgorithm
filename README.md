@@ -35,9 +35,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Hacer Extraño_, by Dentadura
 - _Glued to the TV_, by LA Timpa
-- _...Beginning of the End_, by Portrayal of Guilt
 - _Emotional Junglist_, by Nia Archives
 - _Secret Love_, by Dry Cleaning
+- _...Beginning of the End_, by Portrayal of Guilt
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Swerved_, by Nueen
 - _Melt My Eyez See Your Future_, by Denzel Curry
