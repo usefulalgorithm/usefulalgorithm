@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Swerved_, by Nueen
 - _Melodies International presents Ariwa Sounds_, by Mad Professor
 - _Wap Konn Jòj!_, by Mach-Hommy
 - _Nightbringers_, by The Black Dahlia Murder
-- _Swerved_, by Nueen
 - _Superwave EP_, by Low End Activist
 - _Weevil in Disguise_, by Celestaphone
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
