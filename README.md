@@ -16,20 +16,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Wap Konn Jòj!_, by Mach-Hommy
 - _Nightbringers_, by The Black Dahlia Murder
 - _Superwave EP_, by Low End Activist
-- _Weevil in Disguise_, by Celestaphone
-- _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
-- _Emotional Junglist_, by Nia Archives
-- _Time Heals Everything_, by Blu & Exile, Blu, Exile
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _new avatar_, by Kelela
 - _Morning Light_, by Locust
 - _Nightbringers_, by The Black Dahlia Murder
+- _new avatar_, by Kelela
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Tetsuo & Youth_, by Lupe Fiasco
@@ -37,13 +32,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Glued to the TV_, by LA Timpa
 - _Emotional Junglist_, by Nia Archives
 - _Secret Love_, by Dry Cleaning
-- _...Beginning of the End_, by Portrayal of Guilt
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Swerved_, by Nueen
+- _...Beginning of the End_, by Portrayal of Guilt
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Superwave EP_, by Low End Activist
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
+- _Teratogenesis (Deluxe Edition)_, by Revocation
 
 </details>
 
