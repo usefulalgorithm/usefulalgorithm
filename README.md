@@ -13,9 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Swerved_, by Nueen
 - _Melodies International presents Ariwa Sounds_, by Mad Professor
-- _Wap Konn Jòj!_, by Mach-Hommy
-- _Nightbringers_, by The Black Dahlia Murder
-- _Superwave EP_, by Low End Activist
 
 </details>
 
@@ -31,15 +28,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hacer Extraño_, by Dentadura
 - _Glued to the TV_, by LA Timpa
 - _Emotional Junglist_, by Nia Archives
+- _Swerved_, by Nueen
 - _Secret Love_, by Dry Cleaning
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
-- _Swerved_, by Nueen
 - _...Beginning of the End_, by Portrayal of Guilt
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Superwave EP_, by Low End Activist
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
-- _Teratogenesis (Deluxe Edition)_, by Revocation
 
 </details>
 
