@@ -23,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Nightbringers_, by The Black Dahlia Murder
 - _new avatar_, by Kelela
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Tetsuo & Youth_, by Lupe Fiasco
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Hacer Extraño_, by Dentadura
 - _Glued to the TV_, by LA Timpa
 - _Emotional Junglist_, by Nia Archives
