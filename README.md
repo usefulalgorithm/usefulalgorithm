@@ -20,13 +20,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Morning Light_, by Locust
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Nightbringers_, by The Black Dahlia Murder
 - _new avatar_, by Kelela
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Swerved_, by Nueen
 - _Tetsuo & Youth_, by Lupe Fiasco
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Hacer Extraño_, by Dentadura
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Glued to the TV_, by LA Timpa
 - _Emotional Junglist_, by Nia Archives
 - _Secret Love_, by Dry Cleaning
