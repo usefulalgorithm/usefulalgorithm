@@ -11,29 +11,28 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Nightbringers_, by The Black Dahlia Murder
-- _Melodies International presents Ariwa Sounds_, by Mad Professor
 - _Swerved_, by Nueen
+- _Nightbringers_, by The Black Dahlia Murder
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Morning Light_, by Locust
 - _Nightbringers_, by The Black Dahlia Murder
+- _Morning Light_, by Locust
 - _new avatar_, by Kelela
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Hacer Extraño_, by Dentadura
+- _Swerved_, by Nueen
 - _Glued to the TV_, by LA Timpa
 - _Emotional Junglist_, by Nia Archives
-- _Swerved_, by Nueen
 - _Secret Love_, by Dry Cleaning
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
-- _...Beginning of the End_, by Portrayal of Guilt
 - _Melt My Eyez See Your Future_, by Denzel Curry
+- _...Beginning of the End_, by Portrayal of Guilt
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Superwave EP_, by Low End Activist
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
