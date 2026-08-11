@@ -19,8 +19,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Morning Light_, by Locust
-- _new avatar_, by Kelela
 - _Nightbringers_, by The Black Dahlia Murder
+- _new avatar_, by Kelela
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Swerved_, by Nueen
 - _Tetsuo & Youth_, by Lupe Fiasco
