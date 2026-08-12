@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Glued to the TV_, by LA Timpa
 - _Time Heals Everything_, by Blu & Exile, Blu, Exile
 - _Swerved_, by Nueen
 
