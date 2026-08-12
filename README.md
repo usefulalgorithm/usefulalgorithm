@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Swerved_, by Nueen
 - _Time Heals Everything_, by Blu & Exile, Blu, Exile
@@ -31,10 +33,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hacer Extraño_, by Dentadura
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Glued to the TV_, by LA Timpa
-- _Emotional Junglist_, by Nia Archives
 - _Secret Love_, by Dry Cleaning
+- _Emotional Junglist_, by Nia Archives
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Melt My Eyez See Your Future_, by Denzel Curry
+- _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Piñata_, by Freddie Gibbs, Madlib
 
 </details>
