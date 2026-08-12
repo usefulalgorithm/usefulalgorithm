@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Glued to the TV_, by LA Timpa
 - _Time Heals Everything_, by Blu & Exile, Blu, Exile
+- _Glued to the TV_, by LA Timpa
 - _Swerved_, by Nueen
 
 </details>
@@ -22,8 +22,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Morning Light_, by Locust
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _Nightbringers_, by The Black Dahlia Murder
 - _new avatar_, by Kelela
+- _Nightbringers_, by The Black Dahlia Murder
 - _Swerved_, by Nueen
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Hacer Extraño_, by Dentadura
@@ -33,7 +33,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Secret Love_, by Dry Cleaning
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Melt My Eyez See Your Future_, by Denzel Curry
-- _...Beginning of the End_, by Portrayal of Guilt
 - _Piñata_, by Freddie Gibbs, Madlib
 
 </details>
