@@ -11,9 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Time Heals Everything_, by Blu & Exile, Blu, Exile
-- _Glued to the TV_, by LA Timpa
+- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Swerved_, by Nueen
+- _Time Heals Everything_, by Blu & Exile, Blu, Exile
+- _TSOD_, by Blu, Exile, Blu & Exile
+- _Glued to the TV_, by LA Timpa
 
 </details>
 
@@ -22,9 +24,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Morning Light_, by Locust
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _new avatar_, by Kelela
-- _Nightbringers_, by The Black Dahlia Murder
 - _Swerved_, by Nueen
+- _Nightbringers_, by The Black Dahlia Murder
+- _new avatar_, by Kelela
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Hacer Extraño_, by Dentadura
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
