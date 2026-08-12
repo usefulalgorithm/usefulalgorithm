@@ -11,13 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _lambspring_, by lulamoon
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Swerved_, by Nueen
-- _Time Heals Everything_, by Blu & Exile, Blu, Exile
-- _TSOD_, by Blu, Exile, Blu & Exile
-- _Glued to the TV_, by LA Timpa
 
 </details>
 
