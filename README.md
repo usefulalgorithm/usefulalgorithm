@@ -11,13 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _lambspring_, by lulamoon
+- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Time Heals Everything_, by Blu & Exile, Blu, Exile
 - _Nightbringers_, by The Black Dahlia Murder
 - _Morning Light_, by Locust
-- _lambspring_, by lulamoon
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 
 </details>
 
@@ -29,11 +29,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Swerved_, by Nueen
 - _new avatar_, by Kelela
 - _Tetsuo & Youth_, by Lupe Fiasco
-- _Nightbringers_, by The Black Dahlia Murder
 - _Hacer Extraño_, by Dentadura
+- _Nightbringers_, by The Black Dahlia Murder
+- _Secret Love_, by Dry Cleaning
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Glued to the TV_, by LA Timpa
-- _Secret Love_, by Dry Cleaning
 - _Emotional Junglist_, by Nia Archives
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Melt My Eyez See Your Future_, by Denzel Curry
