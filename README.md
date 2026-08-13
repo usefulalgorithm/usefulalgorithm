@@ -11,8 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Wap Konn Jòj!_, by Mach-Hommy
+- _new avatar_, by Kelela
+- _Morning Light_, by Locust
 - _lambspring_, by lulamoon
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 
 </details>
 
@@ -34,6 +36,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Piñata_, by Freddie Gibbs, Madlib
+- _lambspring_, by lulamoon
 
 </details>
 
