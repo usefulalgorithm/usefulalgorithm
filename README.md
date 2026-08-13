@@ -13,11 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _lambspring_, by lulamoon
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
-- _Time Heals Everything_, by Blu & Exile, Blu, Exile
-- _Nightbringers_, by The Black Dahlia Murder
-- _Morning Light_, by Locust
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 
 </details>
 
@@ -27,9 +22,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Morning Light_, by Locust
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Swerved_, by Nueen
-- _new avatar_, by Kelela
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Hacer Extraño_, by Dentadura
+- _new avatar_, by Kelela
 - _Nightbringers_, by The Black Dahlia Murder
 - _Secret Love_, by Dry Cleaning
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
