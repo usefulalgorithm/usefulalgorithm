@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Trio_, by Vincent Yuen Ruiz
 - _Time Heals Everything_, by Blu & Exile, Blu, Exile
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
@@ -26,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Morning Light_, by Locust
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _Swerved_, by Nueen
 - _Tetsuo & Youth_, by Lupe Fiasco
+- _Swerved_, by Nueen
 - _Secret Love_, by Dry Cleaning
 - _Hacer Extraño_, by Dentadura
 - _Glued to the TV_, by LA Timpa
