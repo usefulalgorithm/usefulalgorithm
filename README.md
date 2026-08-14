@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Secret Love (Deluxe Edition)_, by Dry Cleaning
+- _Emotional Junglist_, by Nia Archives
 - _lambspring_, by lulamoon
 - _Glued to the TV_, by LA Timpa
 - _Morning Light_, by Locust
@@ -28,14 +30,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Glued to the TV_, by LA Timpa
 - _Secret Love_, by Dry Cleaning
 - _Nightbringers_, by The Black Dahlia Murder
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Emotional Junglist_, by Nia Archives
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _new avatar_, by Kelela
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _lambspring_, by lulamoon
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Piñata_, by Freddie Gibbs, Madlib
+- _Superwave EP_, by Low End Activist
 
 </details>
 
