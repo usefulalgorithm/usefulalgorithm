@@ -11,11 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Speakerboxxx/The Love Below_, by Outkast
+- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Diagrams of Thought_, by Nueen
 - _Monopoly of Mistakes_, by Lolina
 - _Taking a walk & calling a car home_, by Harrison
 - _Emotional Junglist_, by Nia Archives
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 
 </details>
 
