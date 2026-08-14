@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Emotional Junglist_, by Nia Archives
 - _lambspring_, by lulamoon
 - _Glued to the TV_, by LA Timpa
-- _Morning Light_, by Locust
 
 </details>
 
@@ -26,9 +25,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Swerved_, by Nueen
 - _Tetsuo & Youth_, by Lupe Fiasco
+- _Secret Love_, by Dry Cleaning
 - _Hacer Extraño_, by Dentadura
 - _Glued to the TV_, by LA Timpa
-- _Secret Love_, by Dry Cleaning
 - _Nightbringers_, by The Black Dahlia Murder
 - _Emotional Junglist_, by Nia Archives
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
@@ -38,7 +37,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _lambspring_, by lulamoon
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Piñata_, by Freddie Gibbs, Madlib
-- _Superwave EP_, by Low End Activist
 
 </details>
 
