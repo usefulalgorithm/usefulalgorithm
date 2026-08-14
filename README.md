@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Glued to the TV_, by LA Timpa
 - _Morning Light_, by Locust
 - _Melodies International presents Ariwa Sounds_, by Mad Professor
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Wap Konn Jòj!_, by Mach-Hommy
-- _new avatar_, by Kelela
-- _lambspring_, by lulamoon
 
 </details>
 
@@ -28,12 +27,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Swerved_, by Nueen
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Hacer Extraño_, by Dentadura
-- _Nightbringers_, by The Black Dahlia Murder
 - _Secret Love_, by Dry Cleaning
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
-- _new avatar_, by Kelela
+- _Nightbringers_, by The Black Dahlia Murder
 - _Glued to the TV_, by LA Timpa
 - _Emotional Junglist_, by Nia Archives
+- _new avatar_, by Kelela
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
