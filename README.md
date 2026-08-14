@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Taking a walk & calling a car home_, by Harrison
 - _Emotional Junglist_, by Nia Archives
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
-- _lambspring_, by lulamoon
 
 </details>
 
@@ -38,6 +37,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _lambspring_, by lulamoon
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
+- _Monopoly of Mistakes_, by Lolina
 - _Piñata_, by Freddie Gibbs, Madlib
 
 </details>
