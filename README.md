@@ -11,10 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
+- _Diagrams of Thought_, by Nueen
+- _Monopoly of Mistakes_, by Lolina
+- _Taking a walk & calling a car home_, by Harrison
 - _Emotional Junglist_, by Nia Archives
+- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _lambspring_, by lulamoon
-- _Glued to the TV_, by LA Timpa
 
 </details>
 
@@ -28,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Secret Love_, by Dry Cleaning
 - _Hacer Extraño_, by Dentadura
 - _Glued to the TV_, by LA Timpa
-- _Nightbringers_, by The Black Dahlia Murder
 - _Emotional Junglist_, by Nia Archives
+- _Nightbringers_, by The Black Dahlia Murder
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _new avatar_, by Kelela
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
