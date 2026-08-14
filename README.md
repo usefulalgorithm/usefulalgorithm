@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Morning Light_, by Locust
 - _Melodies International presents Ariwa Sounds_, by Mad Professor
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Wap Konn Jòj!_, by Mach-Hommy
 - _new avatar_, by Kelela
-- _Morning Light_, by Locust
 - _lambspring_, by lulamoon
 
 </details>
