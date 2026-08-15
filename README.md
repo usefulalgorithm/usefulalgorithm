@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _PLANET FROG_, by Action Bronson
 - _Trio_, by Vincent Yuen Ruiz
 - _Time Heals Everything_, by Blu & Exile, Blu, Exile
 - _Speakerboxxx/The Love Below_, by Outkast
