@@ -11,6 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Celestial_, by Papangu
+- _GNX_, by Kendrick Lamar
+- _meet the grahams_, by Kendrick Lamar
+- _lambspring_, by lulamoon
 - _PLANET FROG_, by Action Bronson
 - _Trio_, by Vincent Yuen Ruiz
 - _Time Heals Everything_, by Blu & Exile, Blu, Exile
@@ -38,8 +42,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _new avatar_, by Kelela
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
-- _Melt My Eyez See Your Future_, by Denzel Curry
 - _lambspring_, by lulamoon
+- _Melt My Eyez See Your Future_, by Denzel Curry
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Monopoly of Mistakes_, by Lolina
 - _Piñata_, by Freddie Gibbs, Madlib
