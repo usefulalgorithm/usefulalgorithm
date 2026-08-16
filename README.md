@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Glued to the TV_, by LA Timpa
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Emotional Junglist_, by Nia Archives
 - _Celestial_, by Papangu
 - _GNX_, by Kendrick Lamar
 - _meet the grahams_, by Kendrick Lamar
@@ -23,7 +26,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Diagrams of Thought_, by Nueen
 - _Monopoly of Mistakes_, by Lolina
 - _Taking a walk & calling a car home_, by Harrison
-- _Emotional Junglist_, by Nia Archives
 
 </details>
 
@@ -36,13 +38,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Swerved_, by Nueen
 - _Secret Love_, by Dry Cleaning
 - _Hacer Extraño_, by Dentadura
-- _Glued to the TV_, by LA Timpa
 - _Emotional Junglist_, by Nia Archives
+- _Glued to the TV_, by LA Timpa
 - _Nightbringers_, by The Black Dahlia Murder
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
-- _new avatar_, by Kelela
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _lambspring_, by lulamoon
+- _new avatar_, by Kelela
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Monopoly of Mistakes_, by Lolina
