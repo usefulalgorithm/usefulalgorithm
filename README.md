@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Tetsuo & Youth_, by Lupe Fiasco
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Glued to the TV_, by LA Timpa
 - _Emotional Junglist_, by Nia Archives
