@@ -22,9 +22,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _GNX_, by Kendrick Lamar
 - _meet the grahams_, by Kendrick Lamar
 - _PLANET FROG_, by Action Bronson
-- _Trio_, by Vincent Yuen Ruiz
-- _Time Heals Everything_, by Blu & Exile, Blu, Exile
-- _Speakerboxxx/The Love Below_, by Outkast
 
 </details>
 
@@ -46,7 +43,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
-- _Monopoly of Mistakes_, by Lolina
 - _Piñata_, by Freddie Gibbs, Madlib
 
 </details>
