@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Morning Light_, by Locust
-- _lambspring_, by lulamoon
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Diamond Eyes_, by Deftones
+- _Morning Light_, by Locust
+- _lambspring_, by lulamoon
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Glued to the TV_, by LA Timpa
 - _Emotional Junglist_, by Nia Archives
@@ -25,7 +25,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Trio_, by Vincent Yuen Ruiz
 - _Time Heals Everything_, by Blu & Exile, Blu, Exile
 - _Speakerboxxx/The Love Below_, by Outkast
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 
 </details>
 
