@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Morning Light_, by Locust
+- _lambspring_, by lulamoon
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Diamond Eyes_, by Deftones
 - _Tetsuo & Youth_, by Lupe Fiasco
@@ -19,13 +21,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Celestial_, by Papangu
 - _GNX_, by Kendrick Lamar
 - _meet the grahams_, by Kendrick Lamar
-- _lambspring_, by lulamoon
 - _PLANET FROG_, by Action Bronson
 - _Trio_, by Vincent Yuen Ruiz
 - _Time Heals Everything_, by Blu & Exile, Blu, Exile
 - _Speakerboxxx/The Love Below_, by Outkast
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
-- _Diagrams of Thought_, by Nueen
 
 </details>
 
@@ -41,10 +41,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Emotional Junglist_, by Nia Archives
 - _Glued to the TV_, by LA Timpa
 - _Nightbringers_, by The Black Dahlia Murder
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
-- _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _lambspring_, by lulamoon
+- _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _new avatar_, by Kelela
+- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Monopoly of Mistakes_, by Lolina
