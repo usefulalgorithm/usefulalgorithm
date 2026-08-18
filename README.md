@@ -33,9 +33,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Swerved_, by Nueen
 - _Secret Love_, by Dry Cleaning
+- _Glued to the TV_, by LA Timpa
 - _Hacer Extraño_, by Dentadura
 - _Emotional Junglist_, by Nia Archives
-- _Glued to the TV_, by LA Timpa
 - _Nightbringers_, by The Black Dahlia Murder
 - _lambspring_, by lulamoon
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
