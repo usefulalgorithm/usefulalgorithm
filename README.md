@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Untitled_, by Ezmeralda
+- _Diamond Eyes_, by Deftones
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Glued to the TV_, by LA Timpa
-- _Diamond Eyes_, by Deftones
 - _Morning Light_, by Locust
 - _lambspring_, by lulamoon
 - _Tetsuo & Youth_, by Lupe Fiasco
