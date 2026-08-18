@@ -19,7 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Morning Light_, by Locust
 - _lambspring_, by lulamoon
 - _Tetsuo & Youth_, by Lupe Fiasco
-- _Emotional Junglist_, by Nia Archives
 
 </details>
 
