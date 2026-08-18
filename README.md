@@ -11,18 +11,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Diamond Eyes_, by Deftones
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Nightbringers_, by The Black Dahlia Murder
 - _Untitled_, by Ezmeralda
-- _Diamond Eyes_, by Deftones
 - _Glued to the TV_, by LA Timpa
 - _Morning Light_, by Locust
 - _lambspring_, by lulamoon
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Emotional Junglist_, by Nia Archives
-- _Celestial_, by Papangu
-- _GNX_, by Kendrick Lamar
-- _meet the grahams_, by Kendrick Lamar
 
 </details>
 
