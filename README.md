@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Glued to the TV_, by LA Timpa
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Glued to the TV_, by LA Timpa
 - _Diamond Eyes_, by Deftones
 - _Morning Light_, by Locust
 - _lambspring_, by lulamoon
@@ -21,7 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Celestial_, by Papangu
 - _GNX_, by Kendrick Lamar
 - _meet the grahams_, by Kendrick Lamar
-- _PLANET FROG_, by Action Bronson
 
 </details>
 
