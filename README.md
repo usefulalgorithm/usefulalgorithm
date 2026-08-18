@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Nightbringers_, by The Black Dahlia Murder
 - _Untitled_, by Ezmeralda
 - _Diamond Eyes_, by Deftones
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Glued to the TV_, by LA Timpa
 - _Morning Light_, by Locust
 - _lambspring_, by lulamoon
@@ -39,10 +40,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Nightbringers_, by The Black Dahlia Murder
 - _lambspring_, by lulamoon
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
-- _new avatar_, by Kelela
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
+- _new avatar_, by Kelela
 - _Piñata_, by Freddie Gibbs, Madlib
 
 </details>
