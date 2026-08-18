@@ -43,7 +43,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
-- _new avatar_, by Kelela
 - _Piñata_, by Freddie Gibbs, Madlib
 
 </details>
