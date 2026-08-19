@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _lambspring_, by lulamoon
 - _Diamond Eyes_, by Deftones
 - _Melodies International presents Ariwa Sounds_, by Mad Professor
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
@@ -18,7 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Untitled_, by Ezmeralda
 - _Glued to the TV_, by LA Timpa
 - _Morning Light_, by Locust
-- _lambspring_, by lulamoon
 
 </details>
 
