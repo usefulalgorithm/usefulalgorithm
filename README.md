@@ -11,14 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Melodies International presents Ariwa Sounds_, by Mad Professor
 - _lambspring_, by lulamoon
 - _Diamond Eyes_, by Deftones
-- _Melodies International presents Ariwa Sounds_, by Mad Professor
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Nightbringers_, by The Black Dahlia Murder
 - _Untitled_, by Ezmeralda
 - _Glued to the TV_, by LA Timpa
-- _Morning Light_, by Locust
 
 </details>
 
@@ -40,7 +39,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Diamond Eyes_, by Deftones
-- _Piñata_, by Freddie Gibbs, Madlib
 
 </details>
 
