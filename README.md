@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Melodies International presents Ariwa Sounds_, by Mad Professor
 - _Diamond Eyes_, by Deftones
+- _Melodies International presents Ariwa Sounds_, by Mad Professor
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Nightbringers_, by The Black Dahlia Murder
 - _Untitled_, by Ezmeralda
