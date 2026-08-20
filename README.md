@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _馬_, by betcover!!
 - _lambspring_, by lulamoon
 - _Melodies International presents Ariwa Sounds_, by Mad Professor
 
@@ -25,14 +26,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Swerved_, by Nueen
 - _Secret Love_, by Dry Cleaning
 - _lambspring_, by lulamoon
-- _Hacer Extraño_, by Dentadura
 - _Emotional Junglist_, by Nia Archives
+- _Hacer Extraño_, by Dentadura
 - _Glued to the TV_, by LA Timpa
 - _Nightbringers_, by The Black Dahlia Murder
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
 - _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
+- _Diamond Eyes_, by Deftones
 
 </details>
 
