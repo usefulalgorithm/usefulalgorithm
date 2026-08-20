@@ -32,7 +32,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Surfaces Of A Broken Marching Band (2026 Remaster)_, by Ezekiel Honig
-- _Midnight Zone (Original Soundtrack to the Film by Julian Charrière)_, by Laurel Halo
 
 </details>
 
