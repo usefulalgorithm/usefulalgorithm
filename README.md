@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _馬_, by betcover!!
 - _lambspring_, by lulamoon
-- _Melodies International presents Ariwa Sounds_, by Mad Professor
 
 </details>
 
