@@ -14,10 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _lambspring_, by lulamoon
 - _Melodies International presents Ariwa Sounds_, by Mad Professor
 - _Diamond Eyes_, by Deftones
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
-- _Nightbringers_, by The Black Dahlia Murder
-- _Untitled_, by Ezmeralda
-- _Glued to the TV_, by LA Timpa
 
 </details>
 
