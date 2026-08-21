@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _馬_, by betcover!!
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _lambspring_, by lulamoon
-- _Melt My Eyez See Your Future_, by Denzel Curry
-- _Diamond Eyes_, by Deftones
 
 </details>
 
@@ -30,11 +28,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Secret Love_, by Dry Cleaning
 - _Swerved_, by Nueen
 - _Emotional Junglist_, by Nia Archives
-- _Glued to the TV_, by LA Timpa
 - _Nightbringers_, by The Black Dahlia Murder
+- _Glued to the TV_, by LA Timpa
 - _Hacer Extraño_, by Dentadura
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _Melt My Eyez See Your Future_, by Denzel Curry
+- _馬_, by betcover!!
 
 </details>
 
