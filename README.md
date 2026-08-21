@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Melodies International presents Ariwa Sounds_, by Mad Professor
+- _馬_, by betcover!!
+- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _lambspring_, by lulamoon
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Diamond Eyes_, by Deftones
