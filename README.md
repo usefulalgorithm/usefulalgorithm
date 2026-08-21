@@ -32,9 +32,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hacer Extraño_, by Dentadura
 - _Glued to the TV_, by LA Timpa
 - _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
-- _Melt My Eyez See Your Future_, by Denzel Curry
-- _馬_, by betcover!!
 - _Diamond Eyes_, by Deftones
+- _Melt My Eyez See Your Future_, by Denzel Curry
 
 </details>
 
