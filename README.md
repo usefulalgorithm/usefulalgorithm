@@ -28,8 +28,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Secret Love_, by Dry Cleaning
 - _Swerved_, by Nueen
 - _Emotional Junglist_, by Nia Archives
-- _Nightbringers_, by The Black Dahlia Murder
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _Nightbringers_, by The Black Dahlia Murder
 - _Glued to the TV_, by LA Timpa
 - _Hacer Extraño_, by Dentadura
 - _Diamond Eyes_, by Deftones
