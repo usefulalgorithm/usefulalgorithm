@@ -23,13 +23,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Morning Light_, by Locust
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _lambspring_, by lulamoon
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Secret Love_, by Dry Cleaning
 - _Swerved_, by Nueen
 - _Emotional Junglist_, by Nia Archives
 - _Nightbringers_, by The Black Dahlia Murder
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Glued to the TV_, by LA Timpa
 - _Hacer Extraño_, by Dentadura
 - _Diamond Eyes_, by Deftones
