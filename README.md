@@ -33,7 +33,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Diamond Eyes_, by Deftones
 - _Hacer Extraño_, by Dentadura
 - _馬_, by betcover!!
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 
 </details>
 
