@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Diamond Eyes_, by Deftones
 - _馬_, by betcover!!
 - _ii_, by Denzel Curry, Kenny Beats
 - _Nightbringers_, by The Black Dahlia Murder
-- _Diamond Eyes_, by Deftones
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 
 </details>
 
