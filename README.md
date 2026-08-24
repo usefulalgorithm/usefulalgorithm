@@ -25,15 +25,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Morning Light_, by Locust
 - _lambspring_, by lulamoon
 - _Tetsuo & Youth_, by Lupe Fiasco
-- _Secret Love_, by Dry Cleaning
 - _Swerved_, by Nueen
+- _Secret Love_, by Dry Cleaning
 - _Emotional Junglist_, by Nia Archives
 - _Nightbringers_, by The Black Dahlia Murder
 - _Glued to the TV_, by LA Timpa
 - _Diamond Eyes_, by Deftones
 - _Hacer Extraño_, by Dentadura
-- _馬_, by betcover!!
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _馬_, by betcover!!
+- _Give Thanks_, by Johnny Clarke
 
 </details>
 
