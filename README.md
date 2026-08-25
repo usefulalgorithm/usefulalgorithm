@@ -11,11 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Emotional Junglist_, by Nia Archives
+- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Glued to the TV_, by LA Timpa
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 
 </details>
 
@@ -23,9 +22,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Morning Light_, by Locust
+- _Emotional Junglist_, by Nia Archives
 - _lambspring_, by lulamoon
 - _Tetsuo & Youth_, by Lupe Fiasco
-- _Emotional Junglist_, by Nia Archives
 - _Swerved_, by Nueen
 - _Secret Love_, by Dry Cleaning
 - _Nightbringers_, by The Black Dahlia Murder
