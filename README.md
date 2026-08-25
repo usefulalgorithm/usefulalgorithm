@@ -13,8 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Emotional Junglist_, by Nia Archives
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
-- _Melt My Eyez See Your Future_, by Denzel Curry
-- _Glued to the TV_, by LA Timpa
 
 </details>
 
@@ -33,7 +31,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Diamond Eyes_, by Deftones
 - _馬_, by betcover!!
 - _ii_, by Denzel Curry, Kenny Beats
-- _Give Thanks_, by Johnny Clarke
 
 </details>
 
