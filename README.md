@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _White Pony_, by Deftones
+- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Diamond Eyes_, by Deftones
 - _Emotional Junglist_, by Nia Archives
 
