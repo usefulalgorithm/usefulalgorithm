@@ -11,10 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _ii_, by Denzel Curry, Kenny Beats
+- _Glued to the TV_, by LA Timpa
+- _Melt My Eyez See Your Future_, by Denzel Curry
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
-- _Diamond Eyes_, by Deftones
-- _馬_, by betcover!!
+- _Emotional Junglist_, by Nia Archives
+- _ii_, by Denzel Curry, Kenny Beats
 
 </details>
 
@@ -24,18 +25,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Morning Light_, by Locust
 - _lambspring_, by lulamoon
 - _Tetsuo & Youth_, by Lupe Fiasco
-- _Swerved_, by Nueen
 - _Emotional Junglist_, by Nia Archives
+- _Swerved_, by Nueen
 - _Secret Love_, by Dry Cleaning
 - _Nightbringers_, by The Black Dahlia Murder
 - _Glued to the TV_, by LA Timpa
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Diamond Eyes_, by Deftones
 - _Hacer Extraño_, by Dentadura
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _馬_, by betcover!!
 - _ii_, by Denzel Curry, Kenny Beats
 - _Give Thanks_, by Johnny Clarke
-- _Superwave EP_, by Low End Activist
 
 </details>
 
