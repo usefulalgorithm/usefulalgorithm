@@ -12,7 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Emotional Junglist_, by Nia Archives
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 
 </details>
 
