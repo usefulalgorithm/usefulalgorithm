@@ -11,11 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _ii_, by Denzel Curry, Kenny Beats
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Diamond Eyes_, by Deftones
 - _馬_, by betcover!!
-- _ii_, by Denzel Curry, Kenny Beats
-- _Nightbringers_, by The Black Dahlia Murder
 
 </details>
 
@@ -34,6 +33,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hacer Extraño_, by Dentadura
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _馬_, by betcover!!
+- _ii_, by Denzel Curry, Kenny Beats
 - _Give Thanks_, by Johnny Clarke
 - _Superwave EP_, by Low End Activist
 
