@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _White Pony_, by Deftones
+- _Diamond Eyes_, by Deftones
 - _Emotional Junglist_, by Nia Archives
 
 </details>
@@ -26,8 +28,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Secret Love_, by Dry Cleaning
 - _Nightbringers_, by The Black Dahlia Murder
 - _Glued to the TV_, by LA Timpa
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Diamond Eyes_, by Deftones
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _馬_, by betcover!!
 - _ii_, by Denzel Curry, Kenny Beats
 
