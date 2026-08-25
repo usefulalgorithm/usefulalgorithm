@@ -34,7 +34,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Diamond Eyes_, by Deftones
 - _馬_, by betcover!!
 - _ii_, by Denzel Curry, Kenny Beats
-- _Hacer Extraño_, by Dentadura
 - _Give Thanks_, by Johnny Clarke
 
 </details>
