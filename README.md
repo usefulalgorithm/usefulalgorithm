@@ -29,9 +29,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Secret Love_, by Dry Cleaning
 - _Morning Light_, by Locust
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Diamond Eyes_, by Deftones
 - _Nightbringers_, by The Black Dahlia Murder
 - _Glued to the TV_, by LA Timpa
-- _Diamond Eyes_, by Deftones
 - _馬_, by betcover!!
 - _ii_, by Denzel Curry, Kenny Beats
 
