@@ -14,8 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Within_, by Protest The Hero
-- _Emotional Junglist_, by Nia Archives
-- _White Pony_, by Deftones
 
 </details>
 
