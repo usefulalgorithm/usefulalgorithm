@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Time Heals Everything_, by Blu & Exile, Blu, Exile
 - _Diamond Eyes_, by Deftones
 - _Heretics and Killers_, by Protest The Hero
 - _Within_, by Protest The Hero
@@ -39,9 +40,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _The Hearing Test_, by Eliza Barry Callahan ([link](https://hardcover.app/books/the-hearing-test)). It's a good book.
+Just finished reading _茉莉樹下：加薩回憶錄_, by 安海正, Hazem Almassry ([link](https://hardcover.app/books/2026-4c0b5a67-e0d9-47c8-a072-abab4fb70aa4)). Dunno how I feel about this one.
 
-Gotta finish 25 books before 2027-01-01. I've read 14 so far.
+Gotta finish 25 books before 2027-01-01. I've read 15 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
