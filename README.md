@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Diamond Eyes_, by Deftones
+- _Heretics and Killers_, by Protest The Hero
 - _Within_, by Protest The Hero
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
