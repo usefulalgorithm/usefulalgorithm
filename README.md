@@ -11,18 +11,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _White Pony_, by Deftones
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
-- _Diamond Eyes_, by Deftones
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Emotional Junglist_, by Nia Archives
+- _Secret Love (Deluxe Edition)_, by Dry Cleaning
+- _White Pony_, by Deftones
+- _Diamond Eyes_, by Deftones
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Morning Light_, by Locust
 - _Emotional Junglist_, by Nia Archives
+- _Morning Light_, by Locust
 - _lambspring_, by lulamoon
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Swerved_, by Nueen
