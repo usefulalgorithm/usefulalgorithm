@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Within_, by Protest The Hero
 - _Emotional Junglist_, by Nia Archives
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _White Pony_, by Deftones
@@ -22,16 +23,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Emotional Junglist_, by Nia Archives
 - _Morning Light_, by Locust
+- _Emotional Junglist_, by Nia Archives
 - _lambspring_, by lulamoon
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Swerved_, by Nueen
 - _Secret Love_, by Dry Cleaning
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Nightbringers_, by The Black Dahlia Murder
 - _Glued to the TV_, by LA Timpa
 - _Diamond Eyes_, by Deftones
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _馬_, by betcover!!
 - _ii_, by Denzel Curry, Kenny Beats
 
