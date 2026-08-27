@@ -12,6 +12,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
+- _Emotional Junglist_, by Nia Archives
+- _Diamond Eyes_, by Deftones
+- _Ovens_, by Ovens
 
 </details>
 
@@ -29,6 +32,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Glued to the TV_, by LA Timpa
 - _Nightbringers_, by The Black Dahlia Murder
 - _馬_, by betcover!!
+- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _ii_, by Denzel Curry, Kenny Beats
 - _Give Thanks_, by Johnny Clarke
 
