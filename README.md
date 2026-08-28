@@ -11,10 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
-- _Emotional Junglist_, by Nia Archives
 - _Diamond Eyes_, by Deftones
-- _Ovens_, by Ovens
+- _馬_, by betcover!!
+- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 
 </details>
 
@@ -23,18 +22,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Emotional Junglist_, by Nia Archives
 - _lambspring_, by lulamoon
-- _Tetsuo & Youth_, by Lupe Fiasco
 - _Swerved_, by Nueen
 - _Secret Love_, by Dry Cleaning
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
-- _Morning Light_, by Locust
 - _Diamond Eyes_, by Deftones
-- _Glued to the TV_, by LA Timpa
-- _Nightbringers_, by The Black Dahlia Murder
+- _Tetsuo & Youth_, by Lupe Fiasco
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _馬_, by betcover!!
+- _Glued to the TV_, by LA Timpa
+- _Nightbringers_, by The Black Dahlia Murder
+- _Morning Light_, by Locust
 - _ii_, by Denzel Curry, Kenny Beats
-- _Give Thanks_, by Johnny Clarke
 
 </details>
 
