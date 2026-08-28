@@ -31,8 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Diamond Eyes_, by Deftones
 - _Glued to the TV_, by LA Timpa
 - _Nightbringers_, by The Black Dahlia Murder
-- _馬_, by betcover!!
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
+- _馬_, by betcover!!
 - _ii_, by Denzel Curry, Kenny Beats
 - _Give Thanks_, by Johnny Clarke
 
