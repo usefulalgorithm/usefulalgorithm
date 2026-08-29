@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Melt My Eyez See Your Future_, by Denzel Curry
 - _Multila_, by Vladislav Delay
 - _Reminiscence_, by Miscreance
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Tetsuo & Youth_, by Lupe Fiasco
-- _Melt My Eyez See Your Future_, by Denzel Curry
 - _ii_, by Denzel Curry, Kenny Beats
 - _Diamond Eyes_, by Deftones
 - _馬_, by betcover!!
@@ -38,6 +38,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Nightbringers_, by The Black Dahlia Murder
 - _ii_, by Denzel Curry, Kenny Beats
 - _Morning Light_, by Locust
+- _Melt My Eyez See Your Future_, by Denzel Curry
 
 </details>
 
