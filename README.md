@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Multila_, by Vladislav Delay
 - _Reminiscence_, by Miscreance
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Tetsuo & Youth_, by Lupe Fiasco
@@ -29,9 +30,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Swerved_, by Nueen
 - _Secret Love_, by Dry Cleaning
 - _Diamond Eyes_, by Deftones
-- _Tetsuo & Youth_, by Lupe Fiasco
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Tetsuo & Youth_, by Lupe Fiasco
 - _馬_, by betcover!!
 - _Glued to the TV_, by LA Timpa
 - _Nightbringers_, by The Black Dahlia Murder
