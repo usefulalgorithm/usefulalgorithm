@@ -11,9 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Reminiscence_, by Miscreance
+- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
+- _Tetsuo & Youth_, by Lupe Fiasco
+- _Melt My Eyez See Your Future_, by Denzel Curry
+- _ii_, by Denzel Curry, Kenny Beats
 - _Diamond Eyes_, by Deftones
 - _馬_, by betcover!!
-- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 
 </details>
 
@@ -26,13 +30,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Secret Love_, by Dry Cleaning
 - _Diamond Eyes_, by Deftones
 - _Tetsuo & Youth_, by Lupe Fiasco
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _馬_, by betcover!!
 - _Glued to the TV_, by LA Timpa
 - _Nightbringers_, by The Black Dahlia Murder
-- _Morning Light_, by Locust
 - _ii_, by Denzel Curry, Kenny Beats
+- _Morning Light_, by Locust
 
 </details>
 
