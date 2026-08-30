@@ -11,14 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _ii_, by Denzel Curry, Kenny Beats
+- _Emotional Junglist_, by Nia Archives
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Multila_, by Vladislav Delay
 - _Reminiscence_, by Miscreance
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Tetsuo & Youth_, by Lupe Fiasco
-- _ii_, by Denzel Curry, Kenny Beats
 - _Diamond Eyes_, by Deftones
-- _馬_, by betcover!!
 
 </details>
 
