@@ -56,7 +56,7 @@ Gotta finish 25 books before 2027-01-01. I've read 15 so far.
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
 - _Political Categories: Thinking Beyond Concepts_, by Michael Marder ([link](https://hardcover.app/books/political-categories))
 - _Regeneration_, by Pat Barker ([link](https://hardcover.app/books/regeneration-1991))
-- _K-punk_, by Mark Fisher ([link](https://hardcover.app/books/k-punk-2018))
+- _K-punk: The Collected and Unpublished Writings of Mark Fisher_, by Mark Fisher, Simon Reynolds, and friends ([link](https://hardcover.app/books/k-punk-the-collected-and-unpublished-writings-of-mark-fisher-2018))
 - _A Biography of Ordinary Man: On Authorities and Minorities_, by Jessie Hock, Alex Dubilet, and friends ([link](https://hardcover.app/books/a-biography-of-ordinary-man))
 - _A Short History of Decay_, by Emil M. Cioran, Richard Howard ([link](https://hardcover.app/books/a-short-history-of-decay))
 - _Anti-Oedipus: Capitalism and Schizophrenia_, by Félix Guattari, Gilles Deleuze, and friends ([link](https://hardcover.app/books/anti-oedipus))
