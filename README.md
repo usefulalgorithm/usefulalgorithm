@@ -11,10 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Multila_, by Vladislav Delay
+- _DILLAGENCE II_, by Busta Rhymes, J Dilla
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _Secret Love_, by Dry Cleaning
+- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _ii_, by Denzel Curry, Kenny Beats
-- _Melodies International presents Ariwa Sounds_, by Mad Professor
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
-- _Emotional Junglist_, by Nia Archives
 
 </details>
 
@@ -23,12 +25,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Emotional Junglist_, by Nia Archives
 - _lambspring_, by lulamoon
-- _Swerved_, by Nueen
 - _Secret Love_, by Dry Cleaning
-- _Diamond Eyes_, by Deftones
-- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Swerved_, by Nueen
 - _ii_, by Denzel Curry, Kenny Beats
+- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
+- _Diamond Eyes_, by Deftones
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _馬_, by betcover!!
 - _Nightbringers_, by The Black Dahlia Murder
 - _Tetsuo & Youth_, by Lupe Fiasco
