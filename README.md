@@ -12,13 +12,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _ii_, by Denzel Curry, Kenny Beats
+- _Melodies International presents Ariwa Sounds_, by Mad Professor
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Emotional Junglist_, by Nia Archives
-- _Melt My Eyez See Your Future_, by Denzel Curry
-- _Multila_, by Vladislav Delay
-- _Reminiscence_, by Miscreance
-- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
-- _Tetsuo & Youth_, by Lupe Fiasco
 
 </details>
 
@@ -32,11 +28,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Diamond Eyes_, by Deftones
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
-- _馬_, by betcover!!
 - _ii_, by Denzel Curry, Kenny Beats
+- _馬_, by betcover!!
 - _Nightbringers_, by The Black Dahlia Murder
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _Glued to the TV_, by LA Timpa
+- _Give Thanks_, by Johnny Clarke
 - _Melt My Eyez See Your Future_, by Denzel Curry
 
 </details>
