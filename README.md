@@ -11,12 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _ii_, by Denzel Curry, Kenny Beats
+- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Multila_, by Vladislav Delay
 - _DILLAGENCE II_, by Busta Rhymes, J Dilla
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Secret Love_, by Dry Cleaning
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
-- _ii_, by Denzel Curry, Kenny Beats
 
 </details>
 
@@ -24,8 +25,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Emotional Junglist_, by Nia Archives
-- _lambspring_, by lulamoon
 - _Secret Love_, by Dry Cleaning
+- _lambspring_, by lulamoon
 - _Swerved_, by Nueen
 - _ii_, by Denzel Curry, Kenny Beats
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
