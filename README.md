@@ -11,15 +11,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Multila_, by Vladislav Delay
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _TA13OO_, by Denzel Curry
+- _Piñata_, by Freddie Gibbs, Madlib
+- _Melt My Eyez See Your Future_, by Denzel Curry
 - _American Dub Electronics_, by Various Artists
 - _Glued to the TV_, by LA Timpa
 - _ii_, by Denzel Curry, Kenny Beats
-- _Multila_, by Vladislav Delay
 - _Secret Love (Deluxe Edition)_, by Dry Cleaning
-- _DILLAGENCE II_, by Busta Rhymes, J Dilla
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _Secret Love_, by Dry Cleaning
-- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 
 </details>
 
@@ -27,19 +27,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Emotional Junglist_, by Nia Archives
-- _Secret Love_, by Dry Cleaning
 - _lambspring_, by lulamoon
+- _Secret Love_, by Dry Cleaning
 - _ii_, by Denzel Curry, Kenny Beats
-- _Swerved_, by Nueen
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Diamond Eyes_, by Deftones
+- _Swerved_, by Nueen
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _馬_, by betcover!!
 - _Nightbringers_, by The Black Dahlia Murder
 - _Glued to the TV_, by LA Timpa
-- _Tetsuo & Youth_, by Lupe Fiasco
 - _Give Thanks_, by Johnny Clarke
 - _Melt My Eyez See Your Future_, by Denzel Curry
+- _Tetsuo & Youth_, by Lupe Fiasco
 
 </details>
 
