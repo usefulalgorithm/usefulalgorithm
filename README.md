@@ -11,9 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _American Dub Electronics_, by Various Artists
+- _Glued to the TV_, by LA Timpa
 - _ii_, by Denzel Curry, Kenny Beats
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _Multila_, by Vladislav Delay
+- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 - _DILLAGENCE II_, by Busta Rhymes, J Dilla
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Secret Love_, by Dry Cleaning
@@ -27,15 +29,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Emotional Junglist_, by Nia Archives
 - _Secret Love_, by Dry Cleaning
 - _lambspring_, by lulamoon
-- _Swerved_, by Nueen
 - _ii_, by Denzel Curry, Kenny Beats
+- _Swerved_, by Nueen
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Diamond Eyes_, by Deftones
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _馬_, by betcover!!
 - _Nightbringers_, by The Black Dahlia Murder
-- _Tetsuo & Youth_, by Lupe Fiasco
 - _Glued to the TV_, by LA Timpa
+- _Tetsuo & Youth_, by Lupe Fiasco
 - _Give Thanks_, by Johnny Clarke
 - _Melt My Eyez See Your Future_, by Denzel Curry
 
