@@ -11,15 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Multila_, by Vladislav Delay
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _Multila_, by Vladislav Delay
 - _TA13OO_, by Denzel Curry
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _American Dub Electronics_, by Various Artists
 - _Glued to the TV_, by LA Timpa
 - _ii_, by Denzel Curry, Kenny Beats
-- _Secret Love (Deluxe Edition)_, by Dry Cleaning
 
 </details>
 
