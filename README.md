@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Multila_, by Vladislav Delay
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _TA13OO_, by Denzel Curry
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Melt My Eyez See Your Future_, by Denzel Curry
