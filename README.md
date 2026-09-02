@@ -11,11 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _ii_, by Denzel Curry, Kenny Beats
+- _No Ritmo da Terra_, by Antropoceno
+- _Multila_, by Vladislav Delay
+- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _American Dub Electronics_, by Various Artists
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _Multila_, by Vladislav Delay
 
 </details>
 
@@ -40,9 +41,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _茉莉樹下：加薩回憶錄_, by 安海正, Hazem Almassry ([link](https://hardcover.app/books/2026-4c0b5a67-e0d9-47c8-a072-abab4fb70aa4)). Dunno how I feel about this one.
+Just finished reading _江湖在哪裡? 台灣農業觀察_, by 吳音寧 ([link](https://hardcover.app/books/2007-e35dd1c8-4cbb-4443-a6b9-14e80e4246bf)). AHHHH everyone should read this book
 
-Gotta finish 25 books before 2027-01-01. I've read 15 so far.
+Gotta finish 25 books before 2027-01-01. I've read 16 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
