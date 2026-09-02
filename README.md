@@ -11,14 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Multila_, by Vladislav Delay
+- _American Dub Electronics_, by Various Artists
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _Multila_, by Vladislav Delay
 - _TA13OO_, by Denzel Curry
 - _Piñata_, by Freddie Gibbs, Madlib
-- _Melt My Eyez See Your Future_, by Denzel Curry
-- _American Dub Electronics_, by Various Artists
-- _Glued to the TV_, by LA Timpa
-- _ii_, by Denzel Curry, Kenny Beats
 
 </details>
 
@@ -38,7 +35,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Glued to the TV_, by LA Timpa
 - _Give Thanks_, by Johnny Clarke
 - _Melt My Eyez See Your Future_, by Denzel Curry
-- _Tetsuo & Youth_, by Lupe Fiasco
 
 </details>
 
