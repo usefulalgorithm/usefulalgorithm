@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
+- _ii_, by Denzel Curry, Kenny Beats
 - _American Dub Electronics_, by Various Artists
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Multila_, by Vladislav Delay
-- _TA13OO_, by Denzel Curry
-- _Piñata_, by Freddie Gibbs, Madlib
 
 </details>
 
@@ -24,16 +24,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Emotional Junglist_, by Nia Archives
 - _lambspring_, by lulamoon
-- _Secret Love_, by Dry Cleaning
 - _ii_, by Denzel Curry, Kenny Beats
+- _Secret Love_, by Dry Cleaning
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Diamond Eyes_, by Deftones
-- _Swerved_, by Nueen
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Swerved_, by Nueen
 - _馬_, by betcover!!
 - _Nightbringers_, by The Black Dahlia Murder
-- _Glued to the TV_, by LA Timpa
 - _Give Thanks_, by Johnny Clarke
+- _Glued to the TV_, by LA Timpa
 - _Melt My Eyez See Your Future_, by Denzel Curry
 
 </details>
