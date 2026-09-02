@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Piñata_, by Freddie Gibbs, Madlib
 - _ii_, by Denzel Curry, Kenny Beats
 - _No Ritmo da Terra_, by Antropoceno
 - _Multila_, by Vladislav Delay
