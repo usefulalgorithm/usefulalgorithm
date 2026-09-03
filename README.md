@@ -11,13 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _No Ritmo da Terra_, by Antropoceno
+- _Deliverance_, by Opeth
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Piñata_, by Freddie Gibbs, Madlib
 - _ii_, by Denzel Curry, Kenny Beats
-- _No Ritmo da Terra_, by Antropoceno
 - _Multila_, by Vladislav Delay
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _American Dub Electronics_, by Various Artists
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 
 </details>
 
