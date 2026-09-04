@@ -11,17 +11,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _No Ritmo da Terra_, by Antropoceno
 - _ii_, by Denzel Curry, Kenny Beats
 - _Nightbringers_, by The Black Dahlia Murder
 - _Onset Of Putrefaction_, by Necrophagist
-- _No Ritmo da Terra_, by Antropoceno
 - _Awake children under the moon_, by Cissné
 - _Diamond Eyes_, by Deftones
 - _DARKLIGHT_, by Stickerbush, heavensouls
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Deliverance_, by Opeth
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _Multila_, by Vladislav Delay
 
 </details>
 
@@ -31,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ii_, by Denzel Curry, Kenny Beats
 - _lambspring_, by lulamoon
 - _Emotional Junglist_, by Nia Archives
-- _Secret Love_, by Dry Cleaning
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
+- _Secret Love_, by Dry Cleaning
 - _Diamond Eyes_, by Deftones
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _馬_, by betcover!!
@@ -46,9 +45,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _江湖在哪裡? 台灣農業觀察_, by 吳音寧 ([link](https://hardcover.app/books/2007-e35dd1c8-4cbb-4443-a6b9-14e80e4246bf)). AHHHH everyone should read this book
+Just finished reading _彼岸花盛開之島_, by 李琴峰 ([link](https://hardcover.app/books/2022-873042ce-6073-4f5f-9f11-5f9c1ae14b0d)). It's just meh.
 
-Gotta finish 25 books before 2027-01-01. I've read 16 so far.
+Gotta finish 25 books before 2027-01-01. I've read 17 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
