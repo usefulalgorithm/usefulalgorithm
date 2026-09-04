@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _No Ritmo da Terra_, by Antropoceno
 - _ii_, by Denzel Curry, Kenny Beats
+- _No Ritmo da Terra_, by Antropoceno
 - _Nightbringers_, by The Black Dahlia Murder
 - _Onset Of Putrefaction_, by Necrophagist
 - _Awake children under the moon_, by Cissné
@@ -37,8 +37,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _馬_, by betcover!!
 - _Swerved_, by Nueen
 - _Melt My Eyez See Your Future_, by Denzel Curry
-- _Give Thanks_, by Johnny Clarke
 - _Glued to the TV_, by LA Timpa
+- _Give Thanks_, by Johnny Clarke
 - _Nightbringers_, by The Black Dahlia Murder
 
 </details>
