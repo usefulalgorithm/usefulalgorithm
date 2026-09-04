@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _ii_, by Denzel Curry, Kenny Beats
+- _Nightbringers_, by The Black Dahlia Murder
+- _Onset Of Putrefaction_, by Necrophagist
 - _No Ritmo da Terra_, by Antropoceno
 - _Awake children under the moon_, by Cissné
 - _Diamond Eyes_, by Deftones
@@ -18,7 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Piñata_, by Freddie Gibbs, Madlib
 - _Deliverance_, by Opeth
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _ii_, by Denzel Curry, Kenny Beats
 - _Multila_, by Vladislav Delay
 
 </details>
@@ -26,18 +28,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _lambspring_, by lulamoon
 - _ii_, by Denzel Curry, Kenny Beats
+- _lambspring_, by lulamoon
 - _Emotional Junglist_, by Nia Archives
 - _Secret Love_, by Dry Cleaning
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Diamond Eyes_, by Deftones
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
-- _Swerved_, by Nueen
 - _馬_, by betcover!!
+- _Swerved_, by Nueen
+- _Melt My Eyez See Your Future_, by Denzel Curry
 - _Give Thanks_, by Johnny Clarke
 - _Glued to the TV_, by LA Timpa
-- _Melt My Eyez See Your Future_, by Denzel Curry
 - _Nightbringers_, by The Black Dahlia Murder
 
 </details>
