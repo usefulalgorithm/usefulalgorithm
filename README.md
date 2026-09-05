@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Marrow Deep_, by Mastodon
+- _Crack the Skye_, by Mastodon
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _ii_, by Denzel Curry, Kenny Beats
 - _No Ritmo da Terra_, by Antropoceno
