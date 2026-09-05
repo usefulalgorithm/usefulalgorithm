@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Marrow Deep_, by Mastodon
 - _Crack the Skye_, by Mastodon
+- _Marrow Deep_, by Mastodon
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _ii_, by Denzel Curry, Kenny Beats
 - _No Ritmo da Terra_, by Antropoceno
@@ -20,7 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Onset Of Putrefaction_, by Necrophagist
 - _Awake children under the moon_, by Cissné
 - _Diamond Eyes_, by Deftones
-- _DARKLIGHT_, by Stickerbush, heavensouls
 
 </details>
 
