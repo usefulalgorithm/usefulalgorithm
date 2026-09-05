@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Marrow Deep_, by Mastodon
+- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _ii_, by Denzel Curry, Kenny Beats
 - _No Ritmo da Terra_, by Antropoceno
 - _Nightbringers_, by The Black Dahlia Murder
@@ -18,9 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Awake children under the moon_, by Cissné
 - _Diamond Eyes_, by Deftones
 - _DARKLIGHT_, by Stickerbush, heavensouls
-- _Piñata_, by Freddie Gibbs, Madlib
-- _Deliverance_, by Opeth
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 
 </details>
 
@@ -29,8 +28,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _ii_, by Denzel Curry, Kenny Beats
 - _lambspring_, by lulamoon
-- _Emotional Junglist_, by Nia Archives
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
+- _Emotional Junglist_, by Nia Archives
 - _Secret Love_, by Dry Cleaning
 - _Diamond Eyes_, by Deftones
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
@@ -39,7 +38,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Glued to the TV_, by LA Timpa
 - _Give Thanks_, by Johnny Clarke
-- _Nightbringers_, by The Black Dahlia Murder
 
 </details>
 
