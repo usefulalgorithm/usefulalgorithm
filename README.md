@@ -11,15 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Crack the Skye_, by Mastodon
-- _Marrow Deep_, by Mastodon
-- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
-- _ii_, by Denzel Curry, Kenny Beats
 - _No Ritmo da Terra_, by Antropoceno
+- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
+- _Marrow Deep_, by Mastodon
+- _Crack the Skye_, by Mastodon
+- _ii_, by Denzel Curry, Kenny Beats
 - _Nightbringers_, by The Black Dahlia Murder
 - _Onset Of Putrefaction_, by Necrophagist
-- _Awake children under the moon_, by Cissné
-- _Diamond Eyes_, by Deftones
 
 </details>
 
