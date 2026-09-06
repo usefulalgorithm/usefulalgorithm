@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _An Undying Love for a Burning World_, by Neurosis
 - _No Ritmo da Terra_, by Antropoceno
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Marrow Deep_, by Mastodon
