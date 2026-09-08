@@ -12,13 +12,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _No Ritmo da Terra_, by Antropoceno
+- _UNLOCKED_, by Denzel Curry, Kenny Beats
+- _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 - _An Undying Love for a Burning World_, by Neurosis
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Marrow Deep_, by Mastodon
 - _Crack the Skye_, by Mastodon
-- _ii_, by Denzel Curry, Kenny Beats
-- _Nightbringers_, by The Black Dahlia Murder
-- _Onset Of Putrefaction_, by Necrophagist
 
 </details>
 
@@ -33,10 +32,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Diamond Eyes_, by Deftones
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _馬_, by betcover!!
-- _Swerved_, by Nueen
 - _Melt My Eyez See Your Future_, by Denzel Curry
+- _No Ritmo da Terra_, by Antropoceno
 - _Glued to the TV_, by LA Timpa
 - _Give Thanks_, by Johnny Clarke
+- _Multila_, by Vladislav Delay
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 
 </details>
 
