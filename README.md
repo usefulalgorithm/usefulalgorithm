@@ -15,8 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Multila_, by Vladislav Delay
 - _An Undying Love for a Burning World_, by Neurosis
 - _No Ritmo da Terra_, by Antropoceno
-- _UNLOCKED_, by Denzel Curry, Kenny Beats
-- _Bulls on Parade (triple j Like A Version)_, by Denzel Curry, triple j
 
 </details>
 
