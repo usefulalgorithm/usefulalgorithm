@@ -12,9 +12,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Opening_, by Klara Lewis
-- _Multila_, by Vladislav Delay
-- _An Undying Love for a Burning World_, by Neurosis
-- _No Ritmo da Terra_, by Antropoceno
 
 </details>
 
@@ -22,11 +19,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _ii_, by Denzel Curry, Kenny Beats
-- _lambspring_, by lulamoon
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
+- _lambspring_, by lulamoon
 - _Emotional Junglist_, by Nia Archives
-- _Secret Love_, by Dry Cleaning
 - _Diamond Eyes_, by Deftones
+- _Secret Love_, by Dry Cleaning
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _馬_, by betcover!!
 - _No Ritmo da Terra_, by Antropoceno
