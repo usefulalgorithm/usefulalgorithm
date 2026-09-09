@@ -11,7 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _An Undying Love for a Burning World_, by Neurosis
+- _Venom & Cadmium_, by Scarcity
 - _Opening_, by Klara Lewis
+- _Honest Feeling Album_, by Hakushi Hasegawa
 
 </details>
 
@@ -20,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _ii_, by Denzel Curry, Kenny Beats
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
-- _lambspring_, by lulamoon
 - _Emotional Junglist_, by Nia Archives
+- _lambspring_, by lulamoon
 - _Diamond Eyes_, by Deftones
 - _Secret Love_, by Dry Cleaning
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
@@ -32,6 +35,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Multila_, by Vladislav Delay
 - _Glued to the TV_, by LA Timpa
 - _Crack the Skye_, by Mastodon
+- _Opening_, by Klara Lewis
 
 </details>
 
