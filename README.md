@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _No Ritmo da Terra_, by Antropoceno
 - _An Undying Love for a Burning World_, by Neurosis
-- _Venom & Cadmium_, by Scarcity
 - _Opening_, by Klara Lewis
+- _No Ritmo da Terra_, by Antropoceno
+- _Venom & Cadmium_, by Scarcity
 - _Honest Feeling Album_, by Hakushi Hasegawa
 
 </details>
@@ -25,16 +25,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ii_, by Denzel Curry, Kenny Beats
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Emotional Junglist_, by Nia Archives
-- _lambspring_, by lulamoon
 - _Diamond Eyes_, by Deftones
-- _Secret Love_, by Dry Cleaning
+- _lambspring_, by lulamoon
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Secret Love_, by Dry Cleaning
 - _No Ritmo da Terra_, by Antropoceno
 - _馬_, by betcover!!
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Give Thanks_, by Johnny Clarke
 - _Multila_, by Vladislav Delay
 - _Glued to the TV_, by LA Timpa
+- _Opening_, by Klara Lewis
 - _Crack the Skye_, by Mastodon
 
 </details>
