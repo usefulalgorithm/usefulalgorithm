@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Crack the Skye_, by Mastodon
 - _An Undying Love for a Burning World_, by Neurosis
 - _Opening_, by Klara Lewis
 - _No Ritmo da Terra_, by Antropoceno
@@ -26,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Emotional Junglist_, by Nia Archives
 - _Diamond Eyes_, by Deftones
-- _lambspring_, by lulamoon
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _lambspring_, by lulamoon
 - _Secret Love_, by Dry Cleaning
 - _No Ritmo da Terra_, by Antropoceno
 - _馬_, by betcover!!
@@ -35,8 +36,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Give Thanks_, by Johnny Clarke
 - _Multila_, by Vladislav Delay
 - _Glued to the TV_, by LA Timpa
-- _Opening_, by Klara Lewis
 - _Crack the Skye_, by Mastodon
+- _Opening_, by Klara Lewis
 
 </details>
 
