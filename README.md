@@ -11,12 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Crack the Skye_, by Mastodon
-- _An Undying Love for a Burning World_, by Neurosis
 - _Opening_, by Klara Lewis
 - _No Ritmo da Terra_, by Antropoceno
-- _Venom & Cadmium_, by Scarcity
-- _Honest Feeling Album_, by Hakushi Hasegawa
+- _Crack the Skye_, by Mastodon
+- _An Undying Love for a Burning World_, by Neurosis
 
 </details>
 
@@ -29,15 +27,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Diamond Eyes_, by Deftones
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _lambspring_, by lulamoon
-- _Secret Love_, by Dry Cleaning
 - _No Ritmo da Terra_, by Antropoceno
+- _Secret Love_, by Dry Cleaning
 - _馬_, by betcover!!
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Crack the Skye_, by Mastodon
+- _Opening_, by Klara Lewis
 - _Give Thanks_, by Johnny Clarke
 - _Multila_, by Vladislav Delay
 - _Glued to the TV_, by LA Timpa
-- _Opening_, by Klara Lewis
 
 </details>
 
