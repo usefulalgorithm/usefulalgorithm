@@ -23,11 +23,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Emotional Junglist_, by Nia Archives
 - _Diamond Eyes_, by Deftones
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
-- _No Ritmo da Terra_, by Antropoceno
-- _Secret Love_, by Dry Cleaning
-- _lambspring_, by lulamoon
 - _Opening_, by Klara Lewis
+- _No Ritmo da Terra_, by Antropoceno
+- _lambspring_, by lulamoon
 - _馬_, by betcover!!
+- _Secret Love_, by Dry Cleaning
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Crack the Skye_, by Mastodon
 - _Give Thanks_, by Johnny Clarke
