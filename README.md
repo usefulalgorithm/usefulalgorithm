@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Opening_, by Klara Lewis
+- _No Ritmo da Terra_, by Antropoceno
 
 </details>
 
@@ -20,19 +21,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _ii_, by Denzel Curry, Kenny Beats
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
-- _Emotional Junglist_, by Nia Archives
-- _Diamond Eyes_, by Deftones
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Opening_, by Klara Lewis
+- _Diamond Eyes_, by Deftones
+- _Emotional Junglist_, by Nia Archives
 - _No Ritmo da Terra_, by Antropoceno
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _lambspring_, by lulamoon
 - _馬_, by betcover!!
 - _Secret Love_, by Dry Cleaning
-- _Melt My Eyez See Your Future_, by Denzel Curry
 - _Crack the Skye_, by Mastodon
-- _Give Thanks_, by Johnny Clarke
-- _Multila_, by Vladislav Delay
+- _Melt My Eyez See Your Future_, by Denzel Curry
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
+- _Multila_, by Vladislav Delay
+- _Give Thanks_, by Johnny Clarke
 
 </details>
 
