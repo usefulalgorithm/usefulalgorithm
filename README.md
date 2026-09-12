@@ -13,7 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _No Pressure, No Diamond._, by Apollo Brown
 - _My Name_, by Tony Bontana
-- _ii_, by Denzel Curry, Kenny Beats
 
 </details>
 
