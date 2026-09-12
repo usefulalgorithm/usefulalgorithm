@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _My Name_, by Tony Bontana
+- _ii_, by Denzel Curry, Kenny Beats
+- _Thresholds_, by Carrier
 - _Opening_, by Klara Lewis
 - _No Ritmo da Terra_, by Antropoceno
 
@@ -26,8 +29,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Emotional Junglist_, by Nia Archives
 - _No Ritmo da Terra_, by Antropoceno
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
-- _lambspring_, by lulamoon
 - _馬_, by betcover!!
+- _lambspring_, by lulamoon
 - _Secret Love_, by Dry Cleaning
 - _Crack the Skye_, by Mastodon
 - _Melt My Eyez See Your Future_, by Denzel Curry
