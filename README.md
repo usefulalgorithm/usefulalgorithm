@@ -11,11 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _No Pressure, No Diamond._, by Apollo Brown
 - _My Name_, by Tony Bontana
 - _ii_, by Denzel Curry, Kenny Beats
-- _Thresholds_, by Carrier
-- _Opening_, by Klara Lewis
-- _No Ritmo da Terra_, by Antropoceno
 
 </details>
 
