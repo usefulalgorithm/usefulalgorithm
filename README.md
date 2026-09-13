@@ -12,7 +12,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _No Pressure, No Diamond._, by Apollo Brown
-- _My Name_, by Tony Bontana
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _Thresholds_, by Carrier
 
 </details>
 
@@ -22,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ii_, by Denzel Curry, Kenny Beats
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Opening_, by Klara Lewis
-- _Diamond Eyes_, by Deftones
 - _No Ritmo da Terra_, by Antropoceno
+- _Diamond Eyes_, by Deftones
 - _Emotional Junglist_, by Nia Archives
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _馬_, by betcover!!
@@ -33,6 +34,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Multila_, by Vladislav Delay
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Give Thanks_, by Johnny Clarke
 
 </details>
