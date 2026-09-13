@@ -23,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Opening_, by Klara Lewis
 - _Diamond Eyes_, by Deftones
-- _Emotional Junglist_, by Nia Archives
 - _No Ritmo da Terra_, by Antropoceno
+- _Emotional Junglist_, by Nia Archives
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _馬_, by betcover!!
 - _lambspring_, by lulamoon
