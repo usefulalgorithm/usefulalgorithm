@@ -23,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Opening_, by Klara Lewis
 - _No Ritmo da Terra_, by Antropoceno
 - _Emotional Junglist_, by Nia Archives
-- _馬_, by betcover!!
 - _素直な気持ちアルバム_, by Hakushi Hasegawa
+- _馬_, by betcover!!
 - _Diamond Eyes_, by Deftones
 - _lambspring_, by lulamoon
 - _Secret Love_, by Dry Cleaning
@@ -35,7 +35,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Multila_, by Vladislav Delay
 - _No Pressure, No Diamond._, by Apollo Brown
-- _Give Thanks_, by Johnny Clarke
 
 </details>
 
