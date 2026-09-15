@@ -11,9 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _No Pressure, No Diamond._, by Apollo Brown
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _Thresholds_, by Carrier
+- _Honest Feeling Album_, by Hakushi Hasegawa
 
 </details>
 
@@ -25,16 +23,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Opening_, by Klara Lewis
 - _No Ritmo da Terra_, by Antropoceno
 - _Emotional Junglist_, by Nia Archives
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _馬_, by betcover!!
+- _素直な気持ちアルバム_, by Hakushi Hasegawa
 - _Diamond Eyes_, by Deftones
 - _lambspring_, by lulamoon
 - _Secret Love_, by Dry Cleaning
 - _Crack the Skye_, by Mastodon
 - _Melt My Eyez See Your Future_, by Denzel Curry
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
-- _Multila_, by Vladislav Delay
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _Multila_, by Vladislav Delay
+- _No Pressure, No Diamond._, by Apollo Brown
 - _Give Thanks_, by Johnny Clarke
 
 </details>
