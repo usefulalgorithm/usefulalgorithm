@@ -11,6 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _ROLLIN PEACE_, by Akhsosa
+- _baggin yo ho_, by st47ic
+- _chl_, by idully
+- _GO 3X_, by POLO PERKS <3 <3 <3
+- _gygjfacb_, by bleood
+- _haunted hills_, by bleood
+- _Endless Body_, by Eiafuawn
 - _Amputechture_, by The Mars Volta
 - _Honest Feeling Album_, by Hakushi Hasegawa
 
