@@ -11,6 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Honest Feeling Album_, by Hakushi Hasegawa
+- _No Pressure, No Diamond._, by Apollo Brown
+- _Amputechture_, by The Mars Volta
+- _Don't Obscure the Sun_, by Porcelain Tongue
 - _ROLLIN PEACE_, by Akhsosa
 - _baggin yo ho_, by st47ic
 - _chl_, by idully
@@ -18,8 +22,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _gygjfacb_, by bleood
 - _haunted hills_, by bleood
 - _Endless Body_, by Eiafuawn
-- _Amputechture_, by The Mars Volta
-- _Honest Feeling Album_, by Hakushi Hasegawa
 
 </details>
 
@@ -30,8 +32,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Opening_, by Klara Lewis
 - _No Ritmo da Terra_, by Antropoceno
-- _Emotional Junglist_, by Nia Archives
 - _素直な気持ちアルバム_, by Hakushi Hasegawa
+- _Emotional Junglist_, by Nia Archives
 - _馬_, by betcover!!
 - _Secret Love_, by Dry Cleaning
 - _Crack the Skye_, by Mastodon
@@ -39,10 +41,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Diamond Eyes_, by Deftones
 - _lambspring_, by lulamoon
+- _No Pressure, No Diamond._, by Apollo Brown
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Multila_, by Vladislav Delay
-- _No Pressure, No Diamond._, by Apollo Brown
 
 </details>
 
