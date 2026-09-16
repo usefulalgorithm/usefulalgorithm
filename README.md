@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Amputechture_, by The Mars Volta
 - _Honest Feeling Album_, by Hakushi Hasegawa
 
 </details>
@@ -25,12 +26,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Emotional Junglist_, by Nia Archives
 - _素直な気持ちアルバム_, by Hakushi Hasegawa
 - _馬_, by betcover!!
-- _Diamond Eyes_, by Deftones
-- _lambspring_, by lulamoon
 - _Secret Love_, by Dry Cleaning
 - _Crack the Skye_, by Mastodon
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Diamond Eyes_, by Deftones
+- _lambspring_, by lulamoon
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Multila_, by Vladislav Delay
