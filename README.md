@@ -21,7 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _GO 3X_, by POLO PERKS <3 <3 <3
 - _gygjfacb_, by bleood
 - _haunted hills_, by bleood
-- _Endless Body_, by Eiafuawn
 
 </details>
 
@@ -31,8 +30,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ii_, by Denzel Curry, Kenny Beats
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Opening_, by Klara Lewis
-- _No Ritmo da Terra_, by Antropoceno
 - _素直な気持ちアルバム_, by Hakushi Hasegawa
+- _No Ritmo da Terra_, by Antropoceno
 - _Emotional Junglist_, by Nia Archives
 - _馬_, by betcover!!
 - _Secret Love_, by Dry Cleaning
@@ -40,7 +39,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Diamond Eyes_, by Deftones
-- _lambspring_, by lulamoon
 - _No Pressure, No Diamond._, by Apollo Brown
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
