@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Chocolate Starfish And The Hot Dog Flavored Water_, by Limp Bizkit
+- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
+- _Materia_, by Julia Holter
 - _Honest Feeling Album_, by Hakushi Hasegawa
 
 </details>
@@ -24,14 +27,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Opening_, by Klara Lewis
 - _No Ritmo da Terra_, by Antropoceno
 - _Emotional Junglist_, by Nia Archives
-- _Secret Love_, by Dry Cleaning
 - _Crack the Skye_, by Mastodon
-- _Melt My Eyez See Your Future_, by Denzel Curry
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
-- _Diamond Eyes_, by Deftones
 - _No Pressure, No Diamond._, by Apollo Brown
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _Melt My Eyez See Your Future_, by Denzel Curry
+- _Diamond Eyes_, by Deftones
+- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
+- _Secret Love_, by Dry Cleaning
 - _Multila_, by Vladislav Delay
 
 </details>
