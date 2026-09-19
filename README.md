@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Radical Frame_, by Actress
+- _No Pressure, No Diamond._, by Apollo Brown
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
+- _Radical Frame_, by Actress
 - _Chocolate Starfish And The Hot Dog Flavored Water_, by Limp Bizkit
 - _Materia_, by Julia Holter
 - _Honest Feeling Album_, by Hakushi Hasegawa
@@ -22,14 +23,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _ii_, by Denzel Curry, Kenny Beats
 - _素直な気持ちアルバム_, by Hakushi Hasegawa
+- _ii_, by Denzel Curry, Kenny Beats
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Opening_, by Klara Lewis
 - _No Ritmo da Terra_, by Antropoceno
 - _Emotional Junglist_, by Nia Archives
-- _Crack the Skye_, by Mastodon
 - _No Pressure, No Diamond._, by Apollo Brown
+- _Crack the Skye_, by Mastodon
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Melt My Eyez See Your Future_, by Denzel Curry
