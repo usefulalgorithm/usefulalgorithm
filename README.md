@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Radical Frame_, by Actress
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Chocolate Starfish And The Hot Dog Flavored Water_, by Limp Bizkit
 - _Materia_, by Julia Holter
