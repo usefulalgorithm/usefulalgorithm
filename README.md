@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Opening_, by Klara Lewis
 - _No Pressure, No Diamond._, by Apollo Brown
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Radical Frame_, by Actress
@@ -24,9 +25,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _素直な気持ちアルバム_, by Hakushi Hasegawa
+- _Opening_, by Klara Lewis
 - _ii_, by Denzel Curry, Kenny Beats
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
-- _Opening_, by Klara Lewis
 - _No Ritmo da Terra_, by Antropoceno
 - _Emotional Junglist_, by Nia Archives
 - _No Pressure, No Diamond._, by Apollo Brown
