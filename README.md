@@ -11,15 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Radical Frame_, by Actress
 - _fata morgana_, by L'Rain
 - _Worlding With Earth_, by Slowfoam
 - _Opening_, by Klara Lewis
 - _No Pressure, No Diamond._, by Apollo Brown
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
-- _Radical Frame_, by Actress
 - _Chocolate Starfish And The Hot Dog Flavored Water_, by Limp Bizkit
 - _Materia_, by Julia Holter
-- _Honest Feeling Album_, by Hakushi Hasegawa
 
 </details>
 
@@ -38,7 +37,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Diamond Eyes_, by Deftones
-- _Hidden Fires Burn Hottest_, by Bosse-de-Nage
 - _Secret Love_, by Dry Cleaning
 - _Multila_, by Vladislav Delay
 
