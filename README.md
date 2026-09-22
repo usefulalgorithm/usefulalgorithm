@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Honest Feeling Album_, by Hakushi Hasegawa
 - _Radical Frame_, by Actress
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _fata morgana_, by L'Rain
-- _Honest Feeling Album_, by Hakushi Hasegawa
 - _Harmonic Mind_, by Ozric Tentacles
 - _Worlding With Earth_, by Slowfoam
-- _Opening_, by Klara Lewis
 
 </details>
 
@@ -29,14 +28,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _ii_, by Denzel Curry, Kenny Beats
 - _No Ritmo da Terra_, by Antropoceno
-- _Emotional Junglist_, by Nia Archives
 - _No Pressure, No Diamond._, by Apollo Brown
 - _Crack the Skye_, by Mastodon
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Diamond Eyes_, by Deftones
-- _Secret Love_, by Dry Cleaning
 - _Multila_, by Vladislav Delay
+- _Secret Love_, by Dry Cleaning
+- _Emotional Junglist_, by Nia Archives
 
 </details>
 
