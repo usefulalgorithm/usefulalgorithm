@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Honest Feeling Album_, by Hakushi Hasegawa
 - _Radical Frame_, by Actress
+- _Honest Feeling Album_, by Hakushi Hasegawa
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _fata morgana_, by L'Rain
 - _Harmonic Mind_, by Ozric Tentacles
-- _Worlding With Earth_, by Slowfoam
 
 </details>
 
