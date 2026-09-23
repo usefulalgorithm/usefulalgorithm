@@ -14,8 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Radical Frame_, by Actress
 - _Honest Feeling Album_, by Hakushi Hasegawa
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
-- _fata morgana_, by L'Rain
-- _Harmonic Mind_, by Ozric Tentacles
 
 </details>
 
@@ -33,8 +31,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Diamond Eyes_, by Deftones
 - _Multila_, by Vladislav Delay
-- _Secret Love_, by Dry Cleaning
-- _Emotional Junglist_, by Nia Archives
 
 </details>
 
