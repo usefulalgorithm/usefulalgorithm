@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Radical Frame_, by Actress
 - _Honest Feeling Album_, by Hakushi Hasegawa
+- _Radical Frame_, by Actress
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 
 </details>
@@ -29,8 +29,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Crack the Skye_, by Mastodon
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _Diamond Eyes_, by Deftones
 - _Multila_, by Vladislav Delay
+- _Diamond Eyes_, by Deftones
 
 </details>
 
