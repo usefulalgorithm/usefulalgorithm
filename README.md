@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _ii_, by Denzel Curry, Kenny Beats
+- _Distance in Static_, by Bonobo
 - _Honest Feeling Album_, by Hakushi Hasegawa
 - _Radical Frame_, by Actress
 
@@ -21,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _素直な気持ちアルバム_, by Hakushi Hasegawa
 - _Opening_, by Klara Lewis
-- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _ii_, by Denzel Curry, Kenny Beats
+- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _No Ritmo da Terra_, by Antropoceno
 - _No Pressure, No Diamond._, by Apollo Brown
 - _Crack the Skye_, by Mastodon
