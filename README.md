@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _No Pressure, No Diamond._, by Apollo Brown
+- _Honest Feeling Album_, by Hakushi Hasegawa
 - _ii_, by Denzel Curry, Kenny Beats
 - _Distance in Static_, by Bonobo
-- _Honest Feeling Album_, by Hakushi Hasegawa
 - _Radical Frame_, by Actress
 
 </details>
@@ -29,10 +30,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Crack the Skye_, by Mastodon
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Multila_, by Vladislav Delay
+- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Melt My Eyez See Your Future_, by Denzel Curry
 - _Radical Frame_, by Actress
+- _No Ordinary Word_, by Curbside Lambsear
 
 </details>
 
