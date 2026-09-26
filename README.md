@@ -11,9 +11,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Time_, by Resavoir
+- _The Edge_, by Droogie Otis, Madlib, Your Old Droog
+- _Fake Jeezy_, by Maxo Kream, Denzel Curry, JPEGMAFIA
+- _Daddy's Girl_, by Rapsody, Madlib
+- _Horizont_, by Regina Collage
 - _No Pressure, No Diamond._, by Apollo Brown
-- _Honest Feeling Album_, by Hakushi Hasegawa
+- _Piñata_, by Freddie Gibbs, Madlib
 - _ii_, by Denzel Curry, Kenny Beats
+- _Honest Feeling Album_, by Hakushi Hasegawa
 - _Distance in Static_, by Bonobo
 - _Radical Frame_, by Actress
 
@@ -32,9 +38,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Multila_, by Vladislav Delay
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
-- _Melt My Eyez See Your Future_, by Denzel Curry
 - _Radical Frame_, by Actress
 - _No Ordinary Word_, by Curbside Lambsear
+- _Secret Love_, by Dry Cleaning
 
 </details>
 
