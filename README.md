@@ -11,6 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Themes for Dreams_, by Resavoir
+- _Opening_, by Klara Lewis
+- _fata morgana_, by L'Rain
+- _Honest Feeling Album_, by Hakushi Hasegawa
 - _Time_, by Resavoir
 - _The Edge_, by Droogie Otis, Madlib, Your Old Droog
 - _Fake Jeezy_, by Maxo Kream, Denzel Curry, JPEGMAFIA
@@ -19,9 +23,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _No Pressure, No Diamond._, by Apollo Brown
 - _Piñata_, by Freddie Gibbs, Madlib
 - _ii_, by Denzel Curry, Kenny Beats
-- _Honest Feeling Album_, by Hakushi Hasegawa
 - _Distance in Static_, by Bonobo
-- _Radical Frame_, by Actress
 
 </details>
 
@@ -33,8 +35,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ii_, by Denzel Curry, Kenny Beats
 - _No Ritmo da Terra_, by Antropoceno
 - _No Pressure, No Diamond._, by Apollo Brown
-- _Crack the Skye_, by Mastodon
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
+- _Crack the Skye_, by Mastodon
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Multila_, by Vladislav Delay
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
