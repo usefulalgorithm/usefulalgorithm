@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Themes for Dreams_, by Resavoir
 - _Opening_, by Klara Lewis
+- _Themes for Dreams_, by Resavoir
 - _fata morgana_, by L'Rain
 - _Honest Feeling Album_, by Hakushi Hasegawa
 - _Time_, by Resavoir
