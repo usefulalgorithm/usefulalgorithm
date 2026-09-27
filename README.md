@@ -22,8 +22,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Horizont_, by Regina Collage
 - _No Pressure, No Diamond._, by Apollo Brown
 - _Piñata_, by Freddie Gibbs, Madlib
-- _ii_, by Denzel Curry, Kenny Beats
-- _Distance in Static_, by Bonobo
 
 </details>
 
@@ -39,10 +37,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Crack the Skye_, by Mastodon
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Multila_, by Vladislav Delay
+- _fata morgana_, by L'Rain
 - _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Radical Frame_, by Actress
 - _No Ordinary Word_, by Curbside Lambsear
-- _Secret Love_, by Dry Cleaning
 
 </details>
 
