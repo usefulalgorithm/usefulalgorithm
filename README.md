@@ -14,8 +14,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Memoria_, by Carmen Villain
 - _fata morgana_, by L'Rain
-- _Opening_, by Klara Lewis
-- _Themes for Dreams_, by Resavoir
 
 </details>
 
@@ -25,16 +23,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _素直な気持ちアルバム_, by Hakushi Hasegawa
 - _Opening_, by Klara Lewis
 - _No Ritmo da Terra_, by Antropoceno
-- _ii_, by Denzel Curry, Kenny Beats
 - _No Pressure, No Diamond._, by Apollo Brown
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Crack the Skye_, by Mastodon
+- _ii_, by Denzel Curry, Kenny Beats
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _No Ordinary Word_, by Curbside Lambsear
 - _Multila_, by Vladislav Delay
+- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _fata morgana_, by L'Rain
-- _vd5_, by Vladislav Delay Quintet, Vladislav Delay
 - _Radical Frame_, by Actress
+- _Man The Door_, by Curbside Lambsear
 
 </details>
 
