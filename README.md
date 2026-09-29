@@ -11,6 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _No Pressure, No Diamond._, by Apollo Brown
+- _Radical Frame_, by Actress
+- _Honest Feeling Album_, by Hakushi Hasegawa
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Memoria_, by Carmen Villain
 - _fata morgana_, by L'Rain
@@ -26,13 +29,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _No Pressure, No Diamond._, by Apollo Brown
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Crack the Skye_, by Mastodon
+- _No Ordinary Word_, by Curbside Lambsear
 - _ii_, by Denzel Curry, Kenny Beats
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _No Ordinary Word_, by Curbside Lambsear
-- _Multila_, by Vladislav Delay
+- _Radical Frame_, by Actress
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _fata morgana_, by L'Rain
-- _Radical Frame_, by Actress
 - _Man The Door_, by Curbside Lambsear
 
 </details>
