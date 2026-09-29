@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Horizont_, by Regina Collage
+- _Honest Feeling Album_, by Hakushi Hasegawa
+- _Morning Light_, by Locust
 - _No Pressure, No Diamond._, by Apollo Brown
 - _Radical Frame_, by Actress
-- _Honest Feeling Album_, by Hakushi Hasegawa
-- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
-- _Memoria_, by Carmen Villain
-- _fata morgana_, by L'Rain
 
 </details>
 
@@ -25,17 +24,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _素直な気持ちアルバム_, by Hakushi Hasegawa
 - _Opening_, by Klara Lewis
-- _No Ritmo da Terra_, by Antropoceno
 - _No Pressure, No Diamond._, by Apollo Brown
+- _No Ritmo da Terra_, by Antropoceno
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Crack the Skye_, by Mastodon
 - _No Ordinary Word_, by Curbside Lambsear
 - _ii_, by Denzel Curry, Kenny Beats
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _Radical Frame_, by Actress
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _fata morgana_, by L'Rain
-- _Man The Door_, by Curbside Lambsear
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 
 </details>
 
