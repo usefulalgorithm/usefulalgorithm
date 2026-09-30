@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Honest Feeling Album_, by Hakushi Hasegawa
 - _Morning Light_, by Locust
 - _No Pressure, No Diamond._, by Apollo Brown
-- _Radical Frame_, by Actress
 
 </details>
 
@@ -33,7 +32,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Radical Frame_, by Actress
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _fata morgana_, by L'Rain
-- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 
 </details>
 
