@@ -27,13 +27,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Opening_, by Klara Lewis
 - _No Pressure, No Diamond._, by Apollo Brown
 - _No Ritmo da Terra_, by Antropoceno
+- _No Ordinary Word_, by Curbside Lambsear
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Crack the Skye_, by Mastodon
-- _No Ordinary Word_, by Curbside Lambsear
-- _ii_, by Denzel Curry, Kenny Beats
-- _Radical Frame_, by Actress
-- _Horizont_, by Regina Collage
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
+- _Radical Frame_, by Actress
+- _ii_, by Denzel Curry, Kenny Beats
+- _Horizont_, by Regina Collage
 - _fata morgana_, by L'Rain
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 
