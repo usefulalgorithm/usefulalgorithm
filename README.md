@@ -25,8 +25,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Opening_, by Klara Lewis
 - _No Pressure, No Diamond._, by Apollo Brown
 - _No Ordinary Word_, by Curbside Lambsear
-- _No Ritmo da Terra_, by Antropoceno
 - _Who Loves The Sun_, by Chat Pile
+- _No Ritmo da Terra_, by Antropoceno
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Crack the Skye_, by Mastodon
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
