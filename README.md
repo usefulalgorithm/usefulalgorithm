@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Morning Light_, by Locust
+- _Radical Frame_, by Actress
 - _Who Loves The Sun_, by Chat Pile
 - _No Pressure, No Diamond._, by Apollo Brown
 - _Horizont_, by Regina Collage
@@ -26,13 +28,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _No Pressure, No Diamond._, by Apollo Brown
 - _No Ordinary Word_, by Curbside Lambsear
 - _Who Loves The Sun_, by Chat Pile
-- _No Ritmo da Terra_, by Antropoceno
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Crack the Skye_, by Mastodon
+- _No Ritmo da Terra_, by Antropoceno
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Horizont_, by Regina Collage
 - _Radical Frame_, by Actress
-- _ii_, by Denzel Curry, Kenny Beats
+- _Man The Door_, by Curbside Lambsear
 
 </details>
 
