@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Gi Mi Keys Back_, by Blawan
 - _Morning Light_, by Locust
 - _Who Loves The Sun_, by Chat Pile
 - _Radical Frame_, by Actress
