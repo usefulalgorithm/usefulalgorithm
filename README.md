@@ -11,11 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Gi Mi Keys Back_, by Blawan
+- _Nightbringers_, by The Black Dahlia Murder
 - _Morning Light_, by Locust
+- _Gi Mi Keys Back_, by Blawan
 - _Who Loves The Sun_, by Chat Pile
-- _Radical Frame_, by Actress
-- _No Pressure, No Diamond._, by Apollo Brown
 
 </details>
 
@@ -28,8 +27,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Who Loves The Sun_, by Chat Pile
 - _No Ordinary Word_, by Curbside Lambsear
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
-- _Crack the Skye_, by Mastodon
 - _No Ritmo da Terra_, by Antropoceno
+- _Crack the Skye_, by Mastodon
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Horizont_, by Regina Collage
 - _Radical Frame_, by Actress
