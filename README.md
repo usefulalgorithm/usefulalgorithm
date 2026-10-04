@@ -28,7 +28,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _No Ordinary Word_, by Curbside Lambsear
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _No Ritmo da Terra_, by Antropoceno
-- _Crack the Skye_, by Mastodon
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Horizont_, by Regina Collage
 - _Radical Frame_, by Actress
