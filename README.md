@@ -11,6 +11,30 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Orthodoxia Kai Thanatos_, by Various Artists
+- _Fear Of The Beauty Parlour_, by Merryn Jeann
+- _Ej, most jöttem Gyuláról / Este van, este van_, by Adela Mede, Štefan Szabó
+- _i tried to let go_, by Tiiva
+- _the TOWER_, by Hang Linton
+- _La Raive_, by Brama
+- _All Shall Be Well_, by Susanne Sundfør, Kit Downes
+- _Memoria_, by Carmen Villain
+- _Pure Confusion_, by King Ayisoba
+- _MLN_, by Space Afrika
+- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
+- _Opening_, by Klara Lewis
+- _CURSED FRAME (Deluxe Edition)_, by Another Country $$$$
+- _Garbhóg_, by Trá Pháidín
+- _Master and Slave_, by Godflesh
+- _Yours Sincerely_, by Haruomi Hosono
+- _Alogia_, by Gilla Band
+- _Unlimited Love b/w The Peace (Frost Children Remix)_, by underscores
+- _The Moon and Stars_, by Radie Peat
+- _A New Extremity_, by Hysterical Love Project
+- _Plane_, by Nadeem Din-Gabisi
+- _[MTG] PIQUE DA OAKLEY [BEAT LASER 2029]_, by VHOOR, DJ RaMeMes (O DESTRUIDOR DO FUNK), JLZ, Mu540
+- _Natural High_, by Perfume Genius
+- _Ice Pick, Kalamazoo_, by Liars
 - _1984_, by Slaughter to Prevail
 - _War Machine_, by Lorna Shore
 - _Who Loves The Sun_, by Chat Pile
