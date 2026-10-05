@@ -11,6 +11,35 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Radical Frame_, by Actress
+- _Без никого да удриш_, by Алембик
+- _Pocket Universe_, by Exaudi Vocal Ensemble, James Weeks
+- _Here Because of Hope_, by Ezra Collective
+- _Beneath the Eildon Tree_, by Wire Worms
+- _What Is Lost Will Return_, by Immersion
+- _Hidden Tableau (excerpt)_, by Oren Ambarchi
+- _19.15.19_, by The Easy Eight
+- _Where the Dregs Dwell_, by Crazy Clue
+- _GUSTO_, by Boko Yout
+- _Är du nöjd nu?_, by Året Var
+- _The Rainbow Room_, by Soft Cell
+- _Furlongs_, by Gilroy Mere
+- _Dragonflies_, by Dragonflies, Dhani Harrison, Nigel Godrich
+- _data master_, by Gash
+- _Technicolor_, by Odessey and Oracle
+- _7ilween_, by Fatima Al Qadiri
+- _Splayed Werks_, by Tyondai Braxton
+- _Morir Saltando_, by Hesse Kassel
+- _My Heart is Dust Before Him: 21st Century Gasba from Algeria_, by Various Artists
+- _Hillbilly Erotica_, by Sir Richard Bishop
+- _Thank You_, by Mike D
+- _Un Jazz_, by Nu Jazz
+- _Fantastic Thoughts_, by Nate Mercereau
+- _Vol. 3_, by The Odyssey Cult
+- _There Near_, by Dinosaur Jr.
+- _Pro War (Redux)_, by Globo
+- _Dogma_, by Kim Ximya
+- _Steve's Pool_, by Shit And Shine
 - _Orthodoxia Kai Thanatos_, by Various Artists
 - _Fear Of The Beauty Parlour_, by Merryn Jeann
 - _Ej, most jöttem Gyuláról / Este van, este van_, by Adela Mede, Štefan Szabó
@@ -25,24 +54,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Opening_, by Klara Lewis
 - _CURSED FRAME (Deluxe Edition)_, by Another Country $$$$
 - _Garbhóg_, by Trá Pháidín
-- _Master and Slave_, by Godflesh
-- _Yours Sincerely_, by Haruomi Hosono
-- _Alogia_, by Gilla Band
-- _Unlimited Love b/w The Peace (Frost Children Remix)_, by underscores
-- _The Moon and Stars_, by Radie Peat
-- _A New Extremity_, by Hysterical Love Project
-- _Plane_, by Nadeem Din-Gabisi
-- _[MTG] PIQUE DA OAKLEY [BEAT LASER 2029]_, by VHOOR, DJ RaMeMes (O DESTRUIDOR DO FUNK), JLZ, Mu540
-- _Natural High_, by Perfume Genius
-- _Ice Pick, Kalamazoo_, by Liars
-- _1984_, by Slaughter to Prevail
-- _War Machine_, by Lorna Shore
-- _Who Loves The Sun_, by Chat Pile
-- _Accelerated Evolution (Live)_, by The Faceless
-- _Panic Hysteric_, by The Black Dahlia Murder
-- _Nightbringers_, by The Black Dahlia Murder
-- _Morning Light_, by Locust
-- _Gi Mi Keys Back_, by Blawan
 
 </details>
 
@@ -57,8 +68,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _No Ritmo da Terra_, by Antropoceno
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
-- _Horizont_, by Regina Collage
 - _Radical Frame_, by Actress
+- _Horizont_, by Regina Collage
 - _Man The Door_, by Curbside Lambsear
 
 </details>
