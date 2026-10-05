@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _1984_, by Slaughter to Prevail
+- _War Machine_, by Lorna Shore
 - _Who Loves The Sun_, by Chat Pile
 - _Accelerated Evolution (Live)_, by The Faceless
 - _Panic Hysteric_, by The Black Dahlia Murder
