@@ -11,16 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Muuntautuja_, by Oranssi Pazuzu
-- _Who Loves The Sun_, by Chat Pile
-- _Nightbringers_, by The Black Dahlia Murder
+- _Furlongs_, by Gilroy Mere
+- _Hardcore Software_, by DJ_Dave
 - _Quiet Storm_, by Space Afrika
-- _Natural High_, by Perfume Genius
-- _Ice Pick, Kalamazoo_, by Liars
-- _Gi Mi Keys Back_, by Blawan
-- _Dragonflies_, by Dragonflies, Dhani Harrison, Nigel Godrich
-- _Radical Frame_, by Actress
-- _Без никого да удриш_, by Алембик
+- _Muuntautuja_, by Oranssi Pazuzu
 
 </details>
 
@@ -28,8 +22,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _素直な気持ちアルバム_, by Hakushi Hasegawa
-- _Opening_, by Klara Lewis
 - _No Pressure, No Diamond._, by Apollo Brown
+- _Opening_, by Klara Lewis
 - _Who Loves The Sun_, by Chat Pile
 - _No Ordinary Word_, by Curbside Lambsear
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
