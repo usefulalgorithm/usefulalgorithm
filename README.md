@@ -11,6 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Quiet Storm_, by Space Afrika
+- _Natural High_, by Perfume Genius
+- _Ice Pick, Kalamazoo_, by Liars
+- _Gi Mi Keys Back_, by Blawan
+- _Dragonflies_, by Dragonflies, Dhani Harrison, Nigel Godrich
 - _Radical Frame_, by Actress
 - _Без никого да удриш_, by Алембик
 - _Pocket Universe_, by Exaudi Vocal Ensemble, James Weeks
@@ -24,7 +29,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Är du nöjd nu?_, by Året Var
 - _The Rainbow Room_, by Soft Cell
 - _Furlongs_, by Gilroy Mere
-- _Dragonflies_, by Dragonflies, Dhani Harrison, Nigel Godrich
 - _data master_, by Gash
 - _Technicolor_, by Odessey and Oracle
 - _7ilween_, by Fatima Al Qadiri
@@ -49,11 +53,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _All Shall Be Well_, by Susanne Sundfør, Kit Downes
 - _Memoria_, by Carmen Villain
 - _Pure Confusion_, by King Ayisoba
-- _MLN_, by Space Afrika
-- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
-- _Opening_, by Klara Lewis
-- _CURSED FRAME (Deluxe Edition)_, by Another Country $$$$
-- _Garbhóg_, by Trá Pháidín
 
 </details>
 
