@@ -13,8 +13,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Furlongs_, by Gilroy Mere
 - _Hardcore Software_, by DJ_Dave
-- _Quiet Storm_, by Space Afrika
-- _Muuntautuja_, by Oranssi Pazuzu
 
 </details>
 
