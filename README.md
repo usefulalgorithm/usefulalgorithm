@@ -15,7 +15,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Furlongs_, by Gilroy Mere
 - _Nightbringers_, by The Black Dahlia Murder
 - _Quiet Storm_, by Space Afrika
-- _ENEO_, by Slikback, KMRU
 
 </details>
 
