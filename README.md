@@ -11,8 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _ENEO_, by Slikback, KMRU
 - _Furlongs_, by Gilroy Mere
-- _Hardcore Software_, by DJ_Dave
+- _Quiet Storm_, by Space Afrika
+- _Morir Saltando_, by Hesse Kassel
 
 </details>
 
