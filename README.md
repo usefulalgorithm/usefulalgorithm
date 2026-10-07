@@ -11,10 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _ENEO_, by Slikback, KMRU
+- _Alone With Heaven_, by The Saddest Landscape
 - _Furlongs_, by Gilroy Mere
+- _Nightbringers_, by The Black Dahlia Murder
 - _Quiet Storm_, by Space Afrika
-- _Morir Saltando_, by Hesse Kassel
+- _ENEO_, by Slikback, KMRU
 
 </details>
 
@@ -23,14 +24,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _素直な気持ちアルバム_, by Hakushi Hasegawa
 - _No Pressure, No Diamond._, by Apollo Brown
-- _Opening_, by Klara Lewis
 - _Who Loves The Sun_, by Chat Pile
+- _Opening_, by Klara Lewis
 - _No Ordinary Word_, by Curbside Lambsear
-- _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Radical Frame_, by Actress
+- _Quiet Storm_, by Space Afrika
+- _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Horizont_, by Regina Collage
 - _Man The Door_, by Curbside Lambsear
+- _fata morgana_, by L'Rain
 
 </details>
 
