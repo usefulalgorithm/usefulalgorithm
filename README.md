@@ -11,10 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Who Loves The Sun_, by Chat Pile
+- _ENEO_, by Slikback, KMRU
+- _Crack the Skye_, by Mastodon
 - _No Pressure, No Diamond._, by Apollo Brown
 - _Opening_, by Klara Lewis
-- _ENEO_, by Slikback, KMRU
-- _Alone With Heaven_, by The Saddest Landscape
 
 </details>
 
@@ -31,8 +32,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Radical Frame_, by Actress
 - _Quiet Storm_, by Space Afrika
 - _Horizont_, by Regina Collage
+- _ENEO_, by Slikback, KMRU
 - _Man The Door_, by Curbside Lambsear
-- _fata morgana_, by L'Rain
 
 </details>
 
