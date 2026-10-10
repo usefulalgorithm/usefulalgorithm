@@ -11,9 +11,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Quiet Storm_, by Space Afrika
 - _Opening_, by Klara Lewis
-- _Alone With Heaven_, by The Saddest Landscape
-- _ENEO_, by Slikback, KMRU
+- _Deliverance_, by Opeth
+- _Crack the Skye_, by Mastodon
+- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
+- _Morir Saltando_, by Hesse Kassel
+- _ii_, by Denzel Curry, Kenny Beats
+- _Red Fang_, by Red Fang
+- _No Pressure, No Diamond._, by Apollo Brown
 
 </details>
 
@@ -25,15 +31,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Who Loves The Sun_, by Chat Pile
 - _No Ordinary Word_, by Curbside Lambsear
 - _Opening_, by Klara Lewis
+- _Quiet Storm_, by Space Afrika
 - _ENEO_, by Slikback, KMRU
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Radical Frame_, by Actress
-- _Quiet Storm_, by Space Afrika
 - _Horizont_, by Regina Collage
-- _Alone With Heaven_, by The Saddest Landscape
-- _Man The Door_, by Curbside Lambsear
-- _fata morgana_, by L'Rain
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
+- _Man The Door_, by Curbside Lambsear
+- _Alone With Heaven_, by The Saddest Landscape
+- _fata morgana_, by L'Rain
 
 </details>
 
