@@ -11,15 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Quiet Storm_, by Space Afrika
 - _Opening_, by Klara Lewis
 - _Deliverance_, by Opeth
+- _Quiet Storm_, by Space Afrika
 - _Crack the Skye_, by Mastodon
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Morir Saltando_, by Hesse Kassel
 - _ii_, by Denzel Curry, Kenny Beats
 - _Red Fang_, by Red Fang
-- _No Pressure, No Diamond._, by Apollo Brown
 
 </details>
 
