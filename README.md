@@ -11,14 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Opening_, by Klara Lewis
-- _Deliverance_, by Opeth
 - _Quiet Storm_, by Space Afrika
-- _Crack the Skye_, by Mastodon
-- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
-- _Morir Saltando_, by Hesse Kassel
-- _ii_, by Denzel Curry, Kenny Beats
-- _Red Fang_, by Red Fang
+- _Nightbringers_, by The Black Dahlia Murder
+- _Radical Frame_, by Actress
+- _Opening_, by Klara Lewis
 
 </details>
 
@@ -26,16 +22,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _素直な気持ちアルバム_, by Hakushi Hasegawa
-- _No Pressure, No Diamond._, by Apollo Brown
 - _Who Loves The Sun_, by Chat Pile
-- _No Ordinary Word_, by Curbside Lambsear
+- _No Pressure, No Diamond._, by Apollo Brown
 - _Opening_, by Klara Lewis
+- _No Ordinary Word_, by Curbside Lambsear
 - _Quiet Storm_, by Space Afrika
+- _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _ENEO_, by Slikback, KMRU
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Radical Frame_, by Actress
+- _Nightbringers_, by The Black Dahlia Murder
 - _Horizont_, by Regina Collage
-- _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Man The Door_, by Curbside Lambsear
 - _Alone With Heaven_, by The Saddest Landscape
 - _fata morgana_, by L'Rain
