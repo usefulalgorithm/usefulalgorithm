@@ -11,31 +11,35 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _94diskont._, by Oval
+- _Opening_, by Klara Lewis
+- _Who Loves The Sun_, by Chat Pile
+- _Quiet Storm_, by Space Afrika
+- _Crack the Skye_, by Mastodon
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _START LAUGHING_, by Circuit Circuit
-- _Quiet Storm_, by Space Afrika
-- _Alone With Heaven_, by The Saddest Landscape
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _素直な気持ちアルバム_, by Hakushi Hasegawa
 - _No Ordinary Word_, by Curbside Lambsear
 - _Who Loves The Sun_, by Chat Pile
 - _Opening_, by Klara Lewis
 - _Quiet Storm_, by Space Afrika
+- _素直な気持ちアルバム_, by Hakushi Hasegawa
 - _No Pressure, No Diamond._, by Apollo Brown
 - _ENEO_, by Slikback, KMRU
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Man The Door_, by Curbside Lambsear
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
+- _Alone With Heaven_, by The Saddest Landscape
 - _Uneasy_, by Curbside Lambsear
 - _Radical Frame_, by Actress
-- _Alone With Heaven_, by The Saddest Landscape
 - _Nightbringers_, by The Black Dahlia Murder
 - _Horizont_, by Regina Collage
+- _Crack the Skye_, by Mastodon
 - _Morir Saltando_, by Hesse Kassel
 
 </details>
