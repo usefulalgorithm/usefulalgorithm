@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Here Because of Hope_, by Ezra Collective
 - _ENEO_, by Slikback, KMRU
 - _Quiet Storm_, by Space Afrika
 - _Nightbringers_, by The Black Dahlia Murder
