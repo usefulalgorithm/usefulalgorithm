@@ -11,12 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _ascension_, by Ovum
 - _Radical Frame_, by Actress
+- _Feel Free_, by Duane Pitre
+- _ascension_, by Ovum
 - _Un Jazz_, by Nu Jazz
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
-- _ENEO_, by Slikback, KMRU
-- _94diskont._, by Oval
 
 </details>
 
@@ -27,13 +26,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Who Loves The Sun_, by Chat Pile
 - _Opening_, by Klara Lewis
 - _Quiet Storm_, by Space Afrika
+- _ENEO_, by Slikback, KMRU
 - _No Pressure, No Diamond._, by Apollo Brown
 - _素直な気持ちアルバム_, by Hakushi Hasegawa
-- _ENEO_, by Slikback, KMRU
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Man The Door_, by Curbside Lambsear
-- _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Radical Frame_, by Actress
+- _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Alone With Heaven_, by The Saddest Landscape
 - _Uneasy_, by Curbside Lambsear
 - _Nightbringers_, by The Black Dahlia Murder
