@@ -12,13 +12,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _ascension_, by Ovum
+- _Radical Frame_, by Actress
+- _Un Jazz_, by Nu Jazz
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _ENEO_, by Slikback, KMRU
 - _94diskont._, by Oval
-- _Opening_, by Klara Lewis
-- _Who Loves The Sun_, by Chat Pile
-- _Quiet Storm_, by Space Afrika
-- _Crack the Skye_, by Mastodon
 
 </details>
 
@@ -29,19 +27,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Who Loves The Sun_, by Chat Pile
 - _Opening_, by Klara Lewis
 - _Quiet Storm_, by Space Afrika
-- _素直な気持ちアルバム_, by Hakushi Hasegawa
 - _No Pressure, No Diamond._, by Apollo Brown
+- _素直な気持ちアルバム_, by Hakushi Hasegawa
 - _ENEO_, by Slikback, KMRU
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Man The Door_, by Curbside Lambsear
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
+- _Radical Frame_, by Actress
 - _Alone With Heaven_, by The Saddest Landscape
 - _Uneasy_, by Curbside Lambsear
-- _Radical Frame_, by Actress
 - _Nightbringers_, by The Black Dahlia Murder
+- _Morir Saltando_, by Hesse Kassel
 - _Horizont_, by Regina Collage
 - _Crack the Skye_, by Mastodon
-- _Morir Saltando_, by Hesse Kassel
 
 </details>
 
@@ -60,7 +58,7 @@ Gotta finish 25 books before 2027-01-01. I've read 18 so far.
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
 - _Political Categories: Thinking Beyond Concepts_, by Michael Marder ([link](https://hardcover.app/books/political-categories))
 - _Regeneration_, by Pat Barker ([link](https://hardcover.app/books/regeneration-1991))
-- _K-punk: The Collected and Unpublished Writings of Mark Fisher_, by Mark Fisher, Simon Reynolds, and friends ([link](https://hardcover.app/books/k-punk-the-collected-and-unpublished-writings-of-mark-fisher-2018))
+- _K-punk: The Collected and Unpublished Writings of Mark Fisher_, by Mark Fisher, Darren Ambrose, and friends ([link](https://hardcover.app/books/k-punk-the-collected-and-unpublished-writings-of-mark-fisher-2018))
 - _A Biography of Ordinary Man: On Authorities and Minorities_, by Jessie Hock, Alex Dubilet, and friends ([link](https://hardcover.app/books/a-biography-of-ordinary-man))
 - _A Short History of Decay_, by Emil M. Cioran, Richard Howard ([link](https://hardcover.app/books/a-short-history-of-decay))
 - _Anti-Oedipus: Capitalism and Schizophrenia_, by Félix Guattari, Gilles Deleuze, and friends ([link](https://hardcover.app/books/anti-oedipus))
