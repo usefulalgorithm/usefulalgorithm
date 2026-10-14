@@ -11,13 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _ascension_, by Ovum
+- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
+- _ENEO_, by Slikback, KMRU
 - _94diskont._, by Oval
 - _Opening_, by Klara Lewis
 - _Who Loves The Sun_, by Chat Pile
 - _Quiet Storm_, by Space Afrika
 - _Crack the Skye_, by Mastodon
-- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
-- _START LAUGHING_, by Circuit Circuit
 
 </details>
 
