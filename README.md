@@ -11,12 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Days Gone_, by Fayzz
+- _It's Nothing Personal._, by Loraine James
+- _ascension_, by Ovum
+- _Lateralus_, by TOOL
 - _Training Musisic_, by Water Gun Water Gun Sky Attack
 - _Radical Frame_, by Actress
 - _Sailor Mouth_, by Sativa
 - _Feel Free_, by Duane Pitre
-- _It's Nothing Personal._, by Loraine James
-- _ascension_, by Ovum
 
 </details>
 
@@ -29,18 +31,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Quiet Storm_, by Space Afrika
 - _ENEO_, by Slikback, KMRU
 - _No Pressure, No Diamond._, by Apollo Brown
-- _素直な気持ちアルバム_, by Hakushi Hasegawa
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
+- _素直な気持ちアルバム_, by Hakushi Hasegawa
 - _Man The Door_, by Curbside Lambsear
 - _Radical Frame_, by Actress
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
+- _Morir Saltando_, by Hesse Kassel
 - _Alone With Heaven_, by The Saddest Landscape
 - _Uneasy_, by Curbside Lambsear
-- _Morir Saltando_, by Hesse Kassel
 - _Nightbringers_, by The Black Dahlia Murder
 - _Horizont_, by Regina Collage
 - _Crack the Skye_, by Mastodon
 - _Feel Free_, by Duane Pitre
+- _fata morgana_, by L'Rain
 
 </details>
 
