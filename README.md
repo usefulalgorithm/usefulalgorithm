@@ -11,22 +11,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Radical Frame_, by Actress
 - _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Cheat Codes_, by Danger Mouse, Black Thought
 - _DOGHOUSE_, by Scurra, Totojira
-- _Tom Chambers (feat. Knowledge the Pirate)_, by Roc Marciano
-- _Manhunt_, by Boldy James, Rome Streetz
-- _狗狗歷險記_, by 潮州土狗
-- _Radical Frame_, by Actress
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _No Ordinary Word_, by Curbside Lambsear
 - _Who Loves The Sun_, by Chat Pile
 - _Opening_, by Klara Lewis
+- _No Ordinary Word_, by Curbside Lambsear
 - _Quiet Storm_, by Space Afrika
 - _ENEO_, by Slikback, KMRU
 - _No Pressure, No Diamond._, by Apollo Brown
@@ -39,9 +36,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _素直な気持ちアルバム_, by Hakushi Hasegawa
 - _Uneasy_, by Curbside Lambsear
 - _Nightbringers_, by The Black Dahlia Murder
-- _Horizont_, by Regina Collage
 - _Crack the Skye_, by Mastodon
 - _Feel Free_, by Duane Pitre
+- _Horizont_, by Regina Collage
 - _fata morgana_, by L'Rain
 - _Furlongs_, by Gilroy Mere
 
