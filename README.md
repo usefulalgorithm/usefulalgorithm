@@ -11,15 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _At Work In The Fields Of The Bomb_, by Deafheaven
+- _Cheat Codes_, by Danger Mouse, Black Thought
 - _DOGHOUSE_, by Scurra, Totojira
+- _Tom Chambers (feat. Knowledge the Pirate)_, by Roc Marciano
 - _Manhunt_, by Boldy James, Rome Streetz
 - _狗狗歷險記_, by 潮州土狗
 - _Radical Frame_, by Actress
-- _At Work In The Fields Of The Bomb_, by Deafheaven
-- _Thresholds_, by Carrier
-- _LAGEOS_, by Actress, London Contemporary Orchestra
-- _Swerved_, by Nueen
-- _Days Gone_, by Fayzz
 
 </details>
 
