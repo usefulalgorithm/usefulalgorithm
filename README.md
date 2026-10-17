@@ -30,14 +30,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _No Pressure, No Diamond._, by Apollo Brown
 - _Radical Frame_, by Actress
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
-- _Man The Door_, by Curbside Lambsear
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Morir Saltando_, by Hesse Kassel
+- _Man The Door_, by Curbside Lambsear
 - _Alone With Heaven_, by The Saddest Landscape
 - _素直な気持ちアルバム_, by Hakushi Hasegawa
 - _Uneasy_, by Curbside Lambsear
-- _Nightbringers_, by The Black Dahlia Murder
 - _At Work In The Fields Of The Bomb_, by Deafheaven
+- _Nightbringers_, by The Black Dahlia Murder
 - _Crack the Skye_, by Mastodon
 - _Feel Free_, by Duane Pitre
 - _It's Nothing Personal._, by Loraine James
