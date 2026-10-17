@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Radical Frame_, by Actress
+- _Primordial Arcana (Bonus Track Edition)_, by Wolves In The Throne Room
 - _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Cheat Codes_, by Danger Mouse, Black Thought
 - _DOGHOUSE_, by Scurra, Totojira
