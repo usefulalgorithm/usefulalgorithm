@@ -11,13 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _At Work In The Fields Of The Bomb_, by Deafheaven
 - _It's Nothing Personal._, by Loraine James
 - _狗狗歷險記_, by 潮州土狗
 - _DOGHOUSE_, by Scurra, Totojira
 - _Radical Frame_, by Actress
-- _Primordial Arcana (Bonus Track Edition)_, by Wolves In The Throne Room
-- _At Work In The Fields Of The Bomb_, by Deafheaven
-- _Cheat Codes_, by Danger Mouse, Black Thought
 
 </details>
 
@@ -39,11 +37,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _素直な気持ちアルバム_, by Hakushi Hasegawa
 - _Uneasy_, by Curbside Lambsear
 - _Nightbringers_, by The Black Dahlia Murder
+- _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Crack the Skye_, by Mastodon
 - _Feel Free_, by Duane Pitre
+- _It's Nothing Personal._, by Loraine James
 - _Horizont_, by Regina Collage
 - _fata morgana_, by L'Rain
-- _Furlongs_, by Gilroy Mere
 
 </details>
 
