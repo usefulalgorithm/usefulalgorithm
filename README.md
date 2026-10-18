@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _狗狗歷險記_, by 潮州土狗
 - _DJ_, by The Crying Nudes
 - _In Lieu_, by Gi Gi
 - _lust_, by Rei Harakami
@@ -20,7 +21,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ENEO_, by Slikback, KMRU
 - _At Work In The Fields Of The Bomb_, by Deafheaven
 - _It's Nothing Personal._, by Loraine James
-- _狗狗歷險記_, by 潮州土狗
 - _DOGHOUSE_, by Scurra, Totojira
 
 </details>
@@ -48,8 +48,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Feel Free_, by Duane Pitre
 - _It's Nothing Personal._, by Loraine James
 - _Horizont_, by Regina Collage
-- _fata morgana_, by L'Rain
 - _Furlongs_, by Gilroy Mere
+- _fata morgana_, by L'Rain
 
 </details>
 
