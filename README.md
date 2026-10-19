@@ -11,8 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _狗狗歷險記_, by 潮州土狗
+- _DOGHOUSE_, by Scurra, Totojira
+- _Cheat Codes_, by Danger Mouse, Black Thought
+- _Suffering (Mike’s way)_, by Teen Suicide
 - _DJ_, by The Crying Nudes
+- _狗狗歷險記_, by 潮州土狗
 - _In Lieu_, by Gi Gi
 - _lust_, by Rei Harakami
 - _Somewhere Good_, by Tara Clerkin Trio
@@ -20,8 +23,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Tetsuo & Youth_, by Lupe Fiasco
 - _ENEO_, by Slikback, KMRU
 - _At Work In The Fields Of The Bomb_, by Deafheaven
-- _It's Nothing Personal._, by Loraine James
-- _DOGHOUSE_, by Scurra, Totojira
 
 </details>
 
@@ -40,16 +41,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Man The Door_, by Curbside Lambsear
 - _Alone With Heaven_, by The Saddest Landscape
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
+- _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Uneasy_, by Curbside Lambsear
 - _素直な気持ちアルバム_, by Hakushi Hasegawa
-- _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Nightbringers_, by The Black Dahlia Murder
 - _Crack the Skye_, by Mastodon
 - _Feel Free_, by Duane Pitre
 - _It's Nothing Personal._, by Loraine James
 - _Horizont_, by Regina Collage
 - _Furlongs_, by Gilroy Mere
-- _fata morgana_, by L'Rain
 
 </details>
 
