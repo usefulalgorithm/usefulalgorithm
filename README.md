@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _It's Nothing Personal._, by Loraine James
 - _Radical Frame_, by Actress
 - _Quiet Storm_, by Space Afrika
 - _Cheat Codes_, by Danger Mouse, Black Thought
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
 - _No Pressure, No Diamond._, by Apollo Brown
-- _It's Nothing Personal._, by Loraine James
 
 </details>
 
@@ -28,8 +28,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Opening_, by Klara Lewis
 - _ENEO_, by Slikback, KMRU
 - _No Ordinary Word_, by Curbside Lambsear
-- _No Pressure, No Diamond._, by Apollo Brown
 - _Radical Frame_, by Actress
+- _No Pressure, No Diamond._, by Apollo Brown
 - _It's Nothing Personal._, by Loraine James
 - _Morir Saltando_, by Hesse Kassel
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
@@ -40,7 +40,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Uneasy_, by Curbside Lambsear
 - _Nightbringers_, by The Black Dahlia Murder
 - _Crack the Skye_, by Mastodon
-- _素直な気持ちアルバム_, by Hakushi Hasegawa
 - _Feel Free_, by Duane Pitre
 - _Cheat Codes_, by Danger Mouse, Black Thought
 
