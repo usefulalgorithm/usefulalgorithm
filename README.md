@@ -11,18 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _DOGHOUSE_, by Scurra, Totojira
-- _Cheat Codes_, by Danger Mouse, Black Thought
-- _Suffering (Mike’s way)_, by Teen Suicide
-- _DJ_, by The Crying Nudes
-- _狗狗歷險記_, by 潮州土狗
-- _In Lieu_, by Gi Gi
-- _lust_, by Rei Harakami
-- _Somewhere Good_, by Tara Clerkin Trio
-- _Days Gone_, by Fayzz
-- _Tetsuo & Youth_, by Lupe Fiasco
-- _ENEO_, by Slikback, KMRU
-- _At Work In The Fields Of The Bomb_, by Deafheaven
+- _Radical Frame_, by Actress
+- _It's Nothing Personal._, by Loraine James
 
 </details>
 
@@ -30,26 +20,25 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Who Loves The Sun_, by Chat Pile
-- _No Ordinary Word_, by Curbside Lambsear
 - _Quiet Storm_, by Space Afrika
 - _Opening_, by Klara Lewis
 - _ENEO_, by Slikback, KMRU
+- _No Ordinary Word_, by Curbside Lambsear
 - _No Pressure, No Diamond._, by Apollo Brown
 - _Radical Frame_, by Actress
-- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
+- _It's Nothing Personal._, by Loraine James
 - _Morir Saltando_, by Hesse Kassel
+- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Man The Door_, by Curbside Lambsear
 - _Alone With Heaven_, by The Saddest Landscape
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Uneasy_, by Curbside Lambsear
-- _素直な気持ちアルバム_, by Hakushi Hasegawa
 - _Nightbringers_, by The Black Dahlia Murder
 - _Crack the Skye_, by Mastodon
+- _素直な気持ちアルバム_, by Hakushi Hasegawa
 - _Feel Free_, by Duane Pitre
-- _It's Nothing Personal._, by Loraine James
 - _Horizont_, by Regina Collage
-- _Furlongs_, by Gilroy Mere
 
 </details>
 
