@@ -12,6 +12,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Radical Frame_, by Actress
+- _Quiet Storm_, by Space Afrika
+- _Cheat Codes_, by Danger Mouse, Black Thought
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
+- _No Pressure, No Diamond._, by Apollo Brown
 - _It's Nothing Personal._, by Loraine James
 
 </details>
@@ -38,7 +42,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Crack the Skye_, by Mastodon
 - _素直な気持ちアルバム_, by Hakushi Hasegawa
 - _Feel Free_, by Duane Pitre
-- _Horizont_, by Regina Collage
+- _Cheat Codes_, by Danger Mouse, Black Thought
 
 </details>
 
