@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Ghettoville_, by Actress
 - _Radical Frame_, by Actress
 - _Quiet Storm_, by Space Afrika
 - _It's Nothing Personal._, by Loraine James
