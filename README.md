@@ -12,8 +12,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Radical Frame_, by Actress
-- _It's Nothing Personal._, by Loraine James
 - _Quiet Storm_, by Space Afrika
+- _It's Nothing Personal._, by Loraine James
 - _Cheat Codes_, by Danger Mouse, Black Thought
 
 </details>
@@ -21,8 +21,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Who Loves The Sun_, by Chat Pile
 - _Quiet Storm_, by Space Afrika
+- _Who Loves The Sun_, by Chat Pile
 - _Opening_, by Klara Lewis
 - _ENEO_, by Slikback, KMRU
 - _No Ordinary Word_, by Curbside Lambsear
@@ -39,7 +39,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Nightbringers_, by The Black Dahlia Murder
 - _Crack the Skye_, by Mastodon
 - _Feel Free_, by Duane Pitre
-- _Cheat Codes_, by Danger Mouse, Black Thought
 
 </details>
 
