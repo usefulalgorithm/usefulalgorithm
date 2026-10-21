@@ -16,7 +16,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Quiet Storm_, by Space Afrika
 - _Cheat Codes_, by Danger Mouse, Black Thought
 - _Alfredo 2_, by Freddie Gibbs, The Alchemist
-- _No Pressure, No Diamond._, by Apollo Brown
 
 </details>
 
