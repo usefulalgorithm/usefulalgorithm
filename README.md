@@ -11,11 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Ghettoville_, by Actress
-- _Radical Frame_, by Actress
 - _Quiet Storm_, by Space Afrika
+- _Radical Frame_, by Actress
+- _Ghettoville_, by Actress
 - _It's Nothing Personal._, by Loraine James
-- _Cheat Codes_, by Danger Mouse, Black Thought
 
 </details>
 
@@ -57,7 +56,7 @@ Gotta finish 25 books before 2027-01-01. I've read 18 so far.
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
 - _Political Categories: Thinking Beyond Concepts_, by Michael Marder ([link](https://hardcover.app/books/political-categories))
-- _Regeneration_, by Pat Barker ([link](https://hardcover.app/books/regeneration-1991))
+- _Regeneration_, by Pat Barker ([link](https://hardcover.app/books/regeneration-2006))
 - _K-punk: The Collected and Unpublished Writings of Mark Fisher_, by Mark Fisher, Darren Ambrose, and friends ([link](https://hardcover.app/books/k-punk-the-collected-and-unpublished-writings-of-mark-fisher-2018))
 - _A Biography of Ordinary Man: On Authorities and Minorities_, by Jessie Hock, Alex Dubilet, and friends ([link](https://hardcover.app/books/a-biography-of-ordinary-man))
 - _A Short History of Decay_, by Emil M. Cioran, Richard Howard ([link](https://hardcover.app/books/a-short-history-of-decay))
