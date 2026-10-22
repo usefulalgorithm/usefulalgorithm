@@ -12,9 +12,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Quiet Storm_, by Space Afrika
-- _Radical Frame_, by Actress
-- _Ghettoville_, by Actress
-- _It's Nothing Personal._, by Loraine James
+- _Morir Saltando_, by Hesse Kassel
+- _DOGHOUSE_, by Scurra, Totojira
+- _Alfredo 2_, by Freddie Gibbs, The Alchemist
 
 </details>
 
@@ -38,7 +38,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Uneasy_, by Curbside Lambsear
 - _Nightbringers_, by The Black Dahlia Murder
 - _Crack the Skye_, by Mastodon
-- _Feel Free_, by Duane Pitre
 
 </details>
 
