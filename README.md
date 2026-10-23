@@ -28,9 +28,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Opening_, by Klara Lewis
 - _No Ordinary Word_, by Curbside Lambsear
 - _It's Nothing Personal._, by Loraine James
-- _No Pressure, No Diamond._, by Apollo Brown
 - _Radical Frame_, by Actress
 - _Morir Saltando_, by Hesse Kassel
+- _No Pressure, No Diamond._, by Apollo Brown
 - _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Man The Door_, by Curbside Lambsear
@@ -39,6 +39,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Uneasy_, by Curbside Lambsear
 - _Nightbringers_, by The Black Dahlia Murder
 - _Crack the Skye_, by Mastodon
+- _Feel Free_, by Duane Pitre
 
 </details>
 
