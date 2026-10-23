@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Radical Frame_, by Actress
 - _Morir Saltando_, by Hesse Kassel
 - _ENEO_, by Slikback, KMRU
 - _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Quiet Storm_, by Space Afrika
-- _DOGHOUSE_, by Scurra, Totojira
 
 </details>
 
