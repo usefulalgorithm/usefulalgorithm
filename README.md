@@ -19,8 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _No Pressure, No Diamond._, by Apollo Brown
 - _Morir Saltando_, by Hesse Kassel
 - _ENEO_, by Slikback, KMRU
-- _At Work In The Fields Of The Bomb_, by Deafheaven
-- _Quiet Storm_, by Space Afrika
 
 </details>
 
@@ -33,18 +31,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Radical Frame_, by Actress
 - _Opening_, by Klara Lewis
 - _It's Nothing Personal._, by Loraine James
-- _No Ordinary Word_, by Curbside Lambsear
 - _Morir Saltando_, by Hesse Kassel
 - _No Pressure, No Diamond._, by Apollo Brown
+- _No Ordinary Word_, by Curbside Lambsear
 - _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Alone With Heaven_, by The Saddest Landscape
-- _Man The Door_, by Curbside Lambsear
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
-- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Nightbringers_, by The Black Dahlia Murder
 - _Crack the Skye_, by Mastodon
-- _Uneasy_, by Curbside Lambsear
 - _Feel Free_, by Duane Pitre
+- _Cheat Codes_, by Danger Mouse, Black Thought
 
 </details>
 
