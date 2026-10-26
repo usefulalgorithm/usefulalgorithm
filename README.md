@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Radical Frame_, by Actress
 - _Morning Light_, by Locust
 - _Love Heart Cheat Code_, by Hiatus Kaiyote
 - _Mahōgakkō_, by Hakushi Hasegawa
 - _Alone With Heaven_, by The Saddest Landscape
 - _No Pressure, No Diamond._, by Apollo Brown
-- _Radical Frame_, by Actress
 - _Morir Saltando_, by Hesse Kassel
 - _ENEO_, by Slikback, KMRU
 - _At Work In The Fields Of The Bomb_, by Deafheaven
