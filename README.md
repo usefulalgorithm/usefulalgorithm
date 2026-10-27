@@ -12,6 +12,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
+- _Nine_, by Russian Circles
 - _Radical Frame_, by Actress
 - _TIGRAY FUNK_, by Sideshow
 - _DOOMED!_, by Open Mike Eagle, Kenny Segal
@@ -31,14 +32,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Morir Saltando_, by Hesse Kassel
 - _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Alone With Heaven_, by The Saddest Landscape
-- _No Pressure, No Diamond._, by Apollo Brown
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Nightbringers_, by The Black Dahlia Murder
+- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Crack the Skye_, by Mastodon
 - _Feel Free_, by Duane Pitre
-- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Cheat Codes_, by Danger Mouse, Black Thought
 - _Man The Door_, by Curbside Lambsear
+- _No Pressure, No Diamond._, by Apollo Brown
 
 </details>
 
