@@ -11,11 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
+- _Radical Frame_, by Actress
 - _TIGRAY FUNK_, by Sideshow
 - _DOOMED!_, by Open Mike Eagle, Kenny Segal
-- _Quiet Storm_, by Space Afrika
-- _At Work In The Fields Of The Bomb_, by Deafheaven
-- _Radical Frame_, by Actress
 
 </details>
 
@@ -28,17 +27,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Radical Frame_, by Actress
 - _Opening_, by Klara Lewis
 - _It's Nothing Personal._, by Loraine James
-- _Morir Saltando_, by Hesse Kassel
-- _No Pressure, No Diamond._, by Apollo Brown
-- _At Work In The Fields Of The Bomb_, by Deafheaven
 - _No Ordinary Word_, by Curbside Lambsear
+- _Morir Saltando_, by Hesse Kassel
+- _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Alone With Heaven_, by The Saddest Landscape
+- _No Pressure, No Diamond._, by Apollo Brown
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Nightbringers_, by The Black Dahlia Murder
 - _Crack the Skye_, by Mastodon
 - _Feel Free_, by Duane Pitre
+- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Cheat Codes_, by Danger Mouse, Black Thought
-- _Horizont_, by Regina Collage
+- _Man The Door_, by Curbside Lambsear
 
 </details>
 
