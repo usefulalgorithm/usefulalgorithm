@@ -11,11 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Nine_, by Russian Circles
-- _Cheat Codes_, by Danger Mouse, Black Thought
+- _From The Toolkit Of Lovers_, by Loidis
+- _ex_libris 002_, by ex_libris
+- _Customs_, by Mhm, Mhm
+- _Älvgång_, by Civilistjävel!
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
-- _Radical Frame_, by Actress
-- _TIGRAY FUNK_, by Sideshow
+- _Nine_, by Russian Circles
+- _Diamond Eyes_, by Deftones
+- _Cheat Codes_, by Danger Mouse, Black Thought
 
 </details>
 
@@ -24,21 +27,23 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Quiet Storm_, by Space Afrika
 - _ENEO_, by Slikback, KMRU
-- _Who Loves The Sun_, by Chat Pile
 - _Radical Frame_, by Actress
 - _Opening_, by Klara Lewis
-- _It's Nothing Personal._, by Loraine James
 - _No Ordinary Word_, by Curbside Lambsear
+- _It's Nothing Personal._, by Loraine James
 - _Morir Saltando_, by Hesse Kassel
+- _Who Loves The Sun_, by Chat Pile
 - _At Work In The Fields Of The Bomb_, by Deafheaven
-- _Alone With Heaven_, by The Saddest Landscape
-- _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
-- _Cheat Codes_, by Danger Mouse, Black Thought
+- _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Man The Door_, by Curbside Lambsear
+- _Alone With Heaven_, by The Saddest Landscape
+- _Cheat Codes_, by Danger Mouse, Black Thought
 - _Nightbringers_, by The Black Dahlia Murder
+- _Uneasy_, by Curbside Lambsear
 - _Crack the Skye_, by Mastodon
 - _Feel Free_, by Duane Pitre
+- _No Pressure, No Diamond._, by Apollo Brown
 
 </details>
 
