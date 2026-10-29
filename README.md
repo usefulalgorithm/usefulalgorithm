@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Radical Frame_, by Actress
 - _From The Toolkit Of Lovers_, by Loidis
 - _ex_libris 002_, by ex_libris
 - _Customs_, by Mhm, Mhm
@@ -29,20 +30,20 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _ENEO_, by Slikback, KMRU
 - _Radical Frame_, by Actress
 - _Opening_, by Klara Lewis
-- _No Ordinary Word_, by Curbside Lambsear
 - _It's Nothing Personal._, by Loraine James
 - _Morir Saltando_, by Hesse Kassel
-- _Who Loves The Sun_, by Chat Pile
+- _No Ordinary Word_, by Curbside Lambsear
 - _At Work In The Fields Of The Bomb_, by Deafheaven
-- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
-- _Man The Door_, by Curbside Lambsear
+- _Who Loves The Sun_, by Chat Pile
 - _Alone With Heaven_, by The Saddest Landscape
+- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Cheat Codes_, by Danger Mouse, Black Thought
 - _Nightbringers_, by The Black Dahlia Murder
-- _Uneasy_, by Curbside Lambsear
+- _Man The Door_, by Curbside Lambsear
 - _Crack the Skye_, by Mastodon
 - _Feel Free_, by Duane Pitre
+- _Uneasy_, by Curbside Lambsear
 - _No Pressure, No Diamond._, by Apollo Brown
 
 </details>
