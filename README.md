@@ -11,15 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Radical Frame_, by Actress
+- _URGH_, by Mandy, Indiana
 - _From The Toolkit Of Lovers_, by Loidis
-- _ex_libris 002_, by ex_libris
-- _Customs_, by Mhm, Mhm
-- _Älvgång_, by Civilistjävel!
-- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
-- _Nine_, by Russian Circles
-- _Diamond Eyes_, by Deftones
-- _Cheat Codes_, by Danger Mouse, Black Thought
+- _Only Built 4 Cuban Linx..._, by Raekwon
+- _Axe To Fall_, by Converge
+- _Jane Doe_, by Converge
+- _Statik_, by Actress
+- _Radical Frame_, by Actress
 
 </details>
 
@@ -37,14 +35,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Who Loves The Sun_, by Chat Pile
 - _Alone With Heaven_, by The Saddest Landscape
-- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Cheat Codes_, by Danger Mouse, Black Thought
 - _Nightbringers_, by The Black Dahlia Murder
-- _Man The Door_, by Curbside Lambsear
+- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Crack the Skye_, by Mastodon
+- _Man The Door_, by Curbside Lambsear
 - _Feel Free_, by Duane Pitre
 - _Uneasy_, by Curbside Lambsear
-- _No Pressure, No Diamond._, by Apollo Brown
+- _URGH_, by Mandy, Indiana
 
 </details>
 
