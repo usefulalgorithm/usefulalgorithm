@@ -11,13 +11,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Jane Doe_, by Converge
+- _Axe To Fall_, by Converge
+- _Älvgång_, by Civilistjävel!
+- _Quiet Storm_, by Space Afrika
+- _Öd_, by Institut für Feinmotorik
+- _Radical Frame_, by Actress
 - _URGH_, by Mandy, Indiana
 - _From The Toolkit Of Lovers_, by Loidis
-- _Only Built 4 Cuban Linx..._, by Raekwon
-- _Axe To Fall_, by Converge
-- _Jane Doe_, by Converge
-- _Statik_, by Actress
-- _Radical Frame_, by Actress
 
 </details>
 
@@ -30,8 +31,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Opening_, by Klara Lewis
 - _It's Nothing Personal._, by Loraine James
 - _Morir Saltando_, by Hesse Kassel
-- _No Ordinary Word_, by Curbside Lambsear
 - _At Work In The Fields Of The Bomb_, by Deafheaven
+- _No Ordinary Word_, by Curbside Lambsear
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Who Loves The Sun_, by Chat Pile
 - _Alone With Heaven_, by The Saddest Landscape
@@ -41,8 +42,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Crack the Skye_, by Mastodon
 - _Man The Door_, by Curbside Lambsear
 - _Feel Free_, by Duane Pitre
-- _Uneasy_, by Curbside Lambsear
 - _URGH_, by Mandy, Indiana
+- _Uneasy_, by Curbside Lambsear
+- _Nine_, by Russian Circles
 
 </details>
 
