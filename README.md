@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Muuntautuja_, by Oranssi Pazuzu
+- _URGH_, by Mandy, Indiana
 - _Jane Doe_, by Converge
 - _Withending_, by Actress
 - _Axe To Fall_, by Converge
@@ -18,7 +20,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Quiet Storm_, by Space Afrika
 - _Öd_, by Institut für Feinmotorik
 - _Radical Frame_, by Actress
-- _URGH_, by Mandy, Indiana
 - _From The Toolkit Of Lovers_, by Loidis
 
 </details>
@@ -34,18 +35,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Morir Saltando_, by Hesse Kassel
 - _At Work In The Fields Of The Bomb_, by Deafheaven
 - _No Ordinary Word_, by Curbside Lambsear
+- _URGH_, by Mandy, Indiana
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Who Loves The Sun_, by Chat Pile
 - _Alone With Heaven_, by The Saddest Landscape
 - _Cheat Codes_, by Danger Mouse, Black Thought
+- _Muuntautuja_, by Oranssi Pazuzu
 - _Nightbringers_, by The Black Dahlia Murder
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Crack the Skye_, by Mastodon
 - _Man The Door_, by Curbside Lambsear
 - _Feel Free_, by Duane Pitre
-- _URGH_, by Mandy, Indiana
 - _Uneasy_, by Curbside Lambsear
-- _Nine_, by Russian Circles
 
 </details>
 
