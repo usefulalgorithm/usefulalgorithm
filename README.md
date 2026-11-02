@@ -11,12 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Älvgång_, by Civilistjävel!
+- _Radical Frame_, by Actress
 - _At Work In The Fields Of The Bomb_, by Deafheaven
 - _R.I.P._, by Actress
-- _Radical Frame_, by Actress
-- _Muuntautuja_, by Oranssi Pazuzu
-- _URGH_, by Mandy, Indiana
-- _Jane Doe_, by Converge
 
 </details>
 
