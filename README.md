@@ -11,14 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _At Work In The Fields Of The Bomb_, by Deafheaven
+- _R.I.P._, by Actress
 - _Radical Frame_, by Actress
 - _Muuntautuja_, by Oranssi Pazuzu
 - _URGH_, by Mandy, Indiana
 - _Jane Doe_, by Converge
-- _Withending_, by Actress
-- _Axe To Fall_, by Converge
-- _Älvgång_, by Civilistjävel!
-- _Quiet Storm_, by Space Afrika
 
 </details>
 
@@ -26,12 +24,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Quiet Storm_, by Space Afrika
-- _ENEO_, by Slikback, KMRU
 - _Radical Frame_, by Actress
+- _ENEO_, by Slikback, KMRU
+- _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Opening_, by Klara Lewis
 - _It's Nothing Personal._, by Loraine James
 - _Morir Saltando_, by Hesse Kassel
-- _At Work In The Fields Of The Bomb_, by Deafheaven
 - _No Ordinary Word_, by Curbside Lambsear
 - _URGH_, by Mandy, Indiana
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
