@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Radical Frame_, by Actress
 - _Muuntautuja_, by Oranssi Pazuzu
 - _URGH_, by Mandy, Indiana
 - _Jane Doe_, by Converge
@@ -18,9 +19,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Axe To Fall_, by Converge
 - _Älvgång_, by Civilistjävel!
 - _Quiet Storm_, by Space Afrika
-- _Öd_, by Institut für Feinmotorik
-- _Radical Frame_, by Actress
-- _From The Toolkit Of Lovers_, by Loidis
 
 </details>
 
