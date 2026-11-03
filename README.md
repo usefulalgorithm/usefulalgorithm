@@ -11,26 +11,27 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Älvgång_, by Civilistjävel!
-- _At Work In The Fields Of The Bomb_, by Deafheaven
-- _Radical Frame_, by Actress
-- _R.I.P._, by Actress
+- _Customs_, by Mhm, Mhm
+- _Steep Stims II_, by Clark
+- _iPhone Grime_, by LP
+- _From The Toolkit Of Lovers_, by Loidis
+- _TIGRAY FUNK_, by Sideshow
 
 </details>
 
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Quiet Storm_, by Space Afrika
 - _Radical Frame_, by Actress
+- _Quiet Storm_, by Space Afrika
 - _ENEO_, by Slikback, KMRU
 - _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Opening_, by Klara Lewis
 - _It's Nothing Personal._, by Loraine James
-- _Morir Saltando_, by Hesse Kassel
 - _No Ordinary Word_, by Curbside Lambsear
-- _URGH_, by Mandy, Indiana
+- _Morir Saltando_, by Hesse Kassel
 - _Älvgång_, by Civilistjävel!
+- _URGH_, by Mandy, Indiana
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Alone With Heaven_, by The Saddest Landscape
 - _Cheat Codes_, by Danger Mouse, Black Thought
@@ -40,7 +41,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Feel Free_, by Duane Pitre
 - _Uneasy_, by Curbside Lambsear
 - _Nightbringers_, by The Black Dahlia Murder
-- _Muuntautuja_, by Oranssi Pazuzu
+- _TIGRAY FUNK_, by Sideshow
+- _Nine_, by Russian Circles
+- _Furlongs_, by Gilroy Mere
 
 </details>
 
