@@ -12,8 +12,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Älvgång_, by Civilistjävel!
-- _Radical Frame_, by Actress
 - _At Work In The Fields Of The Bomb_, by Deafheaven
+- _Radical Frame_, by Actress
 - _R.I.P._, by Actress
 
 </details>
@@ -30,17 +30,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Morir Saltando_, by Hesse Kassel
 - _No Ordinary Word_, by Curbside Lambsear
 - _URGH_, by Mandy, Indiana
+- _Älvgång_, by Civilistjävel!
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
-- _Who Loves The Sun_, by Chat Pile
 - _Alone With Heaven_, by The Saddest Landscape
 - _Cheat Codes_, by Danger Mouse, Black Thought
-- _Muuntautuja_, by Oranssi Pazuzu
-- _Nightbringers_, by The Black Dahlia Murder
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Crack the Skye_, by Mastodon
 - _Man The Door_, by Curbside Lambsear
 - _Feel Free_, by Duane Pitre
 - _Uneasy_, by Curbside Lambsear
+- _Nightbringers_, by The Black Dahlia Murder
+- _Muuntautuja_, by Oranssi Pazuzu
 
 </details>
 
