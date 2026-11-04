@@ -11,11 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Customs_, by Mhm, Mhm
+- _Älvgång_, by Civilistjävel!
 - _Steep Stims II_, by Clark
+- _Customs_, by Mhm, Mhm
 - _iPhone Grime_, by LP
-- _From The Toolkit Of Lovers_, by Loidis
-- _TIGRAY FUNK_, by Sideshow
 
 </details>
 
@@ -24,8 +23,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Radical Frame_, by Actress
 - _Quiet Storm_, by Space Afrika
-- _ENEO_, by Slikback, KMRU
 - _At Work In The Fields Of The Bomb_, by Deafheaven
+- _ENEO_, by Slikback, KMRU
 - _Opening_, by Klara Lewis
 - _It's Nothing Personal._, by Loraine James
 - _No Ordinary Word_, by Curbside Lambsear
@@ -43,7 +42,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Nightbringers_, by The Black Dahlia Murder
 - _TIGRAY FUNK_, by Sideshow
 - _Nine_, by Russian Circles
-- _Furlongs_, by Gilroy Mere
+- _From The Toolkit Of Lovers_, by Loidis
 
 </details>
 
