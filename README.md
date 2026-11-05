@@ -11,12 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Muuntautuja_, by Oranssi Pazuzu
+- _URGH_, by Mandy, Indiana
 - _Älvgång_, by Civilistjävel!
 - _iPhone Grime_, by LP
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Jazz dreams_, by Fine
 - _TIGRAY FUNK_, by Sideshow
-- _Oumuamua_, by MLO
 
 </details>
 
@@ -28,9 +29,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Älvgång_, by Civilistjävel!
 - _At Work In The Fields Of The Bomb_, by Deafheaven
 - _It's Nothing Personal._, by Loraine James
-- _ENEO_, by Slikback, KMRU
 - _No Ordinary Word_, by Curbside Lambsear
 - _Opening_, by Klara Lewis
+- _ENEO_, by Slikback, KMRU
 - _URGH_, by Mandy, Indiana
 - _Morir Saltando_, by Hesse Kassel
 - _Muuntautuja_, by Oranssi Pazuzu
@@ -41,9 +42,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Man The Door_, by Curbside Lambsear
 - _Feel Free_, by Duane Pitre
 - _Uneasy_, by Curbside Lambsear
-- _Crack the Skye_, by Mastodon
 - _Nine_, by Russian Circles
 - _From The Toolkit Of Lovers_, by Loidis
+- _ex_libris 002_, by ex_libris
 
 </details>
 
