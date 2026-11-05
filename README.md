@@ -11,12 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Oumuamua_, by MLO
-- _Muuntautuja_, by Oranssi Pazuzu
-- _Late Loop_, by Andy Stott
-- _URGH_, by Mandy, Indiana
-- _Steep Stims II_, by Clark
 - _Älvgång_, by Civilistjävel!
+- _iPhone Grime_, by LP
+- _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
+- _Jazz dreams_, by Fine
+- _TIGRAY FUNK_, by Sideshow
+- _Oumuamua_, by MLO
 
 </details>
 
@@ -25,24 +25,23 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Radical Frame_, by Actress
 - _Quiet Storm_, by Space Afrika
-- _At Work In The Fields Of The Bomb_, by Deafheaven
-- _Opening_, by Klara Lewis
-- _ENEO_, by Slikback, KMRU
-- _It's Nothing Personal._, by Loraine James
 - _Älvgång_, by Civilistjävel!
+- _At Work In The Fields Of The Bomb_, by Deafheaven
+- _It's Nothing Personal._, by Loraine James
+- _ENEO_, by Slikback, KMRU
 - _No Ordinary Word_, by Curbside Lambsear
-- _Morir Saltando_, by Hesse Kassel
+- _Opening_, by Klara Lewis
 - _URGH_, by Mandy, Indiana
-- _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
+- _Morir Saltando_, by Hesse Kassel
 - _Muuntautuja_, by Oranssi Pazuzu
 - _Cheat Codes_, by Danger Mouse, Black Thought
+- _TIGRAY FUNK_, by Sideshow
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
-- _Crack the Skye_, by Mastodon
+- _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Man The Door_, by Curbside Lambsear
-- _Alone With Heaven_, by The Saddest Landscape
 - _Feel Free_, by Duane Pitre
 - _Uneasy_, by Curbside Lambsear
-- _TIGRAY FUNK_, by Sideshow
+- _Crack the Skye_, by Mastodon
 - _Nine_, by Russian Circles
 - _From The Toolkit Of Lovers_, by Loidis
 
