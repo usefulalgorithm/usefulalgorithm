@@ -11,7 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Oumuamua_, by MLO
+- _Muuntautuja_, by Oranssi Pazuzu
 - _Late Loop_, by Andy Stott
+- _URGH_, by Mandy, Indiana
+- _Steep Stims II_, by Clark
 - _Älvgång_, by Civilistjävel!
 
 </details>
@@ -30,17 +34,17 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Morir Saltando_, by Hesse Kassel
 - _URGH_, by Mandy, Indiana
 - _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
-- _Alone With Heaven_, by The Saddest Landscape
+- _Muuntautuja_, by Oranssi Pazuzu
 - _Cheat Codes_, by Danger Mouse, Black Thought
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Crack the Skye_, by Mastodon
 - _Man The Door_, by Curbside Lambsear
+- _Alone With Heaven_, by The Saddest Landscape
 - _Feel Free_, by Duane Pitre
 - _Uneasy_, by Curbside Lambsear
 - _TIGRAY FUNK_, by Sideshow
 - _Nine_, by Russian Circles
 - _From The Toolkit Of Lovers_, by Loidis
-- _ex_libris 002_, by ex_libris
 
 </details>
 
