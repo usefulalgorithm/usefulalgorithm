@@ -20,8 +20,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Radical Frame_, by Actress
-- _Quiet Storm_, by Space Afrika
 - _Älvgång_, by Civilistjävel!
+- _Quiet Storm_, by Space Afrika
 - _At Work In The Fields Of The Bomb_, by Deafheaven
 - _It's Nothing Personal._, by Loraine James
 - _No Ordinary Word_, by Curbside Lambsear
