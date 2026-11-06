@@ -11,13 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Muuntautuja_, by Oranssi Pazuzu
-- _URGH_, by Mandy, Indiana
 - _Älvgång_, by Civilistjävel!
-- _iPhone Grime_, by LP
-- _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Jazz dreams_, by Fine
-- _TIGRAY FUNK_, by Sideshow
 
 </details>
 
@@ -30,21 +25,20 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _At Work In The Fields Of The Bomb_, by Deafheaven
 - _It's Nothing Personal._, by Loraine James
 - _No Ordinary Word_, by Curbside Lambsear
-- _Opening_, by Klara Lewis
-- _ENEO_, by Slikback, KMRU
 - _URGH_, by Mandy, Indiana
 - _Morir Saltando_, by Hesse Kassel
+- _ENEO_, by Slikback, KMRU
 - _Muuntautuja_, by Oranssi Pazuzu
+- _Opening_, by Klara Lewis
 - _Cheat Codes_, by Danger Mouse, Black Thought
 - _TIGRAY FUNK_, by Sideshow
+- _Jazz dreams_, by Fine
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
-- _On "Dissolving Strawberry" (2020)_, by Klara Lewis, Joachim Nordwall, Sonja Tofik, Lo Kristenson
 - _Man The Door_, by Curbside Lambsear
 - _Feel Free_, by Duane Pitre
 - _Uneasy_, by Curbside Lambsear
 - _Nine_, by Russian Circles
 - _From The Toolkit Of Lovers_, by Loidis
-- _ex_libris 002_, by ex_libris
 
 </details>
 
