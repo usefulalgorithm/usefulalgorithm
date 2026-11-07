@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Aquemini_, by Outkast
+- _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Älvgång_, by Civilistjävel!
 - _Jazz dreams_, by Fine
 
