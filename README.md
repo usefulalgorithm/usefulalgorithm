@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _TIGRAY FUNK_, by Sideshow
 - _Aquemini_, by Outkast
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Älvgång_, by Civilistjävel!
-- _Jazz dreams_, by Fine
 
 </details>
 
@@ -30,12 +30,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _URGH_, by Mandy, Indiana
 - _Morir Saltando_, by Hesse Kassel
 - _ENEO_, by Slikback, KMRU
-- _Muuntautuja_, by Oranssi Pazuzu
-- _Opening_, by Klara Lewis
-- _Cheat Codes_, by Danger Mouse, Black Thought
 - _TIGRAY FUNK_, by Sideshow
+- _Muuntautuja_, by Oranssi Pazuzu
+- _Cheat Codes_, by Danger Mouse, Black Thought
 - _Jazz dreams_, by Fine
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
+- _Opening_, by Klara Lewis
 - _Man The Door_, by Curbside Lambsear
 - _Feel Free_, by Duane Pitre
 - _Uneasy_, by Curbside Lambsear
@@ -58,7 +58,7 @@ Gotta finish 25 books before 2027-01-01. I've read 18 so far.
 - _Genesis and Trace: Derrida Reading Husserl and Heidegger_, by Paola Marrati, Simon Sparks ([link](https://hardcover.app/books/genesis-and-trace))
 - _Philosophical Chemistry: Genealogy of a Scientific Field_, by Manuel DeLanda ([link](https://hardcover.app/books/philosophical-chemistry))
 - _Political Categories: Thinking Beyond Concepts_, by Michael Marder ([link](https://hardcover.app/books/political-categories))
-- _Regeneration_, by Pat Barker ([link](https://hardcover.app/books/regeneration-2006))
+- _Regeneration_, by Pat Barker ([link](https://hardcover.app/books/regeneration-1986))
 - _K-punk: The Collected and Unpublished Writings of Mark Fisher_, by Mark Fisher, Darren Ambrose, and friends ([link](https://hardcover.app/books/k-punk-the-collected-and-unpublished-writings-of-mark-fisher-2018))
 - _A Biography of Ordinary Man: On Authorities and Minorities_, by Jessie Hock, Alex Dubilet, and friends ([link](https://hardcover.app/books/a-biography-of-ordinary-man))
 - _A Short History of Decay_, by Emil M. Cioran, Richard Howard ([link](https://hardcover.app/books/a-short-history-of-decay))
