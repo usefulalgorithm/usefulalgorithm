@@ -11,13 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _to accomplish many things_, by DJ Python
 - _Quiet Storm_, by Space Afrika
+- _to accomplish many things_, by DJ Python
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Aquemini_, by Outkast
 - _From The Toolkit Of Lovers_, by Loidis
 - _TIGRAY FUNK_, by Sideshow
-- _Älvgång_, by Civilistjävel!
 
 </details>
 
