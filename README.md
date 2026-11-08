@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _From The Toolkit Of Lovers_, by Loidis
+- _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _TIGRAY FUNK_, by Sideshow
 - _Aquemini_, by Outkast
-- _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Älvgång_, by Civilistjävel!
 
 </details>
@@ -23,24 +24,24 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Radical Frame_, by Actress
 - _Älvgång_, by Civilistjävel!
-- _Quiet Storm_, by Space Afrika
 - _At Work In The Fields Of The Bomb_, by Deafheaven
+- _Quiet Storm_, by Space Afrika
 - _It's Nothing Personal._, by Loraine James
-- _No Ordinary Word_, by Curbside Lambsear
 - _URGH_, by Mandy, Indiana
-- _Morir Saltando_, by Hesse Kassel
+- _No Ordinary Word_, by Curbside Lambsear
 - _ENEO_, by Slikback, KMRU
 - _TIGRAY FUNK_, by Sideshow
 - _Muuntautuja_, by Oranssi Pazuzu
+- _Morir Saltando_, by Hesse Kassel
 - _Cheat Codes_, by Danger Mouse, Black Thought
 - _Jazz dreams_, by Fine
-- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
-- _Opening_, by Klara Lewis
-- _Man The Door_, by Curbside Lambsear
 - _Feel Free_, by Duane Pitre
+- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
+- _Man The Door_, by Curbside Lambsear
 - _Uneasy_, by Curbside Lambsear
 - _Nine_, by Russian Circles
 - _From The Toolkit Of Lovers_, by Loidis
+- _ex_libris 002_, by ex_libris
 
 </details>
 
