@@ -11,10 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _From The Toolkit Of Lovers_, by Loidis
+- _to accomplish many things_, by DJ Python
+- _Quiet Storm_, by Space Afrika
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
-- _TIGRAY FUNK_, by Sideshow
 - _Aquemini_, by Outkast
+- _From The Toolkit Of Lovers_, by Loidis
+- _TIGRAY FUNK_, by Sideshow
 - _Älvgång_, by Civilistjävel!
 
 </details>
@@ -36,20 +38,21 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cheat Codes_, by Danger Mouse, Black Thought
 - _Jazz dreams_, by Fine
 - _Feel Free_, by Duane Pitre
+- _From The Toolkit Of Lovers_, by Loidis
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Man The Door_, by Curbside Lambsear
+- _Aquemini_, by Outkast
 - _Uneasy_, by Curbside Lambsear
 - _Nine_, by Russian Circles
-- _From The Toolkit Of Lovers_, by Loidis
 - _ex_libris 002_, by ex_libris
 
 </details>
 
 ## 📚
 
-Just finished reading _The Gnome Stories: Stories_, by Ander Monson ([link](https://hardcover.app/books/the-gnome-stories)). It's OK I guess.
+Just finished reading _The Cultural Turn_, by Fredric Jameson ([link](https://hardcover.app/books/the-cultural-turn-1998)). It's a good book.
 
-Gotta finish 25 books before 2027-01-01. I've read 18 so far.
+Gotta finish 25 books before 2027-01-01. I've read 19 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
