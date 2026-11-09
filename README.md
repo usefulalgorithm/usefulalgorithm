@@ -11,13 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _to accomplish many things_, by DJ Python
-- _Quiet Storm_, by Space Afrika
-- _Forgetful Angel_, by DJ Python, Tony Bontana
-- _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
-- _Aquemini_, by Outkast
-- _From The Toolkit Of Lovers_, by Loidis
-- _TIGRAY FUNK_, by Sideshow
+- _Into the Boiling Darks_, by Rezzett
 
 </details>
 
@@ -27,23 +21,25 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Radical Frame_, by Actress
 - _Älvgång_, by Civilistjävel!
 - _At Work In The Fields Of The Bomb_, by Deafheaven
-- _Quiet Storm_, by Space Afrika
 - _It's Nothing Personal._, by Loraine James
+- _Quiet Storm_, by Space Afrika
 - _URGH_, by Mandy, Indiana
 - _No Ordinary Word_, by Curbside Lambsear
-- _ENEO_, by Slikback, KMRU
 - _TIGRAY FUNK_, by Sideshow
 - _Muuntautuja_, by Oranssi Pazuzu
 - _Morir Saltando_, by Hesse Kassel
+- _From The Toolkit Of Lovers_, by Loidis
+- _ENEO_, by Slikback, KMRU
 - _Cheat Codes_, by Danger Mouse, Black Thought
 - _Jazz dreams_, by Fine
 - _Feel Free_, by Duane Pitre
-- _From The Toolkit Of Lovers_, by Loidis
 - _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
 - _Man The Door_, by Curbside Lambsear
 - _Aquemini_, by Outkast
 - _Uneasy_, by Curbside Lambsear
+- _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Nine_, by Russian Circles
+- _ex_libris 002_, by ex_libris
 
 </details>
 
