@@ -11,8 +11,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Quiet Storm_, by Space Afrika
 - _to accomplish many things_, by DJ Python
+- _Quiet Storm_, by Space Afrika
+- _Forgetful Angel_, by DJ Python, Tony Bontana
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Aquemini_, by Outkast
 - _From The Toolkit Of Lovers_, by Loidis
@@ -43,7 +44,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Aquemini_, by Outkast
 - _Uneasy_, by Curbside Lambsear
 - _Nine_, by Russian Circles
-- _ex_libris 002_, by ex_libris
 
 </details>
 
