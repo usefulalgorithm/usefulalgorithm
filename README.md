@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Steep Stims II_, by Clark
+- _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Älvgång_, by Civilistjävel!
-- _Into the Boiling Darks_, by Rezzett
+- _to accomplish many things_, by DJ Python
+- _Steep Stims II_, by Clark
 
 </details>
 
@@ -31,15 +32,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _From The Toolkit Of Lovers_, by Loidis
 - _ENEO_, by Slikback, KMRU
 - _Cheat Codes_, by Danger Mouse, Black Thought
-- _No Ordinary Word_, by Curbside Lambsear
 - _Morir Saltando_, by Hesse Kassel
 - _Jazz dreams_, by Fine
+- _No Ordinary Word_, by Curbside Lambsear
+- _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
+- _Steep Stims II_, by Clark
 - _Feel Free_, by Duane Pitre
 - _Aquemini_, by Outkast
-- _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Nine_, by Russian Circles
 - _ex_libris 002_, by ex_libris
-- _Steep Stims II_, by Clark
 - _Thresholds_, by Carrier
 - _DOGHOUSE_, by Scurra, Totojira
 
