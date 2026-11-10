@@ -11,6 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Steep Stims II_, by Clark
+- _Älvgång_, by Civilistjävel!
 - _Into the Boiling Darks_, by Rezzett
 
 </details>
@@ -18,28 +20,28 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
-- _Radical Frame_, by Actress
 - _Älvgång_, by Civilistjävel!
+- _Radical Frame_, by Actress
 - _At Work In The Fields Of The Bomb_, by Deafheaven
 - _It's Nothing Personal._, by Loraine James
-- _Quiet Storm_, by Space Afrika
 - _URGH_, by Mandy, Indiana
-- _No Ordinary Word_, by Curbside Lambsear
+- _Quiet Storm_, by Space Afrika
 - _TIGRAY FUNK_, by Sideshow
 - _Muuntautuja_, by Oranssi Pazuzu
-- _Morir Saltando_, by Hesse Kassel
 - _From The Toolkit Of Lovers_, by Loidis
 - _ENEO_, by Slikback, KMRU
 - _Cheat Codes_, by Danger Mouse, Black Thought
+- _No Ordinary Word_, by Curbside Lambsear
+- _Morir Saltando_, by Hesse Kassel
 - _Jazz dreams_, by Fine
 - _Feel Free_, by Duane Pitre
-- _Put Rings On All My Fingers To Weigh Down My Hands_, by Curbside Lambsear
-- _Man The Door_, by Curbside Lambsear
 - _Aquemini_, by Outkast
-- _Uneasy_, by Curbside Lambsear
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Nine_, by Russian Circles
 - _ex_libris 002_, by ex_libris
+- _Steep Stims II_, by Clark
+- _Thresholds_, by Carrier
+- _DOGHOUSE_, by Scurra, Totojira
 
 </details>
 
