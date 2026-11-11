@@ -11,11 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Frances the Mute_, by The Mars Volta
+- _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
+- _Customs_, by Mhm, Mhm
+- _to accomplish many things_, by DJ Python
 - _Into the Boiling Darks_, by Rezzett
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Älvgång_, by Civilistjävel!
-- _to accomplish many things_, by DJ Python
-- _Steep Stims II_, by Clark
 
 </details>
 
@@ -35,15 +37,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Cheat Codes_, by Danger Mouse, Black Thought
 - _Jazz dreams_, by Fine
 - _Steep Stims II_, by Clark
-- _Feel Free_, by Duane Pitre
 - _Morir Saltando_, by Hesse Kassel
 - _No Ordinary Word_, by Curbside Lambsear
 - _Aquemini_, by Outkast
 - _Nine_, by Russian Circles
+- _to accomplish many things_, by DJ Python
 - _ex_libris 002_, by ex_libris
+- _Feel Free_, by Duane Pitre
 - _Thresholds_, by Carrier
 - _Into the Boiling Darks_, by Rezzett
-- _DOGHOUSE_, by Scurra, Totojira
 
 </details>
 
