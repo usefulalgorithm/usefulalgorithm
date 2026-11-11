@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Into the Boiling Darks_, by Rezzett
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Älvgång_, by Civilistjävel!
 - _to accomplish many things_, by DJ Python
@@ -30,18 +31,18 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _TIGRAY FUNK_, by Sideshow
 - _Muuntautuja_, by Oranssi Pazuzu
 - _From The Toolkit Of Lovers_, by Loidis
-- _ENEO_, by Slikback, KMRU
-- _Cheat Codes_, by Danger Mouse, Black Thought
-- _Morir Saltando_, by Hesse Kassel
-- _Jazz dreams_, by Fine
-- _No Ordinary Word_, by Curbside Lambsear
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
+- _Cheat Codes_, by Danger Mouse, Black Thought
+- _Jazz dreams_, by Fine
 - _Steep Stims II_, by Clark
 - _Feel Free_, by Duane Pitre
+- _Morir Saltando_, by Hesse Kassel
+- _No Ordinary Word_, by Curbside Lambsear
 - _Aquemini_, by Outkast
 - _Nine_, by Russian Circles
 - _ex_libris 002_, by ex_libris
 - _Thresholds_, by Carrier
+- _Into the Boiling Darks_, by Rezzett
 - _DOGHOUSE_, by Scurra, Totojira
 
 </details>
