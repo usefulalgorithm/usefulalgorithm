@@ -12,11 +12,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
-- _Late Loop_, by Andy Stott
-- _Birmingham City Council_, by Tony Bontana
+- _DOGHOUSE_, by Scurra, Totojira
 - _Frances the Mute_, by The Mars Volta
-- _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
-- _Into the Boiling Darks_, by Rezzett
 
 </details>
 
@@ -37,13 +34,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Into the Boiling Darks_, by Rezzett
 - _Jazz dreams_, by Fine
 - _Steep Stims II_, by Clark
+- _DOGHOUSE_, by Scurra, Totojira
 - _No Ordinary Word_, by Curbside Lambsear
 - _Aquemini_, by Outkast
 - _Nine_, by Russian Circles
 - _to accomplish many things_, by DJ Python
 - _ex_libris 002_, by ex_libris
 - _Late Loop_, by Andy Stott
-- _Thresholds_, by Carrier
 
 </details>
 
