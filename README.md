@@ -12,8 +12,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been listening to recently:</summary>
 
 - _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
-- _DOGHOUSE_, by Scurra, Totojira
-- _Frances the Mute_, by The Mars Volta
+- _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
+- _Birmingham City Council_, by Tony Bontana
 
 </details>
 
@@ -26,11 +26,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _URGH_, by Mandy, Indiana
 - _Quiet Storm_, by Space Afrika
 - _It's Nothing Personal._, by Loraine James
+- _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _TIGRAY FUNK_, by Sideshow
 - _Muuntautuja_, by Oranssi Pazuzu
-- _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _From The Toolkit Of Lovers_, by Loidis
-- _Cheat Codes_, by Danger Mouse, Black Thought
 - _Into the Boiling Darks_, by Rezzett
 - _Jazz dreams_, by Fine
 - _Steep Stims II_, by Clark
@@ -40,7 +39,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Nine_, by Russian Circles
 - _to accomplish many things_, by DJ Python
 - _ex_libris 002_, by ex_libris
+- _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
 - _Late Loop_, by Andy Stott
+- _Cheat Codes_, by Danger Mouse, Black Thought
 
 </details>
 
