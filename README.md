@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Muuntautuja_, by Oranssi Pazuzu
 - _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Birmingham City Council_, by Tony Bontana
@@ -24,24 +25,23 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Radical Frame_, by Actress
 - _At Work In The Fields Of The Bomb_, by Deafheaven
 - _URGH_, by Mandy, Indiana
+- _Muuntautuja_, by Oranssi Pazuzu
 - _Quiet Storm_, by Space Afrika
 - _It's Nothing Personal._, by Loraine James
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _TIGRAY FUNK_, by Sideshow
-- _Muuntautuja_, by Oranssi Pazuzu
 - _From The Toolkit Of Lovers_, by Loidis
 - _Into the Boiling Darks_, by Rezzett
 - _Jazz dreams_, by Fine
 - _Steep Stims II_, by Clark
-- _DOGHOUSE_, by Scurra, Totojira
 - _No Ordinary Word_, by Curbside Lambsear
 - _Aquemini_, by Outkast
+- _DOGHOUSE_, by Scurra, Totojira
 - _Nine_, by Russian Circles
 - _to accomplish many things_, by DJ Python
 - _ex_libris 002_, by ex_libris
 - _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
 - _Late Loop_, by Andy Stott
-- _Cheat Codes_, by Danger Mouse, Black Thought
 
 </details>
 
