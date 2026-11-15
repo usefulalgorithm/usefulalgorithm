@@ -11,8 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Muuntautuja_, by Oranssi Pazuzu
+- _2020_, by Richard Dawson
+- _Heavy Rocks (2011)_, by Boris
 - _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
+- _Muuntautuja_, by Oranssi Pazuzu
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Birmingham City Council_, by Tony Bontana
 
@@ -25,9 +27,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Radical Frame_, by Actress
 - _URGH_, by Mandy, Indiana
 - _Muuntautuja_, by Oranssi Pazuzu
-- _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Quiet Storm_, by Space Afrika
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
+- _At Work In The Fields Of The Bomb_, by Deafheaven
 - _TIGRAY FUNK_, by Sideshow
 - _From The Toolkit Of Lovers_, by Loidis
 - _It's Nothing Personal._, by Loraine James
@@ -36,10 +38,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Steep Stims II_, by Clark
 - _No Ordinary Word_, by Curbside Lambsear
 - _Aquemini_, by Outkast
+- _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
 - _Nine_, by Russian Circles
 - _to accomplish many things_, by DJ Python
 - _ex_libris 002_, by ex_libris
-- _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
 - _Late Loop_, by Andy Stott
 - _DOGHOUSE_, by Scurra, Totojira
 
