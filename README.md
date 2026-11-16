@@ -11,13 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _New Heights_, by Defeat The Giant
+- _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Muuntautuja_, by Oranssi Pazuzu
 - _From The Toolkit Of Lovers_, by Loidis
 - _2020_, by Richard Dawson
 - _Heavy Rocks (2011)_, by Boris
-- _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
-- _Birmingham City Council_, by Tony Bontana
 
 </details>
 
@@ -34,12 +34,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _From The Toolkit Of Lovers_, by Loidis
 - _At Work In The Fields Of The Bomb_, by Deafheaven
 - _It's Nothing Personal._, by Loraine James
+- _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
 - _Into the Boiling Darks_, by Rezzett
 - _Jazz dreams_, by Fine
 - _Steep Stims II_, by Clark
 - _No Ordinary Word_, by Curbside Lambsear
 - _Aquemini_, by Outkast
-- _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
 - _Nine_, by Russian Circles
 - _to accomplish many things_, by DJ Python
 - _ex_libris 002_, by ex_libris
