@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _New Heights_, by Defeat The Giant
 - _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
+- _New Heights_, by Defeat The Giant
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Muuntautuja_, by Oranssi Pazuzu
 - _From The Toolkit Of Lovers_, by Loidis
@@ -32,15 +32,15 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Quiet Storm_, by Space Afrika
 - _TIGRAY FUNK_, by Sideshow
 - _From The Toolkit Of Lovers_, by Loidis
-- _At Work In The Fields Of The Bomb_, by Deafheaven
-- _It's Nothing Personal._, by Loraine James
 - _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
+- _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Into the Boiling Darks_, by Rezzett
 - _Jazz dreams_, by Fine
 - _Steep Stims II_, by Clark
 - _No Ordinary Word_, by Curbside Lambsear
 - _Aquemini_, by Outkast
 - _Nine_, by Russian Circles
+- _It's Nothing Personal._, by Loraine James
 - _to accomplish many things_, by DJ Python
 - _ex_libris 002_, by ex_libris
 - _Late Loop_, by Andy Stott
