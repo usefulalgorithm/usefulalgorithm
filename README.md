@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _From The Toolkit Of Lovers_, by Loidis
+- _Late Loop_, by Andy Stott
 - _Quiet Storm_, by Space Afrika
+- _From The Toolkit Of Lovers_, by Loidis
 - _Birmingham City Council_, by Tony Bontana
-- _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
 
 </details>
 
@@ -24,14 +24,14 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Älvgång_, by Civilistjävel!
 - _Radical Frame_, by Actress
 - _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
+- _Quiet Storm_, by Space Afrika
 - _URGH_, by Mandy, Indiana
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Muuntautuja_, by Oranssi Pazuzu
 - _From The Toolkit Of Lovers_, by Loidis
-- _Quiet Storm_, by Space Afrika
 - _TIGRAY FUNK_, by Sideshow
-- _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Late Loop_, by Andy Stott
+- _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Into the Boiling Darks_, by Rezzett
 - _Jazz dreams_, by Fine
 - _Steep Stims II_, by Clark
@@ -46,9 +46,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 ## 📚
 
-Just finished reading _The Cultural Turn_, by Fredric Jameson ([link](https://hardcover.app/books/the-cultural-turn-1998)). It's a good book.
+Just finished reading _Antarctica_, by Claire Keegan ([link](https://hardcover.app/books/antarctica-1999)). It's OK I guess.
 
-Gotta finish 25 books before 2027-01-01. I've read 19 so far.
+Gotta finish 25 books before 2027-01-01. I've read 20 so far.
 
 <details>
 <summary>I'm currently reading these books (lower down = less likely I remember much about the content):</summary>
