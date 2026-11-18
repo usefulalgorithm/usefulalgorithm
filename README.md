@@ -11,9 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _The End Of Purification_, by Heaven In Her Arms
+- _From The Toolkit Of Lovers_, by Loidis
 - _Late Loop_, by Andy Stott
 - _Quiet Storm_, by Space Afrika
-- _From The Toolkit Of Lovers_, by Loidis
 - _Birmingham City Council_, by Tony Bontana
 
 </details>
@@ -23,12 +24,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Älvgång_, by Civilistjävel!
 - _Radical Frame_, by Actress
+- _From The Toolkit Of Lovers_, by Loidis
 - _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
 - _Quiet Storm_, by Space Afrika
 - _URGH_, by Mandy, Indiana
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Muuntautuja_, by Oranssi Pazuzu
-- _From The Toolkit Of Lovers_, by Loidis
 - _TIGRAY FUNK_, by Sideshow
 - _Late Loop_, by Andy Stott
 - _At Work In The Fields Of The Bomb_, by Deafheaven
