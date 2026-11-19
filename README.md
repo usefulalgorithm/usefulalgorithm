@@ -11,11 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _A.P.C. Presents: Boniche Dub_, by Lili Boniche, Bill Laswell, Jean Touitou
+- _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
+- _February's Album_, by Hysterical Love Project
 - _The End Of Purification_, by Heaven In Her Arms
 - _From The Toolkit Of Lovers_, by Loidis
 - _Late Loop_, by Andy Stott
 - _Quiet Storm_, by Space Afrika
-- _Birmingham City Council_, by Tony Bontana
 
 </details>
 
@@ -23,20 +25,20 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <summary>Albums I've been digging in the past month, according to Spotify:</summary>
 
 - _Älvgång_, by Civilistjävel!
+- _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
 - _Radical Frame_, by Actress
 - _From The Toolkit Of Lovers_, by Loidis
-- _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
-- _Quiet Storm_, by Space Afrika
 - _URGH_, by Mandy, Indiana
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Muuntautuja_, by Oranssi Pazuzu
 - _TIGRAY FUNK_, by Sideshow
 - _Late Loop_, by Andy Stott
-- _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Into the Boiling Darks_, by Rezzett
 - _Jazz dreams_, by Fine
+- _Quiet Storm_, by Space Afrika
 - _Steep Stims II_, by Clark
 - _No Ordinary Word_, by Curbside Lambsear
+- _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Aquemini_, by Outkast
 - _Nine_, by Russian Circles
 - _Birmingham City Council_, by Tony Bontana
