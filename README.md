@@ -23,7 +23,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Static_, by The Last Revel
 - _Black Smoke_, by Tindersticks
 - _Shame_, by Petal
-- _Domestic Science_, by Jimpster
 
 </details>
 
