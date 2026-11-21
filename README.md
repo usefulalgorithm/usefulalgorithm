@@ -11,20 +11,19 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _From The Toolkit Of Lovers_, by Loidis
+- _Melt My Eyez See Your Future_, by Denzel Curry
+- _Birmingham City Council_, by Tony Bontana
+- _MUTT THAT BIH_, by Denzel Curry, 1900Rugrat, Key Nyata
+- _Peace Of Mind_, by Wesley Joseph, Danny Brown
+- _Yyyyyyyy_, by Picture
+- _Scour Order_, by Krallice
 - _In A Cool Monsoon_, by Jasper TX
 - _Engine Trouble (Live from Grand Ole)_, by The Last Revel
 - _Static_, by The Last Revel
 - _Black Smoke_, by Tindersticks
 - _Shame_, by Petal
 - _Domestic Science_, by Jimpster
-- _Porn Sword Tobacco_, by Porn Sword Tobacco
-- _Rykestrasse 68_, by Hanne Hukkelberg
-- _La JR_, by La JR
-- _Occam XIII, Occam River XI, Occam V_, by Éliane Radigue
-- _A.P.C. Presents: Boniche Dub_, by Lili Boniche, Bill Laswell, Jean Touitou
-- _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
-- _February's Album_, by Hysterical Love Project
-- _The End Of Purification_, by Heaven In Her Arms
 
 </details>
 
@@ -33,8 +32,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 
 - _Älvgång_, by Civilistjävel!
 - _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
-- _Radical Frame_, by Actress
 - _From The Toolkit Of Lovers_, by Loidis
+- _Radical Frame_, by Actress
 - _URGH_, by Mandy, Indiana
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _Muuntautuja_, by Oranssi Pazuzu
@@ -44,11 +43,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Jazz dreams_, by Fine
 - _Quiet Storm_, by Space Afrika
 - _Steep Stims II_, by Clark
+- _Birmingham City Council_, by Tony Bontana
 - _No Ordinary Word_, by Curbside Lambsear
 - _At Work In The Fields Of The Bomb_, by Deafheaven
 - _Aquemini_, by Outkast
+- _Yyyyyyyy_, by Picture
 - _Nine_, by Russian Circles
-- _Birmingham City Council_, by Tony Bontana
 - _to accomplish many things_, by DJ Python
 - _ex_libris 002_, by ex_libris
 
