@@ -11,16 +11,12 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Late Loop_, by Andy Stott
+- _Love's Arp_, by Dawuna
 - _Decay_, by Godflesh
 - _American Dub Electronics_, by Various Artists
-- _Love's Arp_, by Dawuna
 - _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
 - _Melt My Eyez See Your Future_, by Denzel Curry
-- _From The Toolkit Of Lovers_, by Loidis
-- _Birmingham City Council_, by Tony Bontana
-- _MUTT THAT BIH_, by Denzel Curry, 1900Rugrat, Key Nyata
-- _Peace Of Mind_, by Wesley Joseph, Danny Brown
-- _Yyyyyyyy_, by Picture
 
 </details>
 
@@ -33,8 +29,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _URGH_, by Mandy, Indiana
 - _Muuntautuja_, by Oranssi Pazuzu
-- _Radical Frame_, by Actress
 - _Late Loop_, by Andy Stott
+- _Radical Frame_, by Actress
 - _TIGRAY FUNK_, by Sideshow
 - _Into the Boiling Darks_, by Rezzett
 - _Jazz dreams_, by Fine
