@@ -11,10 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _you made me / skin on linen_, by PISS
 - _Love's Arp_, by Dawuna
-- _Late Loop_, by Andy Stott
-- _Decay_, by Godflesh
-- _American Dub Electronics_, by Various Artists
 
 </details>
 
@@ -28,17 +26,16 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _URGH_, by Mandy, Indiana
 - _Muuntautuja_, by Oranssi Pazuzu
 - _Late Loop_, by Andy Stott
-- _TIGRAY FUNK_, by Sideshow
 - _Radical Frame_, by Actress
 - _Into the Boiling Darks_, by Rezzett
+- _Love's Arp_, by Dawuna
 - _Jazz dreams_, by Fine
-- _Quiet Storm_, by Space Afrika
 - _Steep Stims II_, by Clark
 - _Birmingham City Council_, by Tony Bontana
-- _No Ordinary Word_, by Curbside Lambsear
+- _TIGRAY FUNK_, by Sideshow
 - _Aquemini_, by Outkast
+- _Quiet Storm_, by Space Afrika
 - _Yyyyyyyy_, by Picture
-- _Nine_, by Russian Circles
 - _to accomplish many things_, by DJ Python
 - _ex_libris 002_, by ex_libris
 
