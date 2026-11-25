@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Birmingham City Council_, by Tony Bontana
 - _you made me / skin on linen_, by PISS
 - _Love's Arp_, by Dawuna
 
@@ -27,11 +28,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Muuntautuja_, by Oranssi Pazuzu
 - _Late Loop_, by Andy Stott
 - _Radical Frame_, by Actress
+- _Birmingham City Council_, by Tony Bontana
 - _Into the Boiling Darks_, by Rezzett
 - _Love's Arp_, by Dawuna
 - _Jazz dreams_, by Fine
 - _Steep Stims II_, by Clark
-- _Birmingham City Council_, by Tony Bontana
 - _TIGRAY FUNK_, by Sideshow
 - _Aquemini_, by Outkast
 - _Quiet Storm_, by Space Afrika
