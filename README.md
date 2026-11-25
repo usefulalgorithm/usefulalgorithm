@@ -11,9 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Birmingham City Council_, by Tony Bontana
 - _you made me / skin on linen_, by PISS
-- _Love's Arp_, by Dawuna
+- _Birmingham City Council_, by Tony Bontana
 
 </details>
 
@@ -23,12 +22,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Älvgång_, by Civilistjävel!
 - _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
 - _From The Toolkit Of Lovers_, by Loidis
+- _Birmingham City Council_, by Tony Bontana
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
 - _URGH_, by Mandy, Indiana
 - _Muuntautuja_, by Oranssi Pazuzu
 - _Late Loop_, by Andy Stott
+- _you made me / skin on linen_, by PISS
 - _Radical Frame_, by Actress
-- _Birmingham City Council_, by Tony Bontana
 - _Into the Boiling Darks_, by Rezzett
 - _Love's Arp_, by Dawuna
 - _Jazz dreams_, by Fine
@@ -37,8 +37,6 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Aquemini_, by Outkast
 - _Quiet Storm_, by Space Afrika
 - _Yyyyyyyy_, by Picture
-- _to accomplish many things_, by DJ Python
-- _ex_libris 002_, by ex_libris
 
 </details>
 
