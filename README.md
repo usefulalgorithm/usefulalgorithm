@@ -11,10 +11,10 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _American Dub Electronics_, by Various Artists
+- _you made me / skin on linen_, by PISS
 - _February's Album_, by Hysterical Love Project
 - _Birmingham City Council_, by Tony Bontana
-- _Late Loop_, by Andy Stott
-- _you made me / skin on linen_, by PISS
 
 </details>
 
@@ -30,11 +30,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _URGH_, by Mandy, Indiana
 - _Muuntautuja_, by Oranssi Pazuzu
 - _Late Loop_, by Andy Stott
-- _Radical Frame_, by Actress
 - _you made me / skin on linen_, by PISS
 - _Into the Boiling Darks_, by Rezzett
 - _Love's Arp_, by Dawuna
 - _Jazz dreams_, by Fine
+- _Radical Frame_, by Actress
 - _Steep Stims II_, by Clark
 - _TIGRAY FUNK_, by Sideshow
 - _Aquemini_, by Outkast
