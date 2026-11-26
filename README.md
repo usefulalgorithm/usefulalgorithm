@@ -11,6 +11,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _Who Loves The Sun_, by Chat Pile
 - _American Dub Electronics_, by Various Artists
 - _you made me / skin on linen_, by PISS
 - _February's Album_, by Hysterical Love Project
