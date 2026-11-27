@@ -11,11 +11,11 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _Who Loves The Sun_, by Chat Pile
+- _You Have Taught Me Everything That I Know_, by Cowardice, Cementation Anxiety
+- _The Holy Bible Live_, by Manic Street Preachers
 - _American Dub Electronics_, by Various Artists
-- _you made me / skin on linen_, by PISS
-- _February's Album_, by Hysterical Love Project
 - _Birmingham City Council_, by Tony Bontana
+- _Who Loves The Sun_, by Chat Pile
 
 </details>
 
@@ -26,9 +26,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _you made me / skin on linen_, by PISS
 - _Birmingham City Council_, by Tony Bontana
 - _Snakes & Ladders_, by Armand Hammer, billy woods, E L U C I D
-- _From The Toolkit Of Lovers_, by Loidis
 - _theukhasmorefoodbanksthanbranchesofmcdonalds.com_, by Matthew Herbert
-- _URGH_, by Mandy, Indiana
+- _From The Toolkit Of Lovers_, by Loidis
 - _Muuntautuja_, by Oranssi Pazuzu
 - _Late Loop_, by Andy Stott
 - _you made me / skin on linen_, by PISS
@@ -37,7 +36,7 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Jazz dreams_, by Fine
 - _Radical Frame_, by Actress
 - _Steep Stims II_, by Clark
-- _TIGRAY FUNK_, by Sideshow
+- _URGH_, by Mandy, Indiana
 - _Aquemini_, by Outkast
 - _Quiet Storm_, by Space Afrika
 
