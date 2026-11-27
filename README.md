@@ -11,8 +11,8 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
-- _You Have Taught Me Everything That I Know_, by Cowardice, Cementation Anxiety
 - _The Holy Bible Live_, by Manic Street Preachers
+- _You Have Taught Me Everything That I Know_, by Cowardice, Cementation Anxiety
 - _American Dub Electronics_, by Various Artists
 - _Birmingham City Council_, by Tony Bontana
 - _Who Loves The Sun_, by Chat Pile
@@ -35,10 +35,9 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 - _Love's Arp_, by Dawuna
 - _Jazz dreams_, by Fine
 - _Radical Frame_, by Actress
-- _Steep Stims II_, by Clark
-- _URGH_, by Mandy, Indiana
 - _Aquemini_, by Outkast
-- _Quiet Storm_, by Space Afrika
+- _Steep Stims II_, by Clark
+- _Yyyyyyyy_, by Picture
 
 </details>
 
