@@ -11,11 +11,13 @@ I'm a software engineer from Taipei, Taiwan that mostly do backend & data relate
 <details>
 <summary>Albums I've been listening to recently:</summary>
 
+- _III_, by Sara Udon, CS + Kreme, KAKUHAN
+- _to accomplish many things_, by DJ Python
+- _Into the Boiling Darks_, by Rezzett
+- _Love's Arp_, by Dawuna
+- _you made me / skin on linen_, by PISS
 - _The Holy Bible Live_, by Manic Street Preachers
 - _You Have Taught Me Everything That I Know_, by Cowardice, Cementation Anxiety
-- _American Dub Electronics_, by Various Artists
-- _Birmingham City Council_, by Tony Bontana
-- _Who Loves The Sun_, by Chat Pile
 
 </details>
 
